@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents (1 week ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [alexislefebvre](https://github.com/alexislefebvre) (today)
 - [abdounikarim](https://github.com/abdounikarim) (1 day ago)
 - [airoude](https://github.com/airoude) (2 weeks ago)
 - [WhiteRabbitDE](https://github.com/WhiteRabbitDE) (2 weeks ago)
 - [TheCrealm](https://github.com/TheCrealm) (2 weeks ago)
-- [Orbitaleio](https://github.com/Orbitaleio) (4 weeks ago)
 
 #### 📫 How to reach me
 
