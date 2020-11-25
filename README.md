@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
-- [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
+- [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy (2 days ago)
 - [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents (1 week ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.13.9](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.13.9), today) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.0-RC2), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0-RC2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0-RC2), 3 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0-RC2](https://github.com/symfony/serializer/releases/tag/v5.2.0-RC2), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0-RC2](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0-RC2), 3 days ago) - Provides Doctrine integration for Symfony Messenger
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0-RC2](https://github.com/symfony/http-kernel/releases/tag/v5.2.0-RC2), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0-RC2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0-RC2), 3 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.0-RC2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.0-RC2), 3 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v5.2.0-RC2), 3 days ago) - The Symfony PHP framework
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0-rc.2](https://github.com/buraksezer/olric/releases/tag/v0.3.0-rc.2), 5 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.13.9](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.13.9), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.0-RC2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0-RC2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0-RC2), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0-RC2](https://github.com/symfony/serializer/releases/tag/v5.2.0-RC2), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0-RC2](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0-RC2), 4 days ago) - Provides Doctrine integration for Symfony Messenger
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0-RC2](https://github.com/symfony/http-kernel/releases/tag/v5.2.0-RC2), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0-RC2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0-RC2), 4 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.0-RC2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.0-RC2), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v5.2.0-RC2), 4 days ago) - The Symfony PHP framework
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0-rc.2](https://github.com/buraksezer/olric/releases/tag/v0.3.0-rc.2), 6 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 
 #### 📜 My recent blog posts
 
@@ -57,8 +57,8 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [alexislefebvre](https://github.com/alexislefebvre) (today)
-- [abdounikarim](https://github.com/abdounikarim) (1 day ago)
+- [alexislefebvre](https://github.com/alexislefebvre) (1 day ago)
+- [abdounikarim](https://github.com/abdounikarim) (2 days ago)
 - [airoude](https://github.com/airoude) (2 weeks ago)
 - [WhiteRabbitDE](https://github.com/WhiteRabbitDE) (2 weeks ago)
 - [TheCrealm](https://github.com/TheCrealm) (2 weeks ago)
