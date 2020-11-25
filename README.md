@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.13.9](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.13.9), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.0-RC2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0-RC2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0-RC2), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0-RC2](https://github.com/symfony/serializer/releases/tag/v5.2.0-RC2), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
