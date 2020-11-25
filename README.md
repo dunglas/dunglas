@@ -19,10 +19,10 @@
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
 - [dunglas/demo-postgres-listen-notify](https://github.com/dunglas/demo-postgres-listen-notify) - Demo of the PostgreSQL LISTEN/NOTIFY support in Symfony Messenger
 - [dunglas/demo-vulcain-api-platform](https://github.com/dunglas/demo-vulcain-api-platform) - Use API Platform with the Vulcain protocol and Varnish!
-- [dunglas/.github](https://github.com/dunglas/.github) - 
+- [dunglas/.github](https://github.com/dunglas/.github) - My GitHub files
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/workshop-mercure](https://github.com/dunglas/workshop-mercure) - 
-- [dunglas/workshop-panther](https://github.com/dunglas/workshop-panther) - 
+- [dunglas/workshop-mercure](https://github.com/dunglas/workshop-mercure) - Code produced during my Mercure workshop
+- [dunglas/workshop-panther](https://github.com/dunglas/workshop-panther) - Code produced during by Panther workshop
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [dunglas/uri-template-tester](https://github.com/dunglas/uri-template-tester) - Test if a URI matches a given URI template (RFC6570)
 
