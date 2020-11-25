@@ -30,7 +30,6 @@
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v0.11.0-beta.1), today) - Server-sent live updates: protocol and reference implementation
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.0-RC2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0-RC2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0-RC2), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0-RC2](https://github.com/symfony/serializer/releases/tag/v5.2.0-RC2), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0-RC2](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0-RC2), 4 days ago) - Provides Doctrine integration for Symfony Messenger
@@ -38,6 +37,7 @@
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0-RC2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0-RC2), 4 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.0-RC2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.0-RC2), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v5.2.0-RC2), 4 days ago) - The Symfony PHP framework
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0-rc.2](https://github.com/buraksezer/olric/releases/tag/v0.3.0-rc.2), 6 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 
 #### 📜 My recent blog posts
 
