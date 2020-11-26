@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 days ago)
 - [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy (3 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents (1 week ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.2.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.2.6), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.4.1](https://github.com/symfony/mercure/releases/tag/v0.4.1), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0](https://github.com/buraksezer/olric/releases/tag/v0.3.0), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v0.11.0-beta.1), 1 day ago) - Server-sent live updates: protocol and reference implementation
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
@@ -36,8 +38,6 @@
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0-RC2](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0-RC2), 5 days ago) - Provides Doctrine integration for Symfony Messenger
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0-RC2](https://github.com/symfony/http-kernel/releases/tag/v5.2.0-RC2), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0-RC2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0-RC2), 5 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.0-RC2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.0-RC2), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v5.2.0-RC2), 5 days ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
