@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0](https://github.com/buraksezer/olric/releases/tag/v0.3.0), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v0.11.0-beta.1), 1 day ago) - Server-sent live updates: protocol and reference implementation
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0-RC2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0-RC2), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -37,7 +38,6 @@
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0-RC2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0-RC2), 5 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.0-RC2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.0-RC2), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v5.2.0-RC2), 5 days ago) - The Symfony PHP framework
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0-rc.2](https://github.com/buraksezer/olric/releases/tag/v0.3.0-rc.2), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 
 #### 📜 My recent blog posts
 
