@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v3.4.47](https://github.com/symfony/symfony/releases/tag/v3.4.47), today) - The Symfony PHP framework
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v3.4.47](https://github.com/symfony/phpunit-bridge/releases/tag/v3.4.47), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v3.4.47](https://github.com/symfony/serializer/releases/tag/v3.4.47), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v3.4.47](https://github.com/symfony/http-kernel/releases/tag/v3.4.47), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v3.4.47](https://github.com/symfony/dom-crawler/releases/tag/v3.4.47), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v3.4.47](https://github.com/symfony/dependency-injection/releases/tag/v3.4.47), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.2.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.2.6), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.4.1](https://github.com/symfony/mercure/releases/tag/v0.4.1), 1 day ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0](https://github.com/buraksezer/olric/releases/tag/v0.3.0), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v0.11.0-beta.1), 2 days ago) - Server-sent live updates: protocol and reference implementation
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0-RC2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0-RC2), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0-RC2](https://github.com/symfony/serializer/releases/tag/v5.2.0-RC2), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0-RC2](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0-RC2), 6 days ago) - Provides Doctrine integration for Symfony Messenger
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0-RC2](https://github.com/symfony/http-kernel/releases/tag/v5.2.0-RC2), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0-RC2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0-RC2), 6 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 
 #### 📜 My recent blog posts
 
