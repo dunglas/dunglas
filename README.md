@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [coopTilleuls/CoopTilleulsMigrationBundle](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle) ([v1.1.3](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle/releases/tag/v1.1.3), today) - Provides basic features for continuous migration: it implements loaders &amp; transformers.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v3.4.47](https://github.com/symfony/symfony/releases/tag/v3.4.47), today) - The Symfony PHP framework
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v3.4.47](https://github.com/symfony/phpunit-bridge/releases/tag/v3.4.47), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v3.4.47](https://github.com/symfony/serializer/releases/tag/v3.4.47), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.2.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.2.6), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.4.1](https://github.com/symfony/mercure/releases/tag/v0.4.1), 1 day ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.0](https://github.com/buraksezer/olric/releases/tag/v0.3.0), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 
 #### 📜 My recent blog posts
 
