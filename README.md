@@ -41,11 +41,11 @@
 
 #### 📜 My recent blog posts
 
+- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (today)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (3 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (5 months ago)
 - [Say Hello to Mercure 0.10!](http://feedproxy.google.com/~r/dunglas/~3/fUSKFfOlt0c/) (5 months ago)
 - [Vulcain: HTTP/2 Server Push  and the rise of client-driven REST APIs](http://feedproxy.google.com/~r/dunglas/~3/bTejCgZupDo/) (1 year ago)
-- [Forum PHP 2019: Mercure – Real-Time for PHP Made Easy](http://feedproxy.google.com/~r/dunglas/~3/m0gIrJ3pgn4/) (1 year ago)
 
 #### 📓 Gists I wrote
 
