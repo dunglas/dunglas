@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), today) - Deliver Go binaries as fast and easily as possible
 - [coopTilleuls/CoopTilleulsMigrationBundle](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle) ([v1.1.3](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle/releases/tag/v1.1.3), 1 day ago) - Provides basic features for continuous migration: it implements loaders &amp; transformers.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v3.4.47](https://github.com/symfony/symfony/releases/tag/v3.4.47), 1 day ago) - The Symfony PHP framework
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v3.4.47](https://github.com/symfony/phpunit-bridge/releases/tag/v3.4.47), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -37,7 +38,6 @@
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v3.4.47](https://github.com/symfony/dependency-injection/releases/tag/v3.4.47), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.2.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.2.6), 2 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.4.1](https://github.com/symfony/mercure/releases/tag/v0.4.1), 2 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
