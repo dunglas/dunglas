@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.1.9](https://github.com/symfony/phpunit-bridge/releases/tag/v5.1.9), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.1.9](https://github.com/symfony/serializer/releases/tag/v5.1.9), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.1.9](https://github.com/symfony/doctrine-messenger/releases/tag/v5.1.9), today) - Provides Doctrine integration for Symfony Messenger
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.1.9](https://github.com/symfony/http-kernel/releases/tag/v5.1.9), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.1.9](https://github.com/symfony/dom-crawler/releases/tag/v5.1.9), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.1.9](https://github.com/symfony/dependency-injection/releases/tag/v5.1.9), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.1.9](https://github.com/symfony/symfony/releases/tag/v5.1.9), today) - The Symfony PHP framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [coopTilleuls/CoopTilleulsMigrationBundle](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle) ([v1.1.3](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle/releases/tag/v1.1.3), 2 days ago) - Provides basic features for continuous migration: it implements loaders &amp; transformers.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v3.4.47](https://github.com/symfony/symfony/releases/tag/v3.4.47), 2 days ago) - The Symfony PHP framework
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v3.4.47](https://github.com/symfony/phpunit-bridge/releases/tag/v3.4.47), 2 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v3.4.47](https://github.com/symfony/serializer/releases/tag/v3.4.47), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v3.4.47](https://github.com/symfony/http-kernel/releases/tag/v3.4.47), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v3.4.47](https://github.com/symfony/dom-crawler/releases/tag/v3.4.47), 2 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v3.4.47](https://github.com/symfony/dependency-injection/releases/tag/v3.4.47), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.2.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.2.6), 3 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
