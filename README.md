@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (3 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (3 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 days ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (5 days ago)
-- [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy (6 days ago)
-- [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents (1 week ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (4 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (5 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (6 days ago)
+- [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy (1 week ago)
+- [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.1.9](https://github.com/symfony/phpunit-bridge/releases/tag/v5.1.9), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.1.9](https://github.com/symfony/serializer/releases/tag/v5.1.9), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.1.9](https://github.com/symfony/doctrine-messenger/releases/tag/v5.1.9), today) - Provides Doctrine integration for Symfony Messenger
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.1.9](https://github.com/symfony/http-kernel/releases/tag/v5.1.9), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.1.9](https://github.com/symfony/dom-crawler/releases/tag/v5.1.9), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.1.9](https://github.com/symfony/dependency-injection/releases/tag/v5.1.9), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.1.9](https://github.com/symfony/symfony/releases/tag/v5.1.9), today) - The Symfony PHP framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [coopTilleuls/CoopTilleulsMigrationBundle](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle) ([v1.1.3](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle/releases/tag/v1.1.3), 2 days ago) - Provides basic features for continuous migration: it implements loaders &amp; transformers.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.1.9](https://github.com/symfony/phpunit-bridge/releases/tag/v5.1.9), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.1.9](https://github.com/symfony/serializer/releases/tag/v5.1.9), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.1.9](https://github.com/symfony/doctrine-messenger/releases/tag/v5.1.9), 1 day ago) - Provides Doctrine integration for Symfony Messenger
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.1.9](https://github.com/symfony/http-kernel/releases/tag/v5.1.9), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.1.9](https://github.com/symfony/dom-crawler/releases/tag/v5.1.9), 1 day ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.1.9](https://github.com/symfony/dependency-injection/releases/tag/v5.1.9), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.1.9](https://github.com/symfony/symfony/releases/tag/v5.1.9), 1 day ago) - The Symfony PHP framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [coopTilleuls/CoopTilleulsMigrationBundle](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle) ([v1.1.3](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle/releases/tag/v1.1.3), 3 days ago) - Provides basic features for continuous migration: it implements loaders &amp; transformers.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent blog posts
 
-- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (1 day ago)
+- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (2 days ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (3 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (5 months ago)
 - [Say Hello to Mercure 0.10!](http://feedproxy.google.com/~r/dunglas/~3/fUSKFfOlt0c/) (5 months ago)
@@ -57,8 +57,8 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [alexislefebvre](https://github.com/alexislefebvre) (5 days ago)
-- [abdounikarim](https://github.com/abdounikarim) (6 days ago)
+- [alexislefebvre](https://github.com/alexislefebvre) (6 days ago)
+- [abdounikarim](https://github.com/abdounikarim) (1 week ago)
 - [airoude](https://github.com/airoude) (3 weeks ago)
 - [WhiteRabbitDE](https://github.com/WhiteRabbitDE) (3 weeks ago)
 - [TheCrealm](https://github.com/TheCrealm) (3 weeks ago)
