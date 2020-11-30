@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), today) - The Symfony skeleton
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0](https://github.com/symfony/serializer/releases/tag/v5.2.0), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0), today) - Provides Doctrine integration for Symfony Messenger
@@ -37,7 +38,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0](https://github.com/symfony/symfony/releases/tag/v5.2.0), today) - The Symfony PHP framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [coopTilleuls/CoopTilleulsMigrationBundle](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle) ([v1.1.3](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle/releases/tag/v1.1.3), 3 days ago) - Provides basic features for continuous migration: it implements loaders &amp; transformers.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent blog posts
 
