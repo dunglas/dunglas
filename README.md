@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), today) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), today) - The Symfony skeleton
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0](https://github.com/symfony/serializer/releases/tag/v5.2.0), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.0](https://github.com/symfony/dependency-injection/releases/tag/v5.2.0), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0](https://github.com/symfony/symfony/releases/tag/v5.2.0), today) - The Symfony PHP framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [coopTilleuls/CoopTilleulsMigrationBundle](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle) ([v1.1.3](https://github.com/coopTilleuls/CoopTilleulsMigrationBundle/releases/tag/v1.1.3), 3 days ago) - Provides basic features for continuous migration: it implements loaders &amp; transformers.
 
 #### 📜 My recent blog posts
 
