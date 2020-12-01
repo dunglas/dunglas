@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), today) - Integrating Prophecy in PHPUnit test cases
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), today) - Deliver Go binaries as fast and easily as possible
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), 1 day ago) - The Symfony skeleton
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0](https://github.com/symfony/http-kernel/releases/tag/v5.2.0), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0), 1 day ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.0](https://github.com/symfony/dependency-injection/releases/tag/v5.2.0), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0](https://github.com/symfony/symfony/releases/tag/v5.2.0), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
