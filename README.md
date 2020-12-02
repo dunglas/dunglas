@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.5.8](https://github.com/api-platform/core/releases/tag/v2.5.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), today) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 1 day ago) - Laravel broadcaster for Mercure
 - [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), 1 day ago) - Integrating Prophecy in PHPUnit test cases
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
@@ -37,7 +38,6 @@
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), 2 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0](https://github.com/symfony/serializer/releases/tag/v5.2.0), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0), 2 days ago) - Provides Doctrine integration for Symfony Messenger
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0](https://github.com/symfony/http-kernel/releases/tag/v5.2.0), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent blog posts
 
