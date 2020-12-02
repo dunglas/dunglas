@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (today)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (1 day ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (2 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (5 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (6 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (today)
+- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (2 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (3 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (6 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), today) - Laravel broadcaster for Mercure
-- [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), today) - Integrating Prophecy in PHPUnit test cases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), today) - Deliver Go binaries as fast and easily as possible
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
-- [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), 1 day ago) - The Symfony skeleton
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0](https://github.com/symfony/serializer/releases/tag/v5.2.0), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0), 1 day ago) - Provides Doctrine integration for Symfony Messenger
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0](https://github.com/symfony/http-kernel/releases/tag/v5.2.0), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0), 1 day ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 1 day ago) - Laravel broadcaster for Mercure
+- [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), 1 day ago) - Integrating Prophecy in PHPUnit test cases
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), 2 days ago) - The Symfony skeleton
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), 2 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0](https://github.com/symfony/serializer/releases/tag/v5.2.0), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.0](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.0), 2 days ago) - Provides Doctrine integration for Symfony Messenger
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.0](https://github.com/symfony/http-kernel/releases/tag/v5.2.0), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.0](https://github.com/symfony/dom-crawler/releases/tag/v5.2.0), 2 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 
 #### 📜 My recent blog posts
 
-- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (3 days ago)
+- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (4 days ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (3 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (5 months ago)
 - [Say Hello to Mercure 0.10!](http://feedproxy.google.com/~r/dunglas/~3/fUSKFfOlt0c/) (5 months ago)
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [davidgorges](https://github.com/davidgorges) (today)
+- [davidgorges](https://github.com/davidgorges) (1 day ago)
 - [alexislefebvre](https://github.com/alexislefebvre) (1 week ago)
 - [abdounikarim](https://github.com/abdounikarim) (1 week ago)
 - [airoude](https://github.com/airoude) (3 weeks ago)
