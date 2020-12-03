@@ -41,11 +41,11 @@
 
 #### 📜 My recent blog posts
 
+- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (today)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (5 days ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (3 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (5 months ago)
 - [Say Hello to Mercure 0.10!](http://feedproxy.google.com/~r/dunglas/~3/fUSKFfOlt0c/) (5 months ago)
-- [Vulcain: HTTP/2 Server Push  and the rise of client-driven REST APIs](http://feedproxy.google.com/~r/dunglas/~3/bTejCgZupDo/) (1 year ago)
 
 #### 📓 Gists I wrote
 
