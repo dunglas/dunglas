@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [sroze](https://github.com/sroze) (today)
+- [andreaswarnaar](https://github.com/andreaswarnaar) (today)
 - [davidgorges](https://github.com/davidgorges) (2 days ago)
 - [alexislefebvre](https://github.com/alexislefebvre) (1 week ago)
 - [abdounikarim](https://github.com/abdounikarim) (1 week ago)
-- [airoude](https://github.com/airoude) (4 weeks ago)
-- [WhiteRabbitDE](https://github.com/WhiteRabbitDE) (4 weeks ago)
 
 #### 📫 How to reach me
 
