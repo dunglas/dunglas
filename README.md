@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.1](https://github.com/buraksezer/olric/releases/tag/v0.3.1), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 2 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 3 days ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -37,7 +38,6 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 5 days ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), 5 days ago) - The Symfony skeleton
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.0](https://github.com/symfony/serializer/releases/tag/v5.2.0), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent blog posts
 
