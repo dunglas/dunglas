@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (2 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 days ago)
-- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (5 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (3 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 days ago)
+- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (6 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
 
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.1](https://github.com/buraksezer/olric/releases/tag/v0.3.1), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 2 days ago) - Apache Pulsar - distributed pub-sub messaging system
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 3 days ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 4 days ago) - Laravel broadcaster for Mercure
-- [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), 4 days ago) - Integrating Prophecy in PHPUnit test cases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 5 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), 5 days ago) - The Symfony skeleton
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.1](https://github.com/buraksezer/olric/releases/tag/v0.3.1), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 4 days ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 5 days ago) - Laravel broadcaster for Mercure
+- [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), 5 days ago) - Integrating Prophecy in PHPUnit test cases
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 6 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), 6 days ago) - The Symfony skeleton
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
-- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (2 days ago)
+- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (3 days ago)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (1 week ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (3 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (5 months ago)
@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (today)
+- [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (1 day ago)
 - [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (6 months ago)
 - [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (6 months ago)
 - [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (6 months ago)
@@ -57,10 +57,10 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jraller](https://github.com/jraller) (2 days ago)
-- [sroze](https://github.com/sroze) (2 days ago)
-- [andreaswarnaar](https://github.com/andreaswarnaar) (2 days ago)
-- [davidgorges](https://github.com/davidgorges) (4 days ago)
+- [jraller](https://github.com/jraller) (3 days ago)
+- [sroze](https://github.com/sroze) (3 days ago)
+- [andreaswarnaar](https://github.com/andreaswarnaar) (3 days ago)
+- [davidgorges](https://github.com/davidgorges) (5 days ago)
 - [alexislefebvre](https://github.com/alexislefebvre) (1 week ago)
 
 #### 📫 How to reach me
