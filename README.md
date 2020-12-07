@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), today) - Go library for the Cloudflare v4 API
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.1](https://github.com/buraksezer/olric/releases/tag/v0.3.1), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 5 days ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
@@ -37,7 +38,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/skeleton](https://github.com/symfony/skeleton) ([v5.2.99](https://github.com/symfony/skeleton/releases/tag/v5.2.99), 1 week ago) - The Symfony skeleton
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.0), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
