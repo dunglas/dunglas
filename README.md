@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.2](https://github.com/buraksezer/olric/releases/tag/v0.3.2), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), today) - Open Source eCommerce Platform on Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 2 days ago) - Go library for the Cloudflare v4 API
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.1](https://github.com/buraksezer/olric/releases/tag/v0.3.1), 4 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 1 week ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
