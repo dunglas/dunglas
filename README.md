@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lead4good/lamp-helm-repository](https://github.com/lead4good/lamp-helm-repository) -  (1 day ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (3 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 days ago)
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (4 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (5 days ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (5 days ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (6 days ago)
+- [lead4good/lamp-helm-repository](https://github.com/lead4good/lamp-helm-repository) -  (2 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 days ago)
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (5 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (6 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (6 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 week ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.3](https://github.com/buraksezer/olric/releases/tag/v0.3.3), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), 2 days ago) - Open Source eCommerce Platform on Symfony
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 4 days ago) - Go library for the Cloudflare v4 API
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.3](https://github.com/buraksezer/olric/releases/tag/v0.3.3), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), 3 days ago) - Open Source eCommerce Platform on Symfony
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 5 days ago) - Go library for the Cloudflare v4 API
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 1 week ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -42,14 +42,14 @@
 #### 📜 My recent blog posts
 
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (1 week ago)
-- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (1 week ago)
+- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (2 weeks ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (3 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (5 months ago)
 - [Say Hello to Mercure 0.10!](http://feedproxy.google.com/~r/dunglas/~3/fUSKFfOlt0c/) (5 months ago)
 
 #### 📓 Gists I wrote
 
-- [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (6 days ago)
+- [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (1 week ago)
 - [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (6 months ago)
 - [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (6 months ago)
 - [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (6 months ago)
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [rhpaiva](https://github.com/rhpaiva) (3 days ago)
+- [rhpaiva](https://github.com/rhpaiva) (4 days ago)
 - [jraller](https://github.com/jraller) (1 week ago)
 - [sroze](https://github.com/sroze) (1 week ago)
 - [andreaswarnaar](https://github.com/andreaswarnaar) (1 week ago)
