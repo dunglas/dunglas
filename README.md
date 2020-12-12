@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-rc.1), today) - Fast, multi-platform web server with automatic HTTPS
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.3](https://github.com/buraksezer/olric/releases/tag/v0.3.3), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), 3 days ago) - Open Source eCommerce Platform on Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 5 days ago) - Go library for the Cloudflare v4 API
@@ -37,7 +38,6 @@
 - [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 1 week ago) - Laravel broadcaster for Mercure
 - [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), 1 week ago) - Integrating Prophecy in PHPUnit test cases
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-beta.1), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
 
 #### 📜 My recent blog posts
 
