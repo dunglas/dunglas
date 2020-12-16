@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.1), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.2), today) - Contains Helm charts for Kubernetes related open source tools
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-rc.1), 4 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.3](https://github.com/buraksezer/olric/releases/tag/v0.3.3), 5 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 1 week ago) - Go library for the Cloudflare v4 API
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
@@ -37,7 +38,6 @@
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 2 weeks ago) - Laravel broadcaster for Mercure
 - [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), 2 weeks ago) - Integrating Prophecy in PHPUnit test cases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent blog posts
 
