@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-beta.1), today) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-beta.1](https://github.com/api-platform/core/releases/tag/v2.6.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.11.0-beta.2), today) - Server-sent live updates: protocol and reference implementation
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.1), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
@@ -36,7 +37,6 @@
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 1 week ago) - Go library for the Cloudflare v4 API
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 2 weeks ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 2 weeks ago) - Laravel broadcaster for Mercure
 
 #### 📜 My recent blog posts
