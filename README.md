@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [lead4good/lamp-helm-repository](https://github.com/lead4good/lamp-helm-repository) -  (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [lead4good/lamp-helm-repository](https://github.com/lead4good/lamp-helm-repository) -  (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) - The OpenTelemetry PHP Library (1 week ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.1), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.2), today) - Contains Helm charts for Kubernetes related open source tools
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-rc.1), 4 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.1), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-rc.1), 5 days ago) - Fast, multi-platform web server with automatic HTTPS
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 1 week ago) - Go library for the Cloudflare v4 API
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-alpha.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-alpha.1), 2 weeks ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-alpha.1](https://github.com/api-platform/core/releases/tag/v2.6.0-alpha.1), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 2 weeks ago) - Laravel broadcaster for Mercure
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (1 week ago)
+- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (2 weeks ago)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (2 weeks ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (3 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (5 months ago)
@@ -58,9 +58,9 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [rhpaiva](https://github.com/rhpaiva) (1 week ago)
-- [jraller](https://github.com/jraller) (1 week ago)
-- [sroze](https://github.com/sroze) (1 week ago)
-- [andreaswarnaar](https://github.com/andreaswarnaar) (1 week ago)
+- [jraller](https://github.com/jraller) (2 weeks ago)
+- [sroze](https://github.com/sroze) (2 weeks ago)
+- [andreaswarnaar](https://github.com/andreaswarnaar) (2 weeks ago)
 - [davidgorges](https://github.com/davidgorges) (2 weeks ago)
 
 #### 📫 How to reach me
