@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.1](https://github.com/symfony/serializer/releases/tag/v5.2.1), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.1](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.1), today) - Provides Doctrine integration for Symfony Messenger
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.1](https://github.com/symfony/http-kernel/releases/tag/v5.2.1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.1](https://github.com/symfony/dom-crawler/releases/tag/v5.2.1), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.1](https://github.com/symfony/dependency-injection/releases/tag/v5.2.1), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), today) - The Symfony PHP framework
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.3), today) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-beta.1), 1 day ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-beta.1](https://github.com/api-platform/core/releases/tag/v2.6.0-beta.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.11.0-beta.2), 1 day ago) - Server-sent live updates: protocol and reference implementation
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.1), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.3.0-rc.1), 6 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.6](https://github.com/Sylius/Sylius/releases/tag/v1.8.6), 1 week ago) - Open Source eCommerce Platform on Symfony
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.6](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.6), 1 week ago) - Go library for the Cloudflare v4 API
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.0](https://github.com/apache/pulsar/releases/tag/v2.7.0), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
-- [mvanduijker/laravel-mercure-broadcaster](https://github.com/mvanduijker/laravel-mercure-broadcaster) ([3.2.0](https://github.com/mvanduijker/laravel-mercure-broadcaster/releases/tag/3.2.0), 2 weeks ago) - Laravel broadcaster for Mercure
 
 #### 📜 My recent blog posts
 
@@ -49,11 +49,11 @@
 
 #### 📓 Gists I wrote
 
+- [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (today)
 - [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (1 week ago)
 - [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (6 months ago)
 - [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (6 months ago)
 - [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (6 months ago)
-- [URI Template test in C#](https://gist.github.com/ab8bb780387e6bad2f905dea60bd68d8) (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
