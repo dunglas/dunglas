@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
+- [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.1](https://github.com/symfony/serializer/releases/tag/v5.2.1), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.1](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.1), 6 days ago) - Provides Doctrine integration for Symfony Messenger
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.1](https://github.com/symfony/http-kernel/releases/tag/v5.2.1), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.1](https://github.com/symfony/dom-crawler/releases/tag/v5.2.1), 6 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.1](https://github.com/symfony/dependency-injection/releases/tag/v5.2.1), 6 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 6 days ago) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.1](https://github.com/symfony/serializer/releases/tag/v5.2.1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.1](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.1), 1 week ago) - Provides Doctrine integration for Symfony Messenger
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.1](https://github.com/symfony/http-kernel/releases/tag/v5.2.1), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.1](https://github.com/symfony/dom-crawler/releases/tag/v5.2.1), 1 week ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.1](https://github.com/symfony/dependency-injection/releases/tag/v5.2.1), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 1 week ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-beta.1), 1 week ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 
 #### 📜 My recent blog posts
@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (6 days ago)
+- [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (1 week ago)
 - [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (2 weeks ago)
 - [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (7 months ago)
 - [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (7 months ago)
