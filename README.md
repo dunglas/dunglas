@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [divine](https://github.com/divine) (today)
 - [rhpaiva](https://github.com/rhpaiva) (2 weeks ago)
 - [jraller](https://github.com/jraller) (3 weeks ago)
 - [sroze](https://github.com/sroze) (3 weeks ago)
 - [andreaswarnaar](https://github.com/andreaswarnaar) (3 weeks ago)
-- [davidgorges](https://github.com/davidgorges) (3 weeks ago)
 
 #### 📫 How to reach me
 
