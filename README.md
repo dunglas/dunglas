@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), today) - A browser testing and web crawling library for PHP and Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 6 days ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -37,7 +38,6 @@
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.1](https://github.com/symfony/dom-crawler/releases/tag/v5.2.1), 1 week ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.1](https://github.com/symfony/dependency-injection/releases/tag/v5.2.1), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 1 week ago) - The Symfony PHP framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-beta.1), 1 week ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 
 #### 📜 My recent blog posts
 
