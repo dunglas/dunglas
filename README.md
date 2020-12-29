@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.0), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), today) - A browser testing and web crawling library for PHP and Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 6 days ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.1](https://github.com/symfony/http-kernel/releases/tag/v5.2.1), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.1](https://github.com/symfony/dom-crawler/releases/tag/v5.2.1), 1 week ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.1](https://github.com/symfony/dependency-injection/releases/tag/v5.2.1), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
