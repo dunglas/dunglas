@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations (today)
-- [dunglas/DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for JavaScript apps using a Symfony API (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (today)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
+- [dunglas/phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations (1 day ago)
+- [dunglas/DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for JavaScript apps using a Symfony API (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (1 day ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 5 days ago) - Open Source eCommerce Platform on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 6 days ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.1](https://github.com/symfony/serializer/releases/tag/v5.2.1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -57,8 +57,8 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [divine](https://github.com/divine) (2 days ago)
-- [rhpaiva](https://github.com/rhpaiva) (2 weeks ago)
+- [divine](https://github.com/divine) (3 days ago)
+- [rhpaiva](https://github.com/rhpaiva) (3 weeks ago)
 - [jraller](https://github.com/jraller) (3 weeks ago)
 - [sroze](https://github.com/sroze) (3 weeks ago)
 - [andreaswarnaar](https://github.com/andreaswarnaar) (3 weeks ago)
