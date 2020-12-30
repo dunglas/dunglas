@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.1), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
