@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 day ago)
-- [dunglas/phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations (2 days ago)
-- [dunglas/DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for JavaScript apps using a Symfony API (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (2 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 days ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 days ago)
+- [dunglas/phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations (3 days ago)
+- [dunglas/DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for JavaScript apps using a Symfony API (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (3 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (4 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (5 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.1), today) - Deliver Go binaries as fast and easily as possible
-- [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), 2 days ago) - A browser testing and web crawling library for PHP and Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (3 weeks ago)
+- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (4 weeks ago)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (1 month ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (4 months ago)
 - [Save the Web: Decentralize!](http://feedproxy.google.com/~r/dunglas/~3/sqGQq6DaW2s/) (6 months ago)
@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [divine](https://github.com/divine) (4 days ago)
+- [divine](https://github.com/divine) (5 days ago)
 - [rhpaiva](https://github.com/rhpaiva) (3 weeks ago)
-- [jraller](https://github.com/jraller) (3 weeks ago)
-- [sroze](https://github.com/sroze) (3 weeks ago)
-- [andreaswarnaar](https://github.com/andreaswarnaar) (3 weeks ago)
+- [jraller](https://github.com/jraller) (4 weeks ago)
+- [sroze](https://github.com/sroze) (4 weeks ago)
+- [andreaswarnaar](https://github.com/andreaswarnaar) (4 weeks ago)
 
 #### 📫 How to reach me
 
