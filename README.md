@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (today)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (4 days ago)
-- [dunglas/phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations (5 days ago)
-- [dunglas/DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for JavaScript apps using a Symfony API (5 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (6 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (1 day ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (5 days ago)
+- [dunglas/DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for JavaScript apps using a Symfony API (6 days ago)
+- [dunglas/phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations (6 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0](https://github.com/caddyserver/caddy/releases/tag/v2.3.0), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.151.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.151.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), 4 days ago) - A browser testing and web crawling library for PHP and Symfony
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0](https://github.com/caddyserver/caddy/releases/tag/v2.3.0), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.151.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.151.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), 5 days ago) - A browser testing and web crawling library for PHP and Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.4), 2 weeks ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), 2 weeks ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -57,8 +57,8 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [zairigimad](https://github.com/zairigimad) (2 days ago)
-- [AlexisJC](https://github.com/AlexisJC) (2 days ago)
+- [zairigimad](https://github.com/zairigimad) (3 days ago)
+- [AlexisJC](https://github.com/AlexisJC) (3 days ago)
 - [divine](https://github.com/divine) (1 week ago)
 - [rhpaiva](https://github.com/rhpaiva) (3 weeks ago)
 - [jraller](https://github.com/jraller) (1 month ago)
