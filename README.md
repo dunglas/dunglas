@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.153.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.153.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), today) - Deliver Go binaries as fast and easily as possible
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-rc.2](https://github.com/dunglas/mercure/releases/tag/v0.11.0-rc.2), 2 days ago) - Server-sent live updates: protocol and reference implementation
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.7](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.7), 3 days ago) - Go library for the Cloudflare v4 API
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.3.0](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.3.0), 4 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
