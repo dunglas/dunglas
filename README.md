@@ -4,14 +4,14 @@
 
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (3 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (3 days ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (4 days ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (5 days ago)
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) - The HttpFoundation component defines an object-oriented layer for the HTTP specification. (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-rc.3](https://github.com/dunglas/mercure/releases/tag/v0.11.0-rc.3), today) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-rc.2](https://github.com/dunglas/mercure/releases/tag/v0.11.0-rc.2), 3 days ago) - Server-sent live updates: protocol and reference implementation
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.7](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.7), 4 days ago) - Go library for the Cloudflare v4 API
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.3.0](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.3.0), 5 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0](https://github.com/caddyserver/caddy/releases/tag/v2.3.0), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
