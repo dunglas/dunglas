@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.1), today) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.5), today) - Contains Helm charts for Kubernetes related open source tools
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-rc.3](https://github.com/dunglas/mercure/releases/tag/v0.11.0-rc.3), 3 days ago) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
@@ -35,7 +36,6 @@
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.3.0](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.3.0), 1 week ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0](https://github.com/caddyserver/caddy/releases/tag/v2.3.0), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/panther](https://github.com/symfony/panther) ([v0.9.0](https://github.com/symfony/panther/releases/tag/v0.9.0), 1 week ago) - A browser testing and web crawling library for PHP and Symfony
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.7](https://github.com/Sylius/Sylius/releases/tag/v1.8.7), 2 weeks ago) - Open Source eCommerce Platform on Symfony
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.1](https://github.com/symfony/framework-bundle/releases/tag/v5.2.1), 3 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.1), 3 weeks ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
