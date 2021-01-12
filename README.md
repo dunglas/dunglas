@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [andrekutianski](https://github.com/andrekutianski) (today)
 - [zairigimad](https://github.com/zairigimad) (1 week ago)
 - [AlexisJC](https://github.com/AlexisJC) (1 week ago)
 - [divine](https://github.com/divine) (2 weeks ago)
 - [rhpaiva](https://github.com/rhpaiva) (1 month ago)
-- [jraller](https://github.com/jraller) (1 month ago)
 
 #### 📫 How to reach me
 
