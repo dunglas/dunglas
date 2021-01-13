@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (2 days ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (4 days ago)
-- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (4 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (3 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (5 days ago)
+- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (5 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 week ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.1), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.5), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-rc.3](https://github.com/dunglas/mercure/releases/tag/v0.11.0-rc.3), 4 days ago) - Server-sent live updates: protocol and reference implementation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.1), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.5), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0-rc.3](https://github.com/dunglas/mercure/releases/tag/v0.11.0-rc.3), 5 days ago) - Server-sent live updates: protocol and reference implementation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.7](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.7), 1 week ago) - Go library for the Cloudflare v4 API
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.3.0](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.3.0), 1 week ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0](https://github.com/caddyserver/caddy/releases/tag/v2.3.0), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [andrekutianski](https://github.com/andrekutianski) (today)
+- [andrekutianski](https://github.com/andrekutianski) (1 day ago)
 - [zairigimad](https://github.com/zairigimad) (1 week ago)
 - [AlexisJC](https://github.com/AlexisJC) (1 week ago)
 - [divine](https://github.com/divine) (2 weeks ago)
