@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Turbo gives you the speed of a single-page web application without having to write any JavaScript. (2 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (3 days ago)
@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [GrandOurs35](https://github.com/GrandOurs35) (today)
 - [andrekutianski](https://github.com/andrekutianski) (1 day ago)
 - [zairigimad](https://github.com/zairigimad) (1 week ago)
 - [AlexisJC](https://github.com/AlexisJC) (1 week ago)
 - [divine](https://github.com/divine) (2 weeks ago)
-- [rhpaiva](https://github.com/rhpaiva) (1 month ago)
 
 #### 📫 How to reach me
 
