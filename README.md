@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Turbo gives you the speed of a single-page web application without having to write any JavaScript. (1 week ago)
