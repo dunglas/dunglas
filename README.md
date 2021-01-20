@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (1 week ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Turbo gives you the speed of a single-page web application without having to write any JavaScript. (1 week ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), today) - Server-sent live updates: protocol and reference implementation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 1 day ago) - Server-sent live updates: protocol and reference implementation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.1), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.5), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
@@ -51,13 +51,13 @@
 
 - [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (1 month ago)
 - [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (1 month ago)
-- [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (7 months ago)
-- [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (7 months ago)
-- [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (7 months ago)
+- [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (8 months ago)
+- [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (8 months ago)
+- [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [GrandOurs35](https://github.com/GrandOurs35) (6 days ago)
+- [GrandOurs35](https://github.com/GrandOurs35) (1 week ago)
 - [andrekutianski](https://github.com/andrekutianski) (1 week ago)
 - [zairigimad](https://github.com/zairigimad) (2 weeks ago)
 - [AlexisJC](https://github.com/AlexisJC) (2 weeks ago)
