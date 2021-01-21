@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (1 week ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [dunglas/panther-legacy](https://github.com/dunglas/panther-legacy) - Legacy releases of symfony/panther (including old versions of ChromeDriver and Geckodriver) (1 week ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), today) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 1 day ago) - Server-sent live updates: protocol and reference implementation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 2 days ago) - Server-sent live updates: protocol and reference implementation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.1), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.5), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
@@ -59,8 +59,8 @@
 
 - [GrandOurs35](https://github.com/GrandOurs35) (1 week ago)
 - [andrekutianski](https://github.com/andrekutianski) (1 week ago)
-- [zairigimad](https://github.com/zairigimad) (2 weeks ago)
-- [AlexisJC](https://github.com/AlexisJC) (2 weeks ago)
+- [zairigimad](https://github.com/zairigimad) (3 weeks ago)
+- [AlexisJC](https://github.com/AlexisJC) (3 weeks ago)
 - [divine](https://github.com/divine) (3 weeks ago)
 
 #### 📫 How to reach me
