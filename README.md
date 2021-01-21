@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.6), today) - Contains Helm charts for Kubernetes related open source tools
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.2), today) - Open Source eCommerce Platform on Symfony
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 2 days ago) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.5), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.7](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.7), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.3.0](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.3.0), 2 weeks ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.3.0](https://github.com/caddyserver/caddy/releases/tag/v2.3.0), 2 weeks ago) - Fast, multi-platform web server with automatic HTTPS
