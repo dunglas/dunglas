@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (2 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (1 week ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [dunglas/panther-legacy](https://github.com/dunglas/panther-legacy) - Legacy releases of symfony/panther (including old versions of ChromeDriver and Geckodriver) (1 week ago)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) - Turbo gives you the speed of a single-page web application without having to write any JavaScript. (1 week ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (1 week ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.5.10](https://github.com/api-platform/core/releases/tag/v2.5.10), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.0](https://github.com/api-platform/core/releases/tag/v2.6.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.7), today) - Contains Helm charts for Kubernetes related open source tools
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.2), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
