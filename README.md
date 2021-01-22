@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.6), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.7), today) - Contains Helm charts for Kubernetes related open source tools
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.2), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 3 days ago) - Server-sent live updates: protocol and reference implementation
