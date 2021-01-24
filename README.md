@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (1 day ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (2 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (1 week ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.6.0](https://github.com/api-platform/client-generator/releases/tag/v0.6.0), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.0](https://github.com/api-platform/core/releases/tag/v2.6.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.7), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.2), 2 days ago) - Open Source eCommerce Platform on Symfony
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 3 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 4 days ago) - Server-sent live updates: protocol and reference implementation
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.6.0](https://github.com/api-platform/client-generator/releases/tag/v0.6.0), 2 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.0](https://github.com/api-platform/core/releases/tag/v2.6.0), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.7), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.2), 3 days ago) - Open Source eCommerce Platform on Symfony
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 4 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 5 days ago) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.7](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.7), 2 weeks ago) - Go library for the Cloudflare v4 API
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.3.0](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.3.0), 2 weeks ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.3.0](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.3.0), 3 weeks ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 
 #### 📜 My recent blog posts
 
-- [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (2 days ago)
+- [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (3 days ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (1 month ago)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (1 month ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (5 months ago)
