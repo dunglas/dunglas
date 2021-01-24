@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (today)
+- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (2 days ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (2 days ago)
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (4 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0](https://github.com/api-platform/api-platform/releases/tag/v2.6.0), today) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.1), today) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.1](https://github.com/api-platform/core/releases/tag/v2.6.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.6.0](https://github.com/api-platform/client-generator/releases/tag/v0.6.0), 2 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.0](https://github.com/api-platform/core/releases/tag/v2.6.0), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.7), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.2), 3 days ago) - Open Source eCommerce Platform on Symfony
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 4 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
