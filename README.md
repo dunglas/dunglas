@@ -6,7 +6,7 @@
 - [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (1 day ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 - [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (1 day ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.1), 1 day ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.1), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.1](https://github.com/api-platform/core/releases/tag/v2.6.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.6.0](https://github.com/api-platform/client-generator/releases/tag/v0.6.0), 3 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.7), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
