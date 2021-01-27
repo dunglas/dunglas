@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (today)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (1 day ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (3 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (3 days ago)
 - [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (3 days ago)
+- [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (3 days ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (5 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.2), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.1), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.1](https://github.com/api-platform/core/releases/tag/v2.6.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.6.0](https://github.com/api-platform/client-generator/releases/tag/v0.6.0), 5 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
@@ -37,7 +38,6 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 1 week ago) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), 2 weeks ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.7](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.7), 3 weeks ago) - Go library for the Cloudflare v4 API
 
 #### 📜 My recent blog posts
 
