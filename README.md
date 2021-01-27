@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.2), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.2](https://github.com/symfony/serializer/releases/tag/v5.2.2), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) ([v5.2.2](https://github.com/symfony/doctrine-messenger/releases/tag/v5.2.2), today) - Provides Doctrine integration for Symfony Messenger
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.2](https://github.com/symfony/http-kernel/releases/tag/v5.2.2), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.2](https://github.com/symfony/http-foundation/releases/tag/v5.2.2), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.2), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.2), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), today) - The Symfony PHP framework
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.2), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.1), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.1](https://github.com/api-platform/core/releases/tag/v2.6.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.6.0](https://github.com/api-platform/client-generator/releases/tag/v0.6.0), 5 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.7), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-ALPHA.2), 6 days ago) - Open Source eCommerce Platform on Symfony
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v3.0.0](https://github.com/api-platform/schema-generator/releases/tag/v3.0.0), 1 week ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.0](https://github.com/dunglas/mercure/releases/tag/v0.11.0), 1 week ago) - Server-sent live updates: protocol and reference implementation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.4](https://github.com/buraksezer/olric/releases/tag/v0.3.4), 2 weeks ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 
 #### 📜 My recent blog posts
 
