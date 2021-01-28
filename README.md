@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
-- [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (3 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (3 days ago)
-- [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (3 days ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (5 days ago)
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
+- [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (4 days ago)
+- [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (4 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.8](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.8), today) - Go library for the Cloudflare v4 API
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.2), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.2](https://github.com/symfony/serializer/releases/tag/v5.2.2), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.2](https://github.com/symfony/http-kernel/releases/tag/v5.2.2), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.2](https://github.com/symfony/http-foundation/releases/tag/v5.2.2), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.2), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.2), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), today) - The Symfony PHP framework
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.2), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.8](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.8), 1 day ago) - Go library for the Cloudflare v4 API
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.2), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.2](https://github.com/symfony/serializer/releases/tag/v5.2.2), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.2](https://github.com/symfony/http-kernel/releases/tag/v5.2.2), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.2](https://github.com/symfony/http-foundation/releases/tag/v5.2.2), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.2), 1 day ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.2), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), 1 day ago) - The Symfony PHP framework
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.2), 2 days ago) - Use the FOSHttpCache library in your Symfony projects
 
 #### 📜 My recent blog posts
 
-- [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (6 days ago)
+- [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (1 week ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (1 month ago)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (2 months ago)
 - [A Structured HTTP Fields Parser and Serializer for the Go Programming Language](http://feedproxy.google.com/~r/dunglas/~3/ZbYscZI8Qx8/) (5 months ago)
@@ -59,8 +59,8 @@
 
 - [GrandOurs35](https://github.com/GrandOurs35) (2 weeks ago)
 - [andrekutianski](https://github.com/andrekutianski) (2 weeks ago)
-- [zairigimad](https://github.com/zairigimad) (3 weeks ago)
-- [AlexisJC](https://github.com/AlexisJC) (3 weeks ago)
+- [zairigimad](https://github.com/zairigimad) (4 weeks ago)
+- [AlexisJC](https://github.com/AlexisJC) (4 weeks ago)
 - [divine](https://github.com/divine) (1 month ago)
 
 #### 📫 How to reach me
