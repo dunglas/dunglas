@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.9](https://github.com/Sylius/Sylius/releases/tag/v1.8.9), today) - Open Source eCommerce Platform on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.1), today) - Open Source eCommerce Platform on Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.8](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.8), 5 days ago) - Go library for the Cloudflare v4 API
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.2), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.2), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
