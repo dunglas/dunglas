@@ -8,10 +8,10 @@
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) - Collection of Varnish Cache modules (vmods) by Varnish Software (6 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
-- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (1 week ago)
 - [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (1 week ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 
 #### 🌱 My latest projects
 
