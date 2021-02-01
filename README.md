@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.8.9](https://github.com/Sylius/Sylius/releases/tag/v1.8.9), today) - Open Source eCommerce Platform on Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.8](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.8), 5 days ago) - Go library for the Cloudflare v4 API
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.2), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.2), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -37,7 +38,6 @@
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.2), 5 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.2), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), 5 days ago) - The Symfony PHP framework
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.2), 6 days ago) - Use the FOSHttpCache library in your Symfony projects
 
 #### 📜 My recent blog posts
 
