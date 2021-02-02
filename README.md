@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (6 days ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (1 week ago)
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) - Collection of Varnish Cache modules (vmods) by Varnish Software (1 week ago)
