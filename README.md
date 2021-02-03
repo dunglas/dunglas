@@ -5,10 +5,10 @@
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (1 week ago)
-- [varnish/varnish-modules](https://github.com/varnish/varnish-modules) - Collection of Varnish Cache modules (vmods) by Varnish Software (1 week ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (1 week ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
+- [varnish/varnish-modules](https://github.com/varnish/varnish-modules) - Collection of Varnish Cache modules (vmods) by Varnish Software (1 week ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (1 week ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/panther](https://github.com/symfony/panther) ([v1.0.0](https://github.com/symfony/panther/releases/tag/v1.0.0), today) - A browser testing and web crawling library for PHP and Symfony
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.8), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.3](https://github.com/symfony/framework-bundle/releases/tag/v5.2.3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.3), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.3](https://github.com/symfony/serializer/releases/tag/v5.2.3), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -36,8 +38,6 @@
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.3](https://github.com/symfony/dom-crawler/releases/tag/v5.2.3), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.3](https://github.com/symfony/dependency-injection/releases/tag/v5.2.3), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), today) - The Symfony PHP framework
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.1), 2 days ago) - Open Source eCommerce Platform on Symfony
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.8](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.8), 1 week ago) - Go library for the Cloudflare v4 API
 
 #### 📜 My recent blog posts
 
