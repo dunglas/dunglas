@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (1 week ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (1 week ago)
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) - Collection of Varnish Cache modules (vmods) by Varnish Software (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.1), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.8](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.8), 6 days ago) - Go library for the Cloudflare v4 API
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.2), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.2), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.2](https://github.com/symfony/serializer/releases/tag/v5.2.2), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.2](https://github.com/symfony/http-kernel/releases/tag/v5.2.2), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.2](https://github.com/symfony/http-foundation/releases/tag/v5.2.2), 6 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.2), 6 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.2), 6 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), 6 days ago) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.1), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.13.8](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.13.8), 1 week ago) - Go library for the Cloudflare v4 API
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.2](https://github.com/symfony/framework-bundle/releases/tag/v5.2.2), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.2](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.2), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.2](https://github.com/symfony/serializer/releases/tag/v5.2.2), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.2](https://github.com/symfony/http-kernel/releases/tag/v5.2.2), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.2](https://github.com/symfony/http-foundation/releases/tag/v5.2.2), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.2](https://github.com/symfony/dom-crawler/releases/tag/v5.2.2), 1 week ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.2](https://github.com/symfony/dependency-injection/releases/tag/v5.2.2), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
@@ -50,14 +50,14 @@
 #### 📓 Gists I wrote
 
 - [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (1 month ago)
-- [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (1 month ago)
+- [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (2 months ago)
 - [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (8 months ago)
 - [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (8 months ago)
 - [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [GrandOurs35](https://github.com/GrandOurs35) (2 weeks ago)
+- [GrandOurs35](https://github.com/GrandOurs35) (3 weeks ago)
 - [andrekutianski](https://github.com/andrekutianski) (3 weeks ago)
 - [zairigimad](https://github.com/zairigimad) (1 month ago)
 - [AlexisJC](https://github.com/AlexisJC) (1 month ago)
