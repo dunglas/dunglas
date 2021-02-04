@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (today)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 day ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (1 week ago)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (1 week ago)
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) - Collection of Varnish Cache modules (vmods) by Varnish Software (1 week ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k&#43; developers. https://hoppscotch.io (1 week ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
-- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (1 week ago)
-- [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [api-platform/docker-compose-prod](https://github.com/api-platform/docker-compose-prod) -  (1 week ago)
 
 #### 🌱 My latest projects
 
