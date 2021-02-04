@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), today) - A browser testing and web crawling library for PHP and Symfony
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.0), today) - :musical_score: Extension integrating Behat with Symfony.
-- [symfony/panther](https://github.com/symfony/panther) ([v1.0.0](https://github.com/symfony/panther/releases/tag/v1.0.0), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.8), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.3](https://github.com/symfony/framework-bundle/releases/tag/v5.2.3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.3), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
