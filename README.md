@@ -8,9 +8,9 @@
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (2 days ago)
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (2 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (3 days ago)
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (1 week ago)
-- [varnish/varnish-modules](https://github.com/varnish/varnish-modules) - Collection of Varnish Cache modules (vmods) by Varnish Software (1 week ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k&#43; developers. https://hoppscotch.io (1 week ago)
 
 #### 🌱 My latest projects
