@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.0](https://github.com/symfony/maker-bundle/releases/tag/v1.29.0), today) - Symfony Maker Bundle
 - [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), 3 days ago) - A browser testing and web crawling library for PHP and Symfony
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.0), 3 days ago) - :musical_score: Extension integrating Behat with Symfony.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.8), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.3](https://github.com/symfony/http-kernel/releases/tag/v5.2.3), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.3](https://github.com/symfony/http-foundation/releases/tag/v5.2.3), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.3](https://github.com/symfony/dom-crawler/releases/tag/v5.2.3), 4 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.3](https://github.com/symfony/dependency-injection/releases/tag/v5.2.3), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
