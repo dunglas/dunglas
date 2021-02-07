@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins (1 day ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins (1 day ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
-- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (3 days ago)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (3 days ago)
+- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (3 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (4 days ago)
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (1 week ago)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k&#43; developers. https://hoppscotch.io (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.0](https://github.com/symfony/maker-bundle/releases/tag/v1.29.0), today) - Symfony Maker Bundle
 - [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), 3 days ago) - A browser testing and web crawling library for PHP and Symfony
@@ -37,7 +38,6 @@
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.3), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.3](https://github.com/symfony/serializer/releases/tag/v5.2.3), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.3](https://github.com/symfony/http-kernel/releases/tag/v5.2.3), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.3](https://github.com/symfony/http-foundation/releases/tag/v5.2.3), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 #### 📜 My recent blog posts
 
