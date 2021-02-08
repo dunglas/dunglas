@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [domculpa](https://github.com/domculpa) (today)
 - [GrandOurs35](https://github.com/GrandOurs35) (3 weeks ago)
 - [andrekutianski](https://github.com/andrekutianski) (3 weeks ago)
 - [zairigimad](https://github.com/zairigimad) (1 month ago)
 - [AlexisJC](https://github.com/AlexisJC) (1 month ago)
-- [divine](https://github.com/divine) (1 month ago)
 
 #### 📫 How to reach me
 
