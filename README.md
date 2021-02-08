@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins (1 day ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (3 days ago)
-- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (3 days ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (4 days ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins (2 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (4 days ago)
+- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  (4 days ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (5 days ago)
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) - Use the FOSHttpCache library in your Symfony projects (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.0](https://github.com/symfony/maker-bundle/releases/tag/v1.29.0), today) - Symfony Maker Bundle
-- [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), 3 days ago) - A browser testing and web crawling library for PHP and Symfony
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.0), 3 days ago) - :musical_score: Extension integrating Behat with Symfony.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.8), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.3](https://github.com/symfony/framework-bundle/releases/tag/v5.2.3), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.3), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.3](https://github.com/symfony/serializer/releases/tag/v5.2.3), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.3](https://github.com/symfony/http-kernel/releases/tag/v5.2.3), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.0](https://github.com/symfony/maker-bundle/releases/tag/v1.29.0), 1 day ago) - Symfony Maker Bundle
+- [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), 4 days ago) - A browser testing and web crawling library for PHP and Symfony
+- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.0), 4 days ago) - :musical_score: Extension integrating Behat with Symfony.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.8), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.3](https://github.com/symfony/framework-bundle/releases/tag/v5.2.3), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.3), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.3](https://github.com/symfony/serializer/releases/tag/v5.2.3), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.3](https://github.com/symfony/http-kernel/releases/tag/v5.2.3), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent blog posts
 
