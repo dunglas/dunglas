@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.1), today) - Deliver Go binaries as fast and easily as possible
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.0](https://github.com/symfony/maker-bundle/releases/tag/v1.29.0), 2 days ago) - Symfony Maker Bundle
@@ -37,7 +38,6 @@
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.3](https://github.com/symfony/framework-bundle/releases/tag/v5.2.3), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.3), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.3](https://github.com/symfony/serializer/releases/tag/v5.2.3), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.3](https://github.com/symfony/http-kernel/releases/tag/v5.2.3), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent blog posts
 
