@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.1](https://github.com/symfony/maker-bundle/releases/tag/v1.29.1), today) - Symfony Maker Bundle
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v0.1.1](https://github.com/dunglas/httpsfv/releases/tag/v0.1.1), 1 day ago) - A Go library to parse and serialize HTTP structured field values
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.0](https://github.com/symfony/maker-bundle/releases/tag/v1.29.0), 3 days ago) - Symfony Maker Bundle
 - [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), 6 days ago) - A browser testing and web crawling library for PHP and Symfony
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.0), 6 days ago) - :musical_score: Extension integrating Behat with Symfony.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.8), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
