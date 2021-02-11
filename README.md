@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 - [httpwg/structured-field-tests](https://github.com/httpwg/structured-field-tests) - Tests for HTTP Structured Field Values (2 days ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (3 days ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (3 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (3 days ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (3 days ago)
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (3 days ago)
