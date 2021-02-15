@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.8](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.8), today) - Build Caddy with plugins
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.1](https://github.com/symfony/maker-bundle/releases/tag/v1.29.1), 5 days ago) - Symfony Maker Bundle
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v0.1.1](https://github.com/dunglas/httpsfv/releases/tag/v0.1.1), 6 days ago) - A Go library to parse and serialize HTTP structured field values
@@ -37,7 +38,6 @@
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.0), 1 week ago) - :musical_score: Extension integrating Behat with Symfony.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.8), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.3](https://github.com/symfony/framework-bundle/releases/tag/v5.2.3), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.3), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
