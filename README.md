@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (4 days ago)
@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub
 - [dunglas/panther-legacy](https://github.com/dunglas/panther-legacy) - Legacy releases of symfony/panther (including old versions of ChromeDriver and Geckodriver)
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk.
 - [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents
@@ -24,7 +25,6 @@
 - [dunglas/.github](https://github.com/dunglas/.github) - My GitHub files
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
 - [dunglas/workshop-mercure](https://github.com/dunglas/workshop-mercure) - Code produced during my Mercure workshop
-- [dunglas/workshop-panther](https://github.com/dunglas/workshop-panther) - Code produced during by Panther workshop
 
 #### 🔭 Latest releases I've contributed to
 
