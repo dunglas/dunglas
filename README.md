@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub (1 day ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (5 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (5 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [httpwg/structured-field-tests](https://github.com/httpwg/structured-field-tests) - Tests for HTTP Structured Field Values (1 week ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 
 #### 🌱 My latest projects
 
