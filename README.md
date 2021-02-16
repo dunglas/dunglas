@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/flex](https://github.com/symfony/flex) ([v1.12.2](https://github.com/symfony/flex/releases/tag/v1.12.2), today) - Composer plugin for Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.3), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.8](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.8), 1 day ago) - Build Caddy with plugins
@@ -37,7 +38,6 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), 1 week ago) - A browser testing and web crawling library for PHP and Symfony
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.0), 1 week ago) - :musical_score: Extension integrating Behat with Symfony.
 
 #### 📜 My recent blog posts
 
