@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.2), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/flex](https://github.com/symfony/flex) ([v1.12.2](https://github.com/symfony/flex/releases/tag/v1.12.2), 1 day ago) - Composer plugin for Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.3), 2 days ago) - Open Source eCommerce Platform on Symfony
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
