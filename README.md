@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.5](https://github.com/buraksezer/olric/releases/tag/v0.3.5), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.2), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/flex](https://github.com/symfony/flex) ([v1.12.2](https://github.com/symfony/flex/releases/tag/v1.12.2), 1 day ago) - Composer plugin for Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.3), 2 days ago) - Open Source eCommerce Platform on Symfony
@@ -37,7 +38,6 @@
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v0.1.1](https://github.com/dunglas/httpsfv/releases/tag/v0.1.1), 1 week ago) - A Go library to parse and serialize HTTP structured field values
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/panther](https://github.com/symfony/panther) ([v1.0.1](https://github.com/symfony/panther/releases/tag/v1.0.1), 1 week ago) - A browser testing and web crawling library for PHP and Symfony
 
 #### 📜 My recent blog posts
 
