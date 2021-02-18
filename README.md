@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), today) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.5](https://github.com/buraksezer/olric/releases/tag/v0.3.5), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/flex](https://github.com/symfony/flex) ([v1.12.2](https://github.com/symfony/flex/releases/tag/v1.12.2), 2 days ago) - Composer plugin for Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.3), 3 days ago) - Open Source eCommerce Platform on Symfony
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.1), 3 days ago) - Fast, multi-platform web server with automatic HTTPS
