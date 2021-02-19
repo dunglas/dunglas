@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([1.1.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/1.1.0), today) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.5](https://github.com/buraksezer/olric/releases/tag/v0.3.5), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [symfony/flex](https://github.com/symfony/flex) ([v1.12.2](https://github.com/symfony/flex/releases/tag/v1.12.2), 3 days ago) - Composer plugin for Symfony
@@ -37,7 +38,6 @@
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.1](https://github.com/symfony/maker-bundle/releases/tag/v1.29.1), 1 week ago) - Symfony Maker Bundle
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v0.1.1](https://github.com/dunglas/httpsfv/releases/tag/v0.1.1), 1 week ago) - A Go library to parse and serialize HTTP structured field values
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.2](https://github.com/api-platform/core/releases/tag/v2.6.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent blog posts
 
