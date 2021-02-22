@@ -16,6 +16,7 @@
 #### 🌱 My latest projects
 
 - [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub
+- [dunglas/Signal-TLS-Proxy](https://github.com/dunglas/Signal-TLS-Proxy) - 
 - [dunglas/panther-legacy](https://github.com/dunglas/panther-legacy) - Legacy releases of symfony/panther (including old versions of ChromeDriver and Geckodriver)
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk.
 - [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents
@@ -24,7 +25,6 @@
 - [dunglas/demo-vulcain-api-platform](https://github.com/dunglas/demo-vulcain-api-platform) - Use API Platform with the Vulcain protocol and Varnish!
 - [dunglas/.github](https://github.com/dunglas/.github) - My GitHub files
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/workshop-mercure](https://github.com/dunglas/workshop-mercure) - Code produced during my Mercure workshop
 
 #### 🔭 Latest releases I've contributed to
 
