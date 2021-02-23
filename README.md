@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-RC.1), today) - Open Source eCommerce Platform on Symfony
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.6](https://github.com/buraksezer/olric/releases/tag/v0.3.6), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([1.1.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/1.1.0), 4 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/flex](https://github.com/symfony/flex) ([v1.12.2](https://github.com/symfony/flex/releases/tag/v1.12.2), 1 week ago) - Composer plugin for Symfony
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-BETA.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-BETA.3), 1 week ago) - Open Source eCommerce Platform on Symfony
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.1), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.8](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.8), 1 week ago) - Build Caddy with plugins
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.1](https://github.com/symfony/maker-bundle/releases/tag/v1.29.1), 1 week ago) - Symfony Maker Bundle
