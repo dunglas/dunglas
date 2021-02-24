@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.11](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.11), today) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.12), today) - Contains Helm charts for Kubernetes related open source tools
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0-RC.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.0-RC.2), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.6](https://github.com/buraksezer/olric/releases/tag/v0.3.6), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([1.1.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/1.1.0), 5 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
