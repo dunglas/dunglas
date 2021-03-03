@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 days ago)
@@ -11,7 +12,6 @@
 - [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub (2 weeks ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
-- [httpwg/structured-field-tests](https://github.com/httpwg/structured-field-tests) - Tests for HTTP Structured Field Values (3 weeks ago)
 
 #### 🌱 My latest projects
 
