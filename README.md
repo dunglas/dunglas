@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (2 weeks ago)
 - [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub (2 weeks ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.14.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.14.0), today) - Go library for the Cloudflare v4 API
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.1](https://github.com/dunglas/mercure/releases/tag/v0.11.1), 2 days ago) - Server-sent live updates: protocol and reference implementation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0](https://github.com/Sylius/Sylius/releases/tag/v1.9.0), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.14.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.14.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.1](https://github.com/dunglas/mercure/releases/tag/v0.11.1), 3 days ago) - Server-sent live updates: protocol and reference implementation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0](https://github.com/Sylius/Sylius/releases/tag/v1.9.0), 3 days ago) - Open Source eCommerce Platform on Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.12), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.6](https://github.com/buraksezer/olric/releases/tag/v0.3.6), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([1.1.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/1.1.0), 1 week ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
