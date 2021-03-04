@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.13](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.13), today) - Contains Helm charts for Kubernetes related open source tools
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.14.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.14.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.1](https://github.com/dunglas/mercure/releases/tag/v0.11.1), 3 days ago) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.0](https://github.com/Sylius/Sylius/releases/tag/v1.9.0), 3 days ago) - Open Source eCommerce Platform on Symfony
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.12), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.6](https://github.com/buraksezer/olric/releases/tag/v0.3.6), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([1.1.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/1.1.0), 1 week ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [symfony/flex](https://github.com/symfony/flex) ([v1.12.2](https://github.com/symfony/flex/releases/tag/v1.12.2), 2 weeks ago) - Composer plugin for Symfony
