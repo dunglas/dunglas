@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.15.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.15.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.4](https://github.com/symfony/framework-bundle/releases/tag/v5.2.4), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.4), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.4](https://github.com/symfony/serializer/releases/tag/v5.2.4), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -36,7 +37,6 @@
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.4](https://github.com/symfony/dom-crawler/releases/tag/v5.2.4), 1 day ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.4](https://github.com/symfony/dependency-injection/releases/tag/v5.2.4), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.4](https://github.com/symfony/symfony/releases/tag/v5.2.4), 1 day ago) - The Symfony PHP framework
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.14.13](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.14.13), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.14.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.14.0), 2 days ago) - Go library for the Cloudflare v4 API
 
 #### 📜 My recent blog posts
