@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go (today)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (2 weeks ago)
 - [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub (2 weeks ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
 
 #### 🌱 My latest projects
 
