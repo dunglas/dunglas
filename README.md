@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go (4 days ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go (5 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.15.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.15.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.4](https://github.com/symfony/framework-bundle/releases/tag/v5.2.4), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.4), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.4](https://github.com/symfony/serializer/releases/tag/v5.2.4), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.4](https://github.com/symfony/http-kernel/releases/tag/v5.2.4), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.4](https://github.com/symfony/http-foundation/releases/tag/v5.2.4), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.4](https://github.com/symfony/dom-crawler/releases/tag/v5.2.4), 5 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.15.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.15.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.4](https://github.com/symfony/framework-bundle/releases/tag/v5.2.4), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.4), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.4](https://github.com/symfony/serializer/releases/tag/v5.2.4), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.4](https://github.com/symfony/http-kernel/releases/tag/v5.2.4), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.4](https://github.com/symfony/http-foundation/releases/tag/v5.2.4), 6 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.4](https://github.com/symfony/dom-crawler/releases/tag/v5.2.4), 6 days ago) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 
 #### 📜 My recent blog posts
 
-- [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (2 weeks ago)
+- [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (3 weeks ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (1 month ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (3 months ago)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (3 months ago)
@@ -60,7 +60,7 @@
 - [nusje2000](https://github.com/nusje2000) (2 weeks ago)
 - [johnhout](https://github.com/johnhout) (3 weeks ago)
 - [FlrgFlorent](https://github.com/FlrgFlorent) (4 weeks ago)
-- [domculpa](https://github.com/domculpa) (4 weeks ago)
+- [domculpa](https://github.com/domculpa) (1 month ago)
 - [GrandOurs35](https://github.com/GrandOurs35) (1 month ago)
 
 #### 📫 How to reach me
