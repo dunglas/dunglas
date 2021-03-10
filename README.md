@@ -30,14 +30,14 @@
 
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.5](https://github.com/symfony/framework-bundle/releases/tag/v5.2.5), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.5](https://github.com/symfony/http-kernel/releases/tag/v5.2.5), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.5](https://github.com/symfony/http-foundation/releases/tag/v5.2.5), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) ([v5.2.5](https://github.com/symfony/dom-crawler/releases/tag/v5.2.5), today) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.5](https://github.com/symfony/dependency-injection/releases/tag/v5.2.5), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.5](https://github.com/symfony/symfony/releases/tag/v5.2.5), today) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.15.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.15.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.4), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.4](https://github.com/symfony/serializer/releases/tag/v5.2.4), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent blog posts
 
