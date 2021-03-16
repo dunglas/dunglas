@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), today) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.0](https://github.com/api-platform/client-generator/releases/tag/v0.7.0), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.5](https://github.com/symfony/framework-bundle/releases/tag/v5.2.5), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.5](https://github.com/symfony/http-kernel/releases/tag/v5.2.5), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
@@ -37,7 +38,6 @@
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.15.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.15.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.4), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
