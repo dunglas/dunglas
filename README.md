@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.1), today) - Open Source eCommerce Platform on Symfony
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 2 days ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.0](https://github.com/api-platform/client-generator/releases/tag/v0.7.0), 2 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.5](https://github.com/symfony/framework-bundle/releases/tag/v5.2.5), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -37,7 +38,6 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.15.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.15.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent blog posts
 
