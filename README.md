@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.0](https://github.com/symfony/maker-bundle/releases/tag/v1.30.0), today) - Symfony Maker Bundle
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), today) - A QUIC implementation in pure go
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.1), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 3 days ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
@@ -37,7 +38,6 @@
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.5](https://github.com/symfony/dependency-injection/releases/tag/v5.2.5), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.5](https://github.com/symfony/symfony/releases/tag/v5.2.5), 1 week ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent blog posts
 
