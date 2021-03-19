@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), today) - A QUIC implementation in pure go
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.1), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 3 days ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.0](https://github.com/api-platform/client-generator/releases/tag/v0.7.0), 3 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
@@ -37,7 +38,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.5](https://github.com/symfony/symfony/releases/tag/v5.2.5), 1 week ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent blog posts
 
