@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (3 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (4 days ago)
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go (2 weeks ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 weeks ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.0](https://github.com/symfony/maker-bundle/releases/tag/v1.30.0), today) - Symfony Maker Bundle
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), today) - A QUIC implementation in pure go
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.1), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 3 days ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.0](https://github.com/api-platform/client-generator/releases/tag/v0.7.0), 3 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.0](https://github.com/symfony/maker-bundle/releases/tag/v1.30.0), 1 day ago) - Symfony Maker Bundle
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), 1 day ago) - A QUIC implementation in pure go
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.1), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 4 days ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.0](https://github.com/api-platform/client-generator/releases/tag/v0.7.0), 4 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.5](https://github.com/symfony/framework-bundle/releases/tag/v5.2.5), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.5](https://github.com/symfony/http-kernel/releases/tag/v5.2.5), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.5](https://github.com/symfony/dependency-injection/releases/tag/v5.2.5), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
