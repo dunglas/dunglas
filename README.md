@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.1](https://github.com/symfony/maker-bundle/releases/tag/v1.30.1), today) - Symfony Maker Bundle
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.1](https://github.com/apache/pulsar/releases/tag/v2.7.1), today) - Apache Pulsar - distributed pub-sub messaging system
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.0](https://github.com/symfony/maker-bundle/releases/tag/v1.30.0), 3 days ago) - Symfony Maker Bundle
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), 3 days ago) - A QUIC implementation in pure go
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.1), 4 days ago) - Open Source eCommerce Platform on Symfony
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 6 days ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
