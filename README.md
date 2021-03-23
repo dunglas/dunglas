@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.2](https://github.com/symfony/maker-bundle/releases/tag/v1.30.2), today) - Symfony Maker Bundle
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.2), today) - Open Source eCommerce Platform on Symfony
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.1](https://github.com/symfony/maker-bundle/releases/tag/v1.30.1), 1 day ago) - Symfony Maker Bundle
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.1](https://github.com/apache/pulsar/releases/tag/v2.7.1), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), 4 days ago) - A QUIC implementation in pure go
