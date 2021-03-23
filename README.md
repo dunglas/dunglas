@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.2), today) - Open Source eCommerce Platform on Symfony
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.1](https://github.com/symfony/maker-bundle/releases/tag/v1.30.1), 1 day ago) - Symfony Maker Bundle
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.1](https://github.com/apache/pulsar/releases/tag/v2.7.1), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), 4 days ago) - A QUIC implementation in pure go
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.1](https://github.com/Sylius/Sylius/releases/tag/v1.9.1), 5 days ago) - Open Source eCommerce Platform on Symfony
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 1 week ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.0](https://github.com/api-platform/client-generator/releases/tag/v0.7.0), 1 week ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.5](https://github.com/symfony/framework-bundle/releases/tag/v5.2.5), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
