@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.2](https://github.com/symfony/maker-bundle/releases/tag/v1.30.2), 2 days ago) - Symfony Maker Bundle
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.2), 2 days ago) - Open Source eCommerce Platform on Symfony
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.1](https://github.com/apache/pulsar/releases/tag/v2.7.1), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
