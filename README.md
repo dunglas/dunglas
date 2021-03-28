@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (6 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
