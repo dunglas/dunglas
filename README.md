@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210327.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210327.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210328.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210328.1), today) - GitHub Actions virtual environments
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.6](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.6), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.6](https://github.com/symfony/http-kernel/releases/tag/v5.2.6), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
