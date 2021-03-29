@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (6 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go (3 weeks ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (3 weeks ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.2](https://github.com/symfony/maker-bundle/releases/tag/v1.30.2), 5 days ago) - Symfony Maker Bundle
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.2), 5 days ago) - Open Source eCommerce Platform on Symfony
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.1](https://github.com/apache/pulsar/releases/tag/v2.7.1), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.2](https://github.com/symfony/maker-bundle/releases/tag/v1.30.2), 6 days ago) - Symfony Maker Bundle
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.2), 6 days ago) - Open Source eCommerce Platform on Symfony
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.1](https://github.com/apache/pulsar/releases/tag/v2.7.1), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.0), 1 week ago) - A QUIC implementation in pure go
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.17.1](https://github.com/varnish/varnish-modules/releases/tag/0.17.1), 1 week ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.0](https://github.com/api-platform/client-generator/releases/tag/v0.7.0), 1 week ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
