@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210329.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210329.1), today) - GitHub Actions virtual environments
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.15.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.15.0), today) - Go library for the Cloudflare v4 API
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210327.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210327.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.6](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.6), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.6](https://github.com/symfony/http-kernel/releases/tag/v5.2.6), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
