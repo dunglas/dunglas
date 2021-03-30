@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/ux-lazy-image](https://github.com/symfony/ux-lazy-image) - Lazy image loader and utilities for Symfony (today)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) - Chart.js integration for Symfony (today)
+- [symfony/ux-cropperjs](https://github.com/symfony/ux-cropperjs) - Cropper.js integration for Symfony (today)
+- [symfony/ux-dropzone](https://github.com/symfony/ux-dropzone) - File input dropzones for Symfony Forms (today)
+- [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (today)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (today)
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components. (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) - The HttpKernel component provides a structured process for converting a Request into a Response. (6 days ago)
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - The Twig Bundle provides configuration for using Twig in your applications. (6 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
 
 #### 🌱 My latest projects
 
