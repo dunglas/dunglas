@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.15.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.15.0), today) - Go library for the Cloudflare v4 API
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210327.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210327.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.6](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.6), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -37,7 +38,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.2](https://github.com/symfony/maker-bundle/releases/tag/v1.30.2), 1 week ago) - Symfony Maker Bundle
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.2](https://github.com/Sylius/Sylius/releases/tag/v1.9.2), 1 week ago) - Open Source eCommerce Platform on Symfony
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.1](https://github.com/apache/pulsar/releases/tag/v2.7.1), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 
 #### 📜 My recent blog posts
 
