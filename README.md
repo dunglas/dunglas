@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), today) - Deliver Go binaries as fast and easily as possible
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210329.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210329.1), 1 day ago) - GitHub Actions virtual environments
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.15.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.15.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -36,7 +37,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.6](https://github.com/symfony/http-kernel/releases/tag/v5.2.6), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.6](https://github.com/symfony/dependency-injection/releases/tag/v5.2.6), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 2 days ago) - The Symfony PHP framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.30.2](https://github.com/symfony/maker-bundle/releases/tag/v1.30.2), 1 week ago) - Symfony Maker Bundle
 
 #### 📜 My recent blog posts
