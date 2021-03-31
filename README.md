@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux-dropzone](https://github.com/symfony/ux-dropzone) - File input dropzones for Symfony Forms (1 day ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [symfony/ux-cropperjs](https://github.com/symfony/ux-cropperjs) - Cropper.js integration for Symfony (1 day ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 day ago)
 - [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) - Chart.js integration for Symfony (1 day ago)
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (1 day ago)
+- [symfony/ux-dropzone](https://github.com/symfony/ux-dropzone) - File input dropzones for Symfony Forms (1 day ago)
+- [symfony/ux-turbo-mercure](https://github.com/symfony/ux-turbo-mercure) - Mercure bridge for Symfony UX Turbo (1 day ago)
 - [symfony/ux-lazy-image](https://github.com/symfony/ux-lazy-image) - Lazy image loader and utilities for Symfony (1 day ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 day ago)
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments (2 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 days ago)
 
 #### 🌱 My latest projects
 
