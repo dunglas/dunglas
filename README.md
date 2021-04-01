@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [symfony/ux-cropperjs](https://github.com/symfony/ux-cropperjs) - Cropper.js integration for Symfony (2 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 days ago)
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (2 days ago)
 - [symfony/ux-turbo-mercure](https://github.com/symfony/ux-turbo-mercure) - Mercure bridge for Symfony UX Turbo (2 days ago)
 - [symfony/ux-lazy-image](https://github.com/symfony/ux-lazy-image) - Lazy image loader and utilities for Symfony (2 days ago)
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (2 days ago)
 - [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) - Chart.js integration for Symfony (2 days ago)
-- [symfony/ux-dropzone](https://github.com/symfony/ux-dropzone) - File input dropzones for Symfony Forms (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.6](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.6), 3 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.2.6](https://github.com/symfony/twig-bridge/releases/tag/v5.2.6), 3 days ago) - Provides integration for Twig with various Symfony components.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.6](https://github.com/symfony/http-kernel/releases/tag/v5.2.6), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.6](https://github.com/symfony/dependency-injection/releases/tag/v5.2.6), 3 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.2.6](https://github.com/symfony/validator/releases/tag/v5.2.6), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.2.6](https://github.com/symfony/routing/releases/tag/v5.2.6), 3 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 
 #### 📜 My recent blog posts
 
