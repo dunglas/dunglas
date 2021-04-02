@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.2), today) - Fast, multi-platform web server with automatic HTTPS
 - [pquerna/cachecontrol](https://github.com/pquerna/cachecontrol) ([v0.1.0](https://github.com/pquerna/cachecontrol/releases/tag/v0.1.0), 1 day ago) - Golang HTTP Cache-Control Parser and Interpretation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 2 days ago) - GitHub Actions virtual environments
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.0](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.0), 2 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
@@ -37,7 +38,6 @@
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.6](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.6), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.2.6](https://github.com/symfony/twig-bridge/releases/tag/v5.2.6), 4 days ago) - Provides integration for Twig with various Symfony components.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.2.6](https://github.com/symfony/validator/releases/tag/v5.2.6), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent blog posts
 
