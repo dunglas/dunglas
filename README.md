@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (3 days ago)
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (4 days ago)
-- [symfony/ux-dropzone](https://github.com/symfony/ux-dropzone) - File input dropzones for Symfony Forms (4 days ago)
-- [symfony/ux-cropperjs](https://github.com/symfony/ux-cropperjs) - Cropper.js integration for Symfony (4 days ago)
+- [symfony/ux-turbo-mercure](https://github.com/symfony/ux-turbo-mercure) - Mercure bridge for Symfony UX Turbo (4 days ago)
 - [symfony/ux-lazy-image](https://github.com/symfony/ux-lazy-image) - Lazy image loader and utilities for Symfony (4 days ago)
-- [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (4 days ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (4 days ago)
+- [symfony/ux-cropperjs](https://github.com/symfony/ux-cropperjs) - Cropper.js integration for Symfony (4 days ago)
 - [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) - Chart.js integration for Symfony (4 days ago)
 
 #### 🌱 My latest projects
@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.2](https://github.com/symfony/mercure/releases/tag/v0.5.2), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.1](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.1), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), today) - A QUIC implementation in pure go
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.2](https://github.com/dunglas/mercure/releases/tag/v0.11.2), 1 day ago) - Server-sent live updates: protocol and reference implementation
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.2), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [pquerna/cachecontrol](https://github.com/pquerna/cachecontrol) ([v0.1.0](https://github.com/pquerna/cachecontrol/releases/tag/v0.1.0), 2 days ago) - Golang HTTP Cache-Control Parser and Interpretation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 3 days ago) - GitHub Actions virtual environments
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.0](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.0), 3 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.1](https://github.com/symfony/mercure/releases/tag/v0.5.1), 3 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.15.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.15.0), 4 days ago) - Go library for the Cloudflare v4 API
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
