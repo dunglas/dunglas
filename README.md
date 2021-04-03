@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), today) - A QUIC implementation in pure go
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.2](https://github.com/dunglas/mercure/releases/tag/v0.11.2), 1 day ago) - Server-sent live updates: protocol and reference implementation
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.2), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [pquerna/cachecontrol](https://github.com/pquerna/cachecontrol) ([v0.1.0](https://github.com/pquerna/cachecontrol/releases/tag/v0.1.0), 2 days ago) - Golang HTTP Cache-Control Parser and Interpretation
@@ -37,7 +38,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.15.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.15.0), 4 days ago) - Go library for the Cloudflare v4 API
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.6](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.6), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
