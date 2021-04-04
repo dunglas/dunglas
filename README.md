@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (5 days ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.2](https://github.com/symfony/mercure/releases/tag/v0.5.2), 1 day ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.1](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.1), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), 1 day ago) - A QUIC implementation in pure go
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.2](https://github.com/dunglas/mercure/releases/tag/v0.11.2), 2 days ago) - Server-sent live updates: protocol and reference implementation
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.2), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
