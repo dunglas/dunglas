@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210404.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210404.2), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.16.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.16.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210404.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210404.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 2 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 2 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), 3 days ago) - A QUIC implementation in pure go
