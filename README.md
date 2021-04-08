@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (1 day ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 day ago)
-- [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (1 day ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 day ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 day ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (3 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (2 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (2 days ago)
+- [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (2 days ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (2 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210404.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210404.2), 1 day ago) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.16.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.16.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 3 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 3 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), 4 days ago) - A QUIC implementation in pure go
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.2](https://github.com/dunglas/mercure/releases/tag/v0.11.2), 5 days ago) - Server-sent live updates: protocol and reference implementation
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.2), 5 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [pquerna/cachecontrol](https://github.com/pquerna/cachecontrol) ([v0.1.0](https://github.com/pquerna/cachecontrol/releases/tag/v0.1.0), 6 days ago) - Golang HTTP Cache-Control Parser and Interpretation
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210404.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210404.2), 2 days ago) - GitHub Actions virtual environments
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.16.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.16.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 4 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 4 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), 5 days ago) - A QUIC implementation in pure go
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.2](https://github.com/dunglas/mercure/releases/tag/v0.11.2), 6 days ago) - Server-sent live updates: protocol and reference implementation
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.2), 6 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [pquerna/cachecontrol](https://github.com/pquerna/cachecontrol) ([v0.1.0](https://github.com/pquerna/cachecontrol/releases/tag/v0.1.0), 1 week ago) - Golang HTTP Cache-Control Parser and Interpretation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.15.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.15.0), 1 week ago) - Go library for the Cloudflare v4 API
 
