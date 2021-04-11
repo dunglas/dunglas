@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [duboiss](https://github.com/duboiss) (today)
 - [naderman](https://github.com/naderman) (1 day ago)
 - [barrycarton](https://github.com/barrycarton) (2 days ago)
 - [nusje2000](https://github.com/nusje2000) (1 month ago)
 - [johnhout](https://github.com/johnhout) (1 month ago)
-- [FlrgFlorent](https://github.com/FlrgFlorent) (2 months ago)
 
 #### 📫 How to reach me
 
