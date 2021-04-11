@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), today) - Go library for the Cloudflare v4 API
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), today) - Build Caddy with plugins
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 1 day ago) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210404.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210404.2), 5 days ago) - GitHub Actions virtual environments
@@ -37,7 +38,6 @@
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), 1 week ago) - A QUIC implementation in pure go
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.2](https://github.com/dunglas/mercure/releases/tag/v0.11.2), 1 week ago) - Server-sent live updates: protocol and reference implementation
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-beta.2), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
-- [pquerna/cachecontrol](https://github.com/pquerna/cachecontrol) ([v0.1.0](https://github.com/pquerna/cachecontrol/releases/tag/v0.1.0), 1 week ago) - Golang HTTP Cache-Control Parser and Interpretation
 
 #### 📜 My recent blog posts
 
