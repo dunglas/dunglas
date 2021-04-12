@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210412.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210412.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210411.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210411.1), today) - GitHub Actions virtual environments
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 1 day ago) - Build Caddy with plugins
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 2 days ago) - 👽 Open source API development ecosystem https://hoppscotch.io
