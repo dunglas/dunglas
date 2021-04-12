@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (6 days ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (6 days ago)
 - [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (6 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (6 days ago)
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (6 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210411.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210411.1), today) - GitHub Actions virtual environments
@@ -37,7 +38,6 @@
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.16.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.16.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.20.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.20.1), 1 week ago) - A QUIC implementation in pure go
 
 #### 📜 My recent blog posts
 
