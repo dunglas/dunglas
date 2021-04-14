@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210412.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210412.2), 1 day ago) - GitHub Actions virtual environments
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
