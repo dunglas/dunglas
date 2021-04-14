@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (1 week ago)
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 week ago)
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (1 week ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210412.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210412.2), today) - GitHub Actions virtual environments
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 2 days ago) - Go library for the Cloudflare v4 API
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 2 days ago) - Build Caddy with plugins
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 3 days ago) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.16.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.16.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210412.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210412.2), 1 day ago) - GitHub Actions virtual environments
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 2 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 3 days ago) - Go library for the Cloudflare v4 API
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 3 days ago) - Build Caddy with plugins
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 4 days ago) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
-- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (4 days ago)
+- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (5 days ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (1 month ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (2 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (4 months ago)
@@ -57,9 +57,9 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [duboiss](https://github.com/duboiss) (2 days ago)
-- [naderman](https://github.com/naderman) (3 days ago)
-- [barrycarton](https://github.com/barrycarton) (4 days ago)
+- [duboiss](https://github.com/duboiss) (3 days ago)
+- [naderman](https://github.com/naderman) (4 days ago)
+- [barrycarton](https://github.com/barrycarton) (5 days ago)
 - [nusje2000](https://github.com/nusje2000) (1 month ago)
 - [johnhout](https://github.com/johnhout) (1 month ago)
 
