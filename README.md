@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (4 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (1 week ago)
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 week ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210412.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210412.2), 2 days ago) - GitHub Actions virtual environments
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 3 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 4 days ago) - Go library for the Cloudflare v4 API
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 4 days ago) - Build Caddy with plugins
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 5 days ago) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210412.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210412.2), 3 days ago) - GitHub Actions virtual environments
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 4 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 5 days ago) - Go library for the Cloudflare v4 API
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 5 days ago) - Build Caddy with plugins
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 6 days ago) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
-- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (6 days ago)
+- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (1 week ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (1 month ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (2 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (4 months ago)
@@ -57,9 +57,9 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [duboiss](https://github.com/duboiss) (4 days ago)
-- [naderman](https://github.com/naderman) (5 days ago)
-- [barrycarton](https://github.com/barrycarton) (6 days ago)
+- [duboiss](https://github.com/duboiss) (5 days ago)
+- [naderman](https://github.com/naderman) (6 days ago)
+- [barrycarton](https://github.com/barrycarton) (1 week ago)
 - [nusje2000](https://github.com/nusje2000) (1 month ago)
 - [johnhout](https://github.com/johnhout) (1 month ago)
 
