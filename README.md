@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [MichaelBrauner](https://github.com/MichaelBrauner) (today)
 - [duboiss](https://github.com/duboiss) (1 week ago)
 - [naderman](https://github.com/naderman) (1 week ago)
 - [barrycarton](https://github.com/barrycarton) (1 week ago)
 - [nusje2000](https://github.com/nusje2000) (1 month ago)
-- [johnhout](https://github.com/johnhout) (2 months ago)
 
 #### 📫 How to reach me
 
