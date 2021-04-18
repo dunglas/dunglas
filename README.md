@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), today) - The Symfony PHP framework
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.2), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210412.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210412.2), 5 days ago) - GitHub Actions virtual environments
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 6 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -37,7 +38,6 @@
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 1 week ago) - Build Caddy with plugins
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 1 week ago) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 2 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 2 weeks ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
