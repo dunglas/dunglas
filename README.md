@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (3 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
