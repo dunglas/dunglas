@@ -4,14 +4,14 @@
 
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (3 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (4 days ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
-- [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (1 week ago)
-- [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (1 week ago)
+- [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (2 weeks ago)
+- [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210419.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210419.1), today) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 day ago) - The Symfony PHP framework
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.2), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210419.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210419.1), 1 day ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 2 days ago) - The Symfony PHP framework
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.2), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 1 week ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
@@ -51,17 +51,17 @@
 
 - [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (4 months ago)
 - [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (4 months ago)
-- [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (10 months ago)
-- [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (10 months ago)
-- [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (10 months ago)
+- [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (11 months ago)
+- [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (11 months ago)
+- [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [MichaelBrauner](https://github.com/MichaelBrauner) (1 day ago)
+- [MichaelBrauner](https://github.com/MichaelBrauner) (2 days ago)
 - [duboiss](https://github.com/duboiss) (1 week ago)
 - [naderman](https://github.com/naderman) (1 week ago)
 - [barrycarton](https://github.com/barrycarton) (1 week ago)
-- [nusje2000](https://github.com/nusje2000) (1 month ago)
+- [nusje2000](https://github.com/nusje2000) (2 months ago)
 
 #### 📫 How to reach me
 
