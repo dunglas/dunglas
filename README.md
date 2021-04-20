@@ -4,17 +4,18 @@
 
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (4 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (2 weeks ago)
-- [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) - 
 - [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub
 - [dunglas/Signal-TLS-Proxy](https://github.com/dunglas/Signal-TLS-Proxy) - 
 - [dunglas/panther-legacy](https://github.com/dunglas/panther-legacy) - Legacy releases of symfony/panther (including old versions of ChromeDriver and Geckodriver)
@@ -24,7 +25,6 @@
 - [dunglas/demo-postgres-listen-notify](https://github.com/dunglas/demo-postgres-listen-notify) - Demo of the PostgreSQL LISTEN/NOTIFY support in Symfony Messenger
 - [dunglas/demo-vulcain-api-platform](https://github.com/dunglas/demo-vulcain-api-platform) - Use API Platform with the Vulcain protocol and Varnish!
 - [dunglas/.github](https://github.com/dunglas/.github) - My GitHub files
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
 
 #### 🔭 Latest releases I've contributed to
 
