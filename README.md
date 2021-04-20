@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
-- [symfony/website-skeleton](https://github.com/symfony/website-skeleton) -  The Symfony website skeleton (2 weeks ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.18.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.18.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210419.2), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 2 days ago) - The Symfony PHP framework
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.2), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 1 week ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
