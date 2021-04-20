@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210419.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210419.1), 1 day ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210419.2), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 2 days ago) - The Symfony PHP framework
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.17.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.17.2), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
