@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (5 days ago)
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 week ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.1), today) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), today) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.18.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.18.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.19.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.19.0), today) - Contains Helm charts for Kubernetes related open source tools
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), 1 day ago) - GitHub Actions virtual environments
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 4 days ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 1 week ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [MichaelBrauner](https://github.com/MichaelBrauner) (3 days ago)
+- [MichaelBrauner](https://github.com/MichaelBrauner) (4 days ago)
 - [duboiss](https://github.com/duboiss) (1 week ago)
 - [naderman](https://github.com/naderman) (1 week ago)
 - [barrycarton](https://github.com/barrycarton) (1 week ago)
