@@ -28,8 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.3), today) - Open Source eCommerce Platform on Symfony
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.19.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.19.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), today) - Deliver Go binaries as fast and easily as possible
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.19.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.19.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 4 days ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -37,7 +38,6 @@
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 1 week ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 1 week ago) - Build Caddy with plugins
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 1 week ago) - 👽 Open source API development ecosystem https://hoppscotch.io
 
 #### 📜 My recent blog posts
 
