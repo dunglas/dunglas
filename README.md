@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (6 days ago)
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.3), today) - Open Source eCommerce Platform on Symfony
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.19.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.19.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), today) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), 1 day ago) - GitHub Actions virtual environments
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 4 days ago) - The Symfony PHP framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.3), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.19.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.19.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), 2 days ago) - GitHub Actions virtual environments
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 5 days ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 1 week ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (1 week ago)
+- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (2 weeks ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (2 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (3 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (4 months ago)
@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [iquito](https://github.com/iquito) (today)
-- [MichaelBrauner](https://github.com/MichaelBrauner) (4 days ago)
+- [iquito](https://github.com/iquito) (1 day ago)
+- [MichaelBrauner](https://github.com/MichaelBrauner) (5 days ago)
 - [duboiss](https://github.com/duboiss) (1 week ago)
 - [naderman](https://github.com/naderman) (1 week ago)
-- [barrycarton](https://github.com/barrycarton) (1 week ago)
+- [barrycarton](https://github.com/barrycarton) (2 weeks ago)
 
 #### 📫 How to reach me
 
