@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), 4 days ago) - GitHub Actions virtual environments
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
@@ -37,7 +38,6 @@
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 2 weeks ago) - Build Caddy with plugins
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.10.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.10.0), 2 weeks ago) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 3 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
