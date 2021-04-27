@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (4 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (6 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (6 days ago)
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (5 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (2 weeks ago)
 
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), today) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 1 day ago) - GitHub Actions virtual environments
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -45,7 +45,7 @@
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (2 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (3 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (4 months ago)
-- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (4 months ago)
+- [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (5 months ago)
 
 #### 📓 Gists I wrote
 
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [iquito](https://github.com/iquito) (4 days ago)
+- [iquito](https://github.com/iquito) (5 days ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 week ago)
 - [duboiss](https://github.com/duboiss) (2 weeks ago)
 - [naderman](https://github.com/naderman) (2 weeks ago)
