@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.23](https://github.com/Yaffle/EventSource/releases/tag/1.0.23), today) - a polyfill for http://www.w3.org/TR/eventsource/
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.3](https://github.com/dunglas/mercure/releases/tag/v0.11.3), 1 day ago) - Server-sent live updates: protocol and reference implementation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 2 days ago) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
@@ -37,7 +38,6 @@
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 2 weeks ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.16.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.16.0), 2 weeks ago) - Go library for the Cloudflare v4 API
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.1.9](https://github.com/caddyserver/xcaddy/releases/tag/v0.1.9), 2 weeks ago) - Build Caddy with plugins
 
 #### 📜 My recent blog posts
 
