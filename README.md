@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (6 days ago)
+- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.23](https://github.com/Yaffle/EventSource/releases/tag/1.0.23), today) - a polyfill for http://www.w3.org/TR/eventsource/
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.3](https://github.com/dunglas/mercure/releases/tag/v0.11.3), 1 day ago) - Server-sent live updates: protocol and reference implementation
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 2 days ago) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.23](https://github.com/Yaffle/EventSource/releases/tag/1.0.23), 1 day ago) - a polyfill for http://www.w3.org/TR/eventsource/
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.3](https://github.com/dunglas/mercure/releases/tag/v0.11.3), 2 days ago) - Server-sent live updates: protocol and reference implementation
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 3 days ago) - GitHub Actions virtual environments
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 4 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [iquito](https://github.com/iquito) (6 days ago)
+- [iquito](https://github.com/iquito) (1 week ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 week ago)
 - [duboiss](https://github.com/duboiss) (2 weeks ago)
 - [naderman](https://github.com/naderman) (2 weeks ago)
