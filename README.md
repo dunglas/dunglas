@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (today)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 week ago)
@@ -11,7 +12,6 @@
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 
 #### 🌱 My latest projects
 
