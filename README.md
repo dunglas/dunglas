@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (today)
-- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 day ago)
+- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (1 week ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (2 weeks ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.23](https://github.com/Yaffle/EventSource/releases/tag/1.0.23), 1 day ago) - a polyfill for http://www.w3.org/TR/eventsource/
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.3](https://github.com/dunglas/mercure/releases/tag/v0.11.3), 2 days ago) - Server-sent live updates: protocol and reference implementation
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 3 days ago) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 4 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.23](https://github.com/Yaffle/EventSource/releases/tag/1.0.23), 2 days ago) - a polyfill for http://www.w3.org/TR/eventsource/
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.3](https://github.com/dunglas/mercure/releases/tag/v0.11.3), 3 days ago) - Server-sent live updates: protocol and reference implementation
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 4 days ago) - GitHub Actions virtual environments
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 5 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (2 weeks ago)
+- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (3 weeks ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (2 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (3 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (4 months ago)
@@ -61,7 +61,7 @@
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 week ago)
 - [duboiss](https://github.com/duboiss) (2 weeks ago)
 - [naderman](https://github.com/naderman) (2 weeks ago)
-- [barrycarton](https://github.com/barrycarton) (2 weeks ago)
+- [barrycarton](https://github.com/barrycarton) (3 weeks ago)
 
 #### 📫 How to reach me
 
