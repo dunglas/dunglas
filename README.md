@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.2](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.2), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA2](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA2), today) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA2), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
@@ -37,7 +38,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), today) - The Symfony PHP framework
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.7](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.7), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.2.7](https://github.com/symfony/twig-bridge/releases/tag/v5.2.7), today) - Provides integration for Twig with various Symfony components.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.2.7](https://github.com/symfony/validator/releases/tag/v5.2.7), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent blog posts
 
