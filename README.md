@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 day ago)
-- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (2 days ago)
+- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.23](https://github.com/Yaffle/EventSource/releases/tag/1.0.23), 2 days ago) - a polyfill for http://www.w3.org/TR/eventsource/
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.3](https://github.com/dunglas/mercure/releases/tag/v0.11.3), 3 days ago) - Server-sent live updates: protocol and reference implementation
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 4 days ago) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 5 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.23](https://github.com/Yaffle/EventSource/releases/tag/1.0.23), 3 days ago) - a polyfill for http://www.w3.org/TR/eventsource/
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.11.3](https://github.com/dunglas/mercure/releases/tag/v0.11.3), 4 days ago) - Server-sent live updates: protocol and reference implementation
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210425.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210425.1), 5 days ago) - GitHub Actions virtual environments
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.7](https://github.com/buraksezer/olric/releases/tag/v0.3.7), 6 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -60,7 +60,7 @@
 - [iquito](https://github.com/iquito) (1 week ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 week ago)
 - [duboiss](https://github.com/duboiss) (2 weeks ago)
-- [naderman](https://github.com/naderman) (2 weeks ago)
+- [naderman](https://github.com/naderman) (3 weeks ago)
 - [barrycarton](https://github.com/barrycarton) (3 weeks ago)
 
 #### 📫 How to reach me
