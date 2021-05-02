@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.24](https://github.com/Yaffle/EventSource/releases/tag/1.0.24), today) - a polyfill for http://www.w3.org/TR/eventsource/
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.2](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.2), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA2](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA2), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
@@ -37,7 +38,6 @@
 - [symfony/config](https://github.com/symfony/config) ([v5.3.0-BETA2](https://github.com/symfony/config/releases/tag/v5.3.0-BETA2), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 1 day ago) - The Symfony PHP framework
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.7](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.7), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.2.7](https://github.com/symfony/twig-bridge/releases/tag/v5.2.7), 1 day ago) - Provides integration for Twig with various Symfony components.
 
 #### 📜 My recent blog posts
 
