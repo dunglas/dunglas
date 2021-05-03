@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-rc.1), today) - Fast, multi-platform web server with automatic HTTPS
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.24](https://github.com/Yaffle/EventSource/releases/tag/1.0.24), 1 day ago) - a polyfill for http://www.w3.org/TR/eventsource/
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.2](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.2), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA2), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -37,7 +38,6 @@
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA2](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA2), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.0-BETA2](https://github.com/symfony/config/releases/tag/v5.3.0-BETA2), 2 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 2 days ago) - The Symfony PHP framework
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.7](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.7), 2 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
