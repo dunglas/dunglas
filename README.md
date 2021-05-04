@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210503.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210503.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210503.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210503.2), today) - GitHub Actions virtual environments
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-rc.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.24](https://github.com/Yaffle/EventSource/releases/tag/1.0.24), 2 days ago) - a polyfill for http://www.w3.org/TR/eventsource/
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.2](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.2), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
