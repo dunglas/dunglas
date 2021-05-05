@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.11.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.11.3), today) - Server-sent live updates: protocol and reference implementation
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.31.0](https://github.com/symfony/maker-bundle/releases/tag/v1.31.0), today) - Symfony Maker Bundle
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210504.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210504.1), 1 day ago) - GitHub Actions virtual environments
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-rc.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
@@ -37,7 +38,6 @@
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA2](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA2), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA2), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA2), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA2](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA2), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
