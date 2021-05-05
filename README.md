@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (6 days ago)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([mercure-0.11.3](https://github.com/dunglas/mercure/releases/tag/mercure-0.11.3), today) - Server-sent live updates: protocol and reference implementation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210504.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210504.1), 1 day ago) - GitHub Actions virtual environments
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-rc.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.24](https://github.com/Yaffle/EventSource/releases/tag/1.0.24), 3 days ago) - a polyfill for http://www.w3.org/TR/eventsource/
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA2), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA2), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA2](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA2), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.0-BETA2](https://github.com/symfony/config/releases/tag/v5.3.0-BETA2), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
