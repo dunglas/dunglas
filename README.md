@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 week ago)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
-- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 week ago)
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.11.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.11.3), today) - Server-sent live updates: protocol and reference implementation
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.31.0](https://github.com/symfony/maker-bundle/releases/tag/v1.31.0), today) - Symfony Maker Bundle
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210504.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210504.1), 1 day ago) - GitHub Actions virtual environments
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-rc.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.24](https://github.com/Yaffle/EventSource/releases/tag/1.0.24), 3 days ago) - a polyfill for http://www.w3.org/TR/eventsource/
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.2](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.2), 4 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA2](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA2), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA2), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA2), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.11.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.11.3), 1 day ago) - Server-sent live updates: protocol and reference implementation
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.31.0](https://github.com/symfony/maker-bundle/releases/tag/v1.31.0), 1 day ago) - Symfony Maker Bundle
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210504.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210504.1), 2 days ago) - GitHub Actions virtual environments
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.0-rc.1), 3 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [Yaffle/EventSource](https://github.com/Yaffle/EventSource) ([1.0.24](https://github.com/Yaffle/EventSource/releases/tag/1.0.24), 4 days ago) - a polyfill for http://www.w3.org/TR/eventsource/
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.2](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.2), 5 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA2), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA2](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA2), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA2), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA2), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 #### 📜 My recent blog posts
 
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [iquito](https://github.com/iquito) (1 week ago)
+- [iquito](https://github.com/iquito) (2 weeks ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (2 weeks ago)
 - [duboiss](https://github.com/duboiss) (3 weeks ago)
 - [naderman](https://github.com/naderman) (3 weeks ago)
