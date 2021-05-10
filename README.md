@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210509.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210509.1), today) - GitHub Actions virtual environments
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA3), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA3), 1 day ago) - Provides integration for Twig with various Symfony components.
@@ -37,7 +38,6 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA3), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA3), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.0-BETA3](https://github.com/symfony/config/releases/tag/v5.3.0-BETA3), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA3), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
