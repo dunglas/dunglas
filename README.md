@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
-- [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
+- [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (4 days ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 week ago)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA3), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA3), today) - Provides integration for Twig with various Symfony components.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0-BETA3](https://github.com/symfony/serializer/releases/tag/v5.3.0-BETA3), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA3](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA3), today) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA3](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA3), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA3), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA3), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.0-BETA3](https://github.com/symfony/config/releases/tag/v5.3.0-BETA3), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA3), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA3), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA3), 1 day ago) - Provides integration for Twig with various Symfony components.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0-BETA3](https://github.com/symfony/serializer/releases/tag/v5.3.0-BETA3), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA3](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA3), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA3](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA3), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA3), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA3), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.0-BETA3](https://github.com/symfony/config/releases/tag/v5.3.0-BETA3), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA3), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
@@ -60,7 +60,7 @@
 - [iquito](https://github.com/iquito) (2 weeks ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (3 weeks ago)
 - [duboiss](https://github.com/duboiss) (4 weeks ago)
-- [naderman](https://github.com/naderman) (4 weeks ago)
+- [naderman](https://github.com/naderman) (1 month ago)
 - [barrycarton](https://github.com/barrycarton) (1 month ago)
 
 #### 📫 How to reach me
