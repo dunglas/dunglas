@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0](https://github.com/caddyserver/caddy/releases/tag/v2.4.0), today) - Fast, multi-platform web server with automatic HTTPS
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210509.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210509.1), today) - GitHub Actions virtual environments
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA3), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA3](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA3), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA3), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA3), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.0-BETA3](https://github.com/symfony/config/releases/tag/v5.3.0-BETA3), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
