@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210510.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210510.0), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210510.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210510.1), today) - GitHub Actions virtual environments
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0](https://github.com/caddyserver/caddy/releases/tag/v2.4.0), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA3), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA3), 2 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
