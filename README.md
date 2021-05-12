@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v3.4.48](https://github.com/symfony/http-kernel/releases/tag/v3.4.48), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v3.4.48](https://github.com/symfony/symfony/releases/tag/v3.4.48), today) - The Symfony PHP framework
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-BETA4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-BETA4), today) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA4), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA4](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA4), today) - Provides integration for Twig with various Symfony components.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA4](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA4), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA4), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.8](https://github.com/symfony/http-foundation/releases/tag/v5.2.8), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/config](https://github.com/symfony/config) ([v5.2.8](https://github.com/symfony/config/releases/tag/v5.2.8), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210510.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210510.1), 1 day ago) - GitHub Actions virtual environments
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.0](https://github.com/caddyserver/caddy/releases/tag/v2.4.0), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA3), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA3), 3 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA3), 3 days ago) - Provides integration for Twig with various Symfony components.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0-BETA3](https://github.com/symfony/serializer/releases/tag/v5.3.0-BETA3), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-BETA3](https://github.com/symfony/routing/releases/tag/v5.3.0-BETA3), 3 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-BETA3](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-BETA3), 3 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 #### 📜 My recent blog posts
 
