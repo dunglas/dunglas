@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.31.1](https://github.com/symfony/maker-bundle/releases/tag/v1.31.1), today) - Symfony Maker Bundle
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-BETA4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-BETA4), today) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA4), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
@@ -37,7 +38,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), today) - The Symfony PHP framework
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.8](https://github.com/symfony/http-foundation/releases/tag/v5.2.8), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/config](https://github.com/symfony/config) ([v5.2.8](https://github.com/symfony/config/releases/tag/v5.2.8), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210510.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210510.1), 1 day ago) - GitHub Actions virtual environments
 
 #### 📜 My recent blog posts
 
