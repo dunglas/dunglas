@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.31.1](https://github.com/symfony/maker-bundle/releases/tag/v1.31.1), 4 days ago) - Symfony Maker Bundle
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-BETA4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-BETA4), 4 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA4), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA4](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA4), 4 days ago) - Provides integration for Twig with various Symfony components.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA4](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA4), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA4), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 4 days ago) - The Symfony PHP framework
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.8](https://github.com/symfony/http-foundation/releases/tag/v5.2.8), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/config](https://github.com/symfony/config) ([v5.2.8](https://github.com/symfony/config/releases/tag/v5.2.8), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.31.1](https://github.com/symfony/maker-bundle/releases/tag/v1.31.1), 5 days ago) - Symfony Maker Bundle
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-BETA4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-BETA4), 5 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA4), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA4](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA4), 5 days ago) - Provides integration for Twig with various Symfony components.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA4](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA4), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA4), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 5 days ago) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.8](https://github.com/symfony/http-foundation/releases/tag/v5.2.8), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/config](https://github.com/symfony/config) ([v5.2.8](https://github.com/symfony/config/releases/tag/v5.2.8), 5 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (4 months ago)
+- [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (5 months ago)
 - [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (5 months ago)
 - [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (11 months ago)
 - [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (11 months ago)
