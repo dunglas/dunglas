@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/flex](https://github.com/symfony/flex) ([v1.13.2](https://github.com/symfony/flex/releases/tag/v1.13.2), today) - Composer plugin for Symfony
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.2](https://github.com/symfony/maker-bundle/releases/tag/v1.29.2), today) - Symfony Maker Bundle
-- [symfony/flex](https://github.com/symfony/flex) ([v1.13.1](https://github.com/symfony/flex/releases/tag/v1.13.1), today) - Composer plugin for Symfony
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210517.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210517.1), today) - GitHub Actions virtual environments
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-BETA4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-BETA4), 6 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
