@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/flex](https://github.com/symfony/flex) ([v1.13.2](https://github.com/symfony/flex/releases/tag/v1.13.2), 1 day ago) - Composer plugin for Symfony
+- [symfony/flex](https://github.com/symfony/flex) ([v1.13.3](https://github.com/symfony/flex/releases/tag/v1.13.3), today) - Composer plugin for Symfony
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.2](https://github.com/symfony/maker-bundle/releases/tag/v1.29.2), 1 day ago) - Symfony Maker Bundle
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210517.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210517.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-BETA4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-BETA4), 1 week ago) - The Twig Bundle provides configuration for using Twig in your applications.
