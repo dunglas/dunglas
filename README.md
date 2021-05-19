@@ -9,8 +9,8 @@
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (3 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
-- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (3 weeks ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (3 weeks ago)
+- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (3 weeks ago)
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.2.9](https://github.com/symfony/twig-bundle/releases/tag/v5.2.9), today) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.9](https://github.com/symfony/framework-bundle/releases/tag/v5.2.9), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.9](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.9), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.2.9](https://github.com/symfony/validator/releases/tag/v5.2.9), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.2.9](https://github.com/symfony/serializer/releases/tag/v5.2.9), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.2.9](https://github.com/symfony/routing/releases/tag/v5.2.9), today) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.2.9](https://github.com/symfony/http-kernel/releases/tag/v5.2.9), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.2.9](https://github.com/symfony/dependency-injection/releases/tag/v5.2.9), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.9](https://github.com/symfony/symfony/releases/tag/v5.2.9), today) - The Symfony PHP framework
 - [symfony/flex](https://github.com/symfony/flex) ([v1.13.3](https://github.com/symfony/flex/releases/tag/v1.13.3), today) - Composer plugin for Symfony
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.29.2](https://github.com/symfony/maker-bundle/releases/tag/v1.29.2), 1 day ago) - Symfony Maker Bundle
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210517.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210517.1), 1 day ago) - GitHub Actions virtual environments
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-BETA4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-BETA4), 1 week ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-BETA4](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-BETA4), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-BETA4](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-BETA4), 1 week ago) - Provides integration for Twig with various Symfony components.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-BETA4](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-BETA4), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-BETA4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-BETA4), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
