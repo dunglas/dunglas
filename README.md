@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [JoKoT3](https://github.com/JoKoT3) (today)
 - [iquito](https://github.com/iquito) (3 weeks ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 month ago)
 - [duboiss](https://github.com/duboiss) (1 month ago)
 - [naderman](https://github.com/naderman) (1 month ago)
-- [barrycarton](https://github.com/barrycarton) (1 month ago)
 
 #### 📫 How to reach me
 
