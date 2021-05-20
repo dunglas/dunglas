@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 days ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (2 weeks ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (3 weeks ago)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (3 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 weeks ago)
+- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (3 weeks ago)
-- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (3 weeks ago)
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [nouchka](https://github.com/nouchka) (today)
 - [JoKoT3](https://github.com/JoKoT3) (1 day ago)
 - [iquito](https://github.com/iquito) (4 weeks ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 month ago)
 - [duboiss](https://github.com/duboiss) (1 month ago)
-- [naderman](https://github.com/naderman) (1 month ago)
 
 #### 📫 How to reach me
 
