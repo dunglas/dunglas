@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 day ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
-- [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (1 week ago)
-- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (2 weeks ago)
+- [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (2 weeks ago)
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (3 weeks ago)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (3 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (3 weeks ago)
 - [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (3 weeks ago)
-- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (3 weeks ago)
+- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), today) - Go library for the Cloudflare v4 API
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), today) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-RC1), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0-RC1](https://github.com/symfony/validator/releases/tag/v5.3.0-RC1), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v5.3.0-RC1), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-RC1](https://github.com/symfony/routing/releases/tag/v5.3.0-RC1), today) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-RC1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-RC1](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-RC1), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v5.3.0-RC1), today) - The Symfony PHP framework
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-RC1), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0-RC1](https://github.com/symfony/validator/releases/tag/v5.3.0-RC1), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v5.3.0-RC1), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-RC1](https://github.com/symfony/routing/releases/tag/v5.3.0-RC1), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-RC1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-RC1](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-RC1), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v5.3.0-RC1), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
@@ -51,14 +51,14 @@
 
 - [Proposal: new public API for API Platform and the TypeScript library](https://gist.github.com/4da2026f34bf7f18e1db955ef8a9b417) (5 months ago)
 - [Working on API Platform during #SymfonyHackday](https://gist.github.com/3949272d40e6390cdd2850a4f312a02a) (5 months ago)
-- [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (11 months ago)
-- [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (11 months ago)
-- [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (11 months ago)
+- [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (1 year ago)
+- [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (1 year ago)
+- [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [JoKoT3](https://github.com/JoKoT3) (today)
-- [iquito](https://github.com/iquito) (3 weeks ago)
+- [JoKoT3](https://github.com/JoKoT3) (1 day ago)
+- [iquito](https://github.com/iquito) (4 weeks ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 month ago)
 - [duboiss](https://github.com/duboiss) (1 month ago)
 - [naderman](https://github.com/naderman) (1 month ago)
