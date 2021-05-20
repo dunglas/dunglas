@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.1), today) - Fast, multi-platform web server with automatic HTTPS
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -37,7 +38,6 @@
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.0-RC1](https://github.com/symfony/routing/releases/tag/v5.3.0-RC1), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v5.3.0-RC1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.0-RC1](https://github.com/symfony/dependency-injection/releases/tag/v5.3.0-RC1), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v5.3.0-RC1), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
