@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (2 weeks ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (3 weeks ago)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (3 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (3 weeks ago)
-- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (3 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 weeks ago)
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (4 weeks ago)
+- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (4 weeks ago)
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), today) - Provides integration for Twig with various Symfony components.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-RC1), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.0-RC1](https://github.com/symfony/config/releases/tag/v5.3.0-RC1), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.1), today) - Fast, multi-platform web server with automatic HTTPS
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-RC1), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0-RC1](https://github.com/symfony/validator/releases/tag/v5.3.0-RC1), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v5.3.0-RC1), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 1 day ago) - Provides integration for Twig with various Symfony components.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-RC1), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.0-RC1](https://github.com/symfony/config/releases/tag/v5.3.0-RC1), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), 2 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-RC1), 2 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0-RC1](https://github.com/symfony/validator/releases/tag/v5.3.0-RC1), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v5.3.0-RC1), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent blog posts
 
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (1 month ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (3 months ago)
-- [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (3 months ago)
+- [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (4 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (5 months ago)
 - [The Mercure.rocks Hub is now based on Caddy Web Server](http://feedproxy.google.com/~r/dunglas/~3/MjBonxZ_8uQ/) (5 months ago)
 
@@ -57,9 +57,9 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Squareseidh](https://github.com/Squareseidh) (today)
-- [nouchka](https://github.com/nouchka) (today)
-- [JoKoT3](https://github.com/JoKoT3) (1 day ago)
+- [Squareseidh](https://github.com/Squareseidh) (1 day ago)
+- [nouchka](https://github.com/nouchka) (1 day ago)
+- [JoKoT3](https://github.com/JoKoT3) (2 days ago)
 - [iquito](https://github.com/iquito) (4 weeks ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 month ago)
 
