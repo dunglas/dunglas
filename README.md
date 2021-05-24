@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (today)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (2 weeks ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (3 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 3 days ago) - Provides integration for Twig with various Symfony components.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-RC1), 3 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.0-RC1](https://github.com/symfony/config/releases/tag/v5.3.0-RC1), 3 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.1), 3 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), 4 days ago) - Go library for the Cloudflare v4 API
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), 4 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-RC1), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0-RC1](https://github.com/symfony/validator/releases/tag/v5.3.0-RC1), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 4 days ago) - Provides integration for Twig with various Symfony components.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-RC1), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.0-RC1](https://github.com/symfony/config/releases/tag/v5.3.0-RC1), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.1), 4 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), 5 days ago) - Go library for the Cloudflare v4 API
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), 5 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0-RC1), 5 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0-RC1](https://github.com/symfony/validator/releases/tag/v5.3.0-RC1), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent blog posts
 
@@ -57,9 +57,9 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Squareseidh](https://github.com/Squareseidh) (3 days ago)
-- [nouchka](https://github.com/nouchka) (3 days ago)
-- [JoKoT3](https://github.com/JoKoT3) (4 days ago)
+- [Squareseidh](https://github.com/Squareseidh) (4 days ago)
+- [nouchka](https://github.com/nouchka) (4 days ago)
+- [JoKoT3](https://github.com/JoKoT3) (5 days ago)
 - [iquito](https://github.com/iquito) (1 month ago)
 - [MichaelBrauner](https://github.com/MichaelBrauner) (1 month ago)
 
