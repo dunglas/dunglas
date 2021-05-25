@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210525.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210525.2), today) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), today) - Use the FOSHttpCache library in your Symfony projects
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.0), today) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210523.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210523.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 5 days ago) - Provides integration for Twig with various Symfony components.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-RC1), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.0-RC1](https://github.com/symfony/config/releases/tag/v5.3.0-RC1), 5 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
