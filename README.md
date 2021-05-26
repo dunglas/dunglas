@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210525.0), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210525.0), today) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 6 days ago) - Provides integration for Twig with various Symfony components.
