@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.12.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.12.0), today) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210525.0), 1 day ago) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), 2 days ago) - Use the FOSHttpCache library in your Symfony projects
@@ -37,7 +38,6 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.1](https://github.com/caddyserver/caddy/releases/tag/v2.4.1), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.17.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.17.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0-RC1), 1 week ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent blog posts
 
