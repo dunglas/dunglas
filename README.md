@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [jdehais](https://github.com/jdehais) (today)
 - [Squareseidh](https://github.com/Squareseidh) (1 week ago)
 - [nouchka](https://github.com/nouchka) (1 week ago)
 - [JoKoT3](https://github.com/JoKoT3) (1 week ago)
 - [iquito](https://github.com/iquito) (1 month ago)
-- [MichaelBrauner](https://github.com/MichaelBrauner) (1 month ago)
 
 #### 📫 How to reach me
 
