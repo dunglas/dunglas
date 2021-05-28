@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (today)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (3 weeks ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (4 weeks ago)
-- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (4 weeks ago)
+- [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 month ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (1 month ago)
-- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
-- [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) -  (1 month ago)
+- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database). (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.2](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.2), today) - The OpenTelemetry PHP Library
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.12.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.12.0), today) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210525.0), 1 day ago) - GitHub Actions virtual environments
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), 2 days ago) - Use the FOSHttpCache library in your Symfony projects
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.2](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.2), 1 day ago) - The OpenTelemetry PHP Library
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.12.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.12.0), 1 day ago) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210525.0), 2 days ago) - GitHub Actions virtual environments
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), 3 days ago) - Use the FOSHttpCache library in your Symfony projects
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 1 week ago) - Provides integration for Twig with various Symfony components.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-RC1), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.0-RC1](https://github.com/symfony/config/releases/tag/v5.3.0-RC1), 1 week ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jdehais](https://github.com/jdehais) (today)
+- [jdehais](https://github.com/jdehais) (1 day ago)
 - [Squareseidh](https://github.com/Squareseidh) (1 week ago)
 - [nouchka](https://github.com/nouchka) (1 week ago)
 - [JoKoT3](https://github.com/JoKoT3) (1 week ago)
