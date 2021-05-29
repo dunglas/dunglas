@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (today)
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 day ago)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 day ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (3 weeks ago)
-- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (4 weeks ago)
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 month ago)
 - [blackfireio/go-blackfire](https://github.com/blackfireio/go-blackfire) - The Blackfire Go SDK (1 month ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.2](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.2), 1 day ago) - The OpenTelemetry PHP Library
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.12.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.12.0), 1 day ago) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210525.0), 2 days ago) - GitHub Actions virtual environments
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), 3 days ago) - Use the FOSHttpCache library in your Symfony projects
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.2](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.2), 2 days ago) - The OpenTelemetry PHP Library
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.12.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.12.0), 2 days ago) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210525.0), 3 days ago) - GitHub Actions virtual environments
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), 4 days ago) - Use the FOSHttpCache library in your Symfony projects
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 1 week ago) - Provides integration for Twig with various Symfony components.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v5.3.0-RC1), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.0-RC1](https://github.com/symfony/config/releases/tag/v5.3.0-RC1), 1 week ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (today)
+- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (1 day ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (1 month ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (3 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (4 months ago)
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jdehais](https://github.com/jdehais) (1 day ago)
+- [jdehais](https://github.com/jdehais) (2 days ago)
 - [Squareseidh](https://github.com/Squareseidh) (1 week ago)
 - [nouchka](https://github.com/nouchka) (1 week ago)
 - [JoKoT3](https://github.com/JoKoT3) (1 week ago)
