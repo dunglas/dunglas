@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.2), today) - Deliver Go binaries as fast and easily as possible
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.2](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.2), 3 days ago) - The OpenTelemetry PHP Library
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v1.12.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v1.12.0), 3 days ago) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210525.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210525.0), 4 days ago) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.10.3](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.10.3), 5 days ago) - Use the FOSHttpCache library in your Symfony projects
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0-RC1](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0-RC1), 1 week ago) - Provides integration for Twig with various Symfony components.
