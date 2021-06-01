@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210531.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210531.1), 1 day ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210531.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210531.0), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.167.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.167.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
