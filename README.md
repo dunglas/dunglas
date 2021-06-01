@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (3 days ago)
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (4 days ago)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (4 days ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (5 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (3 weeks ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 month ago)
@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210531.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210531.1), today) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.167.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.167.0), today) - Deliver Go binaries as fast and easily as possible
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0), today) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0), today) - Provides integration for Twig with various Symfony components.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0](https://github.com/symfony/validator/releases/tag/v5.3.0), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0](https://github.com/symfony/serializer/releases/tag/v5.3.0), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0](https://github.com/symfony/routing/releases/tag/v5.3.0), today) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0](https://github.com/symfony/http-kernel/releases/tag/v5.3.0), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210531.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210531.1), 1 day ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.167.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.167.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.0](https://github.com/symfony/twig-bundle/releases/tag/v5.3.0), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.0](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.0), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.0](https://github.com/symfony/twig-bridge/releases/tag/v5.3.0), 1 day ago) - Provides integration for Twig with various Symfony components.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.0](https://github.com/symfony/validator/releases/tag/v5.3.0), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.0](https://github.com/symfony/serializer/releases/tag/v5.3.0), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.0](https://github.com/symfony/routing/releases/tag/v5.3.0), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.0](https://github.com/symfony/http-kernel/releases/tag/v5.3.0), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent blog posts
 
-- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (3 days ago)
+- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (4 days ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (1 month ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (3 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (4 months ago)
-- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (5 months ago)
+- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (6 months ago)
 
 #### 📓 Gists I wrote
 
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jdehais](https://github.com/jdehais) (4 days ago)
+- [jdehais](https://github.com/jdehais) (5 days ago)
 - [Squareseidh](https://github.com/Squareseidh) (1 week ago)
 - [nouchka](https://github.com/nouchka) (1 week ago)
 - [JoKoT3](https://github.com/JoKoT3) (1 week ago)
