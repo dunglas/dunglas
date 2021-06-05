@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.1](https://github.com/symfony/serializer/releases/tag/v5.3.1), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.1](https://github.com/symfony/http-kernel/releases/tag/v5.3.1), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
