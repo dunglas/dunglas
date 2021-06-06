@@ -57,11 +57,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [cedricziel](https://github.com/cedricziel) (today)
 - [ismail1432](https://github.com/ismail1432) (1 day ago)
 - [jdehais](https://github.com/jdehais) (1 week ago)
 - [Squareseidh](https://github.com/Squareseidh) (2 weeks ago)
 - [nouchka](https://github.com/nouchka) (2 weeks ago)
-- [JoKoT3](https://github.com/JoKoT3) (2 weeks ago)
 
 #### 📫 How to reach me
 
