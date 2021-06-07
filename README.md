@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210606.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210606.1), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.1](https://github.com/symfony/serializer/releases/tag/v5.3.1), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.0), 6 days ago) - A QUIC implementation in pure go
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.2.10](https://github.com/symfony/twig-bundle/releases/tag/v5.2.10), 6 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.10](https://github.com/symfony/framework-bundle/releases/tag/v5.2.10), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.2.10](https://github.com/symfony/phpunit-bridge/releases/tag/v5.2.10), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
