@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (6 days ago)
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (6 days ago)
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
+- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (1 week ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 month ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (1 month ago)
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210606.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210606.1), today) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.1](https://github.com/symfony/serializer/releases/tag/v5.3.1), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.1](https://github.com/symfony/http-kernel/releases/tag/v5.3.1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.1](https://github.com/symfony/http-foundation/releases/tag/v5.3.1), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 5 days ago) - The Symfony PHP framework
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.0), 6 days ago) - A QUIC implementation in pure go
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.2.10](https://github.com/symfony/twig-bundle/releases/tag/v5.2.10), 6 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.10](https://github.com/symfony/framework-bundle/releases/tag/v5.2.10), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210606.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210606.1), 1 day ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.1](https://github.com/symfony/serializer/releases/tag/v5.3.1), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.1](https://github.com/symfony/http-kernel/releases/tag/v5.3.1), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.1](https://github.com/symfony/http-foundation/releases/tag/v5.3.1), 6 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 6 days ago) - The Symfony PHP framework
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.0), 1 week ago) - A QUIC implementation in pure go
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.2.10](https://github.com/symfony/twig-bundle/releases/tag/v5.2.10), 1 week ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.10](https://github.com/symfony/framework-bundle/releases/tag/v5.2.10), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent blog posts
 
 - [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (1 week ago)
-- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (1 month ago)
+- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (2 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (3 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (4 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (6 months ago)
@@ -57,8 +57,8 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cedricziel](https://github.com/cedricziel) (1 day ago)
-- [ismail1432](https://github.com/ismail1432) (2 days ago)
+- [cedricziel](https://github.com/cedricziel) (2 days ago)
+- [ismail1432](https://github.com/ismail1432) (3 days ago)
 - [jdehais](https://github.com/jdehais) (1 week ago)
 - [Squareseidh](https://github.com/Squareseidh) (2 weeks ago)
 - [nouchka](https://github.com/nouchka) (2 weeks ago)
