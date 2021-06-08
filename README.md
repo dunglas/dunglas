@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210606.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210606.1), 1 day ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210607.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210607.1), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.1](https://github.com/symfony/serializer/releases/tag/v5.3.1), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
