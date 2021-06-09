@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210608.6](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210608.6), today) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.3](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.3), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.1](https://github.com/golang-jwt/jwt/releases/tag/v3.2.1), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210607.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210607.1), 1 day ago) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.1](https://github.com/symfony/serializer/releases/tag/v5.3.1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
