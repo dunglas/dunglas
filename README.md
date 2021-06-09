@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210608.6](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210608.6), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210608.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210608.0), today) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.3](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.3), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.1](https://github.com/golang-jwt/jwt/releases/tag/v3.2.1), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
