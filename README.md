@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
 - [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (1 week ago)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more. (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 week ago)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (2 weeks ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 month ago)
 - [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs) - DocSearch - Configurations (1 month ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210609.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210609.1), today) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.3](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.3), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.1](https://github.com/golang-jwt/jwt/releases/tag/v3.2.1), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210609.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210609.1), 1 day ago) - GitHub Actions virtual environments
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.3](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.3), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.1](https://github.com/golang-jwt/jwt/releases/tag/v3.2.1), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.1](https://github.com/symfony/serializer/releases/tag/v5.3.1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.1](https://github.com/symfony/http-kernel/releases/tag/v5.3.1), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (1 week ago)
+- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (2 weeks ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (2 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (3 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (4 months ago)
@@ -57,8 +57,8 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cedricziel](https://github.com/cedricziel) (4 days ago)
-- [ismail1432](https://github.com/ismail1432) (5 days ago)
+- [cedricziel](https://github.com/cedricziel) (5 days ago)
+- [ismail1432](https://github.com/ismail1432) (6 days ago)
 - [jdehais](https://github.com/jdehais) (2 weeks ago)
 - [Squareseidh](https://github.com/Squareseidh) (3 weeks ago)
 - [nouchka](https://github.com/nouchka) (3 weeks ago)
