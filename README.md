@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.2), today) - Fast, multi-platform web server with automatic HTTPS
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210609.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210609.1), 2 days ago) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.3](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.3), 4 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.1](https://github.com/golang-jwt/jwt/releases/tag/v3.2.1), 4 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.1](https://github.com/symfony/http-kernel/releases/tag/v5.3.1), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.1](https://github.com/symfony/http-foundation/releases/tag/v5.3.1), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 1 week ago) - The Symfony PHP framework
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.0), 1 week ago) - A QUIC implementation in pure go
 
 #### 📜 My recent blog posts
 
