@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20210614.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20210614.1), today) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.4](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.4), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.2), 3 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210609.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210609.1), 5 days ago) - GitHub Actions virtual environments
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.1](https://github.com/golang-jwt/jwt/releases/tag/v3.2.1), 1 week ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.1](https://github.com/symfony/validator/releases/tag/v5.3.1), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
