@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.5](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.5), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.5](https://github.com/api-platform/api-platform/releases/tag/v2.6.5), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210614.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210614.1), 1 day ago) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.4](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.4), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.2](https://github.com/caddyserver/caddy/releases/tag/v2.4.2), 4 days ago) - Fast, multi-platform web server with automatic HTTPS
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.1](https://github.com/golang-jwt/jwt/releases/tag/v3.2.1), 1 week ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
