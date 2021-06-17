@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.3](https://github.com/caddyserver/caddy/releases/tag/v2.4.3), today) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.2](https://github.com/symfony/validator/releases/tag/v5.3.2), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.2](https://github.com/symfony/serializer/releases/tag/v5.3.2), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [symfony/config](https://github.com/symfony/config) ([v5.3.2](https://github.com/symfony/config/releases/tag/v5.3.2), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), today) - The Symfony PHP framework
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210616.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210616.0), today) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.5](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.5), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 
 #### 📜 My recent blog posts
 
