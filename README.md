@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.32.0](https://github.com/symfony/maker-bundle/releases/tag/v1.32.0), today) - Symfony Maker Bundle
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.1), today) - A QUIC implementation in pure go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.3](https://github.com/caddyserver/caddy/releases/tag/v2.4.3), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -37,7 +38,6 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.2](https://github.com/symfony/http-foundation/releases/tag/v5.3.2), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.2](https://github.com/symfony/dependency-injection/releases/tag/v5.3.2), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.2](https://github.com/symfony/config/releases/tag/v5.3.2), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
