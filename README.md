@@ -60,8 +60,8 @@
 - [cedricziel](https://github.com/cedricziel) (1 week ago)
 - [ismail1432](https://github.com/ismail1432) (2 weeks ago)
 - [jdehais](https://github.com/jdehais) (3 weeks ago)
-- [Squareseidh](https://github.com/Squareseidh) (1 month ago)
 - [nouchka](https://github.com/nouchka) (1 month ago)
+- [iquito](https://github.com/iquito) (1 month ago)
 
 #### 📫 How to reach me
 
