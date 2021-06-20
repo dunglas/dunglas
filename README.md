@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.6](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.6), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.170.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.170.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.32.0](https://github.com/symfony/maker-bundle/releases/tag/v1.32.0), 2 days ago) - Symfony Maker Bundle
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.1), 2 days ago) - A QUIC implementation in pure go
@@ -37,7 +38,6 @@
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.2](https://github.com/symfony/serializer/releases/tag/v5.3.2), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.2](https://github.com/symfony/http-kernel/releases/tag/v5.3.2), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.2](https://github.com/symfony/http-foundation/releases/tag/v5.3.2), 3 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.2](https://github.com/symfony/dependency-injection/releases/tag/v5.3.2), 3 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
