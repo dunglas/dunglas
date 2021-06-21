@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210620.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210620.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210620.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210620.1), today) - GitHub Actions virtual environments
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.18.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.18.0), today) - Go library for the Cloudflare v4 API
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), today) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.6](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.6), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
