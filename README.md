@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), today) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.6](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.6), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.170.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.170.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.32.0](https://github.com/symfony/maker-bundle/releases/tag/v1.32.0), 3 days ago) - Symfony Maker Bundle
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.1), 3 days ago) - A QUIC implementation in pure go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.3](https://github.com/caddyserver/caddy/releases/tag/v2.4.3), 4 days ago) - Fast, multi-platform web server with automatic HTTPS
