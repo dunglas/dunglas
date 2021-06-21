@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210621.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210621.1), today) - GitHub Actions virtual environments
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.18.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.18.0), today) - Go library for the Cloudflare v4 API
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), today) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.6](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.6), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
@@ -37,7 +38,6 @@
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.2](https://github.com/symfony/validator/releases/tag/v5.3.2), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.2](https://github.com/symfony/serializer/releases/tag/v5.3.2), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.2](https://github.com/symfony/http-kernel/releases/tag/v5.3.2), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent blog posts
 
