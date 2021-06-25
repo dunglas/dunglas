@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.7](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.7), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210620.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210620.1), 3 days ago) - GitHub Actions virtual environments
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.18.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.18.0), 3 days ago) - Go library for the Cloudflare v4 API
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.32.0](https://github.com/symfony/maker-bundle/releases/tag/v1.32.0), 6 days ago) - Symfony Maker Bundle
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.1), 6 days ago) - A QUIC implementation in pure go
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.7](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.7), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210620.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210620.1), 4 days ago) - GitHub Actions virtual environments
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.18.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.18.0), 4 days ago) - Go library for the Cloudflare v4 API
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.32.0](https://github.com/symfony/maker-bundle/releases/tag/v1.32.0), 1 week ago) - Symfony Maker Bundle
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.1), 1 week ago) - A QUIC implementation in pure go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.3](https://github.com/caddyserver/caddy/releases/tag/v2.4.3), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.2](https://github.com/symfony/validator/releases/tag/v5.3.2), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (3 weeks ago)
+- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (4 weeks ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (2 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (4 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (5 months ago)
