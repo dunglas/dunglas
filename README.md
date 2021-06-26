@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.7](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.7), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210620.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210620.1), 4 days ago) - GitHub Actions virtual environments
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.18.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.18.0), 4 days ago) - Go library for the Cloudflare v4 API
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.7](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.7), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210620.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210620.1), 5 days ago) - GitHub Actions virtual environments
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.18.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.18.0), 5 days ago) - Go library for the Cloudflare v4 API
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.32.0](https://github.com/symfony/maker-bundle/releases/tag/v1.32.0), 1 week ago) - Symfony Maker Bundle
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.1), 1 week ago) - A QUIC implementation in pure go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.4.3](https://github.com/caddyserver/caddy/releases/tag/v2.4.3), 1 week ago) - Fast, multi-platform web server with automatic HTTPS
@@ -58,8 +58,8 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [cedricziel](https://github.com/cedricziel) (2 weeks ago)
-- [ismail1432](https://github.com/ismail1432) (2 weeks ago)
-- [jdehais](https://github.com/jdehais) (4 weeks ago)
+- [ismail1432](https://github.com/ismail1432) (3 weeks ago)
+- [jdehais](https://github.com/jdehais) (1 month ago)
 - [nouchka](https://github.com/nouchka) (1 month ago)
 - [iquito](https://github.com/iquito) (2 months ago)
 
