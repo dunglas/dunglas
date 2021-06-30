@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (3 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (4 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210628.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210628.1), today) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.8](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.8), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210628.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210628.1), 1 day ago) - GitHub Actions virtual environments
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.8](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.8), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.18.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.18.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.32.0](https://github.com/symfony/maker-bundle/releases/tag/v1.32.0), 1 week ago) - Symfony Maker Bundle
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.1), 1 week ago) - A QUIC implementation in pure go
