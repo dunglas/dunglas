@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (5 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (6 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), today) - Symfony Maker Bundle
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.3), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.3), 1 day ago) - Provides integration for Twig with various Symfony components.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.3](https://github.com/symfony/validator/releases/tag/v5.3.3), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.3](https://github.com/symfony/http-kernel/releases/tag/v5.3.3), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.3](https://github.com/symfony/http-foundation/releases/tag/v5.3.3), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.3), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.3](https://github.com/symfony/config/releases/tag/v5.3.3), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 1 day ago) - Symfony Maker Bundle
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 2 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.3), 2 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.3), 2 days ago) - Provides integration for Twig with various Symfony components.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.3](https://github.com/symfony/validator/releases/tag/v5.3.3), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.3](https://github.com/symfony/http-kernel/releases/tag/v5.3.3), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.3](https://github.com/symfony/http-foundation/releases/tag/v5.3.3), 2 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.3), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.3](https://github.com/symfony/config/releases/tag/v5.3.3), 2 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
