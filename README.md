@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 days ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 weeks ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (3 weeks ago)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 5 days ago) - Symfony Maker Bundle
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 6 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
