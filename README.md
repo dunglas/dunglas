@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), today) - Deliver Go binaries as fast and easily as possible
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 5 days ago) - Symfony Maker Bundle
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 6 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.3), 6 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.3), 6 days ago) - Provides integration for Twig with various Symfony components.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.3](https://github.com/symfony/validator/releases/tag/v5.3.3), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.3](https://github.com/symfony/http-kernel/releases/tag/v5.3.3), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.3](https://github.com/symfony/http-foundation/releases/tag/v5.3.3), 6 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.3), 6 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 6 days ago) - Symfony Maker Bundle
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 1 week ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.3), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.3), 1 week ago) - Provides integration for Twig with various Symfony components.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.3](https://github.com/symfony/validator/releases/tag/v5.3.3), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.3](https://github.com/symfony/http-kernel/releases/tag/v5.3.3), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.3](https://github.com/symfony/http-foundation/releases/tag/v5.3.3), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.3](https://github.com/symfony/dependency-injection/releases/tag/v5.3.3), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
