@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (5 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (6 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 weeks ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.0](https://github.com/dunglas/mercure/releases/tag/v0.12.0), today) - Server-sent live updates: protocol and reference implementation
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.9](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.9), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.0](https://github.com/dunglas/mercure/releases/tag/v0.12.0), 1 day ago) - Server-sent live updates: protocol and reference implementation
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.9](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.9), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 1 week ago) - Symfony Maker Bundle
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 1 week ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
