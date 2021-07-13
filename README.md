@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210712.4), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210712.4), today) - GitHub Actions virtual environments
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.0](https://github.com/symfony/panther/releases/tag/v1.1.0), today) - A browser testing and web crawling library for PHP and Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 1 day ago) - Server-sent live updates: protocol and reference implementation
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.9](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.9), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
