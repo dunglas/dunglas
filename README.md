@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210712.4), today) - GitHub Actions virtual environments
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.0](https://github.com/symfony/panther/releases/tag/v1.1.0), today) - A browser testing and web crawling library for PHP and Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 1 day ago) - Server-sent live updates: protocol and reference implementation
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20210712.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20210712.0), 1 day ago) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.9](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.9), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 1 week ago) - Symfony Maker Bundle
