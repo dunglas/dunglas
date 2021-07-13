@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/panther](https://github.com/symfony/panther) ([v1.1.0](https://github.com/symfony/panther/releases/tag/v1.1.0), today) - A browser testing and web crawling library for PHP and Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 1 day ago) - Server-sent live updates: protocol and reference implementation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20210712.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20210712.0), 1 day ago) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.9](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.9), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
@@ -37,7 +38,6 @@
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.3), 1 week ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.3](https://github.com/symfony/twig-bridge/releases/tag/v5.3.3), 1 week ago) - Provides integration for Twig with various Symfony components.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.3](https://github.com/symfony/validator/releases/tag/v5.3.3), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent blog posts
 
