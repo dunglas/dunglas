@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 day ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 weeks ago)
