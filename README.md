@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), today) - A QUIC implementation in pure go
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.19.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.19.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210712.4), 2 days ago) - GitHub Actions virtual environments
@@ -37,7 +38,6 @@
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 2 weeks ago) - Symfony Maker Bundle
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 2 weeks ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.3](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.3), 2 weeks ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
