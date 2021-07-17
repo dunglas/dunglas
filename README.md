@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 weeks ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (3 weeks ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 weeks ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 weeks ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 month ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 month ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.10](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.10), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), 1 day ago) - A QUIC implementation in pure go
-- [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 2 days ago) - A browser testing and web crawling library for PHP and Symfony
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.19.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.19.0), 2 days ago) - Go library for the Cloudflare v4 API
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210712.4), 3 days ago) - GitHub Actions virtual environments
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 4 days ago) - Server-sent live updates: protocol and reference implementation
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.10](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.10), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), 2 days ago) - A QUIC implementation in pure go
+- [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 3 days ago) - A browser testing and web crawling library for PHP and Symfony
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.19.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.19.0), 3 days ago) - Go library for the Cloudflare v4 API
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210712.4), 4 days ago) - GitHub Actions virtual environments
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 5 days ago) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 2 weeks ago) - Symfony Maker Bundle
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 2 weeks ago) - The Twig Bundle provides configuration for using Twig in your applications.
@@ -43,7 +43,7 @@
 
 - [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (1 month ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (3 months ago)
-- [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (4 months ago)
+- [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (5 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (5 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (7 months ago)
 
