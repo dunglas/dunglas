@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210719.0), today) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.11](https://github.com/buraksezer/olric/releases/tag/v0.3.11), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210718.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210718.2), today) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), 4 days ago) - A QUIC implementation in pure go
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 5 days ago) - A browser testing and web crawling library for PHP and Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.19.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.19.0), 5 days ago) - Go library for the Cloudflare v4 API
