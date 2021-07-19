@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20210718.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20210718.1), today) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-beta.10](https://github.com/buraksezer/olric/releases/tag/v0.4.0-beta.10), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), 4 days ago) - A QUIC implementation in pure go
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 5 days ago) - A browser testing and web crawling library for PHP and Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.19.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.19.0), 5 days ago) - Go library for the Cloudflare v4 API
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210712.4), 6 days ago) - GitHub Actions virtual environments
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 1 week ago) - Server-sent live updates: protocol and reference implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 2 weeks ago) - Symfony Maker Bundle
