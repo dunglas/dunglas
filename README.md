@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210719.0), today) - GitHub Actions virtual environments
 - [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) ([v0.3.0](https://github.com/sasha-s/go-deadlock/releases/tag/v0.3.0), today) - Online deadlock detection in go (golang)
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210719.0), 1 day ago) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.11](https://github.com/buraksezer/olric/releases/tag/v0.3.11), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), 5 days ago) - A QUIC implementation in pure go
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 6 days ago) - A browser testing and web crawling library for PHP and Symfony
