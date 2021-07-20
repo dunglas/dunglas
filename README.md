@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) ([v0.3.0](https://github.com/sasha-s/go-deadlock/releases/tag/v0.3.0), today) - Online deadlock detection in go (golang)
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210719.0), 1 day ago) - GitHub Actions virtual environments
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.11](https://github.com/buraksezer/olric/releases/tag/v0.3.11), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), 5 days ago) - A QUIC implementation in pure go
@@ -37,7 +38,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 2 weeks ago) - Symfony Maker Bundle
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 2 weeks ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent blog posts
 
