@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 day ago)
-- [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang) (3 days ago)
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (2 days ago)
+- [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang) (4 days ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (2 weeks ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 weeks ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (3 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 weeks ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 month ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210719.0), 2 days ago) - GitHub Actions virtual environments
-- [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) ([v0.3.0](https://github.com/sasha-s/go-deadlock/releases/tag/v0.3.0), 2 days ago) - Online deadlock detection in go (golang)
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.11](https://github.com/buraksezer/olric/releases/tag/v0.3.11), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210719.0), 3 days ago) - GitHub Actions virtual environments
+- [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) ([v0.3.0](https://github.com/sasha-s/go-deadlock/releases/tag/v0.3.0), 3 days ago) - Online deadlock detection in go (golang)
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.11](https://github.com/buraksezer/olric/releases/tag/v0.3.11), 4 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.21.2](https://github.com/lucas-clemente/quic-go/releases/tag/v0.21.2), 1 week ago) - A QUIC implementation in pure go
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 1 week ago) - A browser testing and web crawling library for PHP and Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.19.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.19.0), 1 week ago) - Go library for the Cloudflare v4 API
