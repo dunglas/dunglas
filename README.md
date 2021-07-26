@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210726.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210726.1), today) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), today) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210725.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210725.1), today) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.0), 1 day ago) - A QUIC implementation in pure go
 - [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) ([v0.3.0](https://github.com/sasha-s/go-deadlock/releases/tag/v0.3.0), 6 days ago) - Online deadlock detection in go (golang)
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.11](https://github.com/buraksezer/olric/releases/tag/v0.3.11), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
