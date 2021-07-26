@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.0), today) - Deliver Go binaries as fast and easily as possible
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.0), 1 day ago) - A QUIC implementation in pure go
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210719.0), 6 days ago) - GitHub Actions virtual environments
 - [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) ([v0.3.0](https://github.com/sasha-s/go-deadlock/releases/tag/v0.3.0), 6 days ago) - Online deadlock detection in go (golang)
@@ -35,7 +36,6 @@
 - [symfony/panther](https://github.com/symfony/panther) ([v1.1.1](https://github.com/symfony/panther/releases/tag/v1.1.1), 1 week ago) - A browser testing and web crawling library for PHP and Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.19.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.19.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 2 weeks ago) - Server-sent live updates: protocol and reference implementation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.33.0](https://github.com/symfony/maker-bundle/releases/tag/v1.33.0), 3 weeks ago) - Symfony Maker Bundle
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.3](https://github.com/symfony/twig-bundle/releases/tag/v5.3.3), 3 weeks ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
