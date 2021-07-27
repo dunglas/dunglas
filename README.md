@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.5](https://github.com/symfony/http-kernel/releases/tag/v5.3.5), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), today) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.4](https://github.com/symfony/validator/releases/tag/v5.3.4), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.4](https://github.com/symfony/serializer/releases/tag/v5.3.4), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.4](https://github.com/symfony/routing/releases/tag/v5.3.4), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.4](https://github.com/symfony/http-kernel/releases/tag/v5.3.4), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.4](https://github.com/symfony/http-foundation/releases/tag/v5.3.4), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.4), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.4](https://github.com/symfony/config/releases/tag/v5.3.4), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.4), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.4](https://github.com/symfony/twig-bridge/releases/tag/v5.3.4), 1 day ago) - Provides integration for Twig with various Symfony components.
 
 #### 📜 My recent blog posts
 
