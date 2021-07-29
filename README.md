@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v4.4.29](https://github.com/symfony/validator/releases/tag/v4.4.29), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v4.4.29](https://github.com/symfony/http-kernel/releases/tag/v4.4.29), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v4.4.29](https://github.com/symfony/http-foundation/releases/tag/v4.4.29), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.29](https://github.com/symfony/symfony/releases/tag/v4.4.29), today) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.6](https://github.com/symfony/http-foundation/releases/tag/v5.3.6), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), today) - The Symfony PHP framework
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.1](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.1), 1 day ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.4](https://github.com/symfony/serializer/releases/tag/v5.3.4), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.4](https://github.com/symfony/routing/releases/tag/v5.3.4), 3 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
