@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.2](https://github.com/golang-jwt/jwt/releases/tag/v3.2.2), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.6](https://github.com/symfony/http-foundation/releases/tag/v5.3.6), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
@@ -37,7 +38,6 @@
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.4](https://github.com/symfony/routing/releases/tag/v5.3.4), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.4), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.4](https://github.com/symfony/config/releases/tag/v5.3.4), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.4](https://github.com/symfony/twig-bundle/releases/tag/v5.3.4), 4 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
