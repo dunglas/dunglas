@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (today)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 day ago)
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 week ago)
 - [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang) (1 week ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.2](https://github.com/golang-jwt/jwt/releases/tag/v3.2.2), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.6](https://github.com/symfony/http-foundation/releases/tag/v5.3.6), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 day ago) - The Symfony PHP framework
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.1](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.1), 2 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.4](https://github.com/symfony/serializer/releases/tag/v5.3.4), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.4](https://github.com/symfony/routing/releases/tag/v5.3.4), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.4), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.4](https://github.com/symfony/config/releases/tag/v5.3.4), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.2](https://github.com/golang-jwt/jwt/releases/tag/v3.2.2), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.6](https://github.com/symfony/http-foundation/releases/tag/v5.3.6), 2 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 2 days ago) - The Symfony PHP framework
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.1](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.1), 3 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.4](https://github.com/symfony/serializer/releases/tag/v5.3.4), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.4](https://github.com/symfony/routing/releases/tag/v5.3.4), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.4), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.4](https://github.com/symfony/config/releases/tag/v5.3.4), 5 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (3 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (5 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (6 months ago)
-- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (7 months ago)
+- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (8 months ago)
 
 #### 📓 Gists I wrote
 
