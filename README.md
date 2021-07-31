@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-rc.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-rc.1), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.2](https://github.com/golang-jwt/jwt/releases/tag/v3.2.2), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
@@ -37,7 +38,6 @@
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.4](https://github.com/symfony/serializer/releases/tag/v5.3.4), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.4](https://github.com/symfony/routing/releases/tag/v5.3.4), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.4), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.4](https://github.com/symfony/config/releases/tag/v5.3.4), 5 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
