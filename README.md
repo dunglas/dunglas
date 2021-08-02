@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), today) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-rc.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-rc.1), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v3.2.2](https://github.com/golang-jwt/jwt/releases/tag/v3.2.2), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
@@ -37,7 +38,6 @@
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.1](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.1), 5 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.4](https://github.com/symfony/serializer/releases/tag/v5.3.4), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.4](https://github.com/symfony/routing/releases/tag/v5.3.4), 1 week ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.4](https://github.com/symfony/dependency-injection/releases/tag/v5.3.4), 1 week ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
