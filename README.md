@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.20.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.20.0), today) - Go library for the Cloudflare v4 API
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210802.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210802.1), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), today) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-rc.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-rc.1), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
@@ -37,7 +38,6 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.6](https://github.com/symfony/http-foundation/releases/tag/v5.3.6), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 4 days ago) - The Symfony PHP framework
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.1](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.1), 5 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.4](https://github.com/symfony/serializer/releases/tag/v5.3.4), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent blog posts
 
