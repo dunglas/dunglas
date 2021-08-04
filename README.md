@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (4 days ago)
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 week ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (5 days ago)
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (2 weeks ago)
 - [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang) (2 weeks ago)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (2 weeks ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (3 weeks ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (4 weeks ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210803.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210803.0), today) - GitHub Actions virtual environments
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.1](https://github.com/dunglas/mercure/releases/tag/v0.12.1), today) - Server-sent live updates: protocol and reference implementation
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.20.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.20.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-rc.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-rc.1), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.6](https://github.com/symfony/http-foundation/releases/tag/v5.3.6), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 5 days ago) - The Symfony PHP framework
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210803.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210803.0), 1 day ago) - GitHub Actions virtual environments
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.1](https://github.com/dunglas/mercure/releases/tag/v0.12.1), 1 day ago) - Server-sent live updates: protocol and reference implementation
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.20.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.20.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0-rc.1](https://github.com/buraksezer/olric/releases/tag/v0.4.0-rc.1), 4 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.6](https://github.com/symfony/http-foundation/releases/tag/v5.3.6), 6 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 6 days ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
@@ -58,7 +58,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [cedricziel](https://github.com/cedricziel) (1 month ago)
-- [ismail1432](https://github.com/ismail1432) (1 month ago)
+- [ismail1432](https://github.com/ismail1432) (2 months ago)
 - [jdehais](https://github.com/jdehais) (2 months ago)
 - [nouchka](https://github.com/nouchka) (2 months ago)
 - [iquito](https://github.com/iquito) (3 months ago)
