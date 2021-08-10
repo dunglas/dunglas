@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210808.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210808.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210810.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210810.1), today) - GitHub Actions virtual environments
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 1 day ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), 1 week ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.1](https://github.com/dunglas/mercure/releases/tag/v0.12.1), 1 week ago) - Server-sent live updates: protocol and reference implementation
