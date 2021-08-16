@@ -6,7 +6,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 weeks ago)
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (3 weeks ago)
-- [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang) (3 weeks ago)
+- [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang) (4 weeks ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 month ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 month ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 month ago)
@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.12](https://github.com/buraksezer/olric/releases/tag/v0.3.12), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 3 days ago) - A QUIC implementation in pure go
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210810.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210810.1), 4 days ago) - GitHub Actions virtual environments
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 6 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.12](https://github.com/buraksezer/olric/releases/tag/v0.3.12), 1 day ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 4 days ago) - A QUIC implementation in pure go
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210810.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210810.1), 5 days ago) - GitHub Actions virtual environments
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 1 week ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), 1 week ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.1](https://github.com/dunglas/mercure/releases/tag/v0.12.1), 1 week ago) - Server-sent live updates: protocol and reference implementation
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.20.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.20.0), 1 week ago) - Go library for the Cloudflare v4 API
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.20.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.20.0), 2 weeks ago) - Go library for the Cloudflare v4 API
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 2 weeks ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 2 weeks ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
@@ -43,7 +43,7 @@
 
 - [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (2 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (4 months ago)
-- [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (5 months ago)
+- [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (6 months ago)
 - [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (6 months ago)
 - [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (8 months ago)
 
