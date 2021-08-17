@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), today) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210815.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210815.1), 1 day ago) - GitHub Actions virtual environments
-- [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.3.12](https://github.com/buraksezer/olric/releases/tag/v0.3.12), 2 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 5 days ago) - A QUIC implementation in pure go
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 1 week ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), 2 weeks ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
