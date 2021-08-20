@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/flex](https://github.com/symfony/flex) ([v1.14.0](https://github.com/symfony/flex/releases/tag/v1.14.0), today) - Composer plugin for Symfony
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), 3 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210815.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210815.1), 4 days ago) - GitHub Actions virtual environments
@@ -37,7 +38,6 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.1](https://github.com/dunglas/mercure/releases/tag/v0.12.1), 2 weeks ago) - Server-sent live updates: protocol and reference implementation
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.20.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.20.0), 2 weeks ago) - Go library for the Cloudflare v4 API
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.6](https://github.com/symfony/validator/releases/tag/v5.3.6), 3 weeks ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.6](https://github.com/symfony/http-kernel/releases/tag/v5.3.6), 3 weeks ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent blog posts
 
