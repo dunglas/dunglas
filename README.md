@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), today) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v1.14.0](https://github.com/symfony/flex/releases/tag/v1.14.0), 3 days ago) - Composer plugin for Symfony
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), 6 days ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210815.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210815.1), 1 week ago) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 1 week ago) - A QUIC implementation in pure go
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 2 weeks ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), 2 weeks ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
