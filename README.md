@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.2](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.2), today) - Server-sent live updates: protocol and reference implementation
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), today) - Server-sent live updates: protocol and reference implementation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 1 day ago) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v1.14.0](https://github.com/symfony/flex/releases/tag/v1.14.0), 4 days ago) - Composer plugin for Symfony
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) ([v1.0](https://github.com/NvChad/NvChad/releases/tag/v1.0), 5 days ago) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
