@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/flex](https://github.com/symfony/flex) ([v1.14.2](https://github.com/symfony/flex/releases/tag/v1.14.2), today) - Composer plugin for Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), today) - Server-sent live updates: protocol and reference implementation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 1 day ago) - GitHub Actions virtual environments
-- [symfony/flex](https://github.com/symfony/flex) ([v1.14.0](https://github.com/symfony/flex/releases/tag/v1.14.0), 4 days ago) - Composer plugin for Symfony
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) ([v1.0](https://github.com/NvChad/NvChad/releases/tag/v1.0), 5 days ago) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
