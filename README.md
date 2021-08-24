@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (3 weeks ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.2](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.2), today) - Server-sent live updates: protocol and reference implementation
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 1 day ago) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v1.14.0](https://github.com/symfony/flex/releases/tag/v1.14.0), 4 days ago) - Composer plugin for Symfony
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) ([v1.0](https://github.com/NvChad/NvChad/releases/tag/v1.0), 5 days ago) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
@@ -36,7 +37,6 @@
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 1 week ago) - A QUIC implementation in pure go
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 2 weeks ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), 3 weeks ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.1](https://github.com/dunglas/mercure/releases/tag/v0.12.1), 3 weeks ago) - Server-sent live updates: protocol and reference implementation
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.20.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.20.0), 3 weeks ago) - Go library for the Cloudflare v4 API
 
 #### 📜 My recent blog posts
