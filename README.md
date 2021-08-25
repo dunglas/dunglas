@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (3 weeks ago)
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/flex](https://github.com/symfony/flex) ([v1.14.2](https://github.com/symfony/flex/releases/tag/v1.14.2), today) - Composer plugin for Symfony
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), today) - Server-sent live updates: protocol and reference implementation
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 1 day ago) - GitHub Actions virtual environments
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) ([v1.0](https://github.com/NvChad/NvChad/releases/tag/v1.0), 5 days ago) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/flex](https://github.com/symfony/flex) ([v1.14.2](https://github.com/symfony/flex/releases/tag/v1.14.2), 1 day ago) - Composer plugin for Symfony
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), 1 day ago) - Server-sent live updates: protocol and reference implementation
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 2 days ago) - GitHub Actions virtual environments
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) ([v1.0](https://github.com/NvChad/NvChad/releases/tag/v1.0), 6 days ago) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 1 week ago) - A QUIC implementation in pure go
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 2 weeks ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
@@ -59,7 +59,7 @@
 
 - [cedricziel](https://github.com/cedricziel) (2 months ago)
 - [ismail1432](https://github.com/ismail1432) (2 months ago)
-- [jdehais](https://github.com/jdehais) (2 months ago)
+- [jdehais](https://github.com/jdehais) (3 months ago)
 - [nouchka](https://github.com/nouchka) (3 months ago)
 - [iquito](https://github.com/iquito) (4 months ago)
 
