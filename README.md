@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210824.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210824.1), 1 day ago) - GitHub Actions virtual environments
+- [symfony/flex](https://github.com/symfony/flex) ([v1.14.5](https://github.com/symfony/flex/releases/tag/v1.14.5), today) - Composer plugin for Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.21.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.21.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/flex](https://github.com/symfony/flex) ([v1.14.2](https://github.com/symfony/flex/releases/tag/v1.14.2), 3 days ago) - Composer plugin for Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), 3 days ago) - Server-sent live updates: protocol and reference implementation
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 4 days ago) - GitHub Actions virtual environments
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) ([v1.0](https://github.com/NvChad/NvChad/releases/tag/v1.0), 1 week ago) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 2 weeks ago) - A QUIC implementation in pure go
