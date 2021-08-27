@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v2.0.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v2.0.0), today) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [symfony/flex](https://github.com/symfony/flex) ([v1.14.5](https://github.com/symfony/flex/releases/tag/v1.14.5), today) - Composer plugin for Symfony
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.21.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.21.0), 1 day ago) - Go library for the Cloudflare v4 API
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
@@ -37,7 +38,6 @@
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 2 weeks ago) - A QUIC implementation in pure go
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.2](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.2), 2 weeks ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.0.0](https://github.com/golang-jwt/jwt/releases/tag/v4.0.0), 3 weeks ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 
 #### 📜 My recent blog posts
 
