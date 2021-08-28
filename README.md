@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (5 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (4 weeks ago)
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v2.0.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v2.0.0), today) - 👽 Open source API development ecosystem https://hoppscotch.io
-- [symfony/flex](https://github.com/symfony/flex) ([v1.14.5](https://github.com/symfony/flex/releases/tag/v1.14.5), today) - Composer plugin for Symfony
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.21.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.21.0), 1 day ago) - Go library for the Cloudflare v4 API
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), 3 days ago) - Server-sent live updates: protocol and reference implementation
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 4 days ago) - GitHub Actions virtual environments
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v2.0.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v2.0.0), 1 day ago) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [symfony/flex](https://github.com/symfony/flex) ([v1.14.5](https://github.com/symfony/flex/releases/tag/v1.14.5), 1 day ago) - Composer plugin for Symfony
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.21.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.21.0), 2 days ago) - Go library for the Cloudflare v4 API
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), 4 days ago) - Server-sent live updates: protocol and reference implementation
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 5 days ago) - GitHub Actions virtual environments
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) ([v1.0](https://github.com/NvChad/NvChad/releases/tag/v1.0), 1 week ago) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [buraksezer/olric](https://github.com/buraksezer/olric) ([v0.4.0](https://github.com/buraksezer/olric/releases/tag/v0.4.0), 1 week ago) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.22.1](https://github.com/lucas-clemente/quic-go/releases/tag/v0.22.1), 2 weeks ago) - A QUIC implementation in pure go
@@ -57,7 +57,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Renrhaf](https://github.com/Renrhaf) (1 day ago)
+- [Renrhaf](https://github.com/Renrhaf) (2 days ago)
 - [cedricziel](https://github.com/cedricziel) (2 months ago)
 - [ismail1432](https://github.com/ismail1432) (2 months ago)
 - [jdehais](https://github.com/jdehais) (3 months ago)
