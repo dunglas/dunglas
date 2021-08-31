@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210831.9](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210831.9), today) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.7](https://github.com/symfony/routing/releases/tag/v5.3.7), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.7](https://github.com/symfony/http-kernel/releases/tag/v5.3.7), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
@@ -37,7 +38,6 @@
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.7](https://github.com/symfony/twig-bridge/releases/tag/v5.3.7), 1 day ago) - Provides integration for Twig with various Symfony components.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 1 day ago) - The Symfony PHP framework
 - [symfony/config](https://github.com/symfony/config) ([v4.4.30](https://github.com/symfony/config/releases/tag/v4.4.30), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v4.4.30](https://github.com/symfony/twig-bundle/releases/tag/v4.4.30), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
