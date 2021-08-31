@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
@@ -10,11 +11,11 @@
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 month ago)
 - [sasha-s/go-deadlock](https://github.com/sasha-s/go-deadlock) - Online deadlock detection in go (golang) (1 month ago)
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 month ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 month ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 month ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19.
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) - 
 - [dunglas/mercure-reproducer-cors](https://github.com/dunglas/mercure-reproducer-cors) - Reproducer for CORS issues with the Mercure.rocks Hub
@@ -24,7 +25,6 @@
 - [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
 - [dunglas/demo-postgres-listen-notify](https://github.com/dunglas/demo-postgres-listen-notify) - Demo of the PostgreSQL LISTEN/NOTIFY support in Symfony Messenger
-- [dunglas/demo-vulcain-api-platform](https://github.com/dunglas/demo-vulcain-api-platform) - Use API Platform with the Vulcain protocol and Varnish!
 
 #### 🔭 Latest releases I've contributed to
 
