@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), today) - The OpenTelemetry PHP Library
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210831.3](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210831.3), today) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.7](https://github.com/symfony/routing/releases/tag/v5.3.7), 2 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
@@ -37,7 +38,6 @@
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.7](https://github.com/symfony/twig-bridge/releases/tag/v5.3.7), 2 days ago) - Provides integration for Twig with various Symfony components.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 2 days ago) - The Symfony PHP framework
-- [symfony/config](https://github.com/symfony/config) ([v4.4.30](https://github.com/symfony/config/releases/tag/v4.4.30), 2 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
