@@ -41,11 +41,11 @@
 
 #### 📜 My recent blog posts
 
-- [Webperf: PHP after Server Push](http://feedproxy.google.com/~r/dunglas/~3/C_V5WfIfRFg/) (3 months ago)
-- [Symfony UX Turbo: Do You Still Need JavaScript?!](http://feedproxy.google.com/~r/dunglas/~3/icLJBhKwqcY/) (4 months ago)
-- [Using the “103 Early Hints” Status Code in Go Applications](http://feedproxy.google.com/~r/dunglas/~3/WDhgVmMJ2T0/) (6 months ago)
-- [Schema Generator 3: A Step Towards Redecentralizing the Web!](http://feedproxy.google.com/~r/dunglas/~3/-eYprhFHaXA/) (7 months ago)
-- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](http://feedproxy.google.com/~r/dunglas/~3/X1dkcrZS-qU/) (9 months ago)
+- [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (3 months ago)
+- [Symfony UX Turbo: Do You Still Need JavaScript?!](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (4 months ago)
+- [Using the “103 Early Hints” Status Code in Go Applications](https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/) (6 months ago)
+- [Schema Generator 3: A Step Towards Redecentralizing the Web!](https://dunglas.fr/2021/01/schema-generator-3-a-step-towards-redecentralizing-the-web/) (7 months ago)
+- [API Platform 2.6: PHP 8 support, Next.js and Nuxt.js app generator, Caddy server, ActivityPub and much more!](https://dunglas.fr/2020/12/api-platform-2-6-php-8-support-next-js-and-nuxt-js-app-generator-caddy-server-activitypub-and-much-more/) (9 months ago)
 
 #### 📓 Gists I wrote
 
@@ -54,6 +54,12 @@
 - [URI Template test in PHP](https://gist.github.com/5b10b586427cf66e78a968f82f80691a) (1 year ago)
 - [URI Template test in Ruby](https://gist.github.com/ec793690f66167cb849c02284ecf748d) (1 year ago)
 - [URI Template test in Java](https://gist.github.com/788b70312231d24e46d7632c634784f5) (1 year ago)
+
+#### 📊 My stats
+
+<img align="right" alt="dunglas' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dunglas&count_private=1&show_icons=true">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dunglas)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
