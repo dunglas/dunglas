@@ -16,7 +16,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://feeds.feedburner.com/dunglas" 5}}
+{{range rss "https://dunglas.fr/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -24,6 +24,12 @@
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+#### 📊 My stats
+
+<img align="right" alt="dunglas' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dunglas&count_private=1&show_icons=true">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dunglas)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 {{range sponsors 5}}
