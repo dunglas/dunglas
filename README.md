@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 days ago)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (3 days ago)
-- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 days ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (4 days ago)
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (4 days ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 month ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), today) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210901.3](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210901.3), 1 day ago) - GitHub Actions virtual environments
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 2 days ago) - The OpenTelemetry PHP Library
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.7](https://github.com/symfony/routing/releases/tag/v5.3.7), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.7](https://github.com/symfony/http-kernel/releases/tag/v5.3.7), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.7](https://github.com/symfony/http-foundation/releases/tag/v5.3.7), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.7](https://github.com/symfony/dependency-injection/releases/tag/v5.3.7), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.7](https://github.com/symfony/twig-bridge/releases/tag/v5.3.7), 4 days ago) - Provides integration for Twig with various Symfony components.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210901.3](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210901.3), 2 days ago) - GitHub Actions virtual environments
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 3 days ago) - The OpenTelemetry PHP Library
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.7](https://github.com/symfony/routing/releases/tag/v5.3.7), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.7](https://github.com/symfony/http-kernel/releases/tag/v5.3.7), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.7](https://github.com/symfony/http-foundation/releases/tag/v5.3.7), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.7](https://github.com/symfony/dependency-injection/releases/tag/v5.3.7), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.7](https://github.com/symfony/twig-bridge/releases/tag/v5.3.7), 5 days ago) - Provides integration for Twig with various Symfony components.
 
 #### 📜 My recent blog posts
 
@@ -64,7 +64,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [Renrhaf](https://github.com/Renrhaf) (1 week ago)
-- [cedricziel](https://github.com/cedricziel) (2 months ago)
+- [cedricziel](https://github.com/cedricziel) (3 months ago)
 - [ismail1432](https://github.com/ismail1432) (3 months ago)
 - [jdehais](https://github.com/jdehais) (3 months ago)
 - [nouchka](https://github.com/nouchka) (3 months ago)
