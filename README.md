@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.0.0](https://github.com/renoki-co/php-k8s/releases/tag/3.0.0), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210903.7](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210903.7), today) - GitHub Actions virtual environments
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([2.12.0](https://github.com/renoki-co/php-k8s/releases/tag/2.12.0), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 1 day ago) - Build Caddy with plugins
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 4 days ago) - The OpenTelemetry PHP Library
