@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 days ago)
-- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (6 days ago)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (6 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 week ago)
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs. (1 week ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20210906.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20210906.1), today) - GitHub Actions virtual environments
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.0.0](https://github.com/renoki-co/php-k8s/releases/tag/3.0.0), 1 day ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 2 days ago) - Build Caddy with plugins
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 5 days ago) - The OpenTelemetry PHP Library
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20210906.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20210906.1), 1 day ago) - GitHub Actions virtual environments
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.0.0](https://github.com/renoki-co/php-k8s/releases/tag/3.0.0), 2 days ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 3 days ago) - Build Caddy with plugins
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 6 days ago) - The OpenTelemetry PHP Library
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.7](https://github.com/symfony/routing/releases/tag/v5.3.7), 1 week ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.7](https://github.com/symfony/http-kernel/releases/tag/v5.3.7), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
