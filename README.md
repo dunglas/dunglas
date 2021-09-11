@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210907.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210907.1), 2 days ago) - GitHub Actions virtual environments
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.0.0](https://github.com/renoki-co/php-k8s/releases/tag/3.0.0), 5 days ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 6 days ago) - Build Caddy with plugins
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210907.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210907.1), 3 days ago) - GitHub Actions virtual environments
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.0.0](https://github.com/renoki-co/php-k8s/releases/tag/3.0.0), 6 days ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 1 week ago) - Build Caddy with plugins
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 1 week ago) - The OpenTelemetry PHP Library
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.7](https://github.com/symfony/routing/releases/tag/v5.3.7), 1 week ago) - The Routing component maps an HTTP request to a set of configuration variables.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (today)
+- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (1 day ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (3 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (5 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/) (6 months ago)
