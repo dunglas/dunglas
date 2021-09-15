@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.0](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.0), today) - Use the FOSHttpCache library in your Symfony projects
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.1](https://github.com/renoki-co/php-k8s/releases/tag/3.1.1), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210914.2](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210914.2), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
@@ -37,7 +38,6 @@
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.7](https://github.com/symfony/routing/releases/tag/v5.3.7), 2 weeks ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.7](https://github.com/symfony/http-kernel/releases/tag/v5.3.7), 2 weeks ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.7](https://github.com/symfony/http-foundation/releases/tag/v5.3.7), 2 weeks ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.7](https://github.com/symfony/dependency-injection/releases/tag/v5.3.7), 2 weeks ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
