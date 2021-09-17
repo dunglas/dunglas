@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.2](https://github.com/renoki-co/php-k8s/releases/tag/3.1.2), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.19.0](https://github.com/varnish/varnish-modules/releases/tag/0.19.0), 1 day ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.0](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.0), 2 days ago) - Use the FOSHttpCache library in your Symfony projects
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.1](https://github.com/renoki-co/php-k8s/releases/tag/3.1.1), 2 days ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210914.2](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210914.2), 2 days ago) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 1 week ago) - Build Caddy with plugins
