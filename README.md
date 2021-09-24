@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 2 days ago) - GitHub Actions virtual environments
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 4 days ago) - A QUIC implementation in pure go
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.2](https://github.com/renoki-co/php-k8s/releases/tag/3.1.2), 6 days ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 3 days ago) - GitHub Actions virtual environments
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 5 days ago) - A QUIC implementation in pure go
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.2](https://github.com/renoki-co/php-k8s/releases/tag/3.1.2), 1 week ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.19.0](https://github.com/varnish/varnish-modules/releases/tag/0.19.0), 1 week ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.0](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.0), 1 week ago) - Use the FOSHttpCache library in your Symfony projects
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
@@ -41,8 +41,8 @@
 
 #### 📜 My recent blog posts
 
-- [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (5 days ago)
-- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (1 week ago)
+- [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (6 days ago)
+- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (2 weeks ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (3 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (5 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/) (7 months ago)
@@ -66,7 +66,7 @@
 - [Renrhaf](https://github.com/Renrhaf) (4 weeks ago)
 - [cedricziel](https://github.com/cedricziel) (3 months ago)
 - [ismail1432](https://github.com/ismail1432) (3 months ago)
-- [jdehais](https://github.com/jdehais) (3 months ago)
+- [jdehais](https://github.com/jdehais) (4 months ago)
 - [nouchka](https://github.com/nouchka) (4 months ago)
 
 #### 📫 How to reach me
