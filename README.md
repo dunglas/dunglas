@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 3 days ago) - GitHub Actions virtual environments
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 5 days ago) - A QUIC implementation in pure go
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 4 days ago) - GitHub Actions virtual environments
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 6 days ago) - A QUIC implementation in pure go
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.2](https://github.com/renoki-co/php-k8s/releases/tag/3.1.2), 1 week ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.19.0](https://github.com/varnish/varnish-modules/releases/tag/0.19.0), 1 week ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.0](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.0), 1 week ago) - Use the FOSHttpCache library in your Symfony projects
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 2 weeks ago) - Build Caddy with plugins
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 3 weeks ago) - Build Caddy with plugins
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 3 weeks ago) - The OpenTelemetry PHP Library
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 3 weeks ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent blog posts
 
-- [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (6 days ago)
+- [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (1 week ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (2 weeks ago)
-- [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (3 months ago)
+- [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (4 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?!](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (5 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/) (7 months ago)
 
@@ -63,7 +63,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Renrhaf](https://github.com/Renrhaf) (4 weeks ago)
+- [Renrhaf](https://github.com/Renrhaf) (1 month ago)
 - [cedricziel](https://github.com/cedricziel) (3 months ago)
 - [ismail1432](https://github.com/ismail1432) (3 months ago)
 - [jdehais](https://github.com/jdehais) (4 months ago)
