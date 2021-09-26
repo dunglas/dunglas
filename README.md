@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.0), today) - Deliver Go binaries as fast and easily as possible
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 4 days ago) - GitHub Actions virtual environments
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 6 days ago) - A QUIC implementation in pure go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 5 days ago) - GitHub Actions virtual environments
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 1 week ago) - A QUIC implementation in pure go
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.2](https://github.com/renoki-co/php-k8s/releases/tag/3.1.2), 1 week ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [varnish/varnish-modules](https://github.com/varnish/varnish-modules) ([0.19.0](https://github.com/varnish/varnish-modules/releases/tag/0.19.0), 1 week ago) - Collection of Varnish Cache modules (vmods) by Varnish Software
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.0](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.0), 1 week ago) - Use the FOSHttpCache library in your Symfony projects
