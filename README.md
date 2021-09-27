@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.1), today) - Deliver Go binaries as fast and easily as possible
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.0](https://github.com/symfony/maker-bundle/releases/tag/v1.34.0), today) - Symfony Maker Bundle
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.2), today) - Deliver Go binaries as fast and easily as possible
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 6 days ago) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 1 week ago) - A QUIC implementation in pure go
@@ -37,7 +38,6 @@
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.0](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.0), 1 week ago) - Use the FOSHttpCache library in your Symfony projects
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) ([v0.2.0](https://github.com/caddyserver/xcaddy/releases/tag/v0.2.0), 3 weeks ago) - Build Caddy with plugins
 - [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) ([0.0.3](https://github.com/open-telemetry/opentelemetry-php/releases/tag/0.0.3), 3 weeks ago) - The OpenTelemetry PHP Library
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.7](https://github.com/symfony/validator/releases/tag/v5.3.7), 4 weeks ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent blog posts
 
