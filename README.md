@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.1), today) - Deliver Go binaries as fast and easily as possible
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210920.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210920.1), 6 days ago) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.23.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.23.0), 1 week ago) - A QUIC implementation in pure go
