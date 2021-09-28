@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210927.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210927.2), today) - GitHub Actions virtual environments
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), today) - The Symfony PHP framework
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210927.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210927.1), today) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.8](https://github.com/symfony/serializer/releases/tag/v5.3.8), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.8](https://github.com/symfony/http-kernel/releases/tag/v5.3.8), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.8](https://github.com/symfony/dependency-injection/releases/tag/v5.3.8), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.8](https://github.com/symfony/symfony/releases/tag/v5.3.8), today) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.0](https://github.com/symfony/maker-bundle/releases/tag/v1.34.0), 1 day ago) - Symfony Maker Bundle
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 4 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
