@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210928.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210928.2), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210927.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210927.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 day ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
