@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (3 weeks ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 weeks ago)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (4 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 weeks ago)
-- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (4 weeks ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 month ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 month ago)
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs. (1 month ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. (1 month ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210929.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210929.1), today) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 day ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.8](https://github.com/symfony/serializer/releases/tag/v5.3.8), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.8](https://github.com/symfony/dependency-injection/releases/tag/v5.3.8), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.0](https://github.com/symfony/maker-bundle/releases/tag/v1.34.0), 2 days ago) - Symfony Maker Bundle
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 5 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210929.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210929.1), 1 day ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 2 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.8](https://github.com/symfony/serializer/releases/tag/v5.3.8), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.8](https://github.com/symfony/dependency-injection/releases/tag/v5.3.8), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.0](https://github.com/symfony/maker-bundle/releases/tag/v1.34.0), 3 days ago) - Symfony Maker Bundle
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.1.0](https://github.com/golang-jwt/jwt/releases/tag/v4.1.0), 6 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 
 #### 📜 My recent blog posts
 
