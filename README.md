@@ -5,13 +5,13 @@
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (3 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (3 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (3 weeks ago)
-- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 month ago)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs. (1 month ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 month ago)
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.0](https://github.com/doctrine/orm/releases/tag/2.10.0), today) - Doctrine Object Relational Mapper (ORM)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.23.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.23.12), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -37,7 +38,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 5 days ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.8](https://github.com/symfony/serializer/releases/tag/v5.3.8), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.8](https://github.com/symfony/dependency-injection/releases/tag/v5.3.8), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
