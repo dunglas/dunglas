@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211003.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211003.2), today) - GitHub Actions virtual environments
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.0](https://github.com/doctrine/orm/releases/tag/2.10.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.23.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.23.12), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210929.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210929.1), 5 days ago) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 6 days ago) - The Symfony PHP framework
