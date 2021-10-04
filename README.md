@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (3 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (4 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (4 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (3 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.0](https://github.com/doctrine/orm/releases/tag/2.10.0), today) - Doctrine Object Relational Mapper (ORM)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.23.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.23.12), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210929.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210929.1), 4 days ago) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 5 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.8](https://github.com/symfony/serializer/releases/tag/v5.3.8), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.0](https://github.com/doctrine/orm/releases/tag/2.10.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.23.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.23.12), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210929.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210929.1), 5 days ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 6 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.8](https://github.com/symfony/serializer/releases/tag/v5.3.8), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent blog posts
 
@@ -63,9 +63,9 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Orbitale](https://github.com/Orbitale) (2 days ago)
+- [Orbitale](https://github.com/Orbitale) (3 days ago)
 - [Renrhaf](https://github.com/Renrhaf) (1 month ago)
-- [cedricziel](https://github.com/cedricziel) (3 months ago)
+- [cedricziel](https://github.com/cedricziel) (4 months ago)
 - [ismail1432](https://github.com/ismail1432) (4 months ago)
 - [jdehais](https://github.com/jdehais) (4 months ago)
 
