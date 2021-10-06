@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.0), today) - Deliver Go binaries as fast and easily as possible
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20211001.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20211001.1), 2 days ago) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.23.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.23.12), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 6 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 week ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.8](https://github.com/symfony/validator/releases/tag/v5.3.8), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
