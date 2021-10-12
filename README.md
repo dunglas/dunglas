@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [dunglas/docker-compose-meta](https://github.com/dunglas/docker-compose-meta) - A meta package for Symfony projects using Docker Compose (today)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (4 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 week ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 month ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/docker-compose-meta](https://github.com/dunglas/docker-compose-meta) - A meta package for Symfony projects using Docker Compose
 - [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19.
 - [dunglas/training-apr-19](https://github.com/dunglas/training-apr-19) - 
@@ -24,7 +25,6 @@
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk.
 - [dunglas/api-parallelism-benchmark](https://github.com/dunglas/api-parallelism-benchmark) - A benchmark comparing HTTP/2 Server Push to GraphQL-Like compound documents
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
-- [dunglas/demo-postgres-listen-notify](https://github.com/dunglas/demo-postgres-listen-notify) - Demo of the PostgreSQL LISTEN/NOTIFY support in Symfony Messenger
 
 #### 🔭 Latest releases I've contributed to
 
