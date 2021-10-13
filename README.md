@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.0), today) - Deliver Go binaries as fast and easily as possible
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211011.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211011.2), 1 day ago) - GitHub Actions virtual environments
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 2 days ago) - Server-sent live updates: protocol and reference implementation
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([2.12.1](https://github.com/renoki-co/php-k8s/releases/tag/2.12.1), 2 days ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.23.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.23.12), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
