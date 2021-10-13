@@ -28,6 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), today) - Deliver Go binaries as fast and easily as possible
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211011.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211011.2), 1 day ago) - GitHub Actions virtual environments
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 2 days ago) - Server-sent live updates: protocol and reference implementation
@@ -36,8 +38,6 @@
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.23.12](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.23.12), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.9](https://github.com/symfony/http-kernel/releases/tag/v5.3.9), 2 weeks ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 2 weeks ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
