@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20211017.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211017.0), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211016.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211016.1), today) - GitHub Actions virtual environments
 - [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), today) - BDD in PHP
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.1](https://github.com/symfony/maker-bundle/releases/tag/v1.34.1), 1 day ago) - Symfony Maker Bundle
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.24.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.24.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
