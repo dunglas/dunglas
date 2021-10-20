@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), today) - :musical_score: Extension integrating Behat with Symfony.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 1 day ago) - GitHub Actions virtual environments
 - [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), 2 days ago) - BDD in PHP
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.1](https://github.com/symfony/maker-bundle/releases/tag/v1.34.1), 3 days ago) - Symfony Maker Bundle
@@ -37,7 +38,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 1 week ago) - Server-sent live updates: protocol and reference implementation
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([2.12.1](https://github.com/renoki-co/php-k8s/releases/tag/2.12.1), 1 week ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 2 weeks ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent blog posts
 
