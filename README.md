@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), today) - :musical_score: Extension integrating Behat with Symfony.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 1 day ago) - GitHub Actions virtual environments
-- [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), 2 days ago) - BDD in PHP
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.1](https://github.com/symfony/maker-bundle/releases/tag/v1.34.1), 3 days ago) - Symfony Maker Bundle
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.24.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.24.0), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 1 day ago) - :musical_score: Extension integrating Behat with Symfony.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 2 days ago) - GitHub Actions virtual environments
+- [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), 3 days ago) - BDD in PHP
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.1](https://github.com/symfony/maker-bundle/releases/tag/v1.34.1), 4 days ago) - Symfony Maker Bundle
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.24.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.24.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
