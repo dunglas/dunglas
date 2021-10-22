@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
