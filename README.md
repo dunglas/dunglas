@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), today) - Deliver Go binaries as fast and easily as possible
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.24.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.24.0), 1 day ago) - A QUIC implementation in pure go
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 2 days ago) - :musical_score: Extension integrating Behat with Symfony.
@@ -37,7 +38,6 @@
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.24.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.24.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent blog posts
 
