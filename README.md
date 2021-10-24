@@ -4,14 +4,14 @@
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
+- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [dunglas/docker-compose-meta](https://github.com/dunglas/docker-compose-meta) - A meta package for Symfony projects using Docker Compose (1 week ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 
 #### 🌱 My latest projects
 
