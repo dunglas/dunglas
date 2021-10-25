@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.0), today) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.5](https://github.com/renoki-co/php-k8s/releases/tag/3.1.5), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 4 days ago) - Doctrine Object Relational Mapper (ORM)
