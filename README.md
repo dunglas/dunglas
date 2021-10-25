@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.25.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.25.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.4](https://github.com/renoki-co/php-k8s/releases/tag/3.1.4), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 3 days ago) - Doctrine Object Relational Mapper (ORM)
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.24.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.24.0), 3 days ago) - A QUIC implementation in pure go
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 4 days ago) - :musical_score: Extension integrating Behat with Symfony.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 5 days ago) - GitHub Actions virtual environments
-- [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), 6 days ago) - BDD in PHP
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.25.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.25.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.4](https://github.com/renoki-co/php-k8s/releases/tag/3.1.4), 1 day ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 4 days ago) - Doctrine Object Relational Mapper (ORM)
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.24.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.24.0), 4 days ago) - A QUIC implementation in pure go
+- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 5 days ago) - :musical_score: Extension integrating Behat with Symfony.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 6 days ago) - GitHub Actions virtual environments
+- [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), 1 week ago) - BDD in PHP
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.1](https://github.com/symfony/maker-bundle/releases/tag/v1.34.1), 1 week ago) - Symfony Maker Bundle
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
@@ -43,7 +43,7 @@
 
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (1 month ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (1 month ago)
-- [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (4 months ago)
+- [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (5 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (6 months ago)
 - [Using the “103 Early Hints” Status Code in Go Applications](https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/) (8 months ago)
 
@@ -64,7 +64,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [Orbitale](https://github.com/Orbitale) (3 weeks ago)
-- [Renrhaf](https://github.com/Renrhaf) (1 month ago)
+- [Renrhaf](https://github.com/Renrhaf) (2 months ago)
 - [cedricziel](https://github.com/cedricziel) (4 months ago)
 - [ismail1432](https://github.com/ismail1432) (4 months ago)
 - [jdehais](https://github.com/jdehais) (5 months ago)
