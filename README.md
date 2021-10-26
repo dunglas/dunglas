@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
-- [dunglas/docker-compose-meta](https://github.com/dunglas/docker-compose-meta) - A meta package for Symfony projects using Docker Compose (1 week ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
+- [dunglas/docker-compose-meta](https://github.com/dunglas/docker-compose-meta) - A meta package for Symfony projects using Docker Compose (2 weeks ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (2 weeks ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 weeks ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.5](https://github.com/renoki-co/php-k8s/releases/tag/3.1.5), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 4 days ago) - Doctrine Object Relational Mapper (ORM)
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.24.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.24.0), 4 days ago) - A QUIC implementation in pure go
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 5 days ago) - :musical_score: Extension integrating Behat with Symfony.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 6 days ago) - GitHub Actions virtual environments
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.5](https://github.com/renoki-co/php-k8s/releases/tag/3.1.5), 1 day ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.24.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.24.0), 5 days ago) - A QUIC implementation in pure go
+- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 6 days ago) - :musical_score: Extension integrating Behat with Symfony.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 1 week ago) - GitHub Actions virtual environments
 - [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), 1 week ago) - BDD in PHP
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.1](https://github.com/symfony/maker-bundle/releases/tag/v1.34.1), 1 week ago) - Symfony Maker Bundle
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
