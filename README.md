@@ -41,11 +41,11 @@
 
 #### 📜 My recent blog posts
 
+- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (today)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (1 month ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (1 month ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (5 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (6 months ago)
-- [Using the “103 Early Hints” Status Code in Go Applications](https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/) (8 months ago)
 
 #### 📓 Gists I wrote
 
