@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
+- [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (2 weeks ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.6](https://github.com/renoki-co/php-k8s/releases/tag/3.1.6), today) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.6](https://github.com/renoki-co/php-k8s/releases/tag/3.1.6), 1 day ago) - Control your Kubernetes clusters with this PHP-based Kubernetes client. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.1), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.24.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.24.0), 1 week ago) - A QUIC implementation in pure go
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 1 week ago) - :musical_score: Extension integrating Behat with Symfony.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (today)
+- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (1 day ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (1 month ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (1 month ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (5 months ago)
@@ -63,7 +63,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Orbitale](https://github.com/Orbitale) (3 weeks ago)
+- [Orbitale](https://github.com/Orbitale) (4 weeks ago)
 - [Renrhaf](https://github.com/Renrhaf) (2 months ago)
 - [cedricziel](https://github.com/cedricziel) (4 months ago)
 - [ismail1432](https://github.com/ismail1432) (4 months ago)
