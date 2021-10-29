@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.2), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.10](https://github.com/symfony/validator/releases/tag/v5.3.10), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.10](https://github.com/symfony/serializer/releases/tag/v5.3.10), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.10](https://github.com/symfony/http-kernel/releases/tag/v5.3.10), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
@@ -37,7 +38,6 @@
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.10](https://github.com/symfony/twig-bundle/releases/tag/v5.3.10), today) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.10](https://github.com/symfony/framework-bundle/releases/tag/v5.3.10), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), today) - The Symfony PHP framework
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.6](https://github.com/renoki-co/php-k8s/releases/tag/3.1.6), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent blog posts
 
