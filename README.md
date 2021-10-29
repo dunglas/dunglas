@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.10](https://github.com/symfony/validator/releases/tag/v5.3.10), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.10](https://github.com/symfony/serializer/releases/tag/v5.3.10), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.10](https://github.com/symfony/http-kernel/releases/tag/v5.3.10), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.10](https://github.com/symfony/http-foundation/releases/tag/v5.3.10), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.10](https://github.com/symfony/dependency-injection/releases/tag/v5.3.10), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.10](https://github.com/symfony/config/releases/tag/v5.3.10), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.10](https://github.com/symfony/twig-bundle/releases/tag/v5.3.10), today) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.10](https://github.com/symfony/framework-bundle/releases/tag/v5.3.10), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), today) - The Symfony PHP framework
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.6](https://github.com/renoki-co/php-k8s/releases/tag/3.1.6), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.1), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 1 week ago) - Doctrine Object Relational Mapper (ORM)
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.24.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.24.0), 1 week ago) - A QUIC implementation in pure go
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.2.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.2.1), 1 week ago) - :musical_score: Extension integrating Behat with Symfony.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211018.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211018.0), 1 week ago) - GitHub Actions virtual environments
-- [Behat/Behat](https://github.com/Behat/Behat) ([v3.9.0](https://github.com/Behat/Behat/releases/tag/v3.9.0), 1 week ago) - BDD in PHP
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.34.1](https://github.com/symfony/maker-bundle/releases/tag/v1.34.1), 1 week ago) - Symfony Maker Bundle
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 2 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
