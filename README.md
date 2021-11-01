@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20211029.3](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20211029.3), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.2), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.10](https://github.com/symfony/validator/releases/tag/v5.3.10), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.10](https://github.com/symfony/serializer/releases/tag/v5.3.10), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [symfony/config](https://github.com/symfony/config) ([v5.3.10](https://github.com/symfony/config/releases/tag/v5.3.10), 3 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.10](https://github.com/symfony/twig-bundle/releases/tag/v5.3.10), 3 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.10](https://github.com/symfony/framework-bundle/releases/tag/v5.3.10), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 3 days ago) - The Symfony PHP framework
 
 #### 📜 My recent blog posts
 
