@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (3 days ago)
-- [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (4 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (4 days ago)
+- [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (5 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (2 weeks ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (2 weeks ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211101.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211101.1), today) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), today) - Deliver Go binaries as fast and easily as possible
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.2), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.10](https://github.com/symfony/validator/releases/tag/v5.3.10), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.10](https://github.com/symfony/serializer/releases/tag/v5.3.10), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.10](https://github.com/symfony/http-kernel/releases/tag/v5.3.10), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.10](https://github.com/symfony/http-foundation/releases/tag/v5.3.10), 3 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.10](https://github.com/symfony/dependency-injection/releases/tag/v5.3.10), 3 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.10](https://github.com/symfony/config/releases/tag/v5.3.10), 3 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.10](https://github.com/symfony/twig-bundle/releases/tag/v5.3.10), 3 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211101.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211101.1), 1 day ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.2), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.10](https://github.com/symfony/validator/releases/tag/v5.3.10), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.10](https://github.com/symfony/serializer/releases/tag/v5.3.10), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.10](https://github.com/symfony/http-kernel/releases/tag/v5.3.10), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.10](https://github.com/symfony/http-foundation/releases/tag/v5.3.10), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.10](https://github.com/symfony/dependency-injection/releases/tag/v5.3.10), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.10](https://github.com/symfony/config/releases/tag/v5.3.10), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.10](https://github.com/symfony/twig-bundle/releases/tag/v5.3.10), 4 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
-- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (4 days ago)
+- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (5 days ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (1 month ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (1 month ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (5 months ago)
@@ -66,7 +66,7 @@
 - [Orbitale](https://github.com/Orbitale) (1 month ago)
 - [Renrhaf](https://github.com/Renrhaf) (2 months ago)
 - [cedricziel](https://github.com/cedricziel) (4 months ago)
-- [ismail1432](https://github.com/ismail1432) (4 months ago)
+- [ismail1432](https://github.com/ismail1432) (5 months ago)
 - [jdehais](https://github.com/jdehais) (5 months ago)
 
 #### 📫 How to reach me
