@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211101.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211101.1), 2 days ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211102.4](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211102.4), today) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.2), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.10](https://github.com/symfony/validator/releases/tag/v5.3.10), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
