@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v2.1.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v2.1.0), today) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211102.4](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211102.4), 1 day ago) - GitHub Actions virtual environments
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.2), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
@@ -37,7 +38,6 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.10](https://github.com/symfony/http-foundation/releases/tag/v5.3.10), 6 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.10](https://github.com/symfony/dependency-injection/releases/tag/v5.3.10), 6 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v5.3.10](https://github.com/symfony/config/releases/tag/v5.3.10), 6 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v5.3.10](https://github.com/symfony/twig-bundle/releases/tag/v5.3.10), 6 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
