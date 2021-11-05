@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), today) - Use Turbo in your Ruby on Rails app
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-BETA1](https://github.com/symfony/routing/releases/tag/v6.0.0-BETA1), today) - The Routing component maps an HTTP request to a set of configuration variables.
@@ -37,7 +38,6 @@
 - [symfony/config](https://github.com/symfony/config) ([v6.0.0-BETA1](https://github.com/symfony/config/releases/tag/v6.0.0-BETA1), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.0-BETA1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.0-BETA1), today) - The Twig Bundle provides configuration for using Twig in your applications.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v6.0.0-BETA1](https://github.com/symfony/twig-bridge/releases/tag/v6.0.0-BETA1), today) - Provides integration for Twig with various Symfony components.
 
 #### 📜 My recent blog posts
 
