@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20211106.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20211106.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), today) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), today) - Use the FOSHttpCache library in your Symfony projects
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 3 days ago) - Use Turbo in your Ruby on Rails app
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
