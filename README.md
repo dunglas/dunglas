@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), today) - Use the FOSHttpCache library in your Symfony projects
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 3 days ago) - Use Turbo in your Ruby on Rails app
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA1), 3 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v6.0.0-BETA1](https://github.com/symfony/config/releases/tag/v6.0.0-BETA1), 3 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.0-BETA1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.0-BETA1), 3 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA1), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent blog posts
 
