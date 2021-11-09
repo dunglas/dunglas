@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.3), today) - Contains Helm charts for Kubernetes related open source tools
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), 1 day ago) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
@@ -37,7 +38,6 @@
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-BETA1](https://github.com/symfony/routing/releases/tag/v6.0.0-BETA1), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA1), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
