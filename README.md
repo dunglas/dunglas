@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), 1 day ago) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 4 days ago) - Use Turbo in your Ruby on Rails app
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA1), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.0.0-BETA1](https://github.com/symfony/config/releases/tag/v6.0.0-BETA1), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
