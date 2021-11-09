@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (1 week ago)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (1 week ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (3 weeks ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (3 weeks ago)
@@ -28,22 +28,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), today) - GitHub Actions virtual environments
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), today) - Use the FOSHttpCache library in your Symfony projects
-- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 3 days ago) - Use Turbo in your Ruby on Rails app
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-BETA1](https://github.com/symfony/routing/releases/tag/v6.0.0-BETA1), 3 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA1), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-BETA1), 3 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA1), 3 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.0.0-BETA1](https://github.com/symfony/config/releases/tag/v6.0.0-BETA1), 3 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), 1 day ago) - GitHub Actions virtual environments
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
+- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 4 days ago) - Use Turbo in your Ruby on Rails app
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-BETA1](https://github.com/symfony/routing/releases/tag/v6.0.0-BETA1), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA1), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v6.0.0-BETA1](https://github.com/symfony/config/releases/tag/v6.0.0-BETA1), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (1 week ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (1 month ago)
-- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (1 month ago)
+- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (2 months ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (5 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (7 months ago)
 
