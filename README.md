@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211109.2](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211109.2), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.3), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), 2 days ago) - GitHub Actions virtual environments
 - [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 2 days ago) - Use the FOSHttpCache library in your Symfony projects
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 5 days ago) - Use Turbo in your Ruby on Rails app
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
