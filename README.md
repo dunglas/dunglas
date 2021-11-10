@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (1 week ago)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (1 week ago)
@@ -10,8 +10,8 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (3 weeks ago)
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (3 weeks ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (3 weeks ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 weeks ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 weeks ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.3), today) - Contains Helm charts for Kubernetes related open source tools
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), 1 day ago) - GitHub Actions virtual environments
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 1 day ago) - Use the FOSHttpCache library in your Symfony projects
-- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 4 days ago) - Use Turbo in your Ruby on Rails app
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-BETA1](https://github.com/symfony/routing/releases/tag/v6.0.0-BETA1), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-BETA1), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.3), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211108.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211108.1), 2 days ago) - GitHub Actions virtual environments
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 2 days ago) - Use the FOSHttpCache library in your Symfony projects
+- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 5 days ago) - Use Turbo in your Ruby on Rails app
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-BETA1](https://github.com/symfony/routing/releases/tag/v6.0.0-BETA1), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-BETA1), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 #### 📜 My recent blog posts
 
