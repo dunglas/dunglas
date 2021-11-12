@@ -63,11 +63,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [Lenny4](https://github.com/Lenny4) (today)
 - [Orbitale](https://github.com/Orbitale) (1 month ago)
 - [Renrhaf](https://github.com/Renrhaf) (2 months ago)
 - [cedricziel](https://github.com/cedricziel) (5 months ago)
 - [ismail1432](https://github.com/ismail1432) (5 months ago)
-- [jdehais](https://github.com/jdehais) (5 months ago)
 
 #### 📫 How to reach me
 
