@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.35.0](https://github.com/symfony/maker-bundle/releases/tag/v1.35.0), today) - Symfony Maker Bundle
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211110.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211110.1), 3 days ago) - GitHub Actions virtual environments
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), 4 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
@@ -37,7 +38,6 @@
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-BETA1](https://github.com/symfony/routing/releases/tag/v6.0.0-BETA1), 1 week ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA1), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-BETA1), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 #### 📜 My recent blog posts
 
