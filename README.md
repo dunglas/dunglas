@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management. (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management. (5 days ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (2 weeks ago)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.35.0](https://github.com/symfony/maker-bundle/releases/tag/v1.35.0), today) - Symfony Maker Bundle
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211110.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211110.1), 3 days ago) - GitHub Actions virtual environments
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), 4 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 5 days ago) - Use the FOSHttpCache library in your Symfony projects
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.35.0](https://github.com/symfony/maker-bundle/releases/tag/v1.35.0), 1 day ago) - Symfony Maker Bundle
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211110.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211110.1), 4 days ago) - GitHub Actions virtual environments
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.7](https://github.com/renoki-co/php-k8s/releases/tag/3.1.7), 5 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [FriendsOfSymfony/FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle) ([2.11.2](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle/releases/tag/2.11.2), 6 days ago) - Use the FOSHttpCache library in your Symfony projects
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.8.2](https://github.com/hotwired/turbo-rails/releases/tag/v0.8.2), 1 week ago) - Use Turbo in your Ruby on Rails app
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA1), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -63,7 +63,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Lenny4](https://github.com/Lenny4) (1 day ago)
+- [Lenny4](https://github.com/Lenny4) (2 days ago)
 - [Orbitale](https://github.com/Orbitale) (1 month ago)
 - [Renrhaf](https://github.com/Renrhaf) (2 months ago)
 - [cedricziel](https://github.com/cedricziel) (5 months ago)
