@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20211114.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211114.1), today) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA2](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA2), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA2), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA2](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA2), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
@@ -37,7 +38,6 @@
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.0.0-BETA2](https://github.com/symfony/phpunit-bridge/releases/tag/v6.0.0-BETA2), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.0.0-BETA2](https://github.com/symfony/doctrine-bridge/releases/tag/v6.0.0-BETA2), 1 day ago) - Provides integration for Doctrine with various Symfony components.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent blog posts
 
