@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 days ago)
@@ -11,7 +12,6 @@
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (2 weeks ago)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 
 #### 🌱 My latest projects
 
