@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.1](https://github.com/symfony/maker-bundle/releases/tag/v1.36.1), today) - Symfony Maker Bundle
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.8](https://github.com/renoki-co/php-k8s/releases/tag/3.1.8), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.0](https://github.com/symfony/maker-bundle/releases/tag/v1.36.0), 1 day ago) - Symfony Maker Bundle
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211115.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211115.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA2](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA2), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA2), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
