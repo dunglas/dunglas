@@ -30,7 +30,7 @@
 
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.1](https://github.com/symfony/maker-bundle/releases/tag/v1.36.1), 1 day ago) - Symfony Maker Bundle
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.8](https://github.com/renoki-co/php-k8s/releases/tag/3.1.8), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211115.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211115.1), 2 days ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211115.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211115.1), 3 days ago) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA2](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA2), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA2), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA2](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA2), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
