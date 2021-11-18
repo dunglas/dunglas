@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.5), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA3), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA3), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA3](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA3), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
@@ -37,7 +38,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), today) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.1](https://github.com/symfony/maker-bundle/releases/tag/v1.36.1), 1 day ago) - Symfony Maker Bundle
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.8](https://github.com/renoki-co/php-k8s/releases/tag/3.1.8), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211115.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211115.1), 3 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent blog posts
 
