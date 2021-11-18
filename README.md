@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA3), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA3), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA3](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA3), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA3](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA3), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.0.0-BETA3](https://github.com/symfony/doctrine-bridge/releases/tag/v6.0.0-BETA3), today) - Provides integration for Doctrine with various Symfony components.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), today) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.1](https://github.com/symfony/maker-bundle/releases/tag/v1.36.1), 1 day ago) - Symfony Maker Bundle
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.8](https://github.com/renoki-co/php-k8s/releases/tag/3.1.8), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211115.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211115.1), 3 days ago) - GitHub Actions virtual environments
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA2](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA2), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA2), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA2](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA2), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.0.0-BETA2](https://github.com/symfony/config/releases/tag/v6.0.0-BETA2), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.0-BETA2](https://github.com/symfony/twig-bundle/releases/tag/v6.0.0-BETA2), 4 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA2), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.0.0-BETA2](https://github.com/symfony/phpunit-bridge/releases/tag/v6.0.0-BETA2), 4 days ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
