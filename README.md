@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (1 week ago)
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management. (1 week ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (2 weeks ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (3 weeks ago)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (3 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
 
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.5), today) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA3), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA3), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA3](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA3), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA3](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA3), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.0.0-BETA3](https://github.com/symfony/doctrine-bridge/releases/tag/v6.0.0-BETA3), today) - Provides integration for Doctrine with various Symfony components.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), today) - The Symfony PHP framework
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.1](https://github.com/symfony/maker-bundle/releases/tag/v1.36.1), 1 day ago) - Symfony Maker Bundle
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.8](https://github.com/renoki-co/php-k8s/releases/tag/3.1.8), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.5), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA3), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA3), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-BETA3](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-BETA3), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-BETA3](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-BETA3), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.0.0-BETA3](https://github.com/symfony/doctrine-bridge/releases/tag/v6.0.0-BETA3), 1 day ago) - Provides integration for Doctrine with various Symfony components.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 1 day ago) - The Symfony PHP framework
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.1](https://github.com/symfony/maker-bundle/releases/tag/v1.36.1), 2 days ago) - Symfony Maker Bundle
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.8](https://github.com/renoki-co/php-k8s/releases/tag/3.1.8), 3 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent blog posts
 
@@ -63,7 +63,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Lenny4](https://github.com/Lenny4) (6 days ago)
+- [Lenny4](https://github.com/Lenny4) (1 week ago)
 - [Orbitale](https://github.com/Orbitale) (1 month ago)
 - [Renrhaf](https://github.com/Renrhaf) (2 months ago)
 - [cedricziel](https://github.com/cedricziel) (5 months ago)
