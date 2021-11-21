@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (6 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (6 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management. (1 week ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (3 weeks ago)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (3 weeks ago)
