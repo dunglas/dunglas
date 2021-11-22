@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211122.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211122.1), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.5), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA3), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA3), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.0.0-BETA3](https://github.com/symfony/doctrine-bridge/releases/tag/v6.0.0-BETA3), 4 days ago) - Provides integration for Doctrine with various Symfony components.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 4 days ago) - The Symfony PHP framework
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.1](https://github.com/symfony/maker-bundle/releases/tag/v1.36.1), 5 days ago) - Symfony Maker Bundle
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.1.8](https://github.com/renoki-co/php-k8s/releases/tag/3.1.8), 6 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent blog posts
 
