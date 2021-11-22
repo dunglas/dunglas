@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211122.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211122.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211120.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211120.1), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.26.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.26.5), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-BETA3](https://github.com/symfony/validator/releases/tag/v6.0.0-BETA3), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.0.0-BETA3), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
