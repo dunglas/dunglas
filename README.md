@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.2](https://github.com/symfony/maker-bundle/releases/tag/v1.36.2), today) - Symfony Maker Bundle
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.11](https://github.com/symfony/validator/releases/tag/v5.3.11), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.11](https://github.com/symfony/serializer/releases/tag/v5.3.11), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.11](https://github.com/symfony/routing/releases/tag/v5.3.11), today) - The Routing component maps an HTTP request to a set of configuration variables.
@@ -37,7 +38,6 @@
 - [symfony/config](https://github.com/symfony/config) ([v5.3.11](https://github.com/symfony/config/releases/tag/v5.3.11), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.11](https://github.com/symfony/framework-bundle/releases/tag/v5.3.11), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.11](https://github.com/symfony/twig-bridge/releases/tag/v5.3.11), today) - Provides integration for Twig with various Symfony components.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.3.11](https://github.com/symfony/phpunit-bridge/releases/tag/v5.3.11), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent blog posts
 
