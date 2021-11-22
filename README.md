@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.2](https://github.com/symfony/maker-bundle/releases/tag/v1.36.2), today) - Symfony Maker Bundle
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.3](https://github.com/symfony/maker-bundle/releases/tag/v1.36.3), today) - Symfony Maker Bundle
 - [symfony/validator](https://github.com/symfony/validator) ([v5.3.11](https://github.com/symfony/validator/releases/tag/v5.3.11), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.11](https://github.com/symfony/serializer/releases/tag/v5.3.11), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v5.3.11](https://github.com/symfony/routing/releases/tag/v5.3.11), today) - The Routing component maps an HTTP request to a set of configuration variables.
