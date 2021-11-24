@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (today)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (2 weeks ago)
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management. (2 weeks ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (3 weeks ago)
 - [lyrixx/estceque](https://github.com/lyrixx/estceque) -  (3 weeks ago)
@@ -28,23 +28,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211122.0](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211122.0), today) - GitHub Actions virtual environments
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.3](https://github.com/symfony/maker-bundle/releases/tag/v1.36.3), 1 day ago) - Symfony Maker Bundle
-- [symfony/validator](https://github.com/symfony/validator) ([v5.3.11](https://github.com/symfony/validator/releases/tag/v5.3.11), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.11](https://github.com/symfony/serializer/releases/tag/v5.3.11), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.11](https://github.com/symfony/routing/releases/tag/v5.3.11), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.11](https://github.com/symfony/http-kernel/releases/tag/v5.3.11), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.11](https://github.com/symfony/http-foundation/releases/tag/v5.3.11), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.11](https://github.com/symfony/dependency-injection/releases/tag/v5.3.11), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v5.3.11](https://github.com/symfony/config/releases/tag/v5.3.11), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.11](https://github.com/symfony/framework-bundle/releases/tag/v5.3.11), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211122.0](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211122.0), 1 day ago) - GitHub Actions virtual environments
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.3](https://github.com/symfony/maker-bundle/releases/tag/v1.36.3), 2 days ago) - Symfony Maker Bundle
+- [symfony/validator](https://github.com/symfony/validator) ([v5.3.11](https://github.com/symfony/validator/releases/tag/v5.3.11), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.11](https://github.com/symfony/serializer/releases/tag/v5.3.11), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.11](https://github.com/symfony/routing/releases/tag/v5.3.11), 2 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.11](https://github.com/symfony/http-kernel/releases/tag/v5.3.11), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.3.11](https://github.com/symfony/http-foundation/releases/tag/v5.3.11), 2 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.3.11](https://github.com/symfony/dependency-injection/releases/tag/v5.3.11), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v5.3.11](https://github.com/symfony/config/releases/tag/v5.3.11), 2 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.11](https://github.com/symfony/framework-bundle/releases/tag/v5.3.11), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent blog posts
 
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (3 weeks ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (2 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (2 months ago)
-- [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (5 months ago)
+- [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (6 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (7 months ago)
 
 #### 📓 Gists I wrote
@@ -65,7 +65,7 @@
 
 - [Lenny4](https://github.com/Lenny4) (1 week ago)
 - [Orbitale](https://github.com/Orbitale) (1 month ago)
-- [Renrhaf](https://github.com/Renrhaf) (2 months ago)
+- [Renrhaf](https://github.com/Renrhaf) (3 months ago)
 - [cedricziel](https://github.com/cedricziel) (5 months ago)
 - [ismail1432](https://github.com/ismail1432) (5 months ago)
 
