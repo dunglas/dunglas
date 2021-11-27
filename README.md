@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (3 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (4 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 weeks ago)
 - [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.0](https://github.com/doctrine/dbal/releases/tag/3.2.0), today) - Doctrine Database Abstraction Layer
-- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.9.0](https://github.com/hotwired/turbo-rails/releases/tag/v0.9.0), 2 days ago) - Use Turbo in your Ruby on Rails app
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-RC1](https://github.com/symfony/validator/releases/tag/v6.0.0-RC1), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-RC1](https://github.com/symfony/serializer/releases/tag/v6.0.0-RC1), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-RC1](https://github.com/symfony/routing/releases/tag/v6.0.0-RC1), 2 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-RC1), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-RC1), 2 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-RC1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-RC1), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.0.0-RC1](https://github.com/symfony/config/releases/tag/v6.0.0-RC1), 2 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.0-RC1), 2 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.0](https://github.com/doctrine/dbal/releases/tag/3.2.0), 1 day ago) - Doctrine Database Abstraction Layer
+- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.9.0](https://github.com/hotwired/turbo-rails/releases/tag/v0.9.0), 3 days ago) - Use Turbo in your Ruby on Rails app
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-RC1](https://github.com/symfony/validator/releases/tag/v6.0.0-RC1), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0-RC1](https://github.com/symfony/serializer/releases/tag/v6.0.0-RC1), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0-RC1](https://github.com/symfony/routing/releases/tag/v6.0.0-RC1), 3 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-RC1), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-RC1), 3 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-RC1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-RC1), 3 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v6.0.0-RC1](https://github.com/symfony/config/releases/tag/v6.0.0-RC1), 3 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.0-RC1), 3 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
-- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (4 weeks ago)
+- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (1 month ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (2 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (2 months ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (6 months ago)
