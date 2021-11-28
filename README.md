@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/flex](https://github.com/symfony/flex) ([v2.0.0](https://github.com/symfony/flex/releases/tag/v2.0.0), today) - Composer plugin for Symfony
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.0](https://github.com/doctrine/dbal/releases/tag/3.2.0), 2 days ago) - Doctrine Database Abstraction Layer
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.9.0](https://github.com/hotwired/turbo-rails/releases/tag/v0.9.0), 4 days ago) - Use Turbo in your Ruby on Rails app
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0-RC1](https://github.com/symfony/validator/releases/tag/v6.0.0-RC1), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
@@ -37,7 +38,6 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-RC1), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-RC1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-RC1), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v6.0.0-RC1](https://github.com/symfony/config/releases/tag/v6.0.0-RC1), 4 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.0-RC1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.0-RC1), 4 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
