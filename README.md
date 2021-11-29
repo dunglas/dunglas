@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20211127.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20211127.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211129.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211129.1), today) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v2.0.0](https://github.com/symfony/flex/releases/tag/v2.0.0), 1 day ago) - Composer plugin for Symfony
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.0](https://github.com/doctrine/dbal/releases/tag/3.2.0), 3 days ago) - Doctrine Database Abstraction Layer
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.9.0](https://github.com/hotwired/turbo-rails/releases/tag/v0.9.0), 5 days ago) - Use Turbo in your Ruby on Rails app
