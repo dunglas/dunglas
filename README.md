@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20211127.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20211127.1), today) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v2.0.0](https://github.com/symfony/flex/releases/tag/v2.0.0), 1 day ago) - Composer plugin for Symfony
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.0](https://github.com/doctrine/dbal/releases/tag/3.2.0), 3 days ago) - Doctrine Database Abstraction Layer
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.9.0](https://github.com/hotwired/turbo-rails/releases/tag/v0.9.0), 5 days ago) - Use Turbo in your Ruby on Rails app
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v6.0.0-RC1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v6.0.0-RC1), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0-RC1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0-RC1), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.0.0-RC1](https://github.com/symfony/config/releases/tag/v6.0.0-RC1), 5 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent blog posts
 
