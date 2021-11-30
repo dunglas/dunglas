@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/panther](https://github.com/symfony/panther) ([v2.0.0](https://github.com/symfony/panther/releases/tag/v2.0.0), today) - A browser testing and web crawling library for PHP and Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211229.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211229.2), today) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
@@ -37,7 +38,6 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0](https://github.com/symfony/http-foundation/releases/tag/v6.0.0), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.0](https://github.com/symfony/dependency-injection/releases/tag/v6.0.0), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/config](https://github.com/symfony/config) ([v6.0.0](https://github.com/symfony/config/releases/tag/v6.0.0), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.0](https://github.com/symfony/twig-bundle/releases/tag/v6.0.0), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
