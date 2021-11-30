@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211229.2](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211229.2), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211229.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211229.2), today) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.0](https://github.com/symfony/routing/releases/tag/v6.0.0), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
