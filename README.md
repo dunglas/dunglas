@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211130.3](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211130.3), today) - GitHub Actions virtual environments
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.4](https://github.com/symfony/maker-bundle/releases/tag/v1.36.4), today) - Symfony Maker Bundle
 - [symfony/panther](https://github.com/symfony/panther) ([v2.0.0](https://github.com/symfony/panther/releases/tag/v2.0.0), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211229.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211229.2), 1 day ago) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.0](https://github.com/symfony/routing/releases/tag/v6.0.0), 2 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
