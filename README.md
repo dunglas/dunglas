@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), today) - Doctrine Object Relational Mapper (ORM)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-ab9dac4f](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-ab9dac4f), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -37,7 +38,6 @@
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.0](https://github.com/symfony/routing/releases/tag/v6.0.0), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0](https://github.com/symfony/http-kernel/releases/tag/v6.0.0), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent blog posts
 
