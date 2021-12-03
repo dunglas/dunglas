@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-ab9dac4f](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-ab9dac4f), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211130.3](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211130.3), 2 days ago) - GitHub Actions virtual environments
@@ -37,7 +38,6 @@
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.0](https://github.com/symfony/routing/releases/tag/v6.0.0), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.0](https://github.com/symfony/http-kernel/releases/tag/v6.0.0), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.0](https://github.com/symfony/http-foundation/releases/tag/v6.0.0), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 #### 📜 My recent blog posts
 
