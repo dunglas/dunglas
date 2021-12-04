@@ -63,11 +63,11 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [finetuning](https://github.com/finetuning) (today)
 - [Lenny4](https://github.com/Lenny4) (3 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (2 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (3 months ago)
 - [cedricziel](https://github.com/cedricziel) (6 months ago)
-- [ismail1432](https://github.com/ismail1432) (6 months ago)
 
 #### 📫 How to reach me
 
