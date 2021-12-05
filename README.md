@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 2 days ago) - A browser testing and web crawling library for PHP and Symfony
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-ab9dac4f](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-ab9dac4f), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211130.3](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211130.3), 3 days ago) - GitHub Actions virtual environments
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.4](https://github.com/symfony/maker-bundle/releases/tag/v1.36.4), 3 days ago) - Symfony Maker Bundle
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0](https://github.com/symfony/routing/releases/tag/v6.0.0), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 3 days ago) - A browser testing and web crawling library for PHP and Symfony
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-ab9dac4f](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-ab9dac4f), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211130.3](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211130.3), 4 days ago) - GitHub Actions virtual environments
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.4](https://github.com/symfony/maker-bundle/releases/tag/v1.36.4), 4 days ago) - Symfony Maker Bundle
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0](https://github.com/symfony/routing/releases/tag/v6.0.0), 6 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (2 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (2 months ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (6 months ago)
-- [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (7 months ago)
+- [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (8 months ago)
 
 #### 📓 Gists I wrote
 
@@ -63,7 +63,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [finetuning](https://github.com/finetuning) (today)
+- [finetuning](https://github.com/finetuning) (1 day ago)
 - [Lenny4](https://github.com/Lenny4) (3 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (2 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (3 months ago)
