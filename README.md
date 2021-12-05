@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 3 days ago) - A browser testing and web crawling library for PHP and Symfony
@@ -37,7 +38,6 @@
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v6.0.0](https://github.com/symfony/routing/releases/tag/v6.0.0), 6 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 
 #### 📜 My recent blog posts
 
