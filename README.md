@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211206.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211206.1), today) - GitHub Actions virtual environments
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.3](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.3), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 4 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 5 days ago) - A browser testing and web crawling library for PHP and Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-ab9dac4f](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-ab9dac4f), 6 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211130.3](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211130.3), 6 days ago) - GitHub Actions virtual environments
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.4](https://github.com/symfony/maker-bundle/releases/tag/v1.36.4), 6 days ago) - Symfony Maker Bundle
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
