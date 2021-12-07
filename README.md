@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211206.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211206.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211207.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211207.2), today) - GitHub Actions virtual environments
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.3](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.3), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
