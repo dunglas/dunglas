@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.3](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.3), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 4 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
@@ -37,7 +38,6 @@
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.4](https://github.com/symfony/maker-bundle/releases/tag/v1.36.4), 6 days ago) - Symfony Maker Bundle
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.0](https://github.com/symfony/serializer/releases/tag/v6.0.0), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent blog posts
 
