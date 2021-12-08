@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.5](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.5), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211207.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211207.1), today) - GitHub Actions virtual environments
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.4](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.4), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), 3 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 5 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
