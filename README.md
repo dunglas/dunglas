@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (5 days ago)
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (5 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (6 days ago)
+- [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (6 days ago)
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (6 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (1 week ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (2 weeks ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 weeks ago)
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.5](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.5), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211207.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211207.1), today) - GitHub Actions virtual environments
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), 3 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 5 days ago) - Doctrine Object Relational Mapper (ORM)
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 5 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 6 days ago) - A browser testing and web crawling library for PHP and Symfony
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.5](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.5), 1 day ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211207.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211207.1), 1 day ago) - GitHub Actions virtual environments
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), 4 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 6 days ago) - Doctrine Object Relational Mapper (ORM)
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 6 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 1 week ago) - A browser testing and web crawling library for PHP and Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-ab9dac4f](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-ab9dac4f), 1 week ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.4](https://github.com/symfony/maker-bundle/releases/tag/v1.36.4), 1 week ago) - Symfony Maker Bundle
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
@@ -43,7 +43,7 @@
 
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (1 month ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (2 months ago)
-- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (2 months ago)
+- [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (3 months ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (6 months ago)
 - [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (8 months ago)
 
@@ -63,7 +63,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [finetuning](https://github.com/finetuning) (4 days ago)
+- [finetuning](https://github.com/finetuning) (5 days ago)
 - [Lenny4](https://github.com/Lenny4) (3 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (2 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (3 months ago)
