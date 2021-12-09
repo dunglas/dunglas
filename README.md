@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211208.3](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211208.3), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-b697c4f3](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-b697c4f3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([1.4.5](https://github.com/hwi/HWIOAuthBundle/releases/tag/1.4.5), 1 day ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.2.0](https://github.com/renoki-co/php-k8s/releases/tag/3.2.0), 4 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 6 days ago) - Doctrine Object Relational Mapper (ORM)
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.2.0](https://github.com/golang-jwt/jwt/releases/tag/v4.2.0), 6 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [symfony/panther](https://github.com/symfony/panther) ([v2.0.1](https://github.com/symfony/panther/releases/tag/v2.0.1), 1 week ago) - A browser testing and web crawling library for PHP and Symfony
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.36.4](https://github.com/symfony/maker-bundle/releases/tag/v1.36.4), 1 week ago) - Symfony Maker Bundle
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.0](https://github.com/symfony/validator/releases/tag/v6.0.0), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v6.0.1](https://github.com/symfony/routing/releases/tag/v6.0.1), today) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.1), today) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v6.0.1](https://github.com/symfony/twig-bridge/releases/tag/v6.0.1), today) - Provides integration for Twig with various Symfony components.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.0.1](https://github.com/symfony/doctrine-bridge/releases/tag/v6.0.1), today) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent blog posts
 
