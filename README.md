@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (6 days ago)
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (6 days ago)
+- [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211209.3](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211209.3), today) - GitHub Actions virtual environments
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v6.0.1](https://github.com/symfony/routing/releases/tag/v6.0.1), today) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.1), today) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v6.0.1](https://github.com/symfony/twig-bridge/releases/tag/v6.0.1), today) - Provides integration for Twig with various Symfony components.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211209.3](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211209.3), 1 day ago) - GitHub Actions virtual environments
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v6.0.1](https://github.com/symfony/routing/releases/tag/v6.0.1), 1 day ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.1), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v6.0.1](https://github.com/symfony/twig-bridge/releases/tag/v6.0.1), 1 day ago) - Provides integration for Twig with various Symfony components.
 
 #### 📜 My recent blog posts
 
@@ -63,8 +63,8 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [finetuning](https://github.com/finetuning) (5 days ago)
-- [Lenny4](https://github.com/Lenny4) (3 weeks ago)
+- [finetuning](https://github.com/finetuning) (6 days ago)
+- [Lenny4](https://github.com/Lenny4) (4 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (2 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (3 months ago)
 - [cedricziel](https://github.com/cedricziel) (6 months ago)
