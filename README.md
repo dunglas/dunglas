@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-db4e08b8](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-db4e08b8), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA1](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA1), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211209.3](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211209.3), 1 day ago) - GitHub Actions virtual environments
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
@@ -37,7 +38,6 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.1), 1 day ago) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent blog posts
 
