@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), today) - A Commander for modern Go CLI interactions
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.9.1](https://github.com/hotwired/turbo-rails/releases/tag/v0.9.1), today) - Use Turbo in your Ruby on Rails app
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20211214.2](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211214.2), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-db4e08b8](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-db4e08b8), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -37,7 +38,6 @@
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.1](https://github.com/symfony/routing/releases/tag/v6.0.1), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
 #### 📜 My recent blog posts
 
