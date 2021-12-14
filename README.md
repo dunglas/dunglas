@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211212.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211212.1), 1 day ago) - GitHub Actions virtual environments
+- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v0.9.1](https://github.com/hotwired/turbo-rails/releases/tag/v0.9.1), today) - Use Turbo in your Ruby on Rails app
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20211214.2](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211214.2), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-db4e08b8](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-db4e08b8), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA1](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA1), 4 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
@@ -37,7 +38,6 @@
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.1), 5 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
