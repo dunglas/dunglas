@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (5 days ago)
+- [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (6 days ago)
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211212.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211212.1), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-db4e08b8](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-db4e08b8), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA1](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA1), 3 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v6.0.1](https://github.com/symfony/routing/releases/tag/v6.0.1), 4 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), 4 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.1), 4 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211212.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211212.1), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-db4e08b8](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-db4e08b8), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA1](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA1), 4 days ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), 5 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v6.0.1](https://github.com/symfony/routing/releases/tag/v6.0.1), 5 days ago) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.1](https://github.com/symfony/dependency-injection/releases/tag/v6.0.1), 5 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v6.0.1](https://github.com/symfony/twig-bundle/releases/tag/v6.0.1), 5 days ago) - The Twig Bundle provides configuration for using Twig in your applications.
 
 #### 📜 My recent blog posts
 
