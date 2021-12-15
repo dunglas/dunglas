@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-0a311ab2](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-0a311ab2), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-c73398fb](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-c73398fb), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v1.0.0](https://github.com/hotwired/turbo-rails/releases/tag/v1.0.0), 1 day ago) - Use Turbo in your Ruby on Rails app
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 1 day ago) - A Commander for modern Go CLI interactions
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20211214.2](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211214.2), 1 day ago) - GitHub Actions virtual environments
