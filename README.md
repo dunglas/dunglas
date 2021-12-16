@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (today)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
 - [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (1 week ago)
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 weeks ago)
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (2 weeks ago)
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (3 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer (3 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.1](https://github.com/symfony/mercure/releases/tag/v0.6.1), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-56ff64d1](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-56ff64d1), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v1.0.0](https://github.com/hotwired/turbo-rails/releases/tag/v1.0.0), 2 days ago) - Use Turbo in your Ruby on Rails app
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 2 days ago) - A Commander for modern Go CLI interactions
@@ -37,7 +38,6 @@
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/routing](https://github.com/symfony/routing) ([v6.0.1](https://github.com/symfony/routing/releases/tag/v6.0.1), 1 week ago) - The Routing component maps an HTTP request to a set of configuration variables.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.1](https://github.com/symfony/http-kernel/releases/tag/v6.0.1), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.1](https://github.com/symfony/http-foundation/releases/tag/v6.0.1), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 #### 📜 My recent blog posts
 
