@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20211219.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211219.1), today) - GitHub Actions virtual environments
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 4 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.1](https://github.com/symfony/mercure/releases/tag/v0.6.1), 4 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v1.0.0](https://github.com/hotwired/turbo-rails/releases/tag/v1.0.0), 6 days ago) - Use Turbo in your Ruby on Rails app
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 6 days ago) - A Commander for modern Go CLI interactions
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20211214.2](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211214.2), 6 days ago) - GitHub Actions virtual environments
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA1](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA1), 1 week ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
