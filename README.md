@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211219.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211219.1), 1 day ago) - GitHub Actions virtual environments
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -37,7 +38,6 @@
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 1 week ago) - A Commander for modern Go CLI interactions
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA1](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA1), 1 week ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.1](https://github.com/symfony/validator/releases/tag/v6.0.1), 1 week ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.1](https://github.com/symfony/serializer/releases/tag/v6.0.1), 1 week ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent blog posts
 
