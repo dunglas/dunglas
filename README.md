@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211220.1), today) - GitHub Actions virtual environments
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.4](https://github.com/doctrine/orm/releases/tag/2.10.4), today) - Doctrine Object Relational Mapper (ORM)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211219.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211219.1), 1 day ago) - GitHub Actions virtual environments
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 5 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
