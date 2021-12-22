@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (5 days ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (6 days ago)
@@ -11,7 +12,6 @@
 - [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (2 weeks ago)
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (2 weeks ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.1](https://github.com/symfony/mercure/releases/tag/v0.6.1), 6 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v1.0.0](https://github.com/hotwired/turbo-rails/releases/tag/v1.0.0), 1 week ago) - Use Turbo in your Ruby on Rails app
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 1 week ago) - A Commander for modern Go CLI interactions
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA1](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA1), 1 week ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-ALPHA.1), 1 week ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent blog posts
 
