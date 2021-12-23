@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (5 days ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (6 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (6 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (2 weeks ago)
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (2 weeks ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 weeks ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211220.1), 1 day ago) - GitHub Actions virtual environments
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.4](https://github.com/doctrine/orm/releases/tag/2.10.4), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 3 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 6 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.1](https://github.com/symfony/mercure/releases/tag/v0.6.1), 6 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211220.1), 2 days ago) - GitHub Actions virtual environments
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.4](https://github.com/doctrine/orm/releases/tag/2.10.4), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 4 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.1](https://github.com/symfony/mercure/releases/tag/v0.6.1), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v1.0.0](https://github.com/hotwired/turbo-rails/releases/tag/v1.0.0), 1 week ago) - Use Turbo in your Ruby on Rails app
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.3.0](https://github.com/spf13/cobra/releases/tag/v1.3.0), 1 week ago) - A Commander for modern Go CLI interactions
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-ALPHA.1), 1 week ago) - Open Source eCommerce Platform on Symfony
