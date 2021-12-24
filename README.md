@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (today)
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (2 days ago)
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (2 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 week ago)
 - [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) - A application used to test documentation code blocks (2 weeks ago)
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.7](https://github.com/api-platform/api-platform/releases/tag/v2.6.7), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.0](https://github.com/api-platform/schema-generator/releases/tag/v4.0.0), today) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.7](https://github.com/api-platform/core/releases/tag/v2.6.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211220.1), 3 days ago) - GitHub Actions virtual environments
@@ -37,7 +38,6 @@
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 6 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.1](https://github.com/symfony/mercure/releases/tag/v0.6.1), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails) ([v1.0.0](https://github.com/hotwired/turbo-rails/releases/tag/v1.0.0), 1 week ago) - Use Turbo in your Ruby on Rails app
 
 #### 📜 My recent blog posts
 
