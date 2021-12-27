@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (2 days ago)
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (2 days ago)
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (4 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (3 days ago)
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (3 days ago)
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (5 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [dunglas/vaccin.click](https://github.com/dunglas/vaccin.click) - Une extension Firefox pour trouver et réserver automatiquement votre créneau de vaccination COVID-19. (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 
@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.7](https://github.com/api-platform/api-platform/releases/tag/v2.6.7), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.0](https://github.com/api-platform/schema-generator/releases/tag/v4.0.0), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.7](https://github.com/api-platform/core/releases/tag/v2.6.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211220.1), 5 days ago) - GitHub Actions virtual environments
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.4](https://github.com/doctrine/orm/releases/tag/2.10.4), 5 days ago) - Doctrine Object Relational Mapper (ORM)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.1), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.7](https://github.com/api-platform/api-platform/releases/tag/v2.6.7), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.0](https://github.com/api-platform/schema-generator/releases/tag/v4.0.0), 3 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.7](https://github.com/api-platform/core/releases/tag/v2.6.7), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211220.1), 6 days ago) - GitHub Actions virtual environments
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.4](https://github.com/doctrine/orm/releases/tag/2.10.4), 6 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.1), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 1 week ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 1 week ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (1 month ago)
+- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (3 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (3 months ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (7 months ago)
