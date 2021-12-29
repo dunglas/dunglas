@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.3), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.7](https://github.com/api-platform/api-platform/releases/tag/v2.6.7), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.0](https://github.com/api-platform/schema-generator/releases/tag/v4.0.0), 5 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.7](https://github.com/api-platform/core/releases/tag/v2.6.7), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -37,7 +38,6 @@
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 1 week ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 1 week ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.1](https://github.com/symfony/mercure/releases/tag/v0.6.1), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
