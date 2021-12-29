@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v4.4.36](https://github.com/symfony/http-kernel/releases/tag/v4.4.36), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v4.4.36](https://github.com/symfony/http-foundation/releases/tag/v4.4.36), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v4.4.36](https://github.com/symfony/dependency-injection/releases/tag/v4.4.36), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v4.4.36](https://github.com/symfony/config/releases/tag/v4.4.36), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v4.4.36](https://github.com/symfony/twig-bundle/releases/tag/v4.4.36), today) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v4.4.36](https://github.com/symfony/framework-bundle/releases/tag/v4.4.36), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v4.4.36](https://github.com/symfony/twig-bridge/releases/tag/v4.4.36), today) - Provides integration for Twig with various Symfony components.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v4.4.36](https://github.com/symfony/doctrine-bridge/releases/tag/v4.4.36), today) - Provides integration for Doctrine with various Symfony components.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.36](https://github.com/symfony/symfony/releases/tag/v4.4.36), today) - The Symfony PHP framework
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.3), today) - Symfony Bundle for Doctrine ORM and DBAL
+- [symfony/validator](https://github.com/symfony/validator) ([v5.4.2](https://github.com/symfony/validator/releases/tag/v5.4.2), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.2](https://github.com/symfony/serializer/releases/tag/v5.4.2), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.4.2](https://github.com/symfony/http-kernel/releases/tag/v5.4.2), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.2](https://github.com/symfony/http-foundation/releases/tag/v5.4.2), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v5.4.2](https://github.com/symfony/dependency-injection/releases/tag/v5.4.2), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v5.4.2](https://github.com/symfony/config/releases/tag/v5.4.2), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.2](https://github.com/symfony/framework-bundle/releases/tag/v5.4.2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v5.4.2](https://github.com/symfony/doctrine-bridge/releases/tag/v5.4.2), today) - Provides integration for Doctrine with various Symfony components.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.2](https://github.com/symfony/symfony/releases/tag/v5.4.2), today) - The Symfony PHP framework
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v5.3.13](https://github.com/symfony/twig-bridge/releases/tag/v5.3.13), today) - Provides integration for Twig with various Symfony components.
 
 #### 📜 My recent blog posts
 
