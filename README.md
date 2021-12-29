@@ -28,16 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v4.4.36](https://github.com/symfony/http-kernel/releases/tag/v4.4.36), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v4.4.36](https://github.com/symfony/http-foundation/releases/tag/v4.4.36), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v4.4.36](https://github.com/symfony/dependency-injection/releases/tag/v4.4.36), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v4.4.36](https://github.com/symfony/config/releases/tag/v4.4.36), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) ([v4.4.36](https://github.com/symfony/twig-bundle/releases/tag/v4.4.36), today) - The Twig Bundle provides configuration for using Twig in your applications.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v4.4.36](https://github.com/symfony/framework-bundle/releases/tag/v4.4.36), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v4.4.36](https://github.com/symfony/twig-bridge/releases/tag/v4.4.36), today) - Provides integration for Twig with various Symfony components.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v4.4.36](https://github.com/symfony/doctrine-bridge/releases/tag/v4.4.36), today) - Provides integration for Doctrine with various Symfony components.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.36](https://github.com/symfony/symfony/releases/tag/v4.4.36), today) - The Symfony PHP framework
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.3), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.7](https://github.com/api-platform/api-platform/releases/tag/v2.6.7), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.0](https://github.com/api-platform/schema-generator/releases/tag/v4.0.0), 5 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.7](https://github.com/api-platform/core/releases/tag/v2.6.7), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211220.1), 1 week ago) - GitHub Actions virtual environments
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.4](https://github.com/doctrine/orm/releases/tag/2.10.4), 1 week ago) - Doctrine Object Relational Mapper (ORM)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.1), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.3.0](https://github.com/renoki-co/php-k8s/releases/tag/3.3.0), 1 week ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.1](https://github.com/remix-run/remix/releases/tag/v1.1.1), 1 week ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent blog posts
 
