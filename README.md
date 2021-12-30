@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.4.0](https://github.com/renoki-co/php-k8s/releases/tag/3.4.0), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.4](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.4), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.2](https://github.com/symfony/validator/releases/tag/v6.0.2), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.2](https://github.com/symfony/serializer/releases/tag/v6.0.2), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
@@ -37,7 +38,6 @@
 - [symfony/config](https://github.com/symfony/config) ([v6.0.2](https://github.com/symfony/config/releases/tag/v6.0.2), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v6.0.2](https://github.com/symfony/twig-bridge/releases/tag/v6.0.2), 1 day ago) - Provides integration for Twig with various Symfony components.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.0.2](https://github.com/symfony/doctrine-bridge/releases/tag/v6.0.2), 1 day ago) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent blog posts
 
