@@ -41,11 +41,11 @@
 
 #### 📜 My recent blog posts
 
+- [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (today)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (3 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (3 months ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (7 months ago)
-- [Symfony UX Turbo: Do You Still Need JavaScript?! (SymfonyWorld)](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/) (8 months ago)
 
 #### 📓 Gists I wrote
 
