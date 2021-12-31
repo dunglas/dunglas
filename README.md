@@ -18,7 +18,7 @@
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.4](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.4), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.2](https://github.com/symfony/validator/releases/tag/v6.0.2), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
-#### 📜 My recent blog posts
+#### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 day ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
@@ -26,10 +26,8 @@
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (3 months ago)
 - [Webperf: PHP after Server Push](https://dunglas.fr/2021/05/webperf-php-after-server-push/) (7 months ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [finetuning](https://github.com/finetuning) (3 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (3 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (4 months ago)
-- [cedricziel](https://github.com/cedricziel) (6 months ago)
-- [ismail1432](https://github.com/ismail1432) (6 months ago)
