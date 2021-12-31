@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 days ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 days ago)
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (6 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (6 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
+- [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (3 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (4 days ago)
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (1 week ago)
 
@@ -28,20 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.4.0](https://github.com/renoki-co/php-k8s/releases/tag/3.4.0), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.4](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.4), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.2](https://github.com/symfony/validator/releases/tag/v6.0.2), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.2](https://github.com/symfony/serializer/releases/tag/v6.0.2), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.2](https://github.com/symfony/http-kernel/releases/tag/v6.0.2), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.2](https://github.com/symfony/http-foundation/releases/tag/v6.0.2), 1 day ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.2](https://github.com/symfony/dependency-injection/releases/tag/v6.0.2), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.0.2](https://github.com/symfony/config/releases/tag/v6.0.2), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v6.0.2](https://github.com/symfony/twig-bridge/releases/tag/v6.0.2), 1 day ago) - Provides integration for Twig with various Symfony components.
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.4.0](https://github.com/renoki-co/php-k8s/releases/tag/3.4.0), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.4](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.4), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.2](https://github.com/symfony/validator/releases/tag/v6.0.2), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.2](https://github.com/symfony/serializer/releases/tag/v6.0.2), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.2](https://github.com/symfony/http-kernel/releases/tag/v6.0.2), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.0.2](https://github.com/symfony/http-foundation/releases/tag/v6.0.2), 2 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.2](https://github.com/symfony/dependency-injection/releases/tag/v6.0.2), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v6.0.2](https://github.com/symfony/config/releases/tag/v6.0.2), 2 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.2), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) ([v6.0.2](https://github.com/symfony/twig-bridge/releases/tag/v6.0.2), 2 days ago) - Provides integration for Twig with various Symfony components.
 
 #### 📜 My recent blog posts
 
-- [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (today)
+- [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 day ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (3 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (3 months ago)
