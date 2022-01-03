@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [finetuning](https://github.com/finetuning) (1 month ago)
 - [Orbitale](https://github.com/Orbitale) (3 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (4 months ago)
+- [cedricziel](https://github.com/cedricziel) (7 months ago)
