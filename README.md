@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.2), today) - Contains Helm charts for Kubernetes related open source tools
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.5.1](https://github.com/renoki-co/php-k8s/releases/tag/3.5.1), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.4](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.4), 5 days ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.2](https://github.com/symfony/validator/releases/tag/v6.0.2), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
