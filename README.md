@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), today) - Doctrine Database Abstraction Layer
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.5](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.5), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-935642c5](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-935642c5), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.5.1](https://github.com/renoki-co/php-k8s/releases/tag/3.5.1), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
