@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.5.1](https://github.com/renoki-co/php-k8s/releases/tag/3.5.1), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.4](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.4), 6 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-935642c5](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-935642c5), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.5.1](https://github.com/renoki-co/php-k8s/releases/tag/3.5.1), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (2 days ago)
-- [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (6 days ago)
+- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (3 days ago)
+- [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 week ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (3 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (3 months ago)
