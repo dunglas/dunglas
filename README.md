@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), today) - Doctrine Database Abstraction Layer
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.5](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.5), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-935642c5](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-935642c5), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-98302e22](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-98302e22), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 1 day ago) - Doctrine Database Abstraction Layer
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.5](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.5), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (3 days ago)
+- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (4 days ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 week ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (3 months ago)
