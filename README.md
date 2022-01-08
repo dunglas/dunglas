@@ -15,8 +15,8 @@
 #### 🔭 Latest releases I've contributed to
 
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.0](https://github.com/helm/chart-testing-action/releases/tag/v2.2.0), 1 day ago) - A GitHub Action to lint and test Helm charts
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-bb4495f3](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-bb4495f3), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 2 days ago) - Doctrine Database Abstraction Layer
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.5](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.5), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
