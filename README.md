@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (1 week ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 
 #### 🌱 My latest projects
