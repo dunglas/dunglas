@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.3), today) - Contains Helm charts for Kubernetes related open source tools
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.0](https://github.com/helm/chart-testing-action/releases/tag/v2.2.0), 3 days ago) - A GitHub Action to lint and test Helm charts
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 4 days ago) - Doctrine Database Abstraction Layer
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.5](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.5), 4 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
