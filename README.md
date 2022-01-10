@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.0](https://github.com/helm/chart-testing-action/releases/tag/v2.2.0), 2 days ago) - A GitHub Action to lint and test Helm charts
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 3 days ago) - Doctrine Database Abstraction Layer
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.5](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.5), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.0](https://github.com/helm/chart-testing-action/releases/tag/v2.2.0), 3 days ago) - A GitHub Action to lint and test Helm charts
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 4 days ago) - Doctrine Database Abstraction Layer
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.5](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.5), 4 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (6 days ago)
+- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (1 week ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 week ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (3 months ago)
