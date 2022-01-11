@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.3), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.0](https://github.com/helm/chart-testing-action/releases/tag/v2.2.0), 4 days ago) - A GitHub Action to lint and test Helm charts
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 5 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
