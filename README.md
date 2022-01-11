@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/php-to-json-schema](https://github.com/dunglas/php-to-json-schema) - Creates a JSON Schema from a PHP class (today)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
-- [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (1 week ago)
+- [dunglas/php-to-json-schema](https://github.com/dunglas/php-to-json-schema) - Creates a JSON Schema from a PHP class (1 day ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 weeks ago)
+- [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.3), today) - Contains Helm charts for Kubernetes related open source tools
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.0](https://github.com/helm/chart-testing-action/releases/tag/v2.2.0), 3 days ago) - A GitHub Action to lint and test Helm charts
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 4 days ago) - Doctrine Database Abstraction Layer
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.3), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.0](https://github.com/helm/chart-testing-action/releases/tag/v2.2.0), 4 days ago) - A GitHub Action to lint and test Helm charts
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.1](https://github.com/doctrine/dbal/releases/tag/3.2.1), 5 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
