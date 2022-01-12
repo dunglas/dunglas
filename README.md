@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220111.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220111.1), today) - GitHub Actions virtual environments
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.8](https://github.com/api-platform/api-platform/releases/tag/v2.6.8), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.3), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
