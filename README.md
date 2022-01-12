@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220111.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220111.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220110.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220110.1), today) - GitHub Actions virtual environments
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.8](https://github.com/api-platform/api-platform/releases/tag/v2.6.8), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
