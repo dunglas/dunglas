@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 day ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (2 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.0](https://github.com/doctrine/orm/releases/tag/2.11.0), today) - Doctrine Object Relational Mapper (ORM)
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220110.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220110.1), today) - GitHub Actions virtual environments
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.8](https://github.com/api-platform/api-platform/releases/tag/v2.6.8), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.0](https://github.com/doctrine/orm/releases/tag/2.11.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220110.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220110.1), 1 day ago) - GitHub Actions virtual environments
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.8](https://github.com/api-platform/api-platform/releases/tag/v2.6.8), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (1 week ago)
-- [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 week ago)
+- [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (2 weeks ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (3 months ago)
 - [Introducing Edge Side APIs (#APIPlatformCon Keynote)](https://dunglas.fr/2021/09/introducing-edge-side-apis-apiplatformcon-keynote/) (4 months ago)
