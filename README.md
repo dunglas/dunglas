@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (2 days ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (3 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.0](https://github.com/doctrine/orm/releases/tag/2.11.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220110.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220110.1), 1 day ago) - GitHub Actions virtual environments
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.8](https://github.com/api-platform/api-platform/releases/tag/v2.6.8), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.0](https://github.com/doctrine/orm/releases/tag/2.11.0), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220110.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220110.1), 2 days ago) - GitHub Actions virtual environments
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.8](https://github.com/api-platform/api-platform/releases/tag/v2.6.8), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
