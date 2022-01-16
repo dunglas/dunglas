@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA2](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA2), today) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.11.0](https://github.com/doctrine/orm/releases/tag/2.11.0), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220110.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220110.1), 4 days ago) - GitHub Actions virtual environments
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.8](https://github.com/api-platform/api-platform/releases/tag/v2.6.8), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
