@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220116.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220116.1), today) - GitHub Actions virtual environments
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.8](https://github.com/Sylius/Sylius/releases/tag/v1.10.8), today) - Open Source eCommerce Platform on Symfony
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220116.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220116.1), today) - GitHub Actions virtual environments
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA2](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA2), 1 day ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
