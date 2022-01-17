@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.8](https://github.com/Sylius/Sylius/releases/tag/v1.10.8), today) - Open Source eCommerce Platform on Symfony
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220116.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220116.1), today) - GitHub Actions virtual environments
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA2](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA2), 1 day ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.0](https://github.com/doctrine/orm/releases/tag/2.11.0), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
