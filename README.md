@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.25.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.25.0), today) - A QUIC implementation in pure go
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.0](https://github.com/doctrine/dbal/releases/tag/3.3.0), today) - Doctrine Database Abstraction Layer
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220116.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220116.1), 1 day ago) - GitHub Actions virtual environments
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.8](https://github.com/Sylius/Sylius/releases/tag/v1.10.8), 1 day ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
