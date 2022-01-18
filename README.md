@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (6 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (6 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220116.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220116.1), today) - GitHub Actions virtual environments
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.8](https://github.com/Sylius/Sylius/releases/tag/v1.10.8), today) - Open Source eCommerce Platform on Symfony
-- [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) ([2.0.0-BETA2](https://github.com/hwi/HWIOAuthBundle/releases/tag/2.0.0-BETA2), 1 day ago) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.2.2](https://github.com/doctrine/dbal/releases/tag/3.2.2), 1 day ago) - Doctrine Database Abstraction Layer
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220116.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220116.1), 1 day ago) - GitHub Actions virtual environments
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.8](https://github.com/Sylius/Sylius/releases/tag/v1.10.8), 1 day ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (3 days ago)
+- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (4 days ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (2 weeks ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (2 weeks ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (2 months ago)
