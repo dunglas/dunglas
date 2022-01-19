@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (today)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 day ago)
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 week ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220118.8](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220118.8), today) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.25.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.25.0), 1 day ago) - A QUIC implementation in pure go
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.0](https://github.com/doctrine/dbal/releases/tag/3.3.0), 1 day ago) - Doctrine Database Abstraction Layer
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220116.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220116.1), 2 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
