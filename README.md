@@ -4,7 +4,7 @@
 
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (today)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 day ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 week ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 week ago)
 
 #### 🌱 My latest projects
 
