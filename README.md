@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220118.8](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220118.8), 1 day ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220119.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220119.1), today) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.25.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.25.0), 2 days ago) - A QUIC implementation in pure go
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.0](https://github.com/doctrine/dbal/releases/tag/3.3.0), 2 days ago) - Doctrine Database Abstraction Layer
 
