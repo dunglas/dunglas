@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.3](https://github.com/remix-run/remix/releases/tag/v1.1.3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-4de2f9cd](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-4de2f9cd), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220119.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220119.1), today) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.25.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.25.0), 2 days ago) - A QUIC implementation in pure go
 
