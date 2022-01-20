@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 day ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (today)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (2 days ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 week ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.2](https://github.com/remix-run/remix/releases/tag/v1.1.2), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.1.3](https://github.com/remix-run/remix/releases/tag/v1.1.3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220119.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220119.1), today) - GitHub Actions virtual environments
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) ([v0.25.0](https://github.com/lucas-clemente/quic-go/releases/tag/v0.25.0), 2 days ago) - A QUIC implementation in pure go
 
