@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 day ago)
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (4 days ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (2 days ago)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (5 days ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.2.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.2.0), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-4e814511](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-4e814511), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220119.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220119.1), 2 days ago) - GitHub Actions virtual environments
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.2.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.2.0), 2 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-4e814511](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-4e814511), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220119.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220119.1), 3 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [Orbitale](https://github.com/Orbitale) (3 months ago)
-- [Renrhaf](https://github.com/Renrhaf) (4 months ago)
+- [Renrhaf](https://github.com/Renrhaf) (5 months ago)
 - [cedricziel](https://github.com/cedricziel) (7 months ago)
