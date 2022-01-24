@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v2.2.0](https://github.com/hoppscotch/hoppscotch/releases/tag/v2.2.0), today) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.2.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.2.0), 3 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-4e814511](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-4e814511), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220119.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220119.1), 4 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
