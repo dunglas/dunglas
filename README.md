@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220123.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220123.1), 1 day ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220124.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220124.1), today) - GitHub Actions virtual environments
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-ALPHA.2), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v2.2.1](https://github.com/hoppscotch/hoppscotch/releases/tag/v2.2.1), 1 day ago) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
