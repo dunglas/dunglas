@@ -16,7 +16,7 @@
 
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220124.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220124.1), 1 day ago) - GitHub Actions virtual environments
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-ALPHA.2), 2 days ago) - Open Source eCommerce Platform on Symfony
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ([v2.2.1](https://github.com/hoppscotch/hoppscotch/releases/tag/v2.2.1), 2 days ago) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.2.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.2.0), 5 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
