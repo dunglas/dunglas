@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 week ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220124.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220124.1), 2 days ago) - GitHub Actions virtual environments
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-ALPHA.2), 3 days ago) - Open Source eCommerce Platform on Symfony
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.2.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.2.0), 6 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220124.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220124.1), 3 days ago) - GitHub Actions virtual environments
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-ALPHA.2), 4 days ago) - Open Source eCommerce Platform on Symfony
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.2.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.2.0), 1 week ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (1 week ago)
+- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (2 weeks ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (3 weeks ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (4 weeks ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (3 months ago)
