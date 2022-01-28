@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.14](https://github.com/symfony/serializer/releases/tag/v5.3.14), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/routing](https://github.com/symfony/routing) ([v5.3.14](https://github.com/symfony/routing/releases/tag/v5.3.14), today) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.14](https://github.com/symfony/http-kernel/releases/tag/v5.3.14), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/validator](https://github.com/symfony/validator) ([v5.4.3](https://github.com/symfony/validator/releases/tag/v5.4.3), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.3](https://github.com/symfony/serializer/releases/tag/v5.4.3), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.4.3](https://github.com/symfony/routing/releases/tag/v5.4.3), today) - The Routing component maps an HTTP request to a set of configuration variables.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
