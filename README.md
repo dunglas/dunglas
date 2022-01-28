@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220124.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220124.1), 3 days ago) - GitHub Actions virtual environments
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-ALPHA.2), 4 days ago) - Open Source eCommerce Platform on Symfony
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.2.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.2.0), 1 week ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.3.14](https://github.com/symfony/serializer/releases/tag/v5.3.14), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/routing](https://github.com/symfony/routing) ([v5.3.14](https://github.com/symfony/routing/releases/tag/v5.3.14), today) - The Routing component maps an HTTP request to a set of configuration variables.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.14](https://github.com/symfony/http-kernel/releases/tag/v5.3.14), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
