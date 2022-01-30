@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.1](https://github.com/doctrine/orm/releases/tag/2.11.1), today) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.1](https://github.com/doctrine/dbal/releases/tag/3.3.1), today) - Doctrine Database Abstraction Layer
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.4](https://github.com/symfony/http-kernel/releases/tag/v6.0.4), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.4](https://github.com/symfony/framework-bundle/releases/tag/v6.0.4), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
