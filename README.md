@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-e0ead3bf](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-e0ead3bf), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.11.1](https://github.com/doctrine/orm/releases/tag/2.11.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.1](https://github.com/doctrine/dbal/releases/tag/3.3.1), 1 day ago) - Doctrine Database Abstraction Layer
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.4](https://github.com/symfony/http-kernel/releases/tag/v6.0.4), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
