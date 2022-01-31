@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (4 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 week ago)
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 week ago)
 
 #### 🌱 My latest projects
 
