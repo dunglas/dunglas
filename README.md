@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (4 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (5 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-e0ead3bf](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-e0ead3bf), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.1](https://github.com/doctrine/orm/releases/tag/2.11.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.1](https://github.com/doctrine/dbal/releases/tag/3.3.1), 1 day ago) - Doctrine Database Abstraction Layer
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-e0ead3bf](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-e0ead3bf), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.1](https://github.com/doctrine/orm/releases/tag/2.11.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.1](https://github.com/doctrine/dbal/releases/tag/3.3.1), 2 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [Orbitale](https://github.com/Orbitale) (4 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (5 months ago)
-- [cedricziel](https://github.com/cedricziel) (7 months ago)
+- [cedricziel](https://github.com/cedricziel) (8 months ago)
