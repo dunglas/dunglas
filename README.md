@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220201.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220201.2), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-612a38f0](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-612a38f0), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220131.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220131.1), 1 day ago) - GitHub Actions virtual environments
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.11.1](https://github.com/doctrine/orm/releases/tag/2.11.1), 3 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
