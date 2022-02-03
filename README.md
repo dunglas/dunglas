@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (6 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
+- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (1 week ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220201.3](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220201.3), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-612a38f0](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-612a38f0), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.1](https://github.com/doctrine/orm/releases/tag/2.11.1), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220201.3](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220201.3), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-612a38f0](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-612a38f0), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.1](https://github.com/doctrine/orm/releases/tag/2.11.1), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
