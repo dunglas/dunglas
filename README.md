@@ -4,7 +4,7 @@
 
 - [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (1 week ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-0ca12e30](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-0ca12e30), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.5.2](https://github.com/renoki-co/php-k8s/releases/tag/3.5.2), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220201.3](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220201.3), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-0ca12e30](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-0ca12e30), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.5.2](https://github.com/renoki-co/php-k8s/releases/tag/3.5.2), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220201.3](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220201.3), 2 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (2 weeks ago)
+- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (3 weeks ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (1 month ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 month ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (3 months ago)
