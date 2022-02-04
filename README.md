@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-BETA.1), today) - Open Source eCommerce Platform on Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-0ca12e30](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-0ca12e30), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.5.2](https://github.com/renoki-co/php-k8s/releases/tag/3.5.2), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220201.3](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220201.3), 2 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
