@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2), today) - Doctrine Database Abstraction Layer
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-BETA.1), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-0ca12e30](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-0ca12e30), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2), 1 day ago) - Doctrine Database Abstraction Layer
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-BETA.1), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-0ca12e30](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-0ca12e30), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
