@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220207.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220207.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220207.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220207.1), today) - GitHub Actions virtual environments
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2), 3 days ago) - Doctrine Database Abstraction Layer
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-BETA.1), 4 days ago) - Open Source eCommerce Platform on Symfony
 
