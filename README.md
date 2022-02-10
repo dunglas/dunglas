@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (1 week ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
+- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (2 weeks ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220207.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220207.1), today) - GitHub Actions virtual environments
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.1](https://github.com/api-platform/schema-generator/releases/tag/v4.0.1), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2), 4 days ago) - Doctrine Database Abstraction Layer
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220207.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220207.1), 1 day ago) - GitHub Actions virtual environments
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.1](https://github.com/api-platform/schema-generator/releases/tag/v4.0.1), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.2](https://github.com/doctrine/dbal/releases/tag/3.3.2), 5 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yesdevnull](https://github.com/yesdevnull) (today)
+- [yesdevnull](https://github.com/yesdevnull) (1 day ago)
 - [Orbitale](https://github.com/Orbitale) (4 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (5 months ago)
