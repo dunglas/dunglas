@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.0](https://github.com/renoki-co/php-k8s/releases/tag/3.6.0), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220207.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220207.1), 1 day ago) - GitHub Actions virtual environments
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v4.0.1](https://github.com/api-platform/schema-generator/releases/tag/v4.0.1), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
