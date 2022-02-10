@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), today) - Open Source eCommerce Platform on Symfony
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.0](https://github.com/renoki-co/php-k8s/releases/tag/3.6.0), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220207.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220207.1), 1 day ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
