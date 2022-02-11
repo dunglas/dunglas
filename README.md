@@ -4,7 +4,7 @@
 
 - [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (2 weeks ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), today) - Open Source eCommerce Platform on Symfony
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.0](https://github.com/renoki-co/php-k8s/releases/tag/3.6.0), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.0](https://github.com/renoki-co/php-k8s/releases/tag/3.6.0), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (3 weeks ago)
+- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (4 weeks ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (1 month ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 month ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (3 months ago)
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yesdevnull](https://github.com/yesdevnull) (1 day ago)
+- [yesdevnull](https://github.com/yesdevnull) (2 days ago)
 - [Orbitale](https://github.com/Orbitale) (4 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (5 months ago)
