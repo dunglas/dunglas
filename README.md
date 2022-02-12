@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-52edfc8c](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-52edfc8c), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), 2 days ago) - Open Source eCommerce Platform on Symfony
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.0](https://github.com/renoki-co/php-k8s/releases/tag/3.6.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
