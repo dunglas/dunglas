@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.0](https://github.com/renoki-co/php-k8s/releases/tag/3.6.0), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.0](https://github.com/renoki-co/php-k8s/releases/tag/3.6.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yesdevnull](https://github.com/yesdevnull) (2 days ago)
+- [yesdevnull](https://github.com/yesdevnull) (3 days ago)
 - [Orbitale](https://github.com/Orbitale) (4 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (5 months ago)
