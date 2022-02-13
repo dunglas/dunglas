@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-52edfc8c](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-52edfc8c), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), 2 days ago) - Open Source eCommerce Platform on Symfony
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-52edfc8c](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-52edfc8c), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), 3 days ago) - Open Source eCommerce Platform on Symfony
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (4 weeks ago)
+- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (1 month ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (1 month ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 month ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (3 months ago)
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yesdevnull](https://github.com/yesdevnull) (3 days ago)
+- [yesdevnull](https://github.com/yesdevnull) (4 days ago)
 - [Orbitale](https://github.com/Orbitale) (4 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (5 months ago)
