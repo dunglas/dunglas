@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.6](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.6), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220213.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220213.1), today) - GitHub Actions virtual environments
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.9](https://github.com/Sylius/Sylius/releases/tag/v1.10.9), today) - Open Source eCommerce Platform on Symfony
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-52edfc8c](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-52edfc8c), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
