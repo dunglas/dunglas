@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.9](https://github.com/Sylius/Sylius/releases/tag/v1.10.9), today) - Open Source eCommerce Platform on Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-52edfc8c](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-52edfc8c), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.0-RC.1), 4 days ago) - Open Source eCommerce Platform on Symfony
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.3.0](https://github.com/golang-jwt/jwt/releases/tag/v4.3.0), 4 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
