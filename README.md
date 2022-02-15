@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220212.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220212.1), today) - GitHub Actions virtual environments
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0](https://github.com/Sylius/Sylius/releases/tag/v1.11.0), today) - Open Source eCommerce Platform on Symfony
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.6](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.6), today) - Symfony Bundle for Doctrine ORM and DBAL
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220212.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220212.1), 1 day ago) - GitHub Actions virtual environments
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0](https://github.com/Sylius/Sylius/releases/tag/v1.11.0), 1 day ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -24,10 +24,10 @@
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (1 month ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (1 month ago)
 - [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (3 months ago)
-- [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (4 months ago)
+- [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (5 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yesdevnull](https://github.com/yesdevnull) (5 days ago)
+- [yesdevnull](https://github.com/yesdevnull) (6 days ago)
 - [Orbitale](https://github.com/Orbitale) (4 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (5 months ago)
