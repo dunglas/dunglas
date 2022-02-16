@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220212.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220212.1), 1 day ago) - GitHub Actions virtual environments
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0](https://github.com/Sylius/Sylius/releases/tag/v1.11.0), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220212.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220212.1), 2 days ago) - GitHub Actions virtual environments
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0](https://github.com/Sylius/Sylius/releases/tag/v1.11.0), 2 days ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yesdevnull](https://github.com/yesdevnull) (6 days ago)
+- [yesdevnull](https://github.com/yesdevnull) (1 week ago)
 - [Orbitale](https://github.com/Orbitale) (4 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (5 months ago)
