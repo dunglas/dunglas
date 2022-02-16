@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.0](https://github.com/remix-run/remix/releases/tag/v1.2.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/flex](https://github.com/symfony/flex) ([v2.1.6](https://github.com/symfony/flex/releases/tag/v2.1.6), today) - Composer plugin for Symfony
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.37.0](https://github.com/symfony/maker-bundle/releases/tag/v1.37.0), today) - Symfony Maker Bundle
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.5), today) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
