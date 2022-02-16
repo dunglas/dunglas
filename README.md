@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments (today)
 - [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.27.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.27.5), today) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220212.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220212.1), 2 days ago) - GitHub Actions virtual environments
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.0](https://github.com/Sylius/Sylius/releases/tag/v1.11.0), 2 days ago) - Open Source eCommerce Platform on Symfony
 
