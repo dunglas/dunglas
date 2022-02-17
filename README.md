@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments (today)
-- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (2 weeks ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments (1 day ago)
+- [jpopesculian/eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - A basic building block for building an Eventsource from a Stream of bytes array like objects (3 weeks ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.1](https://github.com/remix-run/remix/releases/tag/v1.2.1), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/flex](https://github.com/symfony/flex) ([v2.1.6](https://github.com/symfony/flex/releases/tag/v2.1.6), today) - Composer plugin for Symfony
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.37.0](https://github.com/symfony/maker-bundle/releases/tag/v1.37.0), today) - Symfony Maker Bundle
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.1](https://github.com/remix-run/remix/releases/tag/v1.2.1), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/flex](https://github.com/symfony/flex) ([v2.1.6](https://github.com/symfony/flex/releases/tag/v2.1.6), 1 day ago) - Composer plugin for Symfony
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.37.0](https://github.com/symfony/maker-bundle/releases/tag/v1.37.0), 1 day ago) - Symfony Maker Bundle
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
