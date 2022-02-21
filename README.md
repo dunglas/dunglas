@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (3 days ago)
-- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (3 days ago)
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments (4 days ago)
+- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (4 days ago)
+- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (4 days ago)
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.1](https://github.com/remix-run/remix/releases/tag/v1.2.1), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/flex](https://github.com/symfony/flex) ([v2.1.6](https://github.com/symfony/flex/releases/tag/v2.1.6), 4 days ago) - Composer plugin for Symfony
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.37.0](https://github.com/symfony/maker-bundle/releases/tag/v1.37.0), 4 days ago) - Symfony Maker Bundle
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.1](https://github.com/remix-run/remix/releases/tag/v1.2.1), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/flex](https://github.com/symfony/flex) ([v2.1.6](https://github.com/symfony/flex/releases/tag/v2.1.6), 5 days ago) - Composer plugin for Symfony
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.37.0](https://github.com/symfony/maker-bundle/releases/tag/v1.37.0), 5 days ago) - Symfony Maker Bundle
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
