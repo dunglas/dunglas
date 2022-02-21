@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220220.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220220.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220219.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220219.1), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.1](https://github.com/remix-run/remix/releases/tag/v1.2.1), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/flex](https://github.com/symfony/flex) ([v2.1.6](https://github.com/symfony/flex/releases/tag/v2.1.6), 5 days ago) - Composer plugin for Symfony
 
