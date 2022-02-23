@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.2](https://github.com/remix-run/remix/releases/tag/v1.2.2), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-3e7c9258](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-3e7c9258), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220220.1), 2 days ago) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.28.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.28.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
