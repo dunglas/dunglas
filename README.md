@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (6 days ago)
-- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
+- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (1 week ago)
+- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-3e7c9258](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-3e7c9258), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220220.1), 2 days ago) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.28.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.28.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-3e7c9258](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-3e7c9258), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220220.1), 3 days ago) - GitHub Actions virtual environments
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.28.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.28.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
