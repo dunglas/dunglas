@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
 - [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (1 week ago)
 - [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.38.0](https://github.com/symfony/maker-bundle/releases/tag/v1.38.0), 2 days ago) - Symfony Maker Bundle
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220223.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220223.1), 2 days ago) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-3e7c9258](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-3e7c9258), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.38.0](https://github.com/symfony/maker-bundle/releases/tag/v1.38.0), 3 days ago) - Symfony Maker Bundle
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220223.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220223.1), 3 days ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-3e7c9258](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-3e7c9258), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
