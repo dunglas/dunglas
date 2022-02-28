@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.38.0](https://github.com/symfony/maker-bundle/releases/tag/v1.38.0), 4 days ago) - Symfony Maker Bundle
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220223.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220223.1), 4 days ago) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-3e7c9258](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-3e7c9258), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/validator](https://github.com/symfony/validator) ([v4.4.38](https://github.com/symfony/validator/releases/tag/v4.4.38), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v4.4.38](https://github.com/symfony/serializer/releases/tag/v4.4.38), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v4.4.38](https://github.com/symfony/http-kernel/releases/tag/v4.4.38), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
