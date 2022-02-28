@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v4.4.38](https://github.com/symfony/validator/releases/tag/v4.4.38), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v4.4.38](https://github.com/symfony/serializer/releases/tag/v4.4.38), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v4.4.38](https://github.com/symfony/http-kernel/releases/tag/v4.4.38), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220227.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220227.1), today) - GitHub Actions virtual environments
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.5](https://github.com/symfony/validator/releases/tag/v6.0.5), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.5](https://github.com/symfony/serializer/releases/tag/v6.0.5), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
