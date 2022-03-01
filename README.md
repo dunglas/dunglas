@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (1 week ago)
 - [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.3-pre.1](https://github.com/remix-run/remix/releases/tag/v1.2.3-pre.1), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220227.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220227.1), today) - GitHub Actions virtual environments
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.5](https://github.com/symfony/validator/releases/tag/v6.0.5), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.2.3](https://github.com/remix-run/remix/releases/tag/v1.2.3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220227.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220227.1), 1 day ago) - GitHub Actions virtual environments
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.5](https://github.com/symfony/validator/releases/tag/v6.0.5), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
