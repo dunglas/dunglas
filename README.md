@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220227.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220227.1), today) - GitHub Actions virtual environments
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.16](https://github.com/symfony/http-kernel/releases/tag/v5.3.16), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), today) - The Symfony PHP framework
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220227.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220227.1), 1 day ago) - GitHub Actions virtual environments
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.16](https://github.com/symfony/http-kernel/releases/tag/v5.3.16), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yesdevnull](https://github.com/yesdevnull) (2 weeks ago)
+- [yesdevnull](https://github.com/yesdevnull) (3 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (5 months ago)
 - [Renrhaf](https://github.com/Renrhaf) (6 months ago)
