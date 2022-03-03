@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
-- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (1 week ago)
-- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (1 week ago)
+- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (2 weeks ago)
+- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220227.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220227.1), 1 day ago) - GitHub Actions virtual environments
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.16](https://github.com/symfony/http-kernel/releases/tag/v5.3.16), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 1 day ago) - The Symfony PHP framework
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220227.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220227.1), 2 days ago) - GitHub Actions virtual environments
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.16](https://github.com/symfony/http-kernel/releases/tag/v5.3.16), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 2 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [smtplabs](https://github.com/smtplabs) (today)
+- [smtplabs](https://github.com/smtplabs) (1 day ago)
 - [yesdevnull](https://github.com/yesdevnull) (3 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (5 months ago)
