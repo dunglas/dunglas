@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.1](https://github.com/renoki-co/php-k8s/releases/tag/3.6.1), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220227.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220227.1), 3 days ago) - GitHub Actions virtual environments
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.16](https://github.com/symfony/http-kernel/releases/tag/v5.3.16), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 3 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
