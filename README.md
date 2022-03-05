@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.5.7](https://github.com/doctrine/DoctrineBundle/releases/tag/2.5.7), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.6.1](https://github.com/renoki-co/php-k8s/releases/tag/3.6.1), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220227.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220227.1), 4 days ago) - GitHub Actions virtual environments
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.3.16](https://github.com/symfony/http-kernel/releases/tag/v5.3.16), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
