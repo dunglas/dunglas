@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.6](https://github.com/symfony/validator/releases/tag/v6.0.6), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.6](https://github.com/symfony/serializer/releases/tag/v6.0.6), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.6](https://github.com/symfony/http-kernel/releases/tag/v6.0.6), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.6](https://github.com/symfony/validator/releases/tag/v6.0.6), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.6](https://github.com/symfony/serializer/releases/tag/v6.0.6), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.6](https://github.com/symfony/http-kernel/releases/tag/v6.0.6), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [smtplabs](https://github.com/smtplabs) (3 days ago)
+- [smtplabs](https://github.com/smtplabs) (4 days ago)
 - [yesdevnull](https://github.com/yesdevnull) (3 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (5 months ago)
