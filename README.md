@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.1), today) - Open Source eCommerce Platform on Symfony
 - [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.7.0](https://github.com/renoki-co/php-k8s/releases/tag/3.7.0), today) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
 - [symfony/validator](https://github.com/symfony/validator) ([v6.0.6](https://github.com/symfony/validator/releases/tag/v6.0.6), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.6](https://github.com/symfony/serializer/releases/tag/v6.0.6), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
