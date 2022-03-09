@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.1), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.7.0](https://github.com/renoki-co/php-k8s/releases/tag/3.7.0), 1 day ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.6](https://github.com/symfony/validator/releases/tag/v6.0.6), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.1), 2 days ago) - Open Source eCommerce Platform on Symfony
+- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.7.0](https://github.com/renoki-co/php-k8s/releases/tag/3.7.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.6](https://github.com/symfony/validator/releases/tag/v6.0.6), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [smtplabs](https://github.com/smtplabs) (6 days ago)
-- [yesdevnull](https://github.com/yesdevnull) (3 weeks ago)
+- [smtplabs](https://github.com/smtplabs) (1 week ago)
+- [yesdevnull](https://github.com/yesdevnull) (4 weeks ago)
 - [Orbitale](https://github.com/Orbitale) (5 months ago)
