@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.2](https://github.com/doctrine/orm/releases/tag/2.11.2), today) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3), today) - Doctrine Database Abstraction Layer
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.1), 2 days ago) - Open Source eCommerce Platform on Symfony
-- [renoki-co/php-k8s](https://github.com/renoki-co/php-k8s) ([3.7.0](https://github.com/renoki-co/php-k8s/releases/tag/3.7.0), 2 days ago) - Unofficial PHP client for Kubernetes. It supports any form of authentication, the exec API, and it has an easy implementation for CRDs.
-- [symfony/validator](https://github.com/symfony/validator) ([v6.0.6](https://github.com/symfony/validator/releases/tag/v6.0.6), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
