@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-beta.1), today) - Fast, multi-platform web server with automatic HTTPS
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.11.2](https://github.com/doctrine/orm/releases/tag/2.11.2), today) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3), today) - Doctrine Database Abstraction Layer
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.1](https://github.com/Sylius/Sylius/releases/tag/v1.11.1), 2 days ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
