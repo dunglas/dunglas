@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
-- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (2 weeks ago)
-- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (2 weeks ago)
+- [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (3 weeks ago)
+- [api-platform/admin-pack](https://github.com/api-platform/admin-pack) - A Symfony pack for API Platform Admin (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-beta.1), today) - Fast, multi-platform web server with automatic HTTPS
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.2](https://github.com/doctrine/orm/releases/tag/2.11.2), today) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3), today) - Doctrine Database Abstraction Layer
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-beta.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.2](https://github.com/doctrine/orm/releases/tag/2.11.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3), 1 day ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
