@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0), today) - A Commander for modern Go CLI interactions
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-beta.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.11.2](https://github.com/doctrine/orm/releases/tag/2.11.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.3](https://github.com/doctrine/dbal/releases/tag/3.3.3), 1 day ago) - Doctrine Database Abstraction Layer
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220306.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220306.1), 1 day ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
