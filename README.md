@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 - [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (3 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0), 1 day ago) - A Commander for modern Go CLI interactions
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-beta.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220306.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220306.1), 2 days ago) - GitHub Actions virtual environments
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0), 2 days ago) - A Commander for modern Go CLI interactions
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-beta.1), 3 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220306.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220306.1), 3 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
