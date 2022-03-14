@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-7b47e562](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-7b47e562), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-e6c45340](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-e6c45340), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.2), today) - Open Source eCommerce Platform on Symfony
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.1](https://github.com/helm/chart-testing-action/releases/tag/v2.2.1), today) - A GitHub Action to lint and test Helm charts
 
