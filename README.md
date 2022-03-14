@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.1](https://github.com/helm/chart-testing-action/releases/tag/v2.2.1), today) - A GitHub Action to lint and test Helm charts
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.4.0](https://github.com/spf13/cobra/releases/tag/v1.4.0), 4 days ago) - A Commander for modern Go CLI interactions
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-beta.1), 5 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220306.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220306.1), 5 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
