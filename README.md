@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.28.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.28.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-e6c45340](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-e6c45340), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.2), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.2.1](https://github.com/helm/chart-testing-action/releases/tag/v2.2.1), 1 day ago) - A GitHub Action to lint and test Helm charts
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
