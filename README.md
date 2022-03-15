@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-ddca0be8](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-ddca0be8), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-fb9e523a](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-fb9e523a), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.28.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.28.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.2), 1 day ago) - Open Source eCommerce Platform on Symfony
 
