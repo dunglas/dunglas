@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
 - [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (3 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.0-pre.1](https://github.com/remix-run/remix/releases/tag/v1.3.0-pre.1), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.28.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.28.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.2), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.0-pre.1](https://github.com/remix-run/remix/releases/tag/v1.3.0-pre.1), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.28.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.28.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.2](https://github.com/Sylius/Sylius/releases/tag/v1.11.2), 2 days ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [smtplabs](https://github.com/smtplabs) (1 week ago)
+- [smtplabs](https://github.com/smtplabs) (2 weeks ago)
 - [yesdevnull](https://github.com/yesdevnull) (1 month ago)
 - [Orbitale](https://github.com/Orbitale) (5 months ago)
