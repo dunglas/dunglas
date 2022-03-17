@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-f2df4787](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-f2df4787), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220316.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220316.1), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.0](https://github.com/golang-jwt/jwt/releases/tag/v4.4.0), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
