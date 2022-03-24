@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4), today) - Doctrine Database Abstraction Layer
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220323.2](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220323.2), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.3](https://github.com/remix-run/remix/releases/tag/v1.3.3), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
