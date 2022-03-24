@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 weeks ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 month ago)
 - [api-platform/admin-meta](https://github.com/api-platform/admin-meta) - A meta package to install API Platform Admin in Symfony projects (1 month ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220322.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220322.1), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.3](https://github.com/remix-run/remix/releases/tag/v1.3.3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.0), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220322.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220322.1), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.3](https://github.com/remix-run/remix/releases/tag/v1.3.3), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
