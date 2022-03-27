@@ -14,16 +14,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), today) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4), 2 days ago) - Doctrine Database Abstraction Layer
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), 1 day ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4), 3 days ago) - Doctrine Database Abstraction Layer
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (2 months ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (2 months ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (2 months ago)
-- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (4 months ago)
+- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (5 months ago)
 - [Installing a LaTeX environment on a Mac](https://dunglas.fr/2021/09/installing-a-latex-environment-on-a-mac/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
