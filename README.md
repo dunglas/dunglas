@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.2), today) - Contains Helm charts for Kubernetes related open source tools
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4), 4 days ago) - Doctrine Database Abstraction Layer
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.1), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
