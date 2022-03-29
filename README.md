@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-21ec8370](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-21ec8370), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.4-pre.0](https://github.com/remix-run/remix/releases/tag/v1.3.4-pre.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 
