@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 day ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 month ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.3), today) - Contains Helm charts for Kubernetes related open source tools
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), 2 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4), 4 days ago) - Doctrine Database Abstraction Layer
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ([v4.4.1](https://github.com/golang-jwt/jwt/releases/tag/v4.4.1), 3 days ago) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.4](https://github.com/doctrine/dbal/releases/tag/3.3.4), 5 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
