@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (today)
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client (1 day ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 
 #### 🌱 My latest projects
 
