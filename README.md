@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.1), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.7](https://github.com/symfony/http-kernel/releases/tag/v6.0.7), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.0.7](https://github.com/symfony/dependency-injection/releases/tag/v6.0.7), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.0.7](https://github.com/symfony/config/releases/tag/v6.0.7), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
