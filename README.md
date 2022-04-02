@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.4](https://github.com/remix-run/remix/releases/tag/v1.3.4), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220330.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220330.1), 2 days ago) - GitHub Actions virtual environments
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.0), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v4.4.40](https://github.com/symfony/http-kernel/releases/tag/v4.4.40), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v4.4.40](https://github.com/symfony/dependency-injection/releases/tag/v4.4.40), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v4.4.40](https://github.com/symfony/framework-bundle/releases/tag/v4.4.40), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
