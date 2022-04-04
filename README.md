@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220403.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220403.1), today) - GitHub Actions virtual environments
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.1), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.0.7](https://github.com/symfony/http-kernel/releases/tag/v6.0.7), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
