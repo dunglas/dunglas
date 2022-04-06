@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.5-pre.2](https://github.com/remix-run/remix/releases/tag/v1.3.5-pre.2), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.5-pre.3](https://github.com/remix-run/remix/releases/tag/v1.3.5-pre.3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220405.3](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220405.3), today) - GitHub Actions virtual environments
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5), 1 day ago) - Doctrine Database Abstraction Layer
 
