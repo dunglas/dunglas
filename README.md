@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (6 days ago)
+- [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (1 week ago)
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5), today) - Doctrine Database Abstraction Layer
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220403.1), 1 day ago) - GitHub Actions virtual environments
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.1), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5), 1 day ago) - Doctrine Database Abstraction Layer
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220403.1), 2 days ago) - GitHub Actions virtual environments
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.1), 4 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
