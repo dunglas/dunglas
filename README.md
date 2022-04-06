@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220405.3](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220405.3), today) - GitHub Actions virtual environments
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.5](https://github.com/doctrine/dbal/releases/tag/3.3.5), 1 day ago) - Doctrine Database Abstraction Layer
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220403.1), 2 days ago) - GitHub Actions virtual environments
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.1), 4 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
