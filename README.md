@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.5](https://github.com/remix-run/remix/releases/tag/v1.3.5), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.2), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.5-pre.3](https://github.com/remix-run/remix/releases/tag/v1.3.5-pre.3), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220405.3](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220405.3), 1 day ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
