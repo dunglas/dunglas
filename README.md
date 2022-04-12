@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (6 days ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (1 week ago)
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client (1 week ago)
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220410.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220410.1), today) - GitHub Actions virtual environments
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.3](https://github.com/Sylius/Sylius/releases/tag/v1.11.3), 3 days ago) - Open Source eCommerce Platform on Symfony
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.5](https://github.com/remix-run/remix/releases/tag/v1.3.5), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220410.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220410.1), 1 day ago) - GitHub Actions virtual environments
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.3](https://github.com/Sylius/Sylius/releases/tag/v1.11.3), 4 days ago) - Open Source eCommerce Platform on Symfony
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.3.5](https://github.com/remix-run/remix/releases/tag/v1.3.5), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
