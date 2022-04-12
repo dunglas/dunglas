@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-a04f3d18](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-a04f3d18), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.0-pre.0](https://github.com/remix-run/remix/releases/tag/v1.4.0-pre.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), today) - GitHub Actions virtual environments
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.3](https://github.com/Sylius/Sylius/releases/tag/v1.11.3), 4 days ago) - Open Source eCommerce Platform on Symfony
 
