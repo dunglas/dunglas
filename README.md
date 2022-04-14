@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.0](https://github.com/remix-run/remix/releases/tag/v1.4.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-aaac29de](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-aaac29de), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-rc.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), 2 days ago) - GitHub Actions virtual environments
 
