@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (2 days ago)
 - [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org (2 days ago)
-- [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (2 weeks ago)
 
 #### 🌱 My latest projects
 
