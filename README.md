@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-aaac29de](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-aaac29de), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-rc.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), 3 days ago) - GitHub Actions virtual environments
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.1.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.1.0-BETA1), today) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v6.1.0-BETA1](https://github.com/symfony/config/releases/tag/v6.1.0-BETA1), today) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
