@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (2 days ago)
-- [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (3 days ago)
+- [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-aaac29de](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-aaac29de), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-rc.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), 2 days ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-aaac29de](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-aaac29de), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.0-rc.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), 3 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (2 days ago)
+- [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (3 days ago)
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (3 months ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (3 months ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (3 months ago)
