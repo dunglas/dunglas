@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (4 days ago)
-- [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (5 days ago)
+- [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.1.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.1.0-BETA1), 1 day ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
-- [symfony/config](https://github.com/symfony/config) ([v6.1.0-BETA1](https://github.com/symfony/config/releases/tag/v6.1.0-BETA1), 1 day ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA1), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.1.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.1.0-BETA1), 2 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/config](https://github.com/symfony/config) ([v6.1.0-BETA1](https://github.com/symfony/config/releases/tag/v6.1.0-BETA1), 2 days ago) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (4 days ago)
+- [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (5 days ago)
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (3 months ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (3 months ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (3 months ago)
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [dujesa](https://github.com/dujesa) (1 day ago)
+- [dujesa](https://github.com/dujesa) (2 days ago)
 - [smtplabs](https://github.com/smtplabs) (1 month ago)
 - [yesdevnull](https://github.com/yesdevnull) (2 months ago)
