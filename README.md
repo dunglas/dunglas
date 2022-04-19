@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.1](https://github.com/remix-run/remix/releases/tag/v1.4.1), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-b345bdf5](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-b345bdf5), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA1), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) ([v6.1.0-BETA1](https://github.com/symfony/dependency-injection/releases/tag/v6.1.0-BETA1), 4 days ago) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
 
