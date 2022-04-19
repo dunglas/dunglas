@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (1 week ago)
 - [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org (1 week ago)
 
 #### 🌱 My latest projects
