@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220419.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220419.1), today) - GitHub Actions virtual environments
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.1](https://github.com/remix-run/remix/releases/tag/v1.4.1), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
