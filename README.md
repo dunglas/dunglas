@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 - [solid/solidproject.org](https://github.com/solid/solidproject.org) - Website for solidproject.org (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), today) - Doctrine Object Relational Mapper (ORM)
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.1](https://github.com/remix-run/remix/releases/tag/v1.4.1), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA1), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.1](https://github.com/remix-run/remix/releases/tag/v1.4.1), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA1), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [dujesa](https://github.com/dujesa) (4 days ago)
+- [dujesa](https://github.com/dujesa) (5 days ago)
 - [smtplabs](https://github.com/smtplabs) (1 month ago)
 - [yesdevnull](https://github.com/yesdevnull) (2 months ago)
