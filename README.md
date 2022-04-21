@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220419.2), today) - GitHub Actions virtual environments
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.1](https://github.com/remix-run/remix/releases/tag/v1.4.1), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220419.2), 1 day ago) - GitHub Actions virtual environments
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.1](https://github.com/remix-run/remix/releases/tag/v1.4.1), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [dujesa](https://github.com/dujesa) (5 days ago)
+- [dujesa](https://github.com/dujesa) (6 days ago)
 - [smtplabs](https://github.com/smtplabs) (1 month ago)
 - [yesdevnull](https://github.com/yesdevnull) (2 months ago)
