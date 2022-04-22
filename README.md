@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.3), today) - Symfony Bundle for Doctrine ORM and DBAL
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.4](https://github.com/Sylius/Sylius/releases/tag/v1.11.4), today) - Open Source eCommerce Platform on Symfony
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.39.0](https://github.com/symfony/maker-bundle/releases/tag/v1.39.0), 1 day ago) - Symfony Maker Bundle
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220419.2), 2 days ago) - GitHub Actions virtual environments
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), 3 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
