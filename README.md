@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.39.0](https://github.com/symfony/maker-bundle/releases/tag/v1.39.0), today) - Symfony Maker Bundle
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220419.2), 1 day ago) - GitHub Actions virtual environments
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.39.0](https://github.com/symfony/maker-bundle/releases/tag/v1.39.0), 1 day ago) - Symfony Maker Bundle
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220419.2), 2 days ago) - GitHub Actions virtual environments
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.0](https://github.com/doctrine/orm/releases/tag/2.12.0), 3 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [dujesa](https://github.com/dujesa) (6 days ago)
+- [dujesa](https://github.com/dujesa) (1 week ago)
 - [smtplabs](https://github.com/smtplabs) (1 month ago)
 - [yesdevnull](https://github.com/yesdevnull) (2 months ago)
