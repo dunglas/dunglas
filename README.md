@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-7e420ee3](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-7e420ee3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.40.0](https://github.com/symfony/maker-bundle/releases/tag/v1.40.0), today) - Symfony Maker Bundle
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.1](https://github.com/doctrine/orm/releases/tag/2.12.1), today) - Doctrine Object Relational Mapper (ORM)
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-7e420ee3](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-7e420ee3), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.40.0](https://github.com/symfony/maker-bundle/releases/tag/v1.40.0), 1 day ago) - Symfony Maker Bundle
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.1](https://github.com/doctrine/orm/releases/tag/2.12.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
