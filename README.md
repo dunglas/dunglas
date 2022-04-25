@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a9f2dde-20220425](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a9f2dde-20220425), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.40.1](https://github.com/symfony/maker-bundle/releases/tag/v1.40.1), 2 days ago) - Symfony Maker Bundle
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.12.1](https://github.com/doctrine/orm/releases/tag/2.12.1), 3 days ago) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.6.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.6.3), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
