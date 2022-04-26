@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a9f2dde-20220426](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a9f2dde-20220426), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.40.1](https://github.com/symfony/maker-bundle/releases/tag/v1.40.1), 3 days ago) - Symfony Maker Bundle
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.12.1](https://github.com/doctrine/orm/releases/tag/2.12.1), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
