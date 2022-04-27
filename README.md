@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220425.3](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220425.3), today) - GitHub Actions virtual environments
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.40.1](https://github.com/symfony/maker-bundle/releases/tag/v1.40.1), 3 days ago) - Symfony Maker Bundle
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220425.3](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220425.3), 1 day ago) - GitHub Actions virtual environments
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.40.1](https://github.com/symfony/maker-bundle/releases/tag/v1.40.1), 4 days ago) - Symfony Maker Bundle
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
