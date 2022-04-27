@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220426.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220426.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220426.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220426.1), today) - GitHub Actions virtual environments
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.0](https://github.com/caddyserver/caddy/releases/tag/v2.5.0), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.40.1](https://github.com/symfony/maker-bundle/releases/tag/v1.40.1), 4 days ago) - Symfony Maker Bundle
 
