@@ -20,11 +20,11 @@
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
+- [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (today)
 - [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (2 weeks ago)
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (3 months ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (3 months ago)
 - [Symfony’s New Native Docker Support (Symfony World)](https://dunglas.fr/2021/12/symfonys-new-native-docker-support-symfony-world/) (4 months ago)
-- [Edge Side APIs](https://dunglas.fr/2021/10/edge-side-apis/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
