@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-74b7110-20220429](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-74b7110-20220429), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.3](https://github.com/remix-run/remix/releases/tag/v1.4.3), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA2), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.1.0-BETA2), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
