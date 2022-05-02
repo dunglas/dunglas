@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220429.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220429.1), today) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v2.1.8](https://github.com/symfony/flex/releases/tag/v2.1.8), today) - Composer plugin for Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.4.3](https://github.com/remix-run/remix/releases/tag/v1.4.3), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-BETA2](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-BETA2), 5 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
