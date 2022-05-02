@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (1 week ago)
 
 #### 🌱 My latest projects
