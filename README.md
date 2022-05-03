@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-10aae83-20220503](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-10aae83-20220503), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.12.2](https://github.com/doctrine/orm/releases/tag/2.12.2), today) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.6](https://github.com/doctrine/dbal/releases/tag/3.3.6), 1 day ago) - Doctrine Database Abstraction Layer
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220429.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220429.1), 1 day ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
