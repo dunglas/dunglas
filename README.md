@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.41.0](https://github.com/symfony/maker-bundle/releases/tag/v1.41.0), today) - Symfony Maker Bundle
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220503.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220503.1), today) - GitHub Actions virtual environments
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.12.2](https://github.com/doctrine/orm/releases/tag/2.12.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.6](https://github.com/doctrine/dbal/releases/tag/3.3.6), 2 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
