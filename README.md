@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (5 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.1), today) - Fast, multi-platform web server with automatic HTTPS
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-b797f54-20220506](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-b797f54-20220506), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.41.0](https://github.com/symfony/maker-bundle/releases/tag/v1.41.0), 2 days ago) - Symfony Maker Bundle
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.1), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-b797f54-20220506](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-b797f54-20220506), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.41.0](https://github.com/symfony/maker-bundle/releases/tag/v1.41.0), 3 days ago) - Symfony Maker Bundle
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
