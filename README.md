@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-34577c6-20220507](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-34577c6-20220507), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-34577c6-20220508](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-34577c6-20220508), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.1), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.41.0](https://github.com/symfony/maker-bundle/releases/tag/v1.41.0), 4 days ago) - Symfony Maker Bundle
 
