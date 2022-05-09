@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220508.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220508.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220508.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220508.1), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-e6d5a05-20220509](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-e6d5a05-20220509), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.6](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.6), 1 day ago) - Minimalist OpenID Connect client
 
