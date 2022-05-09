@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-e6d5a05-20220509](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-e6d5a05-20220509), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.6](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.6), 1 day ago) - Minimalist OpenID Connect client
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-34577c6-20220508](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-34577c6-20220508), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.1](https://github.com/caddyserver/caddy/releases/tag/v2.5.1), 3 days ago) - Fast, multi-platform web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
