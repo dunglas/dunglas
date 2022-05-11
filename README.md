@@ -4,7 +4,7 @@
 
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (2 weeks ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220509.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220509.1), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-cbd996f-20220510](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-cbd996f-20220510), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.42.0](https://github.com/symfony/maker-bundle/releases/tag/v1.42.0), 1 day ago) - Symfony Maker Bundle
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220509.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220509.1), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-cbd996f-20220510](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-cbd996f-20220510), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.42.0](https://github.com/symfony/maker-bundle/releases/tag/v1.42.0), 2 days ago) - Symfony Maker Bundle
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
