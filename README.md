@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220511.2](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220511.2), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.5), today) - Contains Helm charts for Kubernetes related open source tools
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-404f3c3-20220511](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-404f3c3-20220511), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220508.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220508.1), 1 day ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
