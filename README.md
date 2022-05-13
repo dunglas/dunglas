@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-404f3c3-20220512](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-404f3c3-20220512), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220511.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220511.2), today) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.5), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-404f3c3-20220512](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-404f3c3-20220512), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220511.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220511.2), 1 day ago) - GitHub Actions virtual environments
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.5), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (1 week ago)
+- [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (2 weeks ago)
 - [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (1 month ago)
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (3 months ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (4 months ago)
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [dujesa](https://github.com/dujesa) (3 weeks ago)
+- [dujesa](https://github.com/dujesa) (4 weeks ago)
 - [smtplabs](https://github.com/smtplabs) (2 months ago)
 - [yesdevnull](https://github.com/yesdevnull) (3 months ago)
