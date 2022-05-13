@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.5](https://github.com/Sylius/Sylius/releases/tag/v1.11.5), today) - Open Source eCommerce Platform on Symfony
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-404f3c3-20220513](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-404f3c3-20220513), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220511.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220511.2), 1 day ago) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.5), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
