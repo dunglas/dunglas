@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (today)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (3 weeks ago)
 
 #### 🌱 My latest projects
 
