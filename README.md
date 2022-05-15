@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (1 day ago)
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (2 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-RC1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v6.1.0-RC1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.1.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v6.1.0-RC1), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-RC1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v6.1.0-RC1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.1.0-RC1](https://github.com/symfony/phpunit-bridge/releases/tag/v6.1.0-RC1), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [dujesa](https://github.com/dujesa) (4 weeks ago)
+- [dujesa](https://github.com/dujesa) (1 month ago)
 - [smtplabs](https://github.com/smtplabs) (2 months ago)
 - [yesdevnull](https://github.com/yesdevnull) (3 months ago)
