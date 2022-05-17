@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [golang/go](https://github.com/golang/go) - The Go programming language (today)
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (4 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 weeks ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.5.0-pre.0](https://github.com/remix-run/remix/releases/tag/v1.5.0-pre.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.43.0](https://github.com/symfony/maker-bundle/releases/tag/v1.43.0), today) - Symfony Maker Bundle
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-9e5cd6d-20220517](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-9e5cd6d-20220517), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220515.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220515.1), today) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
