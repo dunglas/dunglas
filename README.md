@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [golang/go](https://github.com/golang/go) - The Go programming language (today)
-- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (4 days ago)
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (today)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 weeks ago)
 
 #### 🌱 My latest projects
