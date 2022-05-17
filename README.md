@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.43.0](https://github.com/symfony/maker-bundle/releases/tag/v1.43.0), today) - Symfony Maker Bundle
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-9e5cd6d-20220517](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-9e5cd6d-20220517), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220515.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220515.1), today) - GitHub Actions virtual environments
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0-RC1](https://github.com/symfony/http-kernel/releases/tag/v6.1.0-RC1), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
