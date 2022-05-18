@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.5.0](https://github.com/remix-run/remix/releases/tag/v1.5.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220517.4](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220517.4), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-0e9ee7d4](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-0e9ee7d4), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) ([v1.43.0](https://github.com/symfony/maker-bundle/releases/tag/v1.43.0), 1 day ago) - Symfony Maker Bundle
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
