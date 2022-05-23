@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [golang/go](https://github.com/golang/go) - The Go programming language (5 days ago)
-- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (5 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 weeks ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (6 days ago)
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (6 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-d19d888-20220522](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-d19d888-20220522), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.6), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220517.4](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220517.4), 4 days ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-d19d888-20220522](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-d19d888-20220522), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.6), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220517.4](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220517.4), 5 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
