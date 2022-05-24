@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [golang/go](https://github.com/golang/go) - The Go programming language (6 days ago)
-- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (6 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (1 week ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220522.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220522.1), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-d19d888-20220523](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-d19d888-20220523), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.6), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220522.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220522.1), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-d19d888-20220523](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-d19d888-20220523), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.6), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
