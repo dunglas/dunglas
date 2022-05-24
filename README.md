@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (today)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (1 week ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 weeks ago)
 
 #### 🌱 My latest projects
 
