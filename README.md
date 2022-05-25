@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.7), today) - Contains Helm charts for Kubernetes related open source tools
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-48fe580-20220525](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-48fe580-20220525), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220522.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220522.1), 1 day ago) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.6), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
