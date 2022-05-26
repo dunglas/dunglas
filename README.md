@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220523.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220523.2), today) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.7), today) - Contains Helm charts for Kubernetes related open source tools
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-48fe580-20220525](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-48fe580-20220525), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220523.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220523.2), 1 day ago) - GitHub Actions virtual environments
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.7), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-48fe580-20220525](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-48fe580-20220525), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
