@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (6 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
-- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (1 week ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
+- [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-c5d6cd2-20220530](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-c5d6cd2-20220530), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0](https://github.com/symfony/http-kernel/releases/tag/v6.1.0), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.0](https://github.com/symfony/framework-bundle/releases/tag/v6.1.0), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-c5d6cd2-20220530](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-c5d6cd2-20220530), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0](https://github.com/symfony/http-kernel/releases/tag/v6.1.0), 4 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.0](https://github.com/symfony/framework-bundle/releases/tag/v6.1.0), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [smtplabs](https://github.com/smtplabs) (2 months ago)
+- [smtplabs](https://github.com/smtplabs) (3 months ago)
 - [yesdevnull](https://github.com/yesdevnull) (3 months ago)
 - [Orbitale](https://github.com/Orbitale) (8 months ago)
