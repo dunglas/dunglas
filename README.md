@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a7bff8b-20220602](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a7bff8b-20220602), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220530.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220530.2), 1 day ago) - GitHub Actions virtual environments
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0](https://github.com/symfony/http-kernel/releases/tag/v6.1.0), 6 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a7bff8b-20220602](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a7bff8b-20220602), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220530.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220530.2), 2 days ago) - GitHub Actions virtual environments
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0](https://github.com/symfony/http-kernel/releases/tag/v6.1.0), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (2 days ago)
+- [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (3 days ago)
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (1 month ago)
 - [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (1 month ago)
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (4 months ago)
