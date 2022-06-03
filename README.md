@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (2 weeks ago)
 
 #### 🌱 My latest projects
