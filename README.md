@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-60f7226a](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-60f7226a), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a7bff8b-20220602](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a7bff8b-20220602), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220530.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220530.2), 2 days ago) - GitHub Actions virtual environments
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.0](https://github.com/symfony/http-kernel/releases/tag/v6.1.0), 1 week ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
