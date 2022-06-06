@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220605.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220605.1), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-5f979ca-20220606](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-5f979ca-20220606), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/flex](https://github.com/symfony/flex) ([v2.2.0](https://github.com/symfony/flex/releases/tag/v2.2.0), 3 days ago) - Composer plugin for Symfony
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220530.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220530.2), 5 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
