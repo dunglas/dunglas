@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 weeks ago)
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (3 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220606.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220606.1), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-dd06287-20220607](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-dd06287-20220607), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/flex](https://github.com/symfony/flex) ([v2.2.1](https://github.com/symfony/flex/releases/tag/v2.2.1), 1 day ago) - Composer plugin for Symfony
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220606.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220606.1), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-dd06287-20220607](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-dd06287-20220607), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/flex](https://github.com/symfony/flex) ([v2.2.1](https://github.com/symfony/flex/releases/tag/v2.2.1), 2 days ago) - Composer plugin for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
