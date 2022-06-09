@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220605.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220605.1), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-c2f6bf4-20220609](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-c2f6bf4-20220609), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/flex](https://github.com/symfony/flex) ([v2.2.1](https://github.com/symfony/flex/releases/tag/v2.2.1), 3 days ago) - Composer plugin for Symfony
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.1](https://github.com/symfony/http-kernel/releases/tag/v6.1.1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.1](https://github.com/symfony/framework-bundle/releases/tag/v6.1.1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
