@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.0), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a25ad5a-20220610](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a25ad5a-20220610), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.8), today) - Contains Helm charts for Kubernetes related open source tools
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.1](https://github.com/symfony/http-kernel/releases/tag/v6.1.1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
