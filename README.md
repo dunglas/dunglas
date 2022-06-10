@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 weeks ago)
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries (3 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.1](https://github.com/symfony/http-kernel/releases/tag/v6.1.1), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.1](https://github.com/symfony/framework-bundle/releases/tag/v6.1.1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), today) - The Symfony PHP framework
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.1](https://github.com/symfony/http-kernel/releases/tag/v6.1.1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.1](https://github.com/symfony/framework-bundle/releases/tag/v6.1.1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
