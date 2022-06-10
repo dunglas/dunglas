@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.8), today) - Contains Helm charts for Kubernetes related open source tools
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.1](https://github.com/symfony/http-kernel/releases/tag/v6.1.1), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.1](https://github.com/symfony/framework-bundle/releases/tag/v6.1.1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
