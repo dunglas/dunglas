@@ -14,15 +14,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.0), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a25ad5a-20220610](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a25ad5a-20220610), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.8), today) - Contains Helm charts for Kubernetes related open source tools
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.0), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a25ad5a-20220610](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a25ad5a-20220610), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.8), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (1 week ago)
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (1 month ago)
-- [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (1 month ago)
+- [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (2 months ago)
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (4 months ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (5 months ago)
 
