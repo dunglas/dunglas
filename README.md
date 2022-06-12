@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.0), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a25ad5a-20220610](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a25ad5a-20220610), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.8), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.0), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a25ad5a-20220610](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a25ad5a-20220610), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.29.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.29.8), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
