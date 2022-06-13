@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220612.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220612.1), today) - GitHub Actions virtual environments
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.5](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.5), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.0), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-nightly-a25ad5a-20220610](https://github.com/remix-run/remix/releases/tag/v0.0.0-nightly-a25ad5a-20220610), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
