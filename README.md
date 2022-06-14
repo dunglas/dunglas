@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.0-pre.0](https://github.com/remix-run/remix/releases/tag/v1.6.0-pre.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.0](https://github.com/remix-run/remix/releases/tag/v1.6.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.5](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.5), 2 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.0), 4 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
