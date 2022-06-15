@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220614.0](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220614.0), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220614.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220614.0), today) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v2.2.2](https://github.com/symfony/flex/releases/tag/v2.2.2), today) - Composer plugin for Symfony
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.0), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 
