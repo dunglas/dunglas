@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 day ago)
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (2 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 days ago)
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (3 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220614.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220614.0), today) - GitHub Actions virtual environments
-- [symfony/flex](https://github.com/symfony/flex) ([v2.2.2](https://github.com/symfony/flex/releases/tag/v2.2.2), today) - Composer plugin for Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.0), today) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220614.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220614.0), 1 day ago) - GitHub Actions virtual environments
+- [symfony/flex](https://github.com/symfony/flex) ([v2.2.2](https://github.com/symfony/flex/releases/tag/v2.2.2), 1 day ago) - Composer plugin for Symfony
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.0), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
