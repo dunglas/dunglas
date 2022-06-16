@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220614.2](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220614.2), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220615.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220615.1), today) - GitHub Actions virtual environments
 - [symfony/flex](https://github.com/symfony/flex) ([v2.2.2](https://github.com/symfony/flex/releases/tag/v2.2.2), 1 day ago) - Composer plugin for Symfony
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.0), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
