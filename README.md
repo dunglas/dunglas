@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 days ago)
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (3 days ago)
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220615.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220615.1), today) - GitHub Actions virtual environments
-- [symfony/flex](https://github.com/symfony/flex) ([v2.2.2](https://github.com/symfony/flex/releases/tag/v2.2.2), 1 day ago) - Composer plugin for Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.0), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220615.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220615.1), 1 day ago) - GitHub Actions virtual environments
+- [symfony/flex](https://github.com/symfony/flex) ([v2.2.2](https://github.com/symfony/flex/releases/tag/v2.2.2), 2 days ago) - Composer plugin for Symfony
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.0), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [kokizzu](https://github.com/kokizzu) (today)
+- [kokizzu](https://github.com/kokizzu) (1 day ago)
 - [smtplabs](https://github.com/smtplabs) (3 months ago)
 - [yesdevnull](https://github.com/yesdevnull) (4 months ago)
