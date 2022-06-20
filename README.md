@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (6 days ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 week ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 
 #### 🌱 My latest projects
 
