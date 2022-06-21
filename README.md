@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0), today) - A Commander for modern Go CLI interactions
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.1](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.1), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.12.3](https://github.com/doctrine/orm/releases/tag/2.12.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7), 4 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
