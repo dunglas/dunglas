@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.2), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220619.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220619.1), today) - GitHub Actions virtual environments
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.5.0](https://github.com/spf13/cobra/releases/tag/v1.5.0), today) - A Commander for modern Go CLI interactions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.1](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.1), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
