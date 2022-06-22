@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.1-pre.0](https://github.com/remix-run/remix/releases/tag/v1.6.1-pre.0), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.2), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220619.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220619.1), today) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.1-pre.0](https://github.com/remix-run/remix/releases/tag/v1.6.1-pre.0), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.2), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220619.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220619.1), 1 day ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [kokizzu](https://github.com/kokizzu) (5 days ago)
+- [kokizzu](https://github.com/kokizzu) (6 days ago)
 - [smtplabs](https://github.com/smtplabs) (3 months ago)
 - [yesdevnull](https://github.com/yesdevnull) (4 months ago)
