@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-3ae51da8](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-3ae51da8), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-84a312db](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-84a312db), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.2), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220619.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220619.1), 2 days ago) - GitHub Actions virtual environments
 
