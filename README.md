@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-708e229e](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-708e229e), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220622.7](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220622.7), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.1](https://github.com/remix-run/remix/releases/tag/v1.6.1), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.2), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
