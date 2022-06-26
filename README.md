@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220622.7](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220622.7), 3 days ago) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.1](https://github.com/remix-run/remix/releases/tag/v1.6.1), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.4.10](https://github.com/symfony/http-kernel/releases/tag/v5.4.10), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.10](https://github.com/symfony/framework-bundle/releases/tag/v5.4.10), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.4.10](https://github.com/symfony/phpunit-bridge/releases/tag/v5.4.10), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
