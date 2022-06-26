@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v5.4.10](https://github.com/symfony/http-kernel/releases/tag/v5.4.10), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.10](https://github.com/symfony/framework-bundle/releases/tag/v5.4.10), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v5.4.10](https://github.com/symfony/phpunit-bridge/releases/tag/v5.4.10), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.2](https://github.com/symfony/http-kernel/releases/tag/v6.1.2), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.2](https://github.com/symfony/framework-bundle/releases/tag/v6.1.2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.1.2](https://github.com/symfony/phpunit-bridge/releases/tag/v6.1.2), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
