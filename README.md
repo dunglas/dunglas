@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220622.7](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220622.7), 2 days ago) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.1](https://github.com/remix-run/remix/releases/tag/v1.6.1), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220622.7](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220622.7), 3 days ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.1](https://github.com/remix-run/remix/releases/tag/v1.6.1), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
