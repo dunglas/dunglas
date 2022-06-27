@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 week ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.2](https://github.com/symfony/http-kernel/releases/tag/v6.1.2), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.2](https://github.com/symfony/framework-bundle/releases/tag/v6.1.2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.1.2](https://github.com/symfony/phpunit-bridge/releases/tag/v6.1.2), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.2](https://github.com/symfony/http-kernel/releases/tag/v6.1.2), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.2](https://github.com/symfony/framework-bundle/releases/tag/v6.1.2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.1.2](https://github.com/symfony/phpunit-bridge/releases/tag/v6.1.2), 1 day ago) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
