@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220627.1), today) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220627.1), today) - GitHub Actions virtual environments
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.3](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.3), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
