@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220627.1), today) - GitHub Actions virtual environments
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.3](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.3), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220626.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220626.1), 1 day ago) - GitHub Actions virtual environments
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.6](https://github.com/Sylius/Sylius/releases/tag/v1.11.6), 1 day ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
