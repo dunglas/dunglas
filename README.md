@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms (4 days ago)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms (5 days ago)
 - [symfony/security-core](https://github.com/symfony/security-core) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework. (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.3](https://github.com/remix-run/remix/releases/tag/v1.6.3), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220627.1), 3 days ago) - GitHub Actions virtual environments
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.3](https://github.com/remix-run/remix/releases/tag/v1.6.3), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220627.1), 4 days ago) - GitHub Actions virtual environments
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.1), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -24,10 +24,10 @@
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (2 months ago)
 - [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (2 months ago)
 - [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (5 months ago)
-- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (5 months ago)
+- [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [suabahasa](https://github.com/suabahasa) (4 days ago)
+- [suabahasa](https://github.com/suabahasa) (5 days ago)
 - [kokizzu](https://github.com/kokizzu) (2 weeks ago)
 - [smtplabs](https://github.com/smtplabs) (4 months ago)
