@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 day ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 day ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (2 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (2 days ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.4](https://github.com/remix-run/remix/releases/tag/v1.6.4), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.4](https://github.com/remix-run/remix/releases/tag/v1.6.4), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220627.1), 1 week ago) - GitHub Actions virtual environments
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.1), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
