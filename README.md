@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220710.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220710.1), today) - GitHub Actions virtual environments
+- [symfony/ux](https://github.com/symfony/ux) ([v2.3.0](https://github.com/symfony/ux/releases/tag/v2.3.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220710.1), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.4](https://github.com/remix-run/remix/releases/tag/v1.6.4), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.1), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
