@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.2](https://github.com/caddyserver/caddy/releases/tag/v2.5.2), today) - Fast, multi-platform web server with automatic HTTPS
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220710.1), 1 day ago) - GitHub Actions virtual environments
 - [symfony/ux](https://github.com/symfony/ux) ([v2.3.0](https://github.com/symfony/ux/releases/tag/v2.3.0), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.4](https://github.com/remix-run/remix/releases/tag/v1.6.4), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
