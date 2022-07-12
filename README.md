@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (4 days ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (4 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (5 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (5 days ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220710.1), today) - GitHub Actions virtual environments
-- [symfony/ux](https://github.com/symfony/ux) ([v2.3.0](https://github.com/symfony/ux/releases/tag/v2.3.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
-- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.4](https://github.com/remix-run/remix/releases/tag/v1.6.4), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220710.1), 1 day ago) - GitHub Actions virtual environments
+- [symfony/ux](https://github.com/symfony/ux) ([v2.3.0](https://github.com/symfony/ux/releases/tag/v2.3.0), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [remix-run/remix](https://github.com/remix-run/remix) ([v1.6.4](https://github.com/remix-run/remix/releases/tag/v1.6.4), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
