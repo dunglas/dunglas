@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.7](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.7), today) - Minimalist OpenID Connect client
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.4](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.4), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.2](https://github.com/caddyserver/caddy/releases/tag/v2.5.2), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220710.1), 2 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
