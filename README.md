@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (5 days ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (5 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (6 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (6 days ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,16 +14,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.2](https://github.com/caddyserver/caddy/releases/tag/v2.5.2), today) - Fast, multi-platform web server with automatic HTTPS
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220710.1), 1 day ago) - GitHub Actions virtual environments
-- [symfony/ux](https://github.com/symfony/ux) ([v2.3.0](https://github.com/symfony/ux/releases/tag/v2.3.0), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.2](https://github.com/caddyserver/caddy/releases/tag/v2.5.2), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220710.1), 2 days ago) - GitHub Actions virtual environments
+- [symfony/ux](https://github.com/symfony/ux) ([v2.3.0](https://github.com/symfony/ux/releases/tag/v2.3.0), 2 days ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (1 month ago)
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (2 months ago)
 - [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (3 months ago)
-- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (5 months ago)
+- [JSON Columns and Doctrine DBAL 3 Upgrade](https://dunglas.fr/2022/01/json-columns-and-doctrine-dbal-3-upgrade/) (6 months ago)
 - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
