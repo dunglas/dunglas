@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.4](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.4), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.2](https://github.com/caddyserver/caddy/releases/tag/v2.5.2), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220710.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220710.1), 2 days ago) - GitHub Actions virtual environments
-- [symfony/ux](https://github.com/symfony/ux) ([v2.3.0](https://github.com/symfony/ux/releases/tag/v2.3.0), 2 days ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
