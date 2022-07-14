@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (6 days ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (6 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (1 week ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (1 week ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.7](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.7), today) - Minimalist OpenID Connect client
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.4](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.4), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.2](https://github.com/caddyserver/caddy/releases/tag/v2.5.2), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.7](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.7), 1 day ago) - Minimalist OpenID Connect client
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.4](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.4), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.5.2](https://github.com/caddyserver/caddy/releases/tag/v2.5.2), 2 days ago) - Fast, multi-platform web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [suabahasa](https://github.com/suabahasa) (2 weeks ago)
-- [kokizzu](https://github.com/kokizzu) (3 weeks ago)
+- [kokizzu](https://github.com/kokizzu) (4 weeks ago)
 - [smtplabs](https://github.com/smtplabs) (4 months ago)
