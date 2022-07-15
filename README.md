@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-2d985459e](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-2d985459e), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-81a93c489](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-81a93c489), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.7](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.7), 2 days ago) - Minimalist OpenID Connect client
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.4](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.4), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
