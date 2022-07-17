@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [suabahasa](https://github.com/suabahasa) (2 weeks ago)
-- [kokizzu](https://github.com/kokizzu) (1 month ago)
 - [smtplabs](https://github.com/smtplabs) (4 months ago)
+- [yesdevnull](https://github.com/yesdevnull) (5 months ago)
