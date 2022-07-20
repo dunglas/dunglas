@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.1](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.5), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220717.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220717.1), 2 days ago) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.5](https://github.com/remix-run/remix/releases/tag/remix%401.6.5), 6 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
