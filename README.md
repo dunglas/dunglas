@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.5), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220717.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220717.1), 2 days ago) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.5](https://github.com/remix-run/remix/releases/tag/remix%401.6.5), 6 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.7](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.7), 1 week ago) - Minimalist OpenID Connect client
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
