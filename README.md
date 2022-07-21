@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.0-rc.1](https://github.com/api-platform/api-platform/releases/tag/v3.0.0-rc.1), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220719.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220719.1), 1 day ago) - GitHub Actions virtual environments
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.1](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.5), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
