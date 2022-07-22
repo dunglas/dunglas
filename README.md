@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 
