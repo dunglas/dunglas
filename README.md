@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.0-rc.1](https://github.com/api-platform/api-platform/releases/tag/v3.0.0-rc.1), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220719.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220719.1), 3 days ago) - GitHub Actions virtual environments
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.1](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.0-rc.1](https://github.com/api-platform/api-platform/releases/tag/v3.0.0-rc.1), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220719.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220719.1), 4 days ago) - GitHub Actions virtual environments
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.1](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
