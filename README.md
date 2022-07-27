@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.6), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220724.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220724.1), 1 day ago) - GitHub Actions virtual environments
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.6), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220724.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220724.1), 2 days ago) - GitHub Actions virtual environments
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [suabahasa](https://github.com/suabahasa) (4 weeks ago)
+- [suabahasa](https://github.com/suabahasa) (1 month ago)
 - [smtplabs](https://github.com/smtplabs) (4 months ago)
 - [yesdevnull](https://github.com/yesdevnull) (5 months ago)
