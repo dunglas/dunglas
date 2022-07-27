@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (6 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (today)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [suabahasa](https://github.com/suabahasa) (1 month ago)
 - [smtplabs](https://github.com/smtplabs) (4 months ago)
 - [yesdevnull](https://github.com/yesdevnull) (5 months ago)
+- [Orbitale](https://github.com/Orbitale) (9 months ago)
