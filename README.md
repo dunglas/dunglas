@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.7](https://github.com/Sylius/Sylius/releases/tag/v1.11.7), today) - Open Source eCommerce Platform on Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.6), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220724.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220724.1), 3 days ago) - GitHub Actions virtual environments
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.7](https://github.com/Sylius/Sylius/releases/tag/v1.11.7), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.6), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220724.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220724.1), 4 days ago) - GitHub Actions virtual environments
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
