@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.7](https://github.com/Sylius/Sylius/releases/tag/v1.11.7), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.6), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220724.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220724.1), 4 days ago) - GitHub Actions virtual environments
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.3](https://github.com/symfony/security-core/releases/tag/v6.1.3), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.3](https://github.com/symfony/http-kernel/releases/tag/v6.1.3), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.3](https://github.com/symfony/framework-bundle/releases/tag/v6.1.3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
