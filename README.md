@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220731.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220731.1), today) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.7](https://github.com/remix-run/remix/releases/tag/remix%401.6.7), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.3](https://github.com/symfony/security-core/releases/tag/v6.1.3), 3 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220731.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220731.1), 1 day ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.7](https://github.com/remix-run/remix/releases/tag/remix%401.6.7), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.3](https://github.com/symfony/security-core/releases/tag/v6.1.3), 4 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
