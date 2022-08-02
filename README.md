@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.7](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.7), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220801.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220801.1), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.7](https://github.com/remix-run/remix/releases/tag/remix%401.6.7), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.3](https://github.com/symfony/security-core/releases/tag/v6.1.3), 4 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
