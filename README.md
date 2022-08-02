@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220801.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220801.1), today) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20220729.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220729.1), today) - GitHub Actions virtual environments
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.7](https://github.com/remix-run/remix/releases/tag/remix%401.6.7), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.3](https://github.com/symfony/security-core/releases/tag/v6.1.3), 4 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
