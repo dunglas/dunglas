@@ -4,7 +4,7 @@
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 
 #### 🌱 My latest projects
 
