@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.7](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.7), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220801.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220801.1), 1 day ago) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.7](https://github.com/remix-run/remix/releases/tag/remix%401.6.7), 4 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.7](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.7), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220801.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220801.1), 2 days ago) - GitHub Actions virtual environments
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.7](https://github.com/remix-run/remix/releases/tag/remix%401.6.7), 5 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
