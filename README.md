@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.2), today) - Contains Helm charts for Kubernetes related open source tools
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.7](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.7), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220801.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220801.1), 3 days ago) - GitHub Actions virtual environments
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.7](https://github.com/remix-run/remix/releases/tag/remix%401.6.7), 6 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
