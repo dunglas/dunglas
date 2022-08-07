@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0), today) - Doctrine Database Abstraction Layer
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.8](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.8), 1 day ago) - Minimalist OpenID Connect client
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0), 1 day ago) - Doctrine Database Abstraction Layer
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.8](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.8), 2 days ago) - Minimalist OpenID Connect client
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
