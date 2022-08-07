@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.0](https://github.com/doctrine/orm/releases/tag/2.13.0), today) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0), 1 day ago) - Doctrine Database Abstraction Layer
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.8](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.8), 2 days ago) - Minimalist OpenID Connect client
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.30.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.30.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
