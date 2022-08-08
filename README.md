@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.0](https://github.com/doctrine/orm/releases/tag/2.13.0), today) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0), 1 day ago) - Doctrine Database Abstraction Layer
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.8](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.8), 2 days ago) - Minimalist OpenID Connect client
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.0](https://github.com/doctrine/orm/releases/tag/2.13.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0), 2 days ago) - Doctrine Database Abstraction Layer
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.8](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.8), 3 days ago) - Minimalist OpenID Connect client
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [smtplabs](https://github.com/smtplabs) (5 months ago)
-- [yesdevnull](https://github.com/yesdevnull) (5 months ago)
+- [yesdevnull](https://github.com/yesdevnull) (6 months ago)
 - [Orbitale](https://github.com/Orbitale) (10 months ago)
