@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.0](https://github.com/doctrine/orm/releases/tag/2.13.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.1](https://github.com/doctrine/orm/releases/tag/2.13.1), today) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0), 2 days ago) - Doctrine Database Abstraction Layer
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.8](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.8), 3 days ago) - Minimalist OpenID Connect client
 
