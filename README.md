@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu22/20220807.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu22%2F20220807.1), today) - GitHub Actions virtual environments
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220807.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220807.1), today) - GitHub Actions runner images
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.13.1](https://github.com/doctrine/orm/releases/tag/2.13.1), today) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0), 2 days ago) - Doctrine Database Abstraction Layer
 
