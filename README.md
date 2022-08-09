@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/docker-private-composer-package](https://github.com/dunglas/docker-private-composer-package) - Example: Securely Access Private Composer Packages (today)
+- [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (today)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (3 days ago)
 
 #### 🌱 My latest projects
 
-- [dunglas/docker-private-composer-package](https://github.com/dunglas/docker-private-composer-package) - Example: Securely Access Private Composer Packages
+- [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 - [dunglas/docker-compose-meta](https://github.com/dunglas/docker-compose-meta) - A meta package for Symfony projects using Docker Compose
 
