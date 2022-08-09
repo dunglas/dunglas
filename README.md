@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220807.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220807.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20220808.1](https://github.com/actions/runner-images/releases/tag/win19%2F20220808.1), today) - GitHub Actions runner images
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.8](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.8), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.5-canary.0](https://github.com/vercel/next.js/releases/tag/v12.2.5-canary.0), 1 day ago) - The React Framework
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.1](https://github.com/doctrine/orm/releases/tag/2.13.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
