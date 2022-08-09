@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/docker-private-composer-package](https://github.com/dunglas/docker-private-composer-package) - Example: Securely Access Private Composer Packages (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (today)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (3 days ago)
 
 #### 🌱 My latest projects
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220808.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220808.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220807.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220807.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.5-canary.0](https://github.com/vercel/next.js/releases/tag/v12.2.5-canary.0), 1 day ago) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.13.1](https://github.com/doctrine/orm/releases/tag/2.13.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
