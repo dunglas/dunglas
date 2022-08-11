@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.5-canary.5](https://github.com/vercel/next.js/releases/tag/v12.2.5-canary.5), today) - The React Framework
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.0](https://github.com/dunglas/httpsfv/releases/tag/v1.0.0), today) - A Go library to parse and serialize HTTP structured field values
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.5-canary.4](https://github.com/vercel/next.js/releases/tag/v12.2.5-canary.4), today) - The React Framework
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
