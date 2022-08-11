@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (2 days ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (today)
 - [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (2 days ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.0](https://github.com/dunglas/httpsfv/releases/tag/v1.0.0), today) - A Go library to parse and serialize HTTP structured field values
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.5-canary.4](https://github.com/vercel/next.js/releases/tag/v12.2.5-canary.4), today) - The React Framework
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220809.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220809.1), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
