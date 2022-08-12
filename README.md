@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.1), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.2), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.6.8](https://github.com/remix-run/remix/releases/tag/remix%401.6.8), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.5](https://github.com/vercel/next.js/releases/tag/v12.2.5), today) - The React Framework
 
