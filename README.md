@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220814.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220814.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20220814.1](https://github.com/actions/runner-images/releases/tag/win19%2F20220814.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.0](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.0), 2 days ago) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.2), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
