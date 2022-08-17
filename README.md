@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (6 days ago)
 - [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220815.3](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220815.3), today) - GitHub Actions runner images
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.9), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220815.3](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220815.3), 1 day ago) - GitHub Actions runner images
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.9), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
