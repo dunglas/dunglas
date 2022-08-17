@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220815.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220815.1), today) - GitHub Actions runner images
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1), today) - Doctrine Database Abstraction Layer
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220815.3](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220815.3), 1 day ago) - GitHub Actions runner images
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.9), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
