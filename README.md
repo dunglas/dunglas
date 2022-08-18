@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
 - [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.1](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.1), today) - The React Framework
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220816.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220816.1), today) - GitHub Actions runner images
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1), today) - Doctrine Database Abstraction Layer
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.1](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.1), 1 day ago) - The React Framework
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220816.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220816.1), 1 day ago) - GitHub Actions runner images
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1), 1 day ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
