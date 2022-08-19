@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.3), today) - Contains Helm charts for Kubernetes related open source tools
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.1](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.1), 2 days ago) - The React Framework
 - [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220816.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220816.1), 2 days ago) - GitHub Actions runner images
 
