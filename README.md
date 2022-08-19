@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
 - [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.2), today) - Contains Helm charts for Kubernetes related open source tools
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.1](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.1), 1 day ago) - The React Framework
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220816.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220816.1), 1 day ago) - GitHub Actions runner images
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.1](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.1), 2 days ago) - The React Framework
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220816.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220816.1), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
