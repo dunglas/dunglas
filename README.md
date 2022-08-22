@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220821.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220821.1), today) - GitHub Actions runner images
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.2](https://github.com/doctrine/dbal/releases/tag/3.4.2), today) - Doctrine Database Abstraction Layer
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.3), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.1](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.1), 5 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
