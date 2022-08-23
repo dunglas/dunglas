@@ -4,7 +4,7 @@
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
-- [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (1 week ago)
+- [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220821.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220821.1), today) - GitHub Actions runner images
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.2](https://github.com/doctrine/dbal/releases/tag/3.4.2), today) - Doctrine Database Abstraction Layer
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.3), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220821.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220821.1), 1 day ago) - GitHub Actions runner images
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.2](https://github.com/doctrine/dbal/releases/tag/3.4.2), 1 day ago) - Doctrine Database Abstraction Layer
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.3), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.fr/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (1 week ago)
+- [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.fr/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (2 weeks ago)
 - [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (2 months ago)
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (3 months ago)
 - [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (4 months ago)
