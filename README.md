@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.10](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.10), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.2](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.2), today) - The React Framework
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220822.4](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220822.4), today) - GitHub Actions runner images
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.2](https://github.com/doctrine/dbal/releases/tag/3.4.2), 1 day ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
