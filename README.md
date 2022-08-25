@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 weeks ago)
 - [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.5](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.5), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.10](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.10), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220822.4](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220822.4), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.5](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.5), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.10](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.10), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220822.4](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220822.4), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
