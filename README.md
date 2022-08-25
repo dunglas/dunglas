@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220823.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220823.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.5](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.5), 1 day ago) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.1.10](https://github.com/mdn/browser-compat-data/releases/tag/v5.1.10), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220822.4](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220822.4), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
