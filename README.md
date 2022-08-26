@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.0](https://github.com/remix-run/remix/releases/tag/remix%401.7.0), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220823.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220823.1), 1 day ago) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.5](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.5), 2 days ago) - The React Framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.4](https://github.com/symfony/security-core/releases/tag/v6.1.4), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.4](https://github.com/symfony/http-kernel/releases/tag/v6.1.4), today) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.4](https://github.com/symfony/framework-bundle/releases/tag/v6.1.4), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
