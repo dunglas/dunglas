@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.4](https://github.com/symfony/security-core/releases/tag/v6.1.4), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.4](https://github.com/symfony/http-kernel/releases/tag/v6.1.4), 1 day ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.4](https://github.com/symfony/framework-bundle/releases/tag/v6.1.4), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.4](https://github.com/symfony/security-core/releases/tag/v6.1.4), 2 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.4](https://github.com/symfony/http-kernel/releases/tag/v6.1.4), 2 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.4](https://github.com/symfony/framework-bundle/releases/tag/v6.1.4), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
