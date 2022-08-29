@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220828.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220828.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220828.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220828.1), today) - GitHub Actions runner images
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.4](https://github.com/symfony/security-core/releases/tag/v6.1.4), 3 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v6.1.4](https://github.com/symfony/http-kernel/releases/tag/v6.1.4), 3 days ago) - The HttpKernel component provides a structured process for converting a Request into a Response.
 
