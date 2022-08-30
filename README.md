@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20220829.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.6](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.6), 1 day ago) - The React Framework
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20220828.1](https://github.com/actions/runner-images/releases/tag/win19%2F20220828.1), 1 day ago) - GitHub Actions runner images
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.4](https://github.com/symfony/security-core/releases/tag/v6.1.4), 4 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
