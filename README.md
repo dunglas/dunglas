@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220829.1), today) - GitHub Actions runner images
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3), today) - Doctrine Database Abstraction Layer
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220829.1), today) - GitHub Actions runner images
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.0](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.0), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
