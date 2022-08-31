@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.7](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.7), today) - The React Framework
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220829.1), today) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.7](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.7), 1 day ago) - The React Framework
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220829.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
