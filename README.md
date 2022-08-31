@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 weeks ago)
 
 #### 🌱 My latest projects
 
