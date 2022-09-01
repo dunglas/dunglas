@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.7](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.7), 2 days ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.8](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.8), today) - The React Framework
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), 2 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220829.1), 2 days ago) - GitHub Actions runner images
 
