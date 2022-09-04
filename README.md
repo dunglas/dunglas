@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.8](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.8), 2 days ago) - The React Framework
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), 4 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220829.1), 4 days ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.2.6-canary.8](https://github.com/vercel/next.js/releases/tag/v12.2.6-canary.8), 3 days ago) - The React Framework
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), 5 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220829.1), 5 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [PIERRONMarc](https://github.com/PIERRONMarc) (2 days ago)
-- [JabriAbdelilah](https://github.com/JabriAbdelilah) (2 days ago)
+- [PIERRONMarc](https://github.com/PIERRONMarc) (3 days ago)
+- [JabriAbdelilah](https://github.com/JabriAbdelilah) (3 days ago)
 - [smtplabs](https://github.com/smtplabs) (6 months ago)
