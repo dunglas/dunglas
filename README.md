@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220904.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220904.1), today) - GitHub Actions runner images
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), 6 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220829.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220829.1), 6 days ago) - GitHub Actions runner images
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3), 6 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
