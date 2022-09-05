@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0-beta.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.0-beta.3), today) - Fast, multi-platform web server with automatic HTTPS
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220904.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220904.1), today) - GitHub Actions runner images
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.8.0](https://github.com/api-platform/client-generator/releases/tag/v0.8.0), 6 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3), 6 days ago) - Doctrine Database Abstraction Layer
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
