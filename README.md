@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220905.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220905.1), today) - GitHub Actions runner images
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.4](https://github.com/doctrine/dbal/releases/tag/3.4.4), today) - Doctrine Database Abstraction Layer
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0-beta.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.0-beta.3), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220904.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220904.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
