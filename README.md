@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0](https://github.com/dunglas/mercure/releases/tag/v0.14.0), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.1](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.1), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220905.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220905.1), today) - GitHub Actions runner images
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.4](https://github.com/doctrine/dbal/releases/tag/3.4.4), today) - Doctrine Database Abstraction Layer
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0-beta.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.0-beta.3), 1 day ago) - Fast, multi-platform web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
