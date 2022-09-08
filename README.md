@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.0](https://github.com/vercel/next.js/releases/tag/v12.3.0), today) - The React Framework
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220907.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220907.1), today) - GitHub Actions runner images
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.5), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.0.0](https://github.com/api-platform/schema-generator/releases/tag/v5.0.0), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
