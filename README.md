@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.6), today) - Contains Helm charts for Kubernetes related open source tools
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.0](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.0), 1 day ago) - The React Framework
 - [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-7c438aeb7](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-7c438aeb7), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220907.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220907.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
