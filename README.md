@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (4 days ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.14.1](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.14.1), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.2), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220912.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220912.1), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.1](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.1), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
