@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (4 days ago)
-- [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (4 days ago)
 
 #### 🌱 My latest projects
 
