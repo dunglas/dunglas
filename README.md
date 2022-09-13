@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.2), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220912.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220912.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.1](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.1), 1 day ago) - The React Framework
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.6), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
