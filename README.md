@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.14.1](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.14.1), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.2), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220912.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220912.1), today) - GitHub Actions runner images
 
