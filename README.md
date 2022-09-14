@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.2), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220912.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220912.1), today) - GitHub Actions runner images
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.2](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.2), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220912.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220912.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yellowcloudro](https://github.com/yellowcloudro) (1 day ago)
+- [yellowcloudro](https://github.com/yellowcloudro) (2 days ago)
 - [PIERRONMarc](https://github.com/PIERRONMarc) (1 week ago)
 - [JabriAbdelilah](https://github.com/JabriAbdelilah) (1 week ago)
