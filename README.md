@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20220912.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20220912.1), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.2](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.2), 1 day ago) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.0](https://github.com/api-platform/api-platform/releases/tag/v3.0.0), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.0](https://github.com/api-platform/create-client/releases/tag/v0.9.0), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
