@@ -20,11 +20,11 @@
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
+- [API Platform 3 Is Released!](https://dunglas.fr/2022/09/api-platform-3-is-released/) (today)
 - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.fr/2022/09/mercure-0-14/) (1 week ago)
 - [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.fr/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (1 month ago)
 - [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (3 months ago)
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (4 months ago)
-- [Building Decentralized Web Apps with Solid and PHP](https://dunglas.fr/2022/04/building-decentralized-web-apps-with-solid-and-php/) (5 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
