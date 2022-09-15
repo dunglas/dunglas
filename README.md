@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220912.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220912.1), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.2](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.2), today) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220912.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220912.1), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.2](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.2), 1 day ago) - The React Framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [yellowcloudro](https://github.com/yellowcloudro) (2 days ago)
-- [PIERRONMarc](https://github.com/PIERRONMarc) (1 week ago)
-- [JabriAbdelilah](https://github.com/JabriAbdelilah) (1 week ago)
+- [yellowcloudro](https://github.com/yellowcloudro) (3 days ago)
+- [PIERRONMarc](https://github.com/PIERRONMarc) (2 weeks ago)
+- [JabriAbdelilah](https://github.com/JabriAbdelilah) (2 weeks ago)
