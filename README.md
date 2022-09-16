@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.1](https://github.com/remix-run/remix/releases/tag/remix%401.7.1), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.0](https://github.com/api-platform/api-platform/releases/tag/v3.0.0), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.0](https://github.com/api-platform/create-client/releases/tag/v0.9.0), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
