@@ -4,7 +4,7 @@
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 
 #### 🌱 My latest projects
 
