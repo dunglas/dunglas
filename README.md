@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 
 #### 🌱 My latest projects
 
