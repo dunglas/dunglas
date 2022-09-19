@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.4](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.4), today) - The React Framework
 - [actions/runner-images](https://github.com/actions/runner-images) ([win19/20220918.1](https://github.com/actions/runner-images/releases/tag/win19%2F20220918.1), today) - GitHub Actions runner images
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.8](https://github.com/Sylius/Sylius/releases/tag/v1.11.8), today) - Open Source eCommerce Platform on Symfony
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0-beta.5](https://github.com/caddyserver/caddy/releases/tag/v2.6.0-beta.5), 1 day ago) - Fast and extensible multi-platform web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
