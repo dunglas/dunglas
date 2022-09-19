@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.8](https://github.com/Sylius/Sylius/releases/tag/v1.11.8), today) - Open Source eCommerce Platform on Symfony
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0-beta.5](https://github.com/caddyserver/caddy/releases/tag/v2.6.0-beta.5), 1 day ago) - Fast and extensible multi-platform web server with automatic HTTPS
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.3](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.3), 3 days ago) - The React Framework
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.1](https://github.com/remix-run/remix/releases/tag/remix%401.7.1), 3 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
