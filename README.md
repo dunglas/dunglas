@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20220919.2](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20220919.2), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220919.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220919.1), today) - GitHub Actions runner images
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.1), today) - Open Source eCommerce Platform on Symfony
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1](https://github.com/vercel/next.js/releases/tag/v12.3.1), 1 day ago) - The React Framework
 
