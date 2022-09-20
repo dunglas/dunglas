@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0](https://github.com/caddyserver/caddy/releases/tag/v2.6.0), today) - Fast and extensible multi-platform web server with automatic HTTPS
 - [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220919.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220919.1), today) - GitHub Actions runner images
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.1), today) - Open Source eCommerce Platform on Symfony
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1](https://github.com/vercel/next.js/releases/tag/v12.3.1), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
