@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1-canary.5](https://github.com/vercel/next.js/releases/tag/v12.3.1-canary.5), today) - The React Framework
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20220918.1](https://github.com/actions/runner-images/releases/tag/win19%2F20220918.1), today) - GitHub Actions runner images
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.8](https://github.com/Sylius/Sylius/releases/tag/v1.11.8), today) - Open Source eCommerce Platform on Symfony
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.1](https://github.com/vercel/next.js/releases/tag/v12.3.1), 1 day ago) - The React Framework
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20220918.1](https://github.com/actions/runner-images/releases/tag/win19%2F20220918.1), 1 day ago) - GitHub Actions runner images
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.8](https://github.com/Sylius/Sylius/releases/tag/v1.11.8), 1 day ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [API Platform 3 Is Released!](https://dunglas.fr/2022/09/api-platform-3-is-released/) (4 days ago)
-- [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.fr/2022/09/mercure-0-14/) (1 week ago)
+- [API Platform 3 Is Released!](https://dunglas.fr/2022/09/api-platform-3-is-released/) (5 days ago)
+- [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.fr/2022/09/mercure-0-14/) (2 weeks ago)
 - [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.fr/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (1 month ago)
 - [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (3 months ago)
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.fr/2022/04/caddy-logging-security-improvements/) (4 months ago)
