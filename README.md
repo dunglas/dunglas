@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.3](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.3), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0](https://github.com/caddyserver/caddy/releases/tag/v2.6.0), today) - Fast and extensible multi-platform web server with automatic HTTPS
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220919.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220919.1), today) - GitHub Actions runner images
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.3](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.3), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0](https://github.com/caddyserver/caddy/releases/tag/v2.6.0), 1 day ago) - Fast and extensible multi-platform web server with automatic HTTPS
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220919.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220919.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [API Platform 3 Is Released!](https://dunglas.fr/2022/09/api-platform-3-is-released/) (5 days ago)
+- [API Platform 3 Is Released!](https://dunglas.fr/2022/09/api-platform-3-is-released/) (6 days ago)
 - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.fr/2022/09/mercure-0-14/) (2 weeks ago)
 - [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.fr/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (1 month ago)
 - [Goroutines, threads, and thread IDs](https://dunglas.fr/2022/05/goroutines-threads-and-thread-ids/) (3 months ago)
