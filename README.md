@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.2](https://github.com/remix-run/remix/releases/tag/remix%401.7.2), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20220920.2](https://github.com/actions/runner-images/releases/tag/ubuntu20%2F20220920.2), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.0](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.0), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.3](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.3), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
