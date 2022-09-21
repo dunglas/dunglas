@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (4 days ago)
 
 #### 🌱 My latest projects
 
