@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.1](https://github.com/caddyserver/caddy/releases/tag/v2.6.1), today) - Fast and extensible multi-platform web server with automatic HTTPS
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.1](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.1), today) - The React Framework
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.2](https://github.com/remix-run/remix/releases/tag/remix%401.7.2), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20220920.2](https://github.com/actions/runner-images/releases/tag/ubuntu20%2F20220920.2), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.0](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.0), today) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
