@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20220921.1](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20220921.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.0](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.0), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.3](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.3), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.0](https://github.com/caddyserver/caddy/releases/tag/v2.6.0), 1 day ago) - Fast and extensible multi-platform web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
