@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.2](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.2), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.3](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.3), today) - The React Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.1](https://github.com/caddyserver/caddy/releases/tag/v2.6.1), 1 day ago) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.2](https://github.com/remix-run/remix/releases/tag/remix%401.7.2), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
