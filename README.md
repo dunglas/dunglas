@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.5](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.5), today) - The React Framework
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.7), today) - Contains Helm charts for Kubernetes related open source tools
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.2](https://github.com/doctrine/orm/releases/tag/2.13.2), today) - Doctrine Object Relational Mapper (ORM)
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.6](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.6), 1 day ago) - The React Framework
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.7), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.13.2](https://github.com/doctrine/orm/releases/tag/2.13.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
