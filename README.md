@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.6](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.6), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.7](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.7), today) - The React Framework
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.7), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.13.2](https://github.com/doctrine/orm/releases/tag/2.13.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
