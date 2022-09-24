@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20220923.1](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20220923.1), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.7](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.7), today) - The React Framework
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.7), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20220923.1](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20220923.1), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.7](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.7), 1 day ago) - The React Framework
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.7), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
