@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220925.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220925.1), today) - GitHub Actions runner images
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5), 2 days ago) - Doctrine Database Abstraction Layer
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20220923.1](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20220923.1), 3 days ago) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v12.3.2-canary.7](https://github.com/vercel/next.js/releases/tag/v12.3.2-canary.7), 3 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
