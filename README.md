@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220925.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220925.1), 1 day ago) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220925.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220925.1), today) - GitHub Actions runner images
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-2.31.8](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-2.31.8), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5), 3 days ago) - Doctrine Database Abstraction Layer
 
