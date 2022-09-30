@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.9](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.9), 2 days ago) - Minimalist OpenID Connect client
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.4](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.4), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220925.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220925.1), 3 days ago) - GitHub Actions runner images
+- [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.13](https://github.com/symfony/security-core/releases/tag/v5.4.13), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.13](https://github.com/symfony/framework-bundle/releases/tag/v5.4.13), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v5.4.13](https://github.com/symfony/doctrine-bridge/releases/tag/v5.4.13), today) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
