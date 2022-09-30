@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.10](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.10), today) - Minimalist OpenID Connect client
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.5](https://github.com/symfony/security-core/releases/tag/v6.1.5), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.5](https://github.com/symfony/framework-bundle/releases/tag/v6.1.5), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.1.5](https://github.com/symfony/doctrine-bridge/releases/tag/v6.1.5), today) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
