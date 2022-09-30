@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.13](https://github.com/symfony/security-core/releases/tag/v5.4.13), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.13](https://github.com/symfony/framework-bundle/releases/tag/v5.4.13), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v5.4.13](https://github.com/symfony/doctrine-bridge/releases/tag/v5.4.13), today) - Provides integration for Doctrine with various Symfony components.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.5](https://github.com/symfony/security-core/releases/tag/v6.1.5), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.5](https://github.com/symfony/framework-bundle/releases/tag/v6.1.5), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.1.5](https://github.com/symfony/doctrine-bridge/releases/tag/v6.1.5), today) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
