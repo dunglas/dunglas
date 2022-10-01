@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (5 days ago)
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.10](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.10), today) - Minimalist OpenID Connect client
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.5](https://github.com/symfony/security-core/releases/tag/v6.1.5), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.5](https://github.com/symfony/framework-bundle/releases/tag/v6.1.5), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.10](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.10), 1 day ago) - Minimalist OpenID Connect client
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.5](https://github.com/symfony/security-core/releases/tag/v6.1.5), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.5](https://github.com/symfony/framework-bundle/releases/tag/v6.1.5), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [yellowcloudro](https://github.com/yellowcloudro) (2 weeks ago)
-- [PIERRONMarc](https://github.com/PIERRONMarc) (4 weeks ago)
-- [JabriAbdelilah](https://github.com/JabriAbdelilah) (4 weeks ago)
+- [PIERRONMarc](https://github.com/PIERRONMarc) (1 month ago)
+- [JabriAbdelilah](https://github.com/JabriAbdelilah) (1 month ago)
