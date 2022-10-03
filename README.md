@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220929.2](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220929.2), today) - GitHub Actions runner images
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.10](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.10), 3 days ago) - Minimalist OpenID Connect client
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.5](https://github.com/symfony/security-core/releases/tag/v6.1.5), 3 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.5](https://github.com/symfony/framework-bundle/releases/tag/v6.1.5), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
