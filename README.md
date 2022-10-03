@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.11.9](https://github.com/Sylius/Sylius/releases/tag/v1.11.9), today) - Open Source eCommerce Platform on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.2), today) - Open Source eCommerce Platform on Symfony
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220929.2](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220929.2), today) - GitHub Actions runner images
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.10](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.10), 3 days ago) - Minimalist OpenID Connect client
 
