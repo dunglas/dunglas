@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20221002.2](https://github.com/actions/runner-images/releases/tag/ubuntu20%2F20221002.2), today) - GitHub Actions runner images
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.2), today) - Open Source eCommerce Platform on Symfony
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220929.2](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220929.2), today) - GitHub Actions runner images
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.10](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.10), 3 days ago) - Minimalist OpenID Connect client
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
