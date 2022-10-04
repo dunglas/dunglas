@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20221002.2](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20221002.2), today) - GitHub Actions runner images
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.2), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) ([v0.9.10](https://github.com/jumbojett/OpenID-Connect-PHP/releases/tag/v0.9.10), 4 days ago) - Minimalist OpenID Connect client
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
