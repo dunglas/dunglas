@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20221002.2](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20221002.2), today) - GitHub Actions runner images
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.2), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20221002.2](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20221002.2), 1 day ago) - GitHub Actions runner images
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.2), 2 days ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
