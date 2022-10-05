@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🌱 My latest projects
 
