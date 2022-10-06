@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.1.1](https://github.com/api-platform/schema-generator/releases/tag/v5.1.1), today) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.1](https://github.com/api-platform/create-client/releases/tag/v0.9.1), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20221002.2](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20221002.2), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
