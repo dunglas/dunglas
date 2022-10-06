@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.1](https://github.com/api-platform/create-client/releases/tag/v0.9.1), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20221002.2](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20221002.2), 2 days ago) - GitHub Actions runner images
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-ALPHA.2](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-ALPHA.2), 3 days ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
