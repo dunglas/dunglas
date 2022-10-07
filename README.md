@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.1.1](https://github.com/api-platform/schema-generator/releases/tag/v5.1.1), today) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.1](https://github.com/api-platform/create-client/releases/tag/v0.9.1), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.1.1](https://github.com/api-platform/schema-generator/releases/tag/v5.1.1), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.1](https://github.com/api-platform/create-client/releases/tag/v0.9.1), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
