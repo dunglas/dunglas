@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS (1 day ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS (1 day ago)
 
 #### 🌱 My latest projects
 
