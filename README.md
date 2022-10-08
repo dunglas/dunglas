@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,20 +14,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.1.1](https://github.com/api-platform/schema-generator/releases/tag/v5.1.1), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.1](https://github.com/api-platform/create-client/releases/tag/v0.9.1), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.1.1](https://github.com/api-platform/schema-generator/releases/tag/v5.1.1), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.1](https://github.com/api-platform/create-client/releases/tag/v0.9.1), 2 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [API Platform 3 Is Released!](https://dunglas.dev/2022/09/api-platform-3-is-released/) (3 weeks ago)
 - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.dev/2022/09/mercure-0-14/) (1 month ago)
-- [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.dev/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (1 month ago)
+- [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.dev/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (2 months ago)
 - [Goroutines, threads, and thread IDs](https://dunglas.dev/2022/05/goroutines-threads-and-thread-ids/) (4 months ago)
 - [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.dev/2022/04/caddy-logging-security-improvements/) (5 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [Zuruuh](https://github.com/Zuruuh) (today)
+- [Zuruuh](https://github.com/Zuruuh) (1 day ago)
 - [yellowcloudro](https://github.com/yellowcloudro) (3 weeks ago)
 - [PIERRONMarc](https://github.com/PIERRONMarc) (1 month ago)
