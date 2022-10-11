@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-BETA.1), today) - Open Source eCommerce Platform on Symfony
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.1.1](https://github.com/api-platform/schema-generator/releases/tag/v5.1.1), 5 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.1](https://github.com/api-platform/create-client/releases/tag/v0.9.1), 5 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.5), 1 week ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
