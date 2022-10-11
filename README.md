@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), today) - A Commander for modern Go CLI interactions
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.6), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-BETA.1), today) - Open Source eCommerce Platform on Symfony
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.1.1](https://github.com/api-platform/schema-generator/releases/tag/v5.1.1), 5 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
