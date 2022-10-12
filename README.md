@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS (4 days ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), today) - A Commander for modern Go CLI interactions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.6), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-BETA.1), today) - Open Source eCommerce Platform on Symfony
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), 1 day ago) - A Commander for modern Go CLI interactions
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.6), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-BETA.1), 1 day ago) - Open Source eCommerce Platform on Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [Zuruuh](https://github.com/Zuruuh) (4 days ago)
-- [yellowcloudro](https://github.com/yellowcloudro) (4 weeks ago)
+- [Zuruuh](https://github.com/Zuruuh) (5 days ago)
+- [yellowcloudro](https://github.com/yellowcloudro) (1 month ago)
 - [PIERRONMarc](https://github.com/PIERRONMarc) (1 month ago)
