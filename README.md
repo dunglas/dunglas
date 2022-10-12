@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.0](https://github.com/spf13/cobra/releases/tag/v1.6.0), 1 day ago) - A Commander for modern Go CLI interactions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.6), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-BETA.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-BETA.1), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.6](https://github.com/symfony/security-core/releases/tag/v6.1.6), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.6](https://github.com/symfony/framework-bundle/releases/tag/v6.1.6), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.1.6](https://github.com/symfony/phpunit-bridge/releases/tag/v6.1.6), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
