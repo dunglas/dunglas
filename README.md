@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.2](https://github.com/caddyserver/caddy/releases/tag/v2.6.2), today) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221010.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20221010.1), today) - GitHub Actions runner images
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.6](https://github.com/symfony/security-core/releases/tag/v6.1.6), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.1.6](https://github.com/symfony/framework-bundle/releases/tag/v6.1.6), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
