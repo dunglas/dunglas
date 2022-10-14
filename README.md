@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221012.3](https://github.com/actions/runner-images/releases/tag/win19%2F20221012.3), today) - GitHub Actions runner images
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.2](https://github.com/caddyserver/caddy/releases/tag/v2.6.2), 1 day ago) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221010.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20221010.1), 1 day ago) - GitHub Actions runner images
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.6](https://github.com/symfony/security-core/releases/tag/v6.1.6), 2 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
