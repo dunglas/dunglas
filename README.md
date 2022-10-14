@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (today)
+- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (3 days ago)
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (6 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP
 - [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 
 #### 🔭 Latest releases I've contributed to
 
