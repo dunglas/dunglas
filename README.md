@@ -20,11 +20,11 @@
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
+- [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (today)
 - [API Platform 3 Is Released!](https://dunglas.dev/2022/09/api-platform-3-is-released/) (4 weeks ago)
 - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.dev/2022/09/mercure-0-14/) (1 month ago)
 - [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.dev/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (2 months ago)
 - [Goroutines, threads, and thread IDs](https://dunglas.dev/2022/05/goroutines-threads-and-thread-ids/) (4 months ago)
-- [New in Caddy 2.5: Redact Sensitive Data from Your Logs](https://dunglas.dev/2022/04/caddy-logging-security-improvements/) (5 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
