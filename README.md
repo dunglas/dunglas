@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (today)
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (1 day ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (4 days ago)
 
 #### 🌱 My latest projects
 
