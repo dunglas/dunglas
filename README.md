@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221018.2](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221018.2), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20221018.2](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20221018.2), today) - GitHub Actions runner images
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-RC.1), today) - Open Source eCommerce Platform on Symfony
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.8](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.8), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.2](https://github.com/caddyserver/caddy/releases/tag/v2.6.2), 6 days ago) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
