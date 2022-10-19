@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
 - [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (4 days ago)
 
 #### 🌱 My latest projects
