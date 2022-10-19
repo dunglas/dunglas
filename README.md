@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221018.2](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221018.2), today) - GitHub Actions runner images
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.8](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.8), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221012.3](https://github.com/actions/runner-images/releases/tag/win19%2F20221012.3), 5 days ago) - GitHub Actions runner images
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.2](https://github.com/caddyserver/caddy/releases/tag/v2.6.2), 6 days ago) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
