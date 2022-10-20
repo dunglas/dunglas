@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221019.1](https://github.com/actions/runner-images/releases/tag/win19%2F20221019.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221018.2](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20221018.2), today) - GitHub Actions runner images
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-RC.1), 1 day ago) - Open Source eCommerce Platform on Symfony
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.8](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.8), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
