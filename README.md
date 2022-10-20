@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (3 days ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20221018.2](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20221018.2), today) - GitHub Actions runner images
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-RC.1), today) - Open Source eCommerce Platform on Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.8](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.8), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20221018.2](https://github.com/actions/runner-images/releases/tag/ubuntu18%2F20221018.2), 1 day ago) - GitHub Actions runner images
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-RC.1), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.8](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.8), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (5 days ago)
+- [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (6 days ago)
 - [API Platform 3 Is Released!](https://dunglas.dev/2022/09/api-platform-3-is-released/) (1 month ago)
 - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.dev/2022/09/mercure-0-14/) (1 month ago)
 - [Securely Access Private Git Repositories and Composer Packages in Docker Builds](https://dunglas.dev/2022/08/securely-access-private-git-repositories-and-composer-packages-in-docker-builds/) (2 months ago)
