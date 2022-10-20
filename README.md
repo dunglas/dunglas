@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.3](https://github.com/remix-run/remix/releases/tag/remix%401.7.3), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20221018.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20221018.1), today) - GitHub Actions runner images
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0-RC.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.0-RC.1), 1 day ago) - Open Source eCommerce Platform on Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.8](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.8), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
