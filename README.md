@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.9), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20221018.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20221018.1), today) - GitHub Actions runner images
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.3](https://github.com/remix-run/remix/releases/tag/remix%401.7.3), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.9), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20221018.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20221018.1), 1 day ago) - GitHub Actions runner images
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.3](https://github.com/remix-run/remix/releases/tag/remix%401.7.3), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [trea](https://github.com/trea) (today)
+- [trea](https://github.com/trea) (1 day ago)
 - [Zuruuh](https://github.com/Zuruuh) (2 weeks ago)
 - [yellowcloudro](https://github.com/yellowcloudro) (1 month ago)
