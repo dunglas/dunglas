@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
 
 #### 🌱 My latest projects
 
