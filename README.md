@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.5.0](https://github.com/doctrine/dbal/releases/tag/3.5.0), today) - Doctrine Database Abstraction Layer
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.9), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20221018.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20221018.1), 1 day ago) - GitHub Actions runner images
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.0.0-beta1](https://github.com/doctrine/dbal/releases/tag/4.0.0-beta1), 1 day ago) - Doctrine Database Abstraction Layer
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.9), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20221018.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20221018.1), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [gabesullice](https://github.com/gabesullice) (today)
-- [uzulla](https://github.com/uzulla) (today)
-- [trea](https://github.com/trea) (1 day ago)
+- [gabesullice](https://github.com/gabesullice) (1 day ago)
+- [uzulla](https://github.com/uzulla) (1 day ago)
+- [trea](https://github.com/trea) (2 days ago)
