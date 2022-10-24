@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1), today) - A Commander for modern Go CLI interactions
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA1), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) ([v6.2.0-BETA1](https://github.com/symfony/phpunit-bridge/releases/tag/v6.2.0-BETA1), today) - Provides utilities for PHPUnit, especially user deprecation notices management.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
