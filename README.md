@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.0.0-beta1](https://github.com/doctrine/dbal/releases/tag/4.0.0-beta1), 2 days ago) - Doctrine Database Abstraction Layer
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1), today) - Doctrine Database Abstraction Layer
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.9](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.9), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20221018.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20221018.1), 3 days ago) - GitHub Actions runner images
 
