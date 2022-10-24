@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
+- [pixeloid](https://github.com/pixeloid) (today)
 - [gabesullice](https://github.com/gabesullice) (2 days ago)
 - [uzulla](https://github.com/uzulla) (2 days ago)
-- [trea](https://github.com/trea) (3 days ago)
