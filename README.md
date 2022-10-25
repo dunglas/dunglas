@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20221024.1](https://github.com/actions/runner-images/releases/tag/ubuntu20%2F20221024.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221024.1](https://github.com/actions/runner-images/releases/tag/win19%2F20221024.1), today) - GitHub Actions runner images
 - [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1), 1 day ago) - A Commander for modern Go CLI interactions
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA1), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
