@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1), today) - A Commander for modern Go CLI interactions
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA1), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [spf13/cobra](https://github.com/spf13/cobra) ([v1.6.1](https://github.com/spf13/cobra/releases/tag/v1.6.1), 1 day ago) - A Commander for modern Go CLI interactions
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA1](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA1), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [pixeloid](https://github.com/pixeloid) (today)
-- [gabesullice](https://github.com/gabesullice) (2 days ago)
-- [uzulla](https://github.com/uzulla) (2 days ago)
+- [pixeloid](https://github.com/pixeloid) (1 day ago)
+- [gabesullice](https://github.com/gabesullice) (3 days ago)
+- [uzulla](https://github.com/uzulla) (3 days ago)
