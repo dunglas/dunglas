@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.11](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.11), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.4](https://github.com/remix-run/remix/releases/tag/remix%401.7.4), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.0), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.10](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.10), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
