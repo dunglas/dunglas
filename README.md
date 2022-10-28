@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.11](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.11), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.4](https://github.com/remix-run/remix/releases/tag/remix%401.7.4), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.0), 1 day ago) - The React Framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v5.4.15](https://github.com/symfony/security-core/releases/tag/v5.4.15), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v5.4.15](https://github.com/symfony/doctrine-bridge/releases/tag/v5.4.15), today) - Provides integration for Doctrine with various Symfony components.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.15](https://github.com/symfony/symfony/releases/tag/v5.4.15), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
