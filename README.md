@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.7](https://github.com/symfony/security-core/releases/tag/v6.1.7), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA2), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.1.7](https://github.com/symfony/security-core/releases/tag/v6.1.7), 2 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [pixeloid](https://github.com/pixeloid) (5 days ago)
+- [pixeloid](https://github.com/pixeloid) (6 days ago)
 - [gabesullice](https://github.com/gabesullice) (1 week ago)
 - [uzulla](https://github.com/uzulla) (1 week ago)
