@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP
 - [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP
-- [dunglas/docker-private-composer-packages](https://github.com/dunglas/docker-private-composer-packages) - Example: Securely Access Private Composer Packages
 
 #### 🔭 Latest releases I've contributed to
 
