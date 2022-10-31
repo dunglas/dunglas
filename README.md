@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221027.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20221027.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221027.1](https://github.com/actions/runner-images/releases/tag/win19%2F20221027.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.2), 1 day ago) - The React Framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA2), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
