@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.2), today) - The React Framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA2), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.2), 1 day ago) - The React Framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA2), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 3 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [pixeloid](https://github.com/pixeloid) (6 days ago)
+- [pixeloid](https://github.com/pixeloid) (1 week ago)
 - [gabesullice](https://github.com/gabesullice) (1 week ago)
 - [uzulla](https://github.com/uzulla) (1 week ago)
