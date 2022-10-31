@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.3), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.4), today) - The React Framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0](https://github.com/Sylius/Sylius/releases/tag/v1.12.0), today) - Open Source eCommerce Platform on Symfony
 - [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221027.1](https://github.com/actions/runner-images/releases/tag/win19%2F20221027.1), today) - GitHub Actions runner images
 
