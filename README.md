@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (today)
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.1-canary.4), today) - The React Framework
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0](https://github.com/Sylius/Sylius/releases/tag/v1.12.0), today) - Open Source eCommerce Platform on Symfony
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221027.1](https://github.com/actions/runner-images/releases/tag/win19%2F20221027.1), today) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.1](https://github.com/vercel/next.js/releases/tag/v13.0.1), 1 day ago) - The React Framework
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.0](https://github.com/Sylius/Sylius/releases/tag/v1.12.0), 1 day ago) - Open Source eCommerce Platform on Symfony
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221027.1](https://github.com/actions/runner-images/releases/tag/win19%2F20221027.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
