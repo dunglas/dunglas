@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.2-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.2-canary.0), today) - The React Framework
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.1), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221027.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221027.1), today) - GitHub Actions runner images
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.12](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.12), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
