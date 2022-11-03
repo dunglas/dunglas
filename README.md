@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.5](https://github.com/remix-run/remix/releases/tag/remix%401.7.5), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.2-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.2-canary.2), today) - The React Framework
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.1), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221027.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221027.1), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
