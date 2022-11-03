@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.2-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.2-canary.1), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.2-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.2-canary.2), today) - The React Framework
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.1), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221027.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221027.1), 2 days ago) - GitHub Actions runner images
 
