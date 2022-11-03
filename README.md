@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 day ago)
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (2 days ago)
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.2-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.2-canary.0), 1 day ago) - The React Framework
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.1), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221027.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221027.1), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.2-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.2-canary.0), 2 days ago) - The React Framework
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.1), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221027.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221027.1), 2 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
