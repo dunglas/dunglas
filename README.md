@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.3](https://github.com/api-platform/core/releases/tag/v3.0.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.2](https://github.com/vercel/next.js/releases/tag/v13.0.2), today) - The React Framework
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.5](https://github.com/remix-run/remix/releases/tag/remix%401.7.5), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.1), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
