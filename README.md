@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (6 days ago)
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (1 week ago)
 
 #### 🌱 My latest projects
 
