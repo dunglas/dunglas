@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.13](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.13), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.3-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.3-canary.0), 3 days ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.3](https://github.com/api-platform/core/releases/tag/v3.0.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.13](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.13), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.3-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.3-canary.0), 4 days ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.3](https://github.com/api-platform/core/releases/tag/v3.0.3), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
