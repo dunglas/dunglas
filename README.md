@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
+- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.3-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.3-canary.2), today) - The React Framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.5.0](https://github.com/symfony/ux/releases/tag/v2.5.0), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.14](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.14), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.3-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.3-canary.2), 1 day ago) - The React Framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.5.0](https://github.com/symfony/ux/releases/tag/v2.5.0), 2 days ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.14](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.14), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [senzowayne](https://github.com/senzowayne) (1 day ago)
+- [senzowayne](https://github.com/senzowayne) (2 days ago)
 - [pixeloid](https://github.com/pixeloid) (2 weeks ago)
 - [gabesullice](https://github.com/gabesullice) (2 weeks ago)
