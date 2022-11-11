@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.3-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.3-canary.4), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.3](https://github.com/vercel/next.js/releases/tag/v13.0.3), today) - The React Framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.5.0](https://github.com/symfony/ux/releases/tag/v2.5.0), 3 days ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.14](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.14), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
