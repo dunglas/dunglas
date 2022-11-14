@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221111.1](https://github.com/actions/runner-images/releases/tag/win22%2F20221111.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.0), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.15](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.15), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [symfony/ux](https://github.com/symfony/ux) ([v2.5.0](https://github.com/symfony/ux/releases/tag/v2.5.0), 6 days ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
