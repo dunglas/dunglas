@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221111.1](https://github.com/actions/runner-images/releases/tag/win22/20221111.1), 1 day ago) - GitHub Actions runner images
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.3](https://github.com/api-platform/api-platform/releases/tag/v3.0.3), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20221114.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20221114.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.0), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.15](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.15), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
