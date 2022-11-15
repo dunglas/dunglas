@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.1), today) - The React Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.4](https://github.com/api-platform/core/releases/tag/v3.0.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.3](https://github.com/api-platform/api-platform/releases/tag/v3.0.3), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20221114.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20221114.1), today) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
