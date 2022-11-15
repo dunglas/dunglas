@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (5 days ago)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221111.1](https://github.com/actions/runner-images/releases/tag/win22/20221111.1), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.0), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.15](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.15), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221111.1](https://github.com/actions/runner-images/releases/tag/win22/20221111.1), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.0), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.15](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.15), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [senzowayne](https://github.com/senzowayne) (6 days ago)
+- [senzowayne](https://github.com/senzowayne) (1 week ago)
 - [pixeloid](https://github.com/pixeloid) (3 weeks ago)
 - [gabesullice](https://github.com/gabesullice) (3 weeks ago)
