@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 day ago)
 - [coopTilleuls/symfonycon-workshop2022](https://github.com/coopTilleuls/symfonycon-workshop2022) -  (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
