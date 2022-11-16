@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (today)
-- [coopTilleuls/symfonycon-workshop2022](https://github.com/coopTilleuls/symfonycon-workshop2022) -  (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 day ago)
+- [coopTilleuls/symfonycon-workshop2022](https://github.com/coopTilleuls/symfonycon-workshop2022) -  (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.2), today) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.4](https://github.com/api-platform/core/releases/tag/v3.0.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.3](https://github.com/api-platform/api-platform/releases/tag/v3.0.3), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.2), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.4](https://github.com/api-platform/core/releases/tag/v3.0.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.3](https://github.com/api-platform/api-platform/releases/tag/v3.0.3), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
