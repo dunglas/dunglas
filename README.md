@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 day ago)
-- [coopTilleuls/symfonycon-workshop2022](https://github.com/coopTilleuls/symfonycon-workshop2022) -  (1 day ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 
 #### 🌱 My latest projects
 
