@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221115.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20221115.1), today) - GitHub Actions runner images
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.16](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.16), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.2), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.3), 1 day ago) - The React Framework
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221115.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20221115.1), 1 day ago) - GitHub Actions runner images
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.16](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.16), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
