@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.4), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.4-canary.5](https://github.com/vercel/next.js/releases/tag/v13.0.4-canary.5), today) - The React Framework
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.6](https://github.com/remix-run/remix/releases/tag/remix%401.7.6), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.16](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.16), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
