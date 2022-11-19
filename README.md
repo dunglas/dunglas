@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.17](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.17), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.2), 1 day ago) - The React Framework
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.6](https://github.com/remix-run/remix/releases/tag/remix%401.7.6), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA3](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA3), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.2.0-BETA3](https://github.com/symfony/doctrine-bridge/releases/tag/v6.2.0-BETA3), today) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
