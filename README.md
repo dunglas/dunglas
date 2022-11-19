@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.17](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.17), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.2), 1 day ago) - The React Framework
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.7.6](https://github.com/remix-run/remix/releases/tag/remix%401.7.6), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.16](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.16), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
