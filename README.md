@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) -  (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) -  (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA3](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA3), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.2.0-BETA3](https://github.com/symfony/doctrine-bridge/releases/tag/v6.2.0-BETA3), today) - Provides integration for Doctrine with various Symfony components.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA3](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA3), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.2.0-BETA3](https://github.com/symfony/doctrine-bridge/releases/tag/v6.2.0-BETA3), 1 day ago) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
