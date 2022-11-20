@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), today) - Deliver Go binaries as fast and easily as possible
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.3), today) - The React Framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA3](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA3), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-BETA3), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
