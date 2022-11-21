@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221119.2](https://github.com/actions/runner-images/releases/tag/ubuntu22/20221119.2), today) - GitHub Actions runner images
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.3), 1 day ago) - The React Framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA3](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA3), 2 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
