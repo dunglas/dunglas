@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) -  (2 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) -  (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), today) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.3), today) - The React Framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA3](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA3), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.3), 1 day ago) - The React Framework
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-BETA3](https://github.com/symfony/security-core/releases/tag/v6.2.0-BETA3), 2 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [senzowayne](https://github.com/senzowayne) (1 week ago)
-- [pixeloid](https://github.com/pixeloid) (3 weeks ago)
-- [gabesullice](https://github.com/gabesullice) (4 weeks ago)
+- [pixeloid](https://github.com/pixeloid) (4 weeks ago)
+- [gabesullice](https://github.com/gabesullice) (1 month ago)
