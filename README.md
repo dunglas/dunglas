@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.5](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.5), today) - The React Framework
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.1](https://github.com/dunglas/httpsfv/releases/tag/v1.0.1), today) - A Go library to parse and serialize HTTP structured field values
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.18](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.18), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221121.1](https://github.com/actions/runner-images/releases/tag/macOS-12/20221121.1), today) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
