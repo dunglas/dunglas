@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.4), today) - The React Framework
 - [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221119.1](https://github.com/actions/runner-images/releases/tag/win19/20221119.1), 1 day ago) - GitHub Actions runner images
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.3), 2 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
