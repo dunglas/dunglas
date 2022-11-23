@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 day ago)
-- [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.2](https://github.com/symfony/mercure/releases/tag/v0.6.2), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.2](https://github.com/dunglas/mercure/releases/tag/v0.14.2), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.7](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.7), today) - The React Framework
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.1](https://github.com/dunglas/httpsfv/releases/tag/v1.0.1), 1 day ago) - A Go library to parse and serialize HTTP structured field values
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.18](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.18), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
