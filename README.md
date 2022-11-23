@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.5](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.5), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.6](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.6), today) - The React Framework
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.1](https://github.com/dunglas/httpsfv/releases/tag/v1.0.1), 1 day ago) - A Go library to parse and serialize HTTP structured field values
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.18](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.18), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
