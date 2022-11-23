@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (today)
-- [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) -  (4 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 day ago)
+- [symfony-cli/phpstore](https://github.com/symfony-cli/phpstore) -  (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.5](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.5), today) - The React Framework
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.1](https://github.com/dunglas/httpsfv/releases/tag/v1.0.1), today) - A Go library to parse and serialize HTTP structured field values
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.18](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.18), today) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.5](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.5), 1 day ago) - The React Framework
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.1](https://github.com/dunglas/httpsfv/releases/tag/v1.0.1), 1 day ago) - A Go library to parse and serialize HTTP structured field values
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.18](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.18), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [senzowayne](https://github.com/senzowayne) (2 weeks ago)
-- [pixeloid](https://github.com/pixeloid) (4 weeks ago)
+- [pixeloid](https://github.com/pixeloid) (1 month ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
