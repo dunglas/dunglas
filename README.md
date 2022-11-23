@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5](https://github.com/vercel/next.js/releases/tag/v13.0.5), today) - The React Framework
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.2](https://github.com/symfony/mercure/releases/tag/v0.6.2), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.2](https://github.com/dunglas/mercure/releases/tag/v0.14.2), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.5-canary.7](https://github.com/vercel/next.js/releases/tag/v13.0.5-canary.7), today) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
