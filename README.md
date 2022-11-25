@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.5](https://github.com/api-platform/core/releases/tag/v3.0.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.0), 1 day ago) - The React Framework
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.2](https://github.com/symfony/mercure/releases/tag/v0.6.2), 2 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-RC1](https://github.com/symfony/security-core/releases/tag/v6.2.0-RC1), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) ([v6.2.0-RC1](https://github.com/symfony/doctrine-bridge/releases/tag/v6.2.0-RC1), today) - Provides integration for Doctrine with various Symfony components.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
