@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.19](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.19), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.1), today) - The React Framework
 - [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-RC1](https://github.com/symfony/security-core/releases/tag/v6.2.0-RC1), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
