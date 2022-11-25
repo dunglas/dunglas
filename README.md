@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.5](https://github.com/api-platform/core/releases/tag/v2.7.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.5](https://github.com/api-platform/core/releases/tag/v3.0.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.0), 1 day ago) - The React Framework
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.2](https://github.com/symfony/mercure/releases/tag/v0.6.2), 2 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 
