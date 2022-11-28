@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v4.4.49](https://github.com/symfony/framework-bundle/releases/tag/v4.4.49), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.49](https://github.com/symfony/symfony/releases/tag/v4.4.49), today) - The Symfony PHP framework
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221127.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20221127.1), today) - GitHub Actions runner images
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.6](https://github.com/api-platform/core/releases/tag/v3.0.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.19](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.19), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
