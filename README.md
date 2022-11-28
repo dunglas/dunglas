@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [remix-run/remix](https://github.com/remix-run/remix) ([v0.0.0-experimental-11025b932](https://github.com/remix-run/remix/releases/tag/v0.0.0-experimental-11025b932), today) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC2), today) - The Symfony PHP framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.6.0](https://github.com/symfony/ux/releases/tag/v2.6.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
