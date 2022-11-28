@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v4.4.49](https://github.com/symfony/framework-bundle/releases/tag/v4.4.49), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.49](https://github.com/symfony/symfony/releases/tag/v4.4.49), today) - The Symfony PHP framework
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221127.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20221127.1), today) - GitHub Actions runner images
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC2), today) - The Symfony PHP framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.6.0](https://github.com/symfony/ux/releases/tag/v2.6.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
