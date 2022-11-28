@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.6](https://github.com/api-platform/core/releases/tag/v3.0.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.19](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.19), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.1), 3 days ago) - The React Framework
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0-RC1](https://github.com/symfony/security-core/releases/tag/v6.2.0-RC1), 3 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
