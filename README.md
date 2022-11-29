@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.2), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC2), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
