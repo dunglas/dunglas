@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC2), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC2), today) - The Symfony PHP framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.6.0](https://github.com/symfony/ux/releases/tag/v2.6.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.2.0-RC2), 1 day ago) - The Symfony PHP framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.6.0](https://github.com/symfony/ux/releases/tag/v2.6.0), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [senzowayne](https://github.com/senzowayne) (2 weeks ago)
+- [senzowayne](https://github.com/senzowayne) (3 weeks ago)
 - [pixeloid](https://github.com/pixeloid) (1 month ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
