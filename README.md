@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221127.5](https://github.com/actions/runner-images/releases/tag/macOS-12/20221127.5), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.2), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), today) - Deliver Go binaries as fast and easily as possible
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.2.0-RC2), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
