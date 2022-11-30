@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.20](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.20), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221127.5](https://github.com/actions/runner-images/releases/tag/macOS-12/20221127.5), 1 day ago) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.2), 1 day ago) - The React Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.0](https://github.com/symfony/serializer/releases/tag/v6.2.0), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0](https://github.com/symfony/security-core/releases/tag/v6.2.0), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
