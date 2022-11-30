@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221127.5](https://github.com/actions/runner-images/releases/tag/macOS-12/20221127.5), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.2), today) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), today) - Deliver Go binaries as fast and easily as possible
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.20](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.20), today) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221127.5](https://github.com/actions/runner-images/releases/tag/macOS-12/20221127.5), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.2), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
