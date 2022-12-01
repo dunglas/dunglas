@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.3), today) - The React Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.0](https://github.com/symfony/serializer/releases/tag/v6.2.0), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/security-core](https://github.com/symfony/security-core) ([v6.2.0](https://github.com/symfony/security-core/releases/tag/v6.2.0), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
