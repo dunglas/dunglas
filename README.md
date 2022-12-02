@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.4), today) - The React Framework
 - [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.8.0](https://github.com/remix-run/remix/releases/tag/remix%401.8.0), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.6-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.6-canary.3), 1 day ago) - The React Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
