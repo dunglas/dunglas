@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.0), today) - The React Framework
-- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.8.0](https://github.com/remix-run/remix/releases/tag/remix%401.8.0), 1 day ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.0), 1 day ago) - The React Framework
+- [remix-run/remix](https://github.com/remix-run/remix) ([remix@1.8.0](https://github.com/remix-run/remix/releases/tag/remix%401.8.0), 2 days ago) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
