@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.2), today) - The React Framework
 - [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221204.3](https://github.com/actions/runner-images/releases/tag/win22/20221204.3), 1 day ago) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.1), 3 days ago) - The React Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
