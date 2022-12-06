@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (3 days ago)
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221204.3](https://github.com/actions/runner-images/releases/tag/win22/20221204.3), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.1), 2 days ago) - The React Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221204.3](https://github.com/actions/runner-images/releases/tag/win22/20221204.3), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.1), 3 days ago) - The React Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.0](https://github.com/symfony/validator/releases/tag/v6.2.0), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [senzowayne](https://github.com/senzowayne) (3 weeks ago)
+- [senzowayne](https://github.com/senzowayne) (4 weeks ago)
 - [pixeloid](https://github.com/pixeloid) (1 month ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
