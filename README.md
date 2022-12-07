@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.3), today) - The React Framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.2), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.1](https://github.com/symfony/serializer/releases/tag/v6.2.1), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
