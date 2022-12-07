@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (today)
 - [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (2 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (5 days ago)
 
 #### 🌱 My latest projects
 
