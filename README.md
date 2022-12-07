@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.2), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.1](https://github.com/symfony/serializer/releases/tag/v6.2.1), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 - [symfony/console](https://github.com/symfony/console) ([v6.2.1](https://github.com/symfony/console/releases/tag/v6.2.1), 1 day ago) - The Console component eases the creation of beautiful and testable command line interfaces.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.1](https://github.com/symfony/framework-bundle/releases/tag/v6.2.1), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
