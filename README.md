@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20221206.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20221206.1), today) - GitHub Actions runner images
+- [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.2), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.1](https://github.com/symfony/serializer/releases/tag/v6.2.1), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
+- [pangus45](https://github.com/pangus45) (today)
 - [senzowayne](https://github.com/senzowayne) (4 weeks ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
-- [uzulla](https://github.com/uzulla) (1 month ago)
