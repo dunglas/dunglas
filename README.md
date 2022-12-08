@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.1), today) - Open Source eCommerce Framework on Symfony
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.3), 1 day ago) - The React Framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.2), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
