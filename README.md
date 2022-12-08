@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (today)
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 day ago)
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.3), today) - The React Framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.2), today) - Symfony Bundle for Doctrine ORM and DBAL
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.3), 1 day ago) - The React Framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.7.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.7.2), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [pangus45](https://github.com/pangus45) (today)
-- [senzowayne](https://github.com/senzowayne) (4 weeks ago)
+- [pangus45](https://github.com/pangus45) (1 day ago)
+- [senzowayne](https://github.com/senzowayne) (1 month ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
