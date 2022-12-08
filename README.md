@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [pangus45](https://github.com/pangus45) (1 day ago)
-- [senzowayne](https://github.com/senzowayne) (1 month ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
+- [uzulla](https://github.com/uzulla) (1 month ago)
