@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.1), today) - Open Source eCommerce Framework on Symfony
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.3), 1 day ago) - The React Framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.1), 1 day ago) - Open Source eCommerce Framework on Symfony
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.3), 2 days ago) - The React Framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), 2 days ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [pangus45](https://github.com/pangus45) (1 day ago)
+- [pangus45](https://github.com/pangus45) (2 days ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
 - [uzulla](https://github.com/uzulla) (1 month ago)
