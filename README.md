@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.21](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.21), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.1), 1 day ago) - Open Source eCommerce Framework on Symfony
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.3), 2 days ago) - The React Framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.6.1](https://github.com/symfony/ux/releases/tag/v2.6.1), 2 days ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
