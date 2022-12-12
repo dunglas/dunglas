@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.4), 2 days ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.7](https://github.com/api-platform/core/releases/tag/v3.0.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.21](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.21), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.4), 3 days ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.7](https://github.com/api-platform/core/releases/tag/v3.0.7), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.21](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.21), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [pangus45](https://github.com/pangus45) (4 days ago)
+- [pangus45](https://github.com/pangus45) (5 days ago)
 - [gabesullice](https://github.com/gabesullice) (1 month ago)
 - [uzulla](https://github.com/uzulla) (1 month ago)
