@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221212.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20221212.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221211.1](https://github.com/actions/runner-images/releases/tag/macOS-12/20221211.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.5](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.5), today) - The React Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.7](https://github.com/api-platform/core/releases/tag/v3.0.7), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
