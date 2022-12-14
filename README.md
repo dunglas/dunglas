@@ -16,7 +16,7 @@
 
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.7-canary.6](https://github.com/vercel/next.js/releases/tag/v13.0.7-canary.6), 1 day ago) - The React Framework
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.0](https://github.com/api-platform/schema-generator/releases/tag/v5.2.0), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221211.1](https://github.com/actions/runner-images/releases/tag/macOS-12/20221211.1), 1 day ago) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20221212.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20221212.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
