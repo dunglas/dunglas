@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20221215.2](https://github.com/actions/runner-images/releases/tag/win22/20221215.2), today) - GitHub Actions runner images
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.8](https://github.com/api-platform/core/releases/tag/v3.0.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.0), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.22](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.22), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.0](https://github.com/api-platform/schema-generator/releases/tag/v5.2.0), 3 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
