@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.0), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.22](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.22), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.0](https://github.com/api-platform/schema-generator/releases/tag/v5.2.0), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.0](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.0), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.22](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.22), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.0](https://github.com/api-platform/schema-generator/releases/tag/v5.2.0), 3 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
