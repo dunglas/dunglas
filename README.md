@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20221215.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20221215.1), 1 day ago) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20221215.1](https://github.com/actions/runner-images/releases/tag/macOS-12/20221215.1), today) - GitHub Actions runner images
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.2](https://github.com/symfony/validator/releases/tag/v6.2.2), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.2](https://github.com/symfony/serializer/releases/tag/v6.2.2), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
