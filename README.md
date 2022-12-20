@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
 - [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 week ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 week ago)
 
 #### 🌱 My latest projects
