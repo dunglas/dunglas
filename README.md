@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20221220.1](https://github.com/actions/runner-images/releases/tag/ubuntu18/20221220.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.1](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.1), today) - The React Framework
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20221214.4](https://github.com/actions/runner-images/releases/tag/win19/20221214.4), 3 days ago) - GitHub Actions runner images
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.2](https://github.com/symfony/validator/releases/tag/v6.2.2), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
