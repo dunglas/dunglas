@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (today)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.2](https://github.com/api-platform/create-client/releases/tag/v0.9.2), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.23](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.23), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.2](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.2), 1 day ago) - The React Framework
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20221220.1](https://github.com/actions/runner-images/releases/tag/ubuntu18/20221220.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
