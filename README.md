@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.3), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.4](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.4), today) - The React Framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.2](https://github.com/api-platform/create-client/releases/tag/v0.9.2), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 
