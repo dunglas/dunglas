@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.3), today) - The React Framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.2](https://github.com/api-platform/create-client/releases/tag/v0.9.2), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.0.8-canary.3](https://github.com/vercel/next.js/releases/tag/v13.0.8-canary.3), 1 day ago) - The React Framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.2](https://github.com/api-platform/create-client/releases/tag/v0.9.2), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (2 days ago)
-- [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (5 days ago)
+- [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (3 days ago)
+- [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (6 days ago)
 - [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (2 months ago)
 - [API Platform 3 Is Released!](https://dunglas.dev/2022/09/api-platform-3-is-released/) (3 months ago)
 - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.dev/2022/09/mercure-0-14/) (3 months ago)
