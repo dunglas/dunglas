@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
-- [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (5 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (6 days ago)
+- [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.1](https://github.com/vercel/next.js/releases/tag/v13.1.1), 2 days ago) - The React Framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.2](https://github.com/api-platform/create-client/releases/tag/v0.9.2), 5 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.1](https://github.com/vercel/next.js/releases/tag/v13.1.1), 3 days ago) - The React Framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), 6 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.9.2](https://github.com/api-platform/create-client/releases/tag/v0.9.2), 6 days ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
