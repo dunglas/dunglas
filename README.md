@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.1](https://github.com/vercel/next.js/releases/tag/v13.1.1), 4 days ago) - The React Framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/validator](https://github.com/symfony/validator) ([v6.0.17](https://github.com/symfony/validator/releases/tag/v6.0.17), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.0.17](https://github.com/symfony/serializer/releases/tag/v6.0.17), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.0.17](https://github.com/symfony/security-core/releases/tag/v6.0.17), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
