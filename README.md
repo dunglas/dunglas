@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.3](https://github.com/symfony/serializer/releases/tag/v6.2.3), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
-- [symfony/console](https://github.com/symfony/console) ([v6.2.3](https://github.com/symfony/console/releases/tag/v6.2.3), today) - The Console component eases the creation of beautiful and testable command line interfaces.
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.3](https://github.com/symfony/serializer/releases/tag/v6.2.3), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/console](https://github.com/symfony/console) ([v6.2.3](https://github.com/symfony/console/releases/tag/v6.2.3), 1 day ago) - The Console component eases the creation of beautiful and testable command line interfaces.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
