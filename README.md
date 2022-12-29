@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.18](https://github.com/symfony/symfony/releases/tag/v6.0.18), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), today) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.3](https://github.com/symfony/serializer/releases/tag/v6.2.3), 1 day ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
