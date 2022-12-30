@@ -4,7 +4,7 @@
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 
 #### 🌱 My latest projects
 
