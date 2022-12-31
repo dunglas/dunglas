@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.24](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.24), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 2 days ago) - The Symfony PHP framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.3](https://github.com/symfony/serializer/releases/tag/v6.2.3), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
