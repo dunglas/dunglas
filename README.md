@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 1 day ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 2 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.3](https://github.com/symfony/serializer/releases/tag/v6.2.3), 2 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 2 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.3](https://github.com/symfony/serializer/releases/tag/v6.2.3), 3 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
