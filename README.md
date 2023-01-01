@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.24](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.24), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 2 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 3 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.24](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.24), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 3 days ago) - The Symfony PHP framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
