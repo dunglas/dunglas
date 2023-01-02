@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), today) - Deliver Go binaries as fast and easily as possible
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.24](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.24), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 4 days ago) - The Symfony PHP framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.3](https://github.com/symfony/validator/releases/tag/v6.2.3), 5 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
