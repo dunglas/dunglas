@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), today) - Deliver Go binaries as fast and easily as possible
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.24](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.24), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 4 days ago) - The Symfony PHP framework
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.24](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.24), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
