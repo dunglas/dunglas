@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.2](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.2), today) - Cache APT packages in GitHub Actions
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.13.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.24](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.24), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
