@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.3), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.26](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.26), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.2](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.2), 6 days ago) - Cache APT packages in GitHub Actions
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.3), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.26](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.26), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.2](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.2), 1 week ago) - Cache APT packages in GitHub Actions
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
