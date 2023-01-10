@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.3), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.4), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.26](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.26), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.2](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.2), 1 week ago) - Cache APT packages in GitHub Actions
 
