@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 day ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.3](https://github.com/dunglas/mercure/releases/tag/v0.14.3), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20230109.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20230109.1), 1 day ago) - GitHub Actions runner images
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.27](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.27), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.4), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
