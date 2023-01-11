@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 day ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20230109.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20230109.1), today) - GitHub Actions runner images
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.27](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.27), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.4), today) - The React Framework
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20230109.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20230109.1), 1 day ago) - GitHub Actions runner images
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.27](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.27), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.4), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
