@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.6](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.6), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2-canary.7](https://github.com/vercel/next.js/releases/tag/v13.1.2-canary.7), today) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.3](https://github.com/dunglas/mercure/releases/tag/v0.14.3), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20230109.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20230109.1), 2 days ago) - GitHub Actions runner images
 
