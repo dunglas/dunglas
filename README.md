@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.6](https://github.com/api-platform/core/releases/tag/v2.7.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.4.1](https://github.com/dunglas/vulcain/releases/tag/v0.4.1), today) - Fast and idiomatic client-driven REST APIs.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.9](https://github.com/api-platform/core/releases/tag/v3.0.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.3-canary.0](https://github.com/vercel/next.js/releases/tag/v13.1.3-canary.0), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.28](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.28), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
