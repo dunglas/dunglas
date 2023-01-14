@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.4](https://github.com/dunglas/mercure/releases/tag/v0.14.4), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.4.1](https://github.com/dunglas/vulcain/releases/tag/v0.4.1), today) - Fast and idiomatic client-driven REST APIs.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.9](https://github.com/api-platform/core/releases/tag/v3.0.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.3-canary.0](https://github.com/vercel/next.js/releases/tag/v13.1.3-canary.0), today) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
