@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.28](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.28), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2](https://github.com/vercel/next.js/releases/tag/v13.1.2), 1 day ago) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.3](https://github.com/dunglas/mercure/releases/tag/v0.14.3), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.28](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.28), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.2](https://github.com/vercel/next.js/releases/tag/v13.1.2), 2 days ago) - The React Framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.3](https://github.com/dunglas/mercure/releases/tag/v0.14.3), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
