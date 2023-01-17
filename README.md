@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.10](https://github.com/api-platform/core/releases/tag/v3.0.10), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.9](https://github.com/api-platform/api-platform/releases/tag/v3.0.9), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.4](https://github.com/dunglas/mercure/releases/tag/v0.14.4), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.10](https://github.com/api-platform/core/releases/tag/v3.0.10), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.9](https://github.com/api-platform/api-platform/releases/tag/v3.0.9), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.4](https://github.com/dunglas/mercure/releases/tag/v0.14.4), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [toofff](https://github.com/toofff) (today)
+- [toofff](https://github.com/toofff) (1 day ago)
 - [pangus45](https://github.com/pangus45) (1 month ago)
 - [gabesullice](https://github.com/gabesullice) (2 months ago)
