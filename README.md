@@ -8,9 +8,9 @@
 
 #### 🌱 My latest projects
 
+- [dunglas/php-documention-generator](https://github.com/dunglas/php-documention-generator) - 
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP
 - [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP
-- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
 
 #### 🔭 Latest releases I've contributed to
 
