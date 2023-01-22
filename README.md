@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.5-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.5-canary.1), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.30](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.30), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20230118.2](https://github.com/actions/runner-images/releases/tag/ubuntu18/20230118.2), 2 days ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.5-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.5-canary.1), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.30](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.30), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20230118.2](https://github.com/actions/runner-images/releases/tag/ubuntu18/20230118.2), 3 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [toofff](https://github.com/toofff) (5 days ago)
+- [toofff](https://github.com/toofff) (6 days ago)
 - [pangus45](https://github.com/pangus45) (1 month ago)
 - [gabesullice](https://github.com/gabesullice) (3 months ago)
