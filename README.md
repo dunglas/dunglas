@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.1.5-canary.3), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.5](https://github.com/vercel/next.js/releases/tag/v13.1.5), today) - The React Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.0](https://github.com/api-platform/core/releases/tag/v3.1.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ux](https://github.com/symfony/ux) ([v2.7.0](https://github.com/symfony/ux/releases/tag/v2.7.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
