@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20230122.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20230122.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.5-canary.2](https://github.com/vercel/next.js/releases/tag/v13.1.5-canary.2), 1 day ago) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.30](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.30), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu18/20230118.2](https://github.com/actions/runner-images/releases/tag/ubuntu18/20230118.2), 4 days ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
