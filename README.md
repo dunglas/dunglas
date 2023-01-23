@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.0](https://github.com/api-platform/core/releases/tag/v3.1.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ux](https://github.com/symfony/ux) ([v2.7.0](https://github.com/symfony/ux/releases/tag/v2.7.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20230122.1](https://github.com/actions/runner-images/releases/tag/ubuntu22/20230122.1), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.5-canary.2](https://github.com/vercel/next.js/releases/tag/v13.1.5-canary.2), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.30](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.30), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
