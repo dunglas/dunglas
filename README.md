@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20230123.1](https://github.com/actions/runner-images/releases/tag/win22/20230123.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20230123.2](https://github.com/actions/runner-images/releases/tag/win19/20230123.2), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6-canary.0](https://github.com/vercel/next.js/releases/tag/v13.1.6-canary.0), 1 day ago) - The React Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.0](https://github.com/api-platform/core/releases/tag/v3.1.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
