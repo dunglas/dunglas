@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 days ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (5 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (6 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.5](https://github.com/vercel/next.js/releases/tag/v13.1.5), today) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.0](https://github.com/api-platform/core/releases/tag/v3.1.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/ux](https://github.com/symfony/ux) ([v2.7.0](https://github.com/symfony/ux/releases/tag/v2.7.0), today) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6-canary.0](https://github.com/vercel/next.js/releases/tag/v13.1.6-canary.0), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.0](https://github.com/api-platform/core/releases/tag/v3.1.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ux](https://github.com/symfony/ux) ([v2.7.0](https://github.com/symfony/ux/releases/tag/v2.7.0), 1 day ago) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
