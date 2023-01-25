@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20230120.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20230120.1), today) - GitHub Actions runner images
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.5](https://github.com/symfony/validator/releases/tag/v6.2.5), today) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.5](https://github.com/symfony/serializer/releases/tag/v6.2.5), today) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.31](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.31), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20230120.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20230120.1), 1 day ago) - GitHub Actions runner images
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.5](https://github.com/symfony/validator/releases/tag/v6.2.5), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
