@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.6-canary.1), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.31](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.31), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20230120.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20230120.1), 1 day ago) - GitHub Actions runner images
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.5](https://github.com/symfony/validator/releases/tag/v6.2.5), 1 day ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
