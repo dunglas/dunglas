@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.7.1](https://github.com/symfony/ux/releases/tag/v2.7.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.6-canary.1), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.31](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.31), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [symfony/ux](https://github.com/symfony/ux) ([v2.7.1](https://github.com/symfony/ux/releases/tag/v2.7.1), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.6-canary.1), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.31](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.31), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
