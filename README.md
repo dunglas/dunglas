@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.8](https://github.com/api-platform/core/releases/tag/v2.7.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.1](https://github.com/api-platform/core/releases/tag/v3.1.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ux](https://github.com/symfony/ux) ([v2.7.1](https://github.com/symfony/ux/releases/tag/v2.7.1), 2 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.6-canary.1), 2 days ago) - The React Framework
 
