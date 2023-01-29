@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (5 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6](https://github.com/vercel/next.js/releases/tag/v13.1.6), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.32](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.32), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.1](https://github.com/api-platform/core/releases/tag/v3.1.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6](https://github.com/vercel/next.js/releases/tag/v13.1.6), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.32](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.32), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.1](https://github.com/api-platform/core/releases/tag/v3.1.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
