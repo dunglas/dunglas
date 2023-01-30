@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20230125.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20230125.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20230129.2](https://github.com/actions/runner-images/releases/tag/ubuntu22/20230129.2), today) - GitHub Actions runner images
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), today) - A tool to automatically fix PHP Coding Standards issues
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6](https://github.com/vercel/next.js/releases/tag/v13.1.6), 2 days ago) - The React Framework
 
