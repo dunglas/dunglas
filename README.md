@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.10.0](https://github.com/api-platform/create-client/releases/tag/v0.10.0), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20230129.2](https://github.com/actions/runner-images/releases/tag/ubuntu22/20230129.2), today) - GitHub Actions runner images
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), today) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.6](https://github.com/vercel/next.js/releases/tag/v13.1.6), 2 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
