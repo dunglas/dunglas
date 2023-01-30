@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (6 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 
 #### 🌱 My latest projects
 
