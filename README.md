@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.0](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.0), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.1), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.0), today) - Deliver Go binaries as fast and easily as possible
 - [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.10.0](https://github.com/api-platform/create-client/releases/tag/v0.10.0), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 
