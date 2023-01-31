@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (6 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.10.0](https://github.com/api-platform/create-client/releases/tag/v0.10.0), today) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20230129.2](https://github.com/actions/runner-images/releases/tag/ubuntu22/20230129.2), today) - GitHub Actions runner images
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), today) - A tool to automatically fix PHP Coding Standards issues
+- [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.10.0](https://github.com/api-platform/create-client/releases/tag/v0.10.0), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20230129.2](https://github.com/actions/runner-images/releases/tag/ubuntu22/20230129.2), 1 day ago) - GitHub Actions runner images
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
