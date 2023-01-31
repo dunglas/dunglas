@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.0](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.0), today) - The React Framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.0), today) - Deliver Go binaries as fast and easily as possible
 - [api-platform/create-client](https://github.com/api-platform/create-client) ([v0.10.0](https://github.com/api-platform/create-client/releases/tag/v0.10.0), 1 day ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20230129.2](https://github.com/actions/runner-images/releases/tag/ubuntu22/20230129.2), 1 day ago) - GitHub Actions runner images
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
