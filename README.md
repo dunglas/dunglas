@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (2 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20230125.4](https://github.com/actions/runner-images/releases/tag/macOS-12/20230125.4), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.1), today) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.0), today) - Deliver Go binaries as fast and easily as possible
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.33](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.33), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20230125.4](https://github.com/actions/runner-images/releases/tag/macOS-12/20230125.4), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.1), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
