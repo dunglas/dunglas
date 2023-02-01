@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), today) - The Symfony PHP framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.33](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.33), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20230125.4](https://github.com/actions/runner-images/releases/tag/macOS-12/20230125.4), 1 day ago) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.1), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
