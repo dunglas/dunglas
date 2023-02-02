@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (2 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (3 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.2](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.2), today) - The React Framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), today) - The Symfony PHP framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.33](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.33), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.2](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.2), 1 day ago) - The React Framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 1 day ago) - The Symfony PHP framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.33](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.33), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
