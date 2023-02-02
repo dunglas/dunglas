@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.4), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1), today) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.3](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.3), today) - The React Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
