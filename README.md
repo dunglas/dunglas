@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (4 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.4.2](https://github.com/dunglas/vulcain/releases/tag/v0.4.2), today) - Fast and idiomatic client-driven REST APIs.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.2](https://github.com/api-platform/core/releases/tag/v3.1.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.4), 1 day ago) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
