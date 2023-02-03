@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.4.2](https://github.com/dunglas/vulcain/releases/tag/v0.4.2), today) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.4.3](https://github.com/dunglas/vulcain/releases/tag/v0.4.3), today) - Fast and idiomatic client-driven REST APIs.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.2](https://github.com/api-platform/core/releases/tag/v3.1.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.4), 1 day ago) - The React Framework
 
