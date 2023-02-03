@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.9](https://github.com/api-platform/core/releases/tag/v2.7.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.2](https://github.com/api-platform/core/releases/tag/v3.1.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.4](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.4), 1 day ago) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
