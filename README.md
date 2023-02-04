@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (today)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (1 day ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.3](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.3), today) - Cache APT packages in GitHub Actions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.34](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.34), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.4.3](https://github.com/dunglas/vulcain/releases/tag/v0.4.3), today) - Fast and idiomatic client-driven REST APIs.
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.3](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.3), 1 day ago) - Cache APT packages in GitHub Actions
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.34](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.34), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.4.3](https://github.com/dunglas/vulcain/releases/tag/v0.4.3), 1 day ago) - Fast and idiomatic client-driven REST APIs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
