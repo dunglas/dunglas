@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.5](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.5), today) - The React Framework
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.3](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.3), 1 day ago) - Cache APT packages in GitHub Actions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.34](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.34), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.5](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.5), 1 day ago) - The React Framework
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.3](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.3), 2 days ago) - Cache APT packages in GitHub Actions
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.34](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.34), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [toofff](https://github.com/toofff) (2 weeks ago)
-- [pangus45](https://github.com/pangus45) (1 month ago)
+- [pangus45](https://github.com/pangus45) (2 months ago)
 - [gabesullice](https://github.com/gabesullice) (3 months ago)
