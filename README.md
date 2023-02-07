@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu20/20230206.1](https://github.com/actions/runner-images/releases/tag/ubuntu20/20230206.1), today) - GitHub Actions runner images
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20230205.1](https://github.com/actions/runner-images/releases/tag/win19/20230205.1), today) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.7](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.7), today) - The React Framework
 - [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.4](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.4), 2 days ago) - Cache APT packages in GitHub Actions
 
