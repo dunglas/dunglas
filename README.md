@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (3 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (4 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.6](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.6), today) - The React Framework
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.4](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.4), 1 day ago) - Cache APT packages in GitHub Actions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.34](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.34), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.6](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.6), 1 day ago) - The React Framework
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.2.4](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.2.4), 2 days ago) - Cache APT packages in GitHub Actions
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.34](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.34), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
