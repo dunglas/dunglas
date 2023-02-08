@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20230205.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20230205.1), today) - GitHub Actions runner images
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20230205.1](https://github.com/actions/runner-images/releases/tag/win19/20230205.1), 1 day ago) - GitHub Actions runner images
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.7](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.7), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
