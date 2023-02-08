@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (4 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (4 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (5 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), today) - Deliver Go binaries as fast and easily as possible
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20230205.1](https://github.com/actions/runner-images/releases/tag/win19/20230205.1), today) - GitHub Actions runner images
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.7](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.7), today) - The React Framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20230205.1](https://github.com/actions/runner-images/releases/tag/win19/20230205.1), 1 day ago) - GitHub Actions runner images
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.7](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.7), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
