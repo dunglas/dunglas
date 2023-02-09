@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), today) - A tool to automatically fix PHP Coding Standards issues
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.8](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.8), today) - The React Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20230205.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20230205.1), 1 day ago) - GitHub Actions runner images
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
