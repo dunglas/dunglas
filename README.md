@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.8](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.8), today) - The React Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20230205.1](https://github.com/actions/runner-images/releases/tag/macOS-11/20230205.1), 1 day ago) - GitHub Actions runner images
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
