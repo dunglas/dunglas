@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (6 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (6 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (6 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (1 week ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), today) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.8](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.8), today) - The React Framework
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.8](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.8), 1 day ago) - The React Framework
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
