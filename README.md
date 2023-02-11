@@ -16,7 +16,7 @@
 
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.35](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.35), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.1.7-canary.8](https://github.com/vercel/next.js/releases/tag/v13.1.7-canary.8), 2 days ago) - The React Framework
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 3 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
