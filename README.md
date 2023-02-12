@@ -14,16 +14,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.35](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.35), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 3 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.35](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.35), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 4 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (1 month ago)
 - [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (1 month ago)
 - [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (4 months ago)
-- [API Platform 3 Is Released!](https://dunglas.dev/2022/09/api-platform-3-is-released/) (4 months ago)
+- [API Platform 3 Is Released!](https://dunglas.dev/2022/09/api-platform-3-is-released/) (5 months ago)
 - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.dev/2022/09/mercure-0-14/) (5 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
