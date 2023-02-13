@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.35](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.35), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 4 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.35](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.35), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.3](https://github.com/caddyserver/caddy/releases/tag/v2.6.3), 5 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [toofff](https://github.com/toofff) (3 weeks ago)
+- [toofff](https://github.com/toofff) (4 weeks ago)
 - [pangus45](https://github.com/pangus45) (2 months ago)
 - [gabesullice](https://github.com/gabesullice) (3 months ago)
