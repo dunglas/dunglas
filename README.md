@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 weeks ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.36](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.36), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.4](https://github.com/caddyserver/caddy/releases/tag/v2.6.4), 6 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 4 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.36](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.36), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.4](https://github.com/caddyserver/caddy/releases/tag/v2.6.4), 1 week ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
