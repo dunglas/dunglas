@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (today)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 day ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.37](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.37), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 4 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.37](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.37), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 5 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.6.4](https://github.com/caddyserver/caddy/releases/tag/v2.6.4), 1 week ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
