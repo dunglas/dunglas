@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (today)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), today) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.33.0](https://github.com/quic-go/quic-go/releases/tag/v0.33.0), 1 day ago) - A QUIC implementation in pure go
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.37](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.37), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 6 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
