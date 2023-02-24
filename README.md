@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.38](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.38), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.1](https://github.com/vercel/next.js/releases/tag/v13.2.1), today) - The React Framework
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.33.0](https://github.com/quic-go/quic-go/releases/tag/v0.33.0), 2 days ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
