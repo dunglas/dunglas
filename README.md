@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.0](https://github.com/vercel/next.js/releases/tag/v13.2.0), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.1](https://github.com/vercel/next.js/releases/tag/v13.2.1), today) - The React Framework
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.33.0](https://github.com/quic-go/quic-go/releases/tag/v0.33.0), 2 days ago) - A QUIC implementation in pure go
 
