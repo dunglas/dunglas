@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (4 days ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.2-canary.1](https://github.com/vercel/next.js/releases/tag/v13.2.2-canary.1), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.38](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.38), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 3 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.2-canary.1](https://github.com/vercel/next.js/releases/tag/v13.2.2-canary.1), 2 days ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.38](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.38), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.3.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.3.0), 4 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
