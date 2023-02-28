@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.2-canary.2](https://github.com/vercel/next.js/releases/tag/v13.2.2-canary.2), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.2.2-canary.3), today) - The React Framework
 - [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([v4.6.0](https://github.com/DigitalOceanPHP/Client/releases/tag/v4.6.0), 1 day ago) - DigitalOcean API v2 client for PHP
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.38](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.38), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
