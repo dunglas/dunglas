@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) - DigitalOcean API v2 client for PHP (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) - DigitalOcean API v2 client for PHP (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([v4.6.0](https://github.com/DigitalOceanPHP/Client/releases/tag/v4.6.0), today) - DigitalOcean API v2 client for PHP
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.2-canary.1](https://github.com/vercel/next.js/releases/tag/v13.2.2-canary.1), 2 days ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.38](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.38), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([v4.6.0](https://github.com/DigitalOceanPHP/Client/releases/tag/v4.6.0), 1 day ago) - DigitalOcean API v2 client for PHP
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.2-canary.1](https://github.com/vercel/next.js/releases/tag/v13.2.2-canary.1), 3 days ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.38](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.38), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
