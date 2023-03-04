@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.2](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.2), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.3](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.3), today) - The React Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.7](https://github.com/symfony/validator/releases/tag/v6.2.7), 4 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.7](https://github.com/symfony/serializer/releases/tag/v6.2.7), 4 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
