@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (3 days ago)
-- [symfony/ux-turbo-mercure](https://github.com/symfony/ux-turbo-mercure) - Mercure bridge for Symfony UX Turbo (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.6), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.3](https://github.com/symfony/mercure/releases/tag/v0.6.3), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.4](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.4), 1 day ago) - The React Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.7](https://github.com/symfony/validator/releases/tag/v6.2.7), 6 days ago) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.7](https://github.com/symfony/serializer/releases/tag/v6.2.7), 6 days ago) - With the Serializer component it&#39;s possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
