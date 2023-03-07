@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.5](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.5), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.6](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.6), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.6), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
