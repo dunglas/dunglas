@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.6), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.3](https://github.com/symfony/mercure/releases/tag/v0.6.3), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.4](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.4), 1 day ago) - The React Framework
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.6), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.3](https://github.com/symfony/mercure/releases/tag/v0.6.3), 1 day ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.4](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.4), 2 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
