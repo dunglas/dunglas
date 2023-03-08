@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.6](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.6), today) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), today) - Deliver Go binaries as fast and easily as possible
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.6), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.6](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.6), 1 day ago) - The React Framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.6), 2 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
