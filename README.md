@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.40](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.40), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.4-canary.6](https://github.com/vercel/next.js/releases/tag/v13.2.4-canary.6), 1 day ago) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.6](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.6), 2 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
