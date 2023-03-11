@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.5-canary.0](https://github.com/vercel/next.js/releases/tag/v13.2.5-canary.0), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.5-canary.1](https://github.com/vercel/next.js/releases/tag/v13.2.5-canary.1), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.41](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.41), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
