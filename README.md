@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.42](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.42), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.2.5-canary.3), today) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
