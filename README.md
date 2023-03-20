@@ -16,7 +16,7 @@
 
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.5](https://github.com/api-platform/core/releases/tag/v3.1.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.2), today) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.2.5-canary.8](https://github.com/vercel/next.js/releases/tag/v13.2.5-canary.8), 3 days ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.43](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.43), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
