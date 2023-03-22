@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (4 days ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (5 days ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.44](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.44), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.5](https://github.com/api-platform/core/releases/tag/v3.1.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.44](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.44), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.5](https://github.com/api-platform/core/releases/tag/v3.1.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
