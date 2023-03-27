@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.6](https://github.com/api-platform/core/releases/tag/v3.1.6), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.0](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.0), 2 days ago) - Cache APT packages in GitHub Actions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.45](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.45), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.6](https://github.com/api-platform/core/releases/tag/v3.1.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.0](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.0), 3 days ago) - Cache APT packages in GitHub Actions
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.45](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.45), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
