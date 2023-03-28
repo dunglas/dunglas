@@ -4,7 +4,7 @@
 
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 weeks ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 weeks ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.6](https://github.com/api-platform/core/releases/tag/v3.1.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.0](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.0), 3 days ago) - Cache APT packages in GitHub Actions
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.45](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.45), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.6](https://github.com/api-platform/core/releases/tag/v3.1.6), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.0](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.0), 4 days ago) - Cache APT packages in GitHub Actions
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.45](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.45), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
