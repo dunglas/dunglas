@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 weeks ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 weeks ago)
 
 #### 🌱 My latest projects
 
