@@ -20,11 +20,11 @@
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
+- [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (today)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (3 months ago)
 - [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (3 months ago)
 - [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (5 months ago)
 - [API Platform 3 Is Released!](https://dunglas.dev/2022/09/api-platform-3-is-released/) (6 months ago)
-- [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.dev/2022/09/mercure-0-14/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
