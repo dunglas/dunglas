@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.47](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.47), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.6](https://github.com/api-platform/core/releases/tag/v3.1.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.0](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.0), 1 week ago) - Cache APT packages in GitHub Actions
+- [symfony/console](https://github.com/symfony/console) ([v6.2.8](https://github.com/symfony/console/releases/tag/v6.2.8), today) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.8](https://github.com/symfony/framework-bundle/releases/tag/v6.2.8), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
