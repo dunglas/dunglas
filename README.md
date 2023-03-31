@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/console](https://github.com/symfony/console) ([v6.2.8](https://github.com/symfony/console/releases/tag/v6.2.8), today) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.8](https://github.com/symfony/framework-bundle/releases/tag/v6.2.8), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), today) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.7](https://github.com/api-platform/core/releases/tag/v3.1.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.8](https://github.com/symfony/validator/releases/tag/v6.2.8), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.8](https://github.com/symfony/serializer/releases/tag/v6.2.8), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
