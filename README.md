@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.7](https://github.com/api-platform/core/releases/tag/v3.1.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.8](https://github.com/symfony/validator/releases/tag/v6.2.8), 2 days ago) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.8](https://github.com/symfony/serializer/releases/tag/v6.2.8), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
