@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.48](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.48), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.7](https://github.com/api-platform/core/releases/tag/v3.1.7), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.8](https://github.com/symfony/validator/releases/tag/v6.2.8), 4 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
