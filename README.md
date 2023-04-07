@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.0](https://github.com/vercel/next.js/releases/tag/v13.3.0), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1-canary.0](https://github.com/vercel/next.js/releases/tag/v13.3.1-canary.0), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.48](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.48), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
 
