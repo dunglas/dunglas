@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (5 days ago)
+- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (6 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (3 weeks ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), today) - The Symfony PHP framework
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1-canary.6](https://github.com/vercel/next.js/releases/tag/v13.3.1-canary.6), today) - The React Framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 1 day ago) - The Symfony PHP framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1-canary.6](https://github.com/vercel/next.js/releases/tag/v13.3.1-canary.6), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
