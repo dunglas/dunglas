@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1-canary.7](https://github.com/vercel/next.js/releases/tag/v13.3.1-canary.7), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1-canary.8](https://github.com/vercel/next.js/releases/tag/v13.3.1-canary.8), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
