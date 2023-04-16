@@ -4,7 +4,7 @@
 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (4 weeks ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1-canary.8](https://github.com/vercel/next.js/releases/tag/v13.3.1-canary.8), today) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1-canary.8](https://github.com/vercel/next.js/releases/tag/v13.3.1-canary.8), 1 day ago) - The React Framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [damienalexandre](https://github.com/damienalexandre) (1 week ago)
-- [toofff](https://github.com/toofff) (2 months ago)
+- [damienalexandre](https://github.com/damienalexandre) (2 weeks ago)
+- [toofff](https://github.com/toofff) (3 months ago)
 - [uzulla](https://github.com/uzulla) (5 months ago)
