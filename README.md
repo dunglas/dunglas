@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2), today) - Deliver Go binaries as fast and easily as possible
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 5 days ago) - The Symfony PHP framework
 
