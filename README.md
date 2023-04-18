@@ -14,15 +14,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 4 days ago) - The Symfony PHP framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 5 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (2 weeks ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (2 weeks ago)
-- [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (3 months ago)
+- [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (4 months ago)
 - [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (4 months ago)
 - [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (6 months ago)
 
