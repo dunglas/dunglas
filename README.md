@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.34.0](https://github.com/quic-go/quic-go/releases/tag/v0.34.0), today) - A QUIC implementation in pure go
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.51](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.51), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.2.9](https://github.com/symfony/framework-bundle/releases/tag/v6.2.9), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
