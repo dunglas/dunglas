@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.8](https://github.com/api-platform/core/releases/tag/v3.1.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.34.0](https://github.com/quic-go/quic-go/releases/tag/v0.34.0), 1 day ago) - A QUIC implementation in pure go
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.51](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.51), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
