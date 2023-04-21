@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (1 week ago)
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 month ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.34.0](https://github.com/quic-go/quic-go/releases/tag/v0.34.0), today) - A QUIC implementation in pure go
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.51](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.51), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.34.0](https://github.com/quic-go/quic-go/releases/tag/v0.34.0), 1 day ago) - A QUIC implementation in pure go
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.51](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.51), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
