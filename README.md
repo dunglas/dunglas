@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (2 weeks ago)
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 month ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1](https://github.com/vercel/next.js/releases/tag/v13.3.1), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.52](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.52), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.8](https://github.com/api-platform/core/releases/tag/v3.1.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.1](https://github.com/vercel/next.js/releases/tag/v13.3.1), 2 days ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.52](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.52), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.8](https://github.com/api-platform/core/releases/tag/v3.1.8), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [damienalexandre](https://github.com/damienalexandre) (2 weeks ago)
+- [damienalexandre](https://github.com/damienalexandre) (3 weeks ago)
 - [toofff](https://github.com/toofff) (3 months ago)
 - [uzulla](https://github.com/uzulla) (6 months ago)
