@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.54](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.54), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [symfony/validator](https://github.com/symfony/validator) ([v6.2.10](https://github.com/symfony/validator/releases/tag/v6.2.10), today) - Provides tools to validate values
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.2.10](https://github.com/symfony/serializer/releases/tag/v6.2.10), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/mime](https://github.com/symfony/mime) ([v6.2.10](https://github.com/symfony/mime/releases/tag/v6.2.10), today) - Allows manipulating MIME messages
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
