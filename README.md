@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.53](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.53), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.9](https://github.com/api-platform/core/releases/tag/v3.1.9), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.53](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.53), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.9](https://github.com/api-platform/core/releases/tag/v3.1.9), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.34.0](https://github.com/quic-go/quic-go/releases/tag/v0.34.0), 1 week ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
