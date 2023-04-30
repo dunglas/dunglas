@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.2](https://github.com/vercel/next.js/releases/tag/v13.3.2), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.54](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.54), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [symfony/validator](https://github.com/symfony/validator) ([v6.2.10](https://github.com/symfony/validator/releases/tag/v6.2.10), 1 day ago) - Provides tools to validate values
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.2](https://github.com/vercel/next.js/releases/tag/v13.3.2), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.54](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.54), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [symfony/validator](https://github.com/symfony/validator) ([v6.2.10](https://github.com/symfony/validator/releases/tag/v6.2.10), 2 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [damienalexandre](https://github.com/damienalexandre) (3 weeks ago)
+- [damienalexandre](https://github.com/damienalexandre) (4 weeks ago)
 - [toofff](https://github.com/toofff) (3 months ago)
 - [uzulla](https://github.com/uzulla) (6 months ago)
