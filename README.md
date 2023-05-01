@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([v4.7.0](https://github.com/DigitalOceanPHP/Client/releases/tag/v4.7.0), today) - DigitalOcean API v2 client for PHP
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.3-canary.1](https://github.com/vercel/next.js/releases/tag/v13.3.3-canary.1), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.54](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.54), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([v4.7.0](https://github.com/DigitalOceanPHP/Client/releases/tag/v4.7.0), 1 day ago) - DigitalOcean API v2 client for PHP
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.3-canary.1](https://github.com/vercel/next.js/releases/tag/v13.3.3-canary.1), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.54](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.54), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (3 weeks ago)
+- [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (4 weeks ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (1 month ago)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (4 months ago)
 - [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (4 months ago)
