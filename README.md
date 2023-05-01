@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([v4.7.0](https://github.com/DigitalOceanPHP/Client/releases/tag/v4.7.0), 1 day ago) - DigitalOcean API v2 client for PHP
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.3-canary.1](https://github.com/vercel/next.js/releases/tag/v13.3.3-canary.1), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.54](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.54), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.3-canary.2](https://github.com/vercel/next.js/releases/tag/v13.3.3-canary.2), today) - The React Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.3.0-BETA1), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
