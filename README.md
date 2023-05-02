@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.5-canary.1](https://github.com/vercel/next.js/releases/tag/v13.3.5-canary.1), today) - The React Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.3.0-BETA1), today) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.3.5-canary.1](https://github.com/vercel/next.js/releases/tag/v13.3.5-canary.1), 1 day ago) - The React Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-BETA1](https://github.com/symfony/validator/releases/tag/v6.3.0-BETA1), 1 day ago) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA1), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [damienalexandre](https://github.com/damienalexandre) (4 weeks ago)
+- [damienalexandre](https://github.com/damienalexandre) (1 month ago)
 - [toofff](https://github.com/toofff) (3 months ago)
 - [uzulla](https://github.com/uzulla) (6 months ago)
