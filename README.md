@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.1](https://github.com/vercel/next.js/releases/tag/v13.4.1), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.18.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.1), today) - Deliver Go binaries as fast and easily as possible
-- [symfony/ux](https://github.com/symfony/ux) ([v2.8.0](https://github.com/symfony/ux/releases/tag/v2.8.0), 2 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
