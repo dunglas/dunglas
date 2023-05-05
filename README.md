@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (4 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.1-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.1-canary.0), today) - The React Framework
-- [symfony/ux](https://github.com/symfony/ux) ([v2.8.0](https://github.com/symfony/ux/releases/tag/v2.8.0), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.55](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.55), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.1-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.1-canary.1), 1 day ago) - The React Framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.8.0](https://github.com/symfony/ux/releases/tag/v2.8.0), 2 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.55](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.55), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
