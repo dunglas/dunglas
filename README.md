@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.18.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.1), today) - Deliver Go binaries as fast and easily as possible
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.1-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.1-canary.1), 1 day ago) - The React Framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.8.0](https://github.com/symfony/ux/releases/tag/v2.8.0), 2 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.55](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.55), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
