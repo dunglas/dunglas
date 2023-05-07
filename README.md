@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), today) - The Symfony PHP framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2), today) - Deliver Go binaries as fast and easily as possible
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.56](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.56), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
