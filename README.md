@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA2](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA2), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/console](https://github.com/symfony/console) ([v6.3.0-BETA2](https://github.com/symfony/console/releases/tag/v6.3.0-BETA2), today) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), today) - The Symfony PHP framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2), today) - Deliver Go binaries as fast and easily as possible
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.56](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.56), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
