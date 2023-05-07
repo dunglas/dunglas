@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (6 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.56](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.56), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.1](https://github.com/vercel/next.js/releases/tag/v13.4.1), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.56](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.56), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.1](https://github.com/vercel/next.js/releases/tag/v13.4.1), 2 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
