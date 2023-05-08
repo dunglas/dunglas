@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA2](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA2), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/console](https://github.com/symfony/console) ([v6.3.0-BETA2](https://github.com/symfony/console/releases/tag/v6.3.0-BETA2), today) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), today) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA2](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA2), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/console](https://github.com/symfony/console) ([v6.3.0-BETA2](https://github.com/symfony/console/releases/tag/v6.3.0-BETA2), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
