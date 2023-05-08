@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.0), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.1), today) - The React Framework
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA2](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA2), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/console](https://github.com/symfony/console) ([v6.3.0-BETA2](https://github.com/symfony/console/releases/tag/v6.3.0-BETA2), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
 
