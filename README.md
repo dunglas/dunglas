@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.57](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.57), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.3), today) - The React Framework
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA2](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA2), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
