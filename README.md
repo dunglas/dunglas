@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.4](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.4), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.57](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.57), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.3), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
