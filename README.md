@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.57](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.57), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.3), today) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.57](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.57), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.3), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
