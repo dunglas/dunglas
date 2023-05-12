@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.2-canary.6), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.57](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.57), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.2](https://github.com/vercel/next.js/releases/tag/v13.4.2), 1 day ago) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.57](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.57), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -24,7 +24,7 @@
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (1 month ago)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (4 months ago)
 - [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (4 months ago)
-- [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (6 months ago)
+- [FrankenPHP: The Modern Php App Server, written in Go](https://dunglas.dev/2022/10/frankenphp-the-modern-php-app-server-written-in-go/) (7 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
