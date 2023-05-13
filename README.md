@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA3), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), today) - The Symfony PHP framework
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.3-canary.0), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.57](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.57), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
