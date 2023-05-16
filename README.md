@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ux](https://github.com/symfony/ux) ([v2.8.1](https://github.com/symfony/ux/releases/tag/v2.8.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.7.0-beta.1), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.3-canary.1), today) - The React Framework
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-BETA3](https://github.com/symfony/serializer/releases/tag/v6.3.0-BETA3), 3 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 3 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
