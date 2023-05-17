@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (2 weeks ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 weeks ago)
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.8.1](https://github.com/symfony/ux/releases/tag/v2.8.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.7.0-beta.1), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.3-canary.1), today) - The React Framework
+- [symfony/ux](https://github.com/symfony/ux) ([v2.8.1](https://github.com/symfony/ux/releases/tag/v2.8.1), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.7.0-beta.1), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.3-canary.1), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (4 days ago)
+- [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (5 days ago)
 - [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (1 month ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (1 month ago)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (4 months ago)
