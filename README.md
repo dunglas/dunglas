@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.58](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.58), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [symfony/ux](https://github.com/symfony/ux) ([v2.8.1](https://github.com/symfony/ux/releases/tag/v2.8.1), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.7.0-beta.1), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.3-canary.1), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
