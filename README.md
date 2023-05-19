@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (2 weeks ago)
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.3-canary.2), 1 day ago) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.6](https://github.com/dunglas/mercure/releases/tag/v0.14.6), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.58](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.58), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.3-canary.2), 2 days ago) - The React Framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.6](https://github.com/dunglas/mercure/releases/tag/v0.14.6), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.58](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.58), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (6 days ago)
+- [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (1 week ago)
 - [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (1 month ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (1 month ago)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (5 months ago)
