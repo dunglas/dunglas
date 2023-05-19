@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.3](https://github.com/vercel/next.js/releases/tag/v13.4.3), today) - The React Framework
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.59](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.59), today) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.0), today) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.6](https://github.com/dunglas/mercure/releases/tag/v0.14.6), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.58](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.58), 2 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
