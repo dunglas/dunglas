@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.59](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.59), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.0), today) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.6](https://github.com/dunglas/mercure/releases/tag/v0.14.6), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.59](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.59), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.0), 1 day ago) - The React Framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.6](https://github.com/dunglas/mercure/releases/tag/v0.14.6), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [damienalexandre](https://github.com/damienalexandre) (1 month ago)
 - [toofff](https://github.com/toofff) (4 months ago)
-- [uzulla](https://github.com/uzulla) (6 months ago)
+- [uzulla](https://github.com/uzulla) (7 months ago)
