@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.8](https://github.com/dunglas/mercure/releases/tag/v0.14.8), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.1), today) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.59](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.59), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC1](https://github.com/symfony/validator/releases/tag/v6.3.0-RC1), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v6.3.0-RC1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/security-core](https://github.com/symfony/security-core) ([v6.3.0-RC1](https://github.com/symfony/security-core/releases/tag/v6.3.0-RC1), today) - Symfony Security Component - Core Library
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
