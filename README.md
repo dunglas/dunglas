@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (3 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.8](https://github.com/dunglas/mercure/releases/tag/v0.14.8), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.1), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.59](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.59), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.0), 3 days ago) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.6](https://github.com/dunglas/mercure/releases/tag/v0.14.6), 5 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
