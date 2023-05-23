@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.7](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.7), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.4](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.4), today) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC1](https://github.com/symfony/validator/releases/tag/v6.3.0-RC1), 1 day ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
