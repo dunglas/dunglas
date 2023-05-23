@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 weeks ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (3 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), today) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC1](https://github.com/symfony/validator/releases/tag/v6.3.0-RC1), today) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v6.3.0-RC1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC1](https://github.com/symfony/validator/releases/tag/v6.3.0-RC1), 1 day ago) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v6.3.0-RC1), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
