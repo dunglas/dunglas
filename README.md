@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.7](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.7), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.4-canary.8), today) - The React Framework
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.7](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.7), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 
