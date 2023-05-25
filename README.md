@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.4](https://github.com/vercel/next.js/releases/tag/v13.4.4), today) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.9](https://github.com/dunglas/mercure/releases/tag/v0.14.9), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.12](https://github.com/api-platform/core/releases/tag/v3.1.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.7](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.7), 2 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
