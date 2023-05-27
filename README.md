@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.0), 1 day ago) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.9](https://github.com/dunglas/mercure/releases/tag/v0.14.9), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.12](https://github.com/api-platform/core/releases/tag/v3.1.12), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/validator](https://github.com/symfony/validator) ([v5.4.24](https://github.com/symfony/validator/releases/tag/v5.4.24), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.24](https://github.com/symfony/serializer/releases/tag/v5.4.24), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.24](https://github.com/symfony/http-foundation/releases/tag/v5.4.24), today) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
