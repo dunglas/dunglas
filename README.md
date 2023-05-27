@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v5.4.24](https://github.com/symfony/validator/releases/tag/v5.4.24), today) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.24](https://github.com/symfony/serializer/releases/tag/v5.4.24), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.24](https://github.com/symfony/http-foundation/releases/tag/v5.4.24), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC2](https://github.com/symfony/validator/releases/tag/v6.3.0-RC2), today) - Provides tools to validate values
+- [symfony/console](https://github.com/symfony/console) ([v6.3.0-RC2](https://github.com/symfony/console/releases/tag/v6.3.0-RC2), today) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.3.0-RC2), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
