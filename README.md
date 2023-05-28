@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (2 days ago)
-- [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (3 days ago)
+- [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC2](https://github.com/symfony/validator/releases/tag/v6.3.0-RC2), today) - Provides tools to validate values
-- [symfony/console](https://github.com/symfony/console) ([v6.3.0-RC2](https://github.com/symfony/console/releases/tag/v6.3.0-RC2), today) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.3.0-RC2), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC2](https://github.com/symfony/validator/releases/tag/v6.3.0-RC2), 1 day ago) - Provides tools to validate values
+- [symfony/console](https://github.com/symfony/console) ([v6.3.0-RC2](https://github.com/symfony/console/releases/tag/v6.3.0-RC2), 1 day ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.3.0-RC2), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
