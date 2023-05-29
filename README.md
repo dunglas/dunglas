@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ux](https://github.com/symfony/ux) ([v2.9.0](https://github.com/symfony/ux/releases/tag/v2.9.0), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC2](https://github.com/symfony/validator/releases/tag/v6.3.0-RC2), 2 days ago) - Provides tools to validate values
 - [symfony/console](https://github.com/symfony/console) ([v6.3.0-RC2](https://github.com/symfony/console/releases/tag/v6.3.0-RC2), 2 days ago) - Eases the creation of beautiful and testable command line interfaces
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v6.3.0-RC2), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
