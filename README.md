@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.1), today) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.35.0](https://github.com/quic-go/quic-go/releases/tag/v0.35.0), today) - A QUIC implementation in pure go
 - [symfony/ux](https://github.com/symfony/ux) ([v2.9.0](https://github.com/symfony/ux/releases/tag/v2.9.0), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC2](https://github.com/symfony/validator/releases/tag/v6.3.0-RC2), 3 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
