@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.60](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.60), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.2), today) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.35.0](https://github.com/quic-go/quic-go/releases/tag/v0.35.0), today) - A QUIC implementation in pure go
+- [symfony/web-link](https://github.com/symfony/web-link) ([v6.3.0](https://github.com/symfony/web-link/releases/tag/v6.3.0), today) - Manages links between resources
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0](https://github.com/symfony/validator/releases/tag/v6.3.0), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0](https://github.com/symfony/serializer/releases/tag/v6.3.0), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
