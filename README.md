@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (4 days ago)
-- [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) - PHP library for accessing data and managing permissions on data stored in a Solid Pod (5 days ago)
+- [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ux](https://github.com/symfony/ux) ([v2.9.0](https://github.com/symfony/ux/releases/tag/v2.9.0), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC2](https://github.com/symfony/validator/releases/tag/v6.3.0-RC2), 2 days ago) - Provides tools to validate values
-- [symfony/console](https://github.com/symfony/console) ([v6.3.0-RC2](https://github.com/symfony/console/releases/tag/v6.3.0-RC2), 2 days ago) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/ux](https://github.com/symfony/ux) ([v2.9.0](https://github.com/symfony/ux/releases/tag/v2.9.0), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0-RC2](https://github.com/symfony/validator/releases/tag/v6.3.0-RC2), 3 days ago) - Provides tools to validate values
+- [symfony/console](https://github.com/symfony/console) ([v6.3.0-RC2](https://github.com/symfony/console/releases/tag/v6.3.0-RC2), 3 days ago) - Eases the creation of beautiful and testable command line interfaces
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
