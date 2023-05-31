@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/panther](https://github.com/symfony/panther) ([v2.1.0](https://github.com/symfony/panther/releases/tag/v2.1.0), today) - A browser testing and web crawling library for PHP and Symfony
 - [api-platform/core](https://github.com/api-platform/core) ([v2.7.12](https://github.com/api-platform/core/releases/tag/v2.7.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/web-link](https://github.com/symfony/web-link) ([v6.3.0](https://github.com/symfony/web-link/releases/tag/v6.3.0), 1 day ago) - Manages links between resources
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0](https://github.com/symfony/validator/releases/tag/v6.3.0), 1 day ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
