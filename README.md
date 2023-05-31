@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (today)
-- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework (1 day ago)
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/web-link](https://github.com/symfony/web-link) ([v6.3.0](https://github.com/symfony/web-link/releases/tag/v6.3.0), today) - Manages links between resources
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0](https://github.com/symfony/validator/releases/tag/v6.3.0), today) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0](https://github.com/symfony/serializer/releases/tag/v6.3.0), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/web-link](https://github.com/symfony/web-link) ([v6.3.0](https://github.com/symfony/web-link/releases/tag/v6.3.0), 1 day ago) - Manages links between resources
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.0](https://github.com/symfony/validator/releases/tag/v6.3.0), 1 day ago) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.0](https://github.com/symfony/serializer/releases/tag/v6.3.0), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
