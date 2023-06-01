@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) ([v1.0.0](https://github.com/dunglas/solid-client-php/releases/tag/v1.0.0), today) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.3), today) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.35.1](https://github.com/quic-go/quic-go/releases/tag/v0.35.1), today) - A QUIC implementation in pure go
-- [symfony/ux](https://github.com/symfony/ux) ([v2.9.1](https://github.com/symfony/ux/releases/tag/v2.9.1), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
