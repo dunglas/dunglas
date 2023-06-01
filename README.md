@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.3), today) - The React Framework
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.35.1](https://github.com/quic-go/quic-go/releases/tag/v0.35.1), today) - A QUIC implementation in pure go
 - [symfony/ux](https://github.com/symfony/ux) ([v2.9.1](https://github.com/symfony/ux/releases/tag/v2.9.1), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [symfony/panther](https://github.com/symfony/panther) ([v2.1.0](https://github.com/symfony/panther/releases/tag/v2.1.0), 1 day ago) - A browser testing and web crawling library for PHP and Symfony
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.12](https://github.com/api-platform/core/releases/tag/v2.7.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
