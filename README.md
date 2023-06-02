@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.61](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.61), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) ([v1.0.0](https://github.com/dunglas/solid-client-php/releases/tag/v1.0.0), 1 day ago) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.3), 1 day ago) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.35.1](https://github.com/quic-go/quic-go/releases/tag/v0.35.1), 1 day ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
