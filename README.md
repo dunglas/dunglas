@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.6), today) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.61](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.61), 3 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.6), 1 day ago) - The React Framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.61](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.61), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
