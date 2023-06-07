@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (5 days ago)
+- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.62](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.62), today) - This repository contains compatibility data for Web technologies as displayed on MDN
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.6), 1 day ago) - The React Framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.62](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.62), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.5-canary.6), 2 days ago) - The React Framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
