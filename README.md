@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.5](https://github.com/vercel/next.js/releases/tag/v13.4.5), today) - The React Framework
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.63](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.63), 1 day ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 6 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) ([v1.0.0](https://github.com/dunglas/solid-client-php/releases/tag/v1.0.0), 1 week ago) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
