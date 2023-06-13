@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (today)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
 
