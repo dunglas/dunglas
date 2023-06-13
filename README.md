@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.64](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.64), today) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.6-canary.1), 1 day ago) - The React Framework
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ([v5.2.63](https://github.com/mdn/browser-compat-data/releases/tag/v5.2.63), 4 days ago) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
