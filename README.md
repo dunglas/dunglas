@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (today)
-- [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 day ago)
+- [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.6-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.6-canary.2), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.6-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.6-canary.2), 1 day ago) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) ([v1.0.0](https://github.com/dunglas/solid-client-php/releases/tag/v1.0.0), 1 week ago) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 
@@ -24,7 +24,7 @@
 - [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (2 months ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (2 months ago)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (5 months ago)
-- [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (5 months ago)
+- [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
