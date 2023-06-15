@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (2 days ago)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.6-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.6-canary.8), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.6](https://github.com/vercel/next.js/releases/tag/v13.4.6), today) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) ([v1.0.0](https://github.com/dunglas/solid-client-php/releases/tag/v1.0.0), 2 weeks ago) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 
