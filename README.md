@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.7-canary.0), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.7-canary.1), today) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) ([v1.0.0](https://github.com/dunglas/solid-client-php/releases/tag/v1.0.0), 2 weeks ago) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 
