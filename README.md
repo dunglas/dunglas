@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.7-canary.1), 2 days ago) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/solid-client-php](https://github.com/dunglas/solid-client-php) ([v1.0.0](https://github.com/dunglas/solid-client-php/releases/tag/v1.0.0), 2 weeks ago) - PHP library for accessing data and managing permissions on data stored in a Solid Pod
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
