@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (5 days ago)
-- [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (6 days ago)
+- [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0), today) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.7-canary.1), 2 days ago) - The React Framework
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.7-canary.1), 3 days ago) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
@@ -30,4 +30,4 @@
 
 - [damienalexandre](https://github.com/damienalexandre) (2 months ago)
 - [toofff](https://github.com/toofff) (5 months ago)
-- [uzulla](https://github.com/uzulla) (7 months ago)
+- [uzulla](https://github.com/uzulla) (8 months ago)
