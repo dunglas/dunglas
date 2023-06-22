@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.7.0-beta.2), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7](https://github.com/vercel/next.js/releases/tag/v13.4.7), 1 day ago) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.0](https://github.com/quic-go/quic-go/releases/tag/v0.36.0), 1 day ago) - A QUIC implementation in pure go
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
