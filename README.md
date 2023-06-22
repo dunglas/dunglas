@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 week ago)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7](https://github.com/vercel/next.js/releases/tag/v13.4.7), today) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.0](https://github.com/quic-go/quic-go/releases/tag/v0.36.0), today) - A QUIC implementation in pure go
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.7](https://github.com/vercel/next.js/releases/tag/v13.4.7), 1 day ago) - The React Framework
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.0](https://github.com/quic-go/quic-go/releases/tag/v0.36.0), 1 day ago) - A QUIC implementation in pure go
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
