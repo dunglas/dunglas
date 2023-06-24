@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.1), 1 day ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.13](https://github.com/api-platform/core/releases/tag/v2.7.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.7.0-beta.2), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.1), 2 days ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v2.7.13](https://github.com/api-platform/core/releases/tag/v2.7.13), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.7.0-beta.2), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
