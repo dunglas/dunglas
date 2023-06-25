@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.19.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.19.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.19.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.19.2), today) - A tool to automatically fix PHP Coding Standards issues
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.2), 1 day ago) - The React Framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.7.13](https://github.com/api-platform/core/releases/tag/v2.7.13), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
