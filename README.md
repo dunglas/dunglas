@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 week ago)
-- [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.3), today) - The React Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), today) - Provides tools to validate values
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.1](https://github.com/symfony/serializer/releases/tag/v6.3.1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.1](https://github.com/symfony/http-foundation/releases/tag/v6.3.1), today) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
