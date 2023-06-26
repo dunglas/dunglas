@@ -4,7 +4,7 @@
 
 - [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (today)
 
 #### 🌱 My latest projects
 
