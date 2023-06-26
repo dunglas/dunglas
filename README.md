@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v5.4.25](https://github.com/symfony/validator/releases/tag/v5.4.25), today) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.25](https://github.com/symfony/serializer/releases/tag/v5.4.25), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.25](https://github.com/symfony/http-foundation/releases/tag/v5.4.25), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.1](https://github.com/symfony/serializer/releases/tag/v6.3.1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.1](https://github.com/symfony/http-foundation/releases/tag/v6.3.1), today) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
