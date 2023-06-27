@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (today)
+- [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.5](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.5), today) - The React Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), today) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.1](https://github.com/symfony/serializer/releases/tag/v6.3.1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.5](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.5), 1 day ago) - The React Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), 1 day ago) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.1](https://github.com/symfony/serializer/releases/tag/v6.3.1), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
