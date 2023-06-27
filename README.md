@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (1 day ago)
+- [shivammathur/php-builder](https://github.com/shivammathur/php-builder) - :elephant: Build PHP 5.6 and newer (1 day ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 day ago)
+- [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (1 day ago)
 
 #### 🌱 My latest projects
 
