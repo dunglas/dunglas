@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.1), today) - Deliver Go binaries as fast and easily as possible
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), 3 days ago) - Provides tools to validate values
 
