@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.0), today) - Deliver Go binaries as fast and easily as possible
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.8), 1 day ago) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), 3 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
