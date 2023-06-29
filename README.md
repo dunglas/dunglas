@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [shivammathur/php-builder](https://github.com/shivammathur/php-builder) - :elephant: Build PHP 5.6 and newer (2 days ago)
-- [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [shivammathur/php-builder](https://github.com/shivammathur/php-builder) - :elephant: Build PHP 5.6 and newer (3 days ago)
+- [jhipster/jhipster-guides](https://github.com/jhipster/jhipster-guides) - Guides to help you learn JHipster quickly (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.8), today) - The React Framework
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), 2 days ago) - Provides tools to validate values
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.8-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.8-canary.8), 1 day ago) - The React Framework
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), 3 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
