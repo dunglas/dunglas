@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter (today)
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [shivammathur/php-builder](https://github.com/shivammathur/php-builder) - :elephant: Build PHP 5.6 and newer (3 days ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP
 - [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP
-- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
 
 #### 🔭 Latest releases I've contributed to
 
