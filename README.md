@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.1](https://github.com/quic-go/quic-go/releases/tag/v0.36.1), today) - A QUIC implementation in pure go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.1](https://github.com/symfony/validator/releases/tag/v6.3.1), 5 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
