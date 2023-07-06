@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.9-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.9-canary.3), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.9](https://github.com/vercel/next.js/releases/tag/v13.4.9), today) - The React Framework
 - [symfony/ux](https://github.com/symfony/ux) ([v2.10.0](https://github.com/symfony/ux/releases/tag/v2.10.0), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 
