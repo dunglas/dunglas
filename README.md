@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.10-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.10-canary.3), 1 day ago) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.10-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.10-canary.3), 2 days ago) - The React Framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
