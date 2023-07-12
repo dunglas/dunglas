@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.10-canary.5](https://github.com/vercel/next.js/releases/tag/v13.4.10-canary.5), today) - The React Framework
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.6.0-rc.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.10-canary.4](https://github.com/vercel/next.js/releases/tag/v13.4.10-canary.4), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
