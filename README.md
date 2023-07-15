@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.10](https://github.com/vercel/next.js/releases/tag/v13.4.10), today) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.2](https://github.com/quic-go/quic-go/releases/tag/v0.36.2), 2 days ago) - A QUIC implementation in pure go
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.6.0-rc.1), 2 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.10](https://github.com/vercel/next.js/releases/tag/v13.4.10), 1 day ago) - The React Framework
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.2](https://github.com/quic-go/quic-go/releases/tag/v0.36.2), 3 days ago) - A QUIC implementation in pure go
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.6.0-rc.1), 3 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [damienalexandre](https://github.com/damienalexandre) (3 months ago)
-- [toofff](https://github.com/toofff) (5 months ago)
+- [toofff](https://github.com/toofff) (6 months ago)
 - [uzulla](https://github.com/uzulla) (8 months ago)
