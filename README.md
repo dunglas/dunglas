@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.11-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.11-canary.0), today) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.10](https://github.com/vercel/next.js/releases/tag/v13.4.10), 4 days ago) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.2](https://github.com/quic-go/quic-go/releases/tag/v0.36.2), 6 days ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
