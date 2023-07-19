@@ -4,7 +4,7 @@
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (today)
 
 #### 🌱 My latest projects
 
