@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.11-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.11-canary.0), today) - The React Framework
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.2](https://github.com/quic-go/quic-go/releases/tag/v0.36.2), 6 days ago) - A QUIC implementation in pure go
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.11-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.11-canary.0), 1 day ago) - The React Framework
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.2](https://github.com/quic-go/quic-go/releases/tag/v0.36.2), 1 week ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [damienalexandre](https://github.com/damienalexandre) (3 months ago)
 - [toofff](https://github.com/toofff) (6 months ago)
-- [uzulla](https://github.com/uzulla) (8 months ago)
+- [uzulla](https://github.com/uzulla) (9 months ago)
