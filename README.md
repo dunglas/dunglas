@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.2](https://github.com/api-platform/schema-generator/releases/tag/v5.2.2), today) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.9.2](https://github.com/hashicorp/packer/releases/tag/v1.9.2), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.7](https://github.com/hashicorp/nomad/releases/tag/v1.5.7), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.2](https://github.com/api-platform/schema-generator/releases/tag/v5.2.2), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.9.2](https://github.com/hashicorp/packer/releases/tag/v1.9.2), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.7](https://github.com/hashicorp/nomad/releases/tag/v1.5.7), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
