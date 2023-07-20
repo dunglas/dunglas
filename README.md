@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 
 #### 🌱 My latest projects
 
