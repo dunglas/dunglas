@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.12-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.12-canary.0), today) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.0](https://github.com/quic-go/quic-go/releases/tag/v0.37.0), today) - A QUIC implementation in pure go
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.1](https://github.com/hashicorp/nomad/releases/tag/v1.6.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([1.0.1](https://github.com/sweetrdf/rdfInterface/releases/tag/1.0.1), today) - 
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
