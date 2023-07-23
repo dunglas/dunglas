@@ -4,7 +4,7 @@
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (3 days ago)
-- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 
 #### 🌱 My latest projects
 
