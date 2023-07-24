@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/openapi](https://github.com/api-platform/openapi) - Models to build and serialize an OpenAPI specification. (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js (4 days ago)
 
 #### 🌱 My latest projects
 
