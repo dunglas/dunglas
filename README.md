@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.1), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.2), today) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.0](https://github.com/quic-go/quic-go/releases/tag/v0.37.0), 4 days ago) - A QUIC implementation in pure go
 
