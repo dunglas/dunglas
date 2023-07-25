@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/openapi](https://github.com/api-platform/openapi) - Models to build and serialize an OpenAPI specification. (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [api-platform/openapi](https://github.com/api-platform/openapi) - Models to build and serialize an OpenAPI specification. (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.12](https://github.com/vercel/next.js/releases/tag/v13.4.12), 3 days ago) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.0](https://github.com/quic-go/quic-go/releases/tag/v0.37.0), 3 days ago) - A QUIC implementation in pure go
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.1](https://github.com/hashicorp/nomad/releases/tag/v1.6.1), 3 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.0), 1 day ago) - The React Framework
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.0](https://github.com/quic-go/quic-go/releases/tag/v0.37.0), 4 days ago) - A QUIC implementation in pure go
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.1](https://github.com/hashicorp/nomad/releases/tag/v1.6.1), 4 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
