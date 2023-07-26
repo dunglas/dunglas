@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.2), today) - The React Framework
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.0](https://github.com/quic-go/quic-go/releases/tag/v0.37.0), 4 days ago) - A QUIC implementation in pure go
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.2), 1 day ago) - The React Framework
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.0](https://github.com/quic-go/quic-go/releases/tag/v0.37.0), 5 days ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
