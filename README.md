@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC1](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC1), today) - 
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.3), today) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 3 days ago) - Doctrine Object Relational Mapper (ORM)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.0](https://github.com/quic-go/quic-go/releases/tag/v0.37.0), 5 days ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
