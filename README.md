@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.4](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.4), today) - The React Framework
 - [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC1](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC1), 1 day ago) - 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.3](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.3), 1 day ago) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
