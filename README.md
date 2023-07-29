@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.6), 1 day ago) - The React Framework
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC2](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC2), 2 days ago) - 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 6 days ago) - Doctrine Object Relational Mapper (ORM)
+- [symfony/validator](https://github.com/symfony/validator) ([v5.4.26](https://github.com/symfony/validator/releases/tag/v5.4.26), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.26](https://github.com/symfony/serializer/releases/tag/v5.4.26), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/mime](https://github.com/symfony/mime) ([v5.4.26](https://github.com/symfony/mime/releases/tag/v5.4.26), today) - Allows manipulating MIME messages
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
