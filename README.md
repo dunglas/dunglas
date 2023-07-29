@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/json-schema](https://github.com/api-platform/json-schema) - Generate a JSON Schema from a PHP class (2 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/json-schema](https://github.com/api-platform/json-schema) - Generate a JSON Schema from a PHP class (3 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.6), today) - The React Framework
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC2](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC2), 1 day ago) - 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.6](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.6), 1 day ago) - The React Framework
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC2](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC2), 2 days ago) - 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.15.4](https://github.com/doctrine/orm/releases/tag/2.15.4), 6 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
