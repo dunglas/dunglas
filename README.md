@@ -4,7 +4,7 @@
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [api-platform/json-schema](https://github.com/api-platform/json-schema) - Generate a JSON Schema from a PHP class (3 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
+- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (3 days ago)
 
 #### 🌱 My latest projects
 
