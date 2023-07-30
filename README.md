@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v5.4.26](https://github.com/symfony/validator/releases/tag/v5.4.26), 1 day ago) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.26](https://github.com/symfony/serializer/releases/tag/v5.4.26), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/mime](https://github.com/symfony/mime) ([v5.4.26](https://github.com/symfony/mime/releases/tag/v5.4.26), 1 day ago) - Allows manipulating MIME messages
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.2](https://github.com/symfony/validator/releases/tag/v6.3.2), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.2](https://github.com/symfony/serializer/releases/tag/v6.3.2), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/mime](https://github.com/symfony/mime) ([v6.3.2](https://github.com/symfony/mime/releases/tag/v6.3.2), today) - Allows manipulating MIME messages
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
