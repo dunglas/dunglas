@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/json-schema](https://github.com/api-platform/json-schema) - Generate a JSON Schema from a PHP class (3 days ago)
-- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/json-schema](https://github.com/api-platform/json-schema) - Generate a JSON Schema from a PHP class (4 days ago)
+- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v5.4.26](https://github.com/symfony/validator/releases/tag/v5.4.26), today) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.26](https://github.com/symfony/serializer/releases/tag/v5.4.26), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/mime](https://github.com/symfony/mime) ([v5.4.26](https://github.com/symfony/mime/releases/tag/v5.4.26), today) - Allows manipulating MIME messages
+- [symfony/validator](https://github.com/symfony/validator) ([v5.4.26](https://github.com/symfony/validator/releases/tag/v5.4.26), 1 day ago) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.26](https://github.com/symfony/serializer/releases/tag/v5.4.26), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/mime](https://github.com/symfony/mime) ([v5.4.26](https://github.com/symfony/mime/releases/tag/v5.4.26), 1 day ago) - Allows manipulating MIME messages
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
