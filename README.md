@@ -16,7 +16,7 @@
 
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0), today) - Doctrine Object Relational Mapper (ORM)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.1](https://github.com/quic-go/quic-go/releases/tag/v0.37.1), 1 day ago) - A QUIC implementation in pure go
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.8), 1 day ago) - The React Framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
