@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.15.5](https://github.com/doctrine/orm/releases/tag/2.15.5), today) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0), today) - Doctrine Object Relational Mapper (ORM)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.1](https://github.com/quic-go/quic-go/releases/tag/v0.37.1), 1 day ago) - A QUIC implementation in pure go
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.8), 1 day ago) - The React Framework
 
