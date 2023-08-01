@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.1](https://github.com/quic-go/quic-go/releases/tag/v0.37.1), today) - A QUIC implementation in pure go
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.8), today) - The React Framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), today) - The Symfony PHP framework
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.1](https://github.com/quic-go/quic-go/releases/tag/v0.37.1), 1 day ago) - A QUIC implementation in pure go
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13-canary.8](https://github.com/vercel/next.js/releases/tag/v13.4.13-canary.8), 1 day ago) - The React Framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (2 months ago)
-- [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (3 months ago)
+- [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (4 months ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (4 months ago)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (7 months ago)
 - [Ne vous lamentez pas, organisez-vous !](https://dunglas.dev/2022/12/ne-vous-lamentez-pas-organisez-vous/) (7 months ago)
