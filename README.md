@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0](https://github.com/caddyserver/caddy/releases/tag/v2.7.0), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.1](https://github.com/quic-go/quic-go/releases/tag/v0.37.1), 2 days ago) - A QUIC implementation in pure go
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 2 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
