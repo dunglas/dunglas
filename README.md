@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0](https://github.com/caddyserver/caddy/releases/tag/v2.7.0), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.1](https://github.com/quic-go/quic-go/releases/tag/v0.37.1), 2 days ago) - A QUIC implementation in pure go
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.3](https://github.com/quic-go/quic-go/releases/tag/v0.36.3), 1 day ago) - A QUIC implementation in pure go
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.0](https://github.com/caddyserver/caddy/releases/tag/v2.7.0), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
