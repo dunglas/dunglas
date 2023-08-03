@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.13](https://github.com/api-platform/core/releases/tag/v3.1.13), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.1](https://github.com/dunglas/mercure/releases/tag/v0.15.1), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.2](https://github.com/caddyserver/caddy/releases/tag/v2.7.2), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.36.3](https://github.com/quic-go/quic-go/releases/tag/v0.36.3), 1 day ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
