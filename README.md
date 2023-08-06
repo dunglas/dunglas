@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.2](https://github.com/dunglas/mercure/releases/tag/v0.15.2), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.3](https://github.com/caddyserver/caddy/releases/tag/v2.7.3), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.3](https://github.com/quic-go/quic-go/releases/tag/v0.37.3), 1 day ago) - A QUIC implementation in pure go
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.13](https://github.com/api-platform/api-platform/releases/tag/v3.1.13), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
