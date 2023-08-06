@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.3](https://github.com/caddyserver/caddy/releases/tag/v2.7.3), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.3](https://github.com/quic-go/quic-go/releases/tag/v0.37.3), 1 day ago) - A QUIC implementation in pure go
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.13](https://github.com/api-platform/api-platform/releases/tag/v3.1.13), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.13](https://github.com/api-platform/core/releases/tag/v3.1.13), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
