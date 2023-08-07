@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.13](https://github.com/vercel/next.js/releases/tag/v13.4.13), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.14-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.14-canary.0), today) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.2](https://github.com/dunglas/mercure/releases/tag/v0.15.2), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.3](https://github.com/caddyserver/caddy/releases/tag/v2.7.3), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
