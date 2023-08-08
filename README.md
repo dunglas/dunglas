@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.10.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.14-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.14-canary.0), 1 day ago) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.2](https://github.com/dunglas/mercure/releases/tag/v0.15.2), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.3](https://github.com/caddyserver/caddy/releases/tag/v2.7.3), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
