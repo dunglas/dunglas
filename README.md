@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.14-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.14-canary.1), today) - The React Framework
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.10.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.14-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.14-canary.0), 1 day ago) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.2](https://github.com/dunglas/mercure/releases/tag/v0.15.2), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
