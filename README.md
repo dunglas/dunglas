@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.1](https://github.com/doctrine/orm/releases/tag/2.16.1), today) - Doctrine Object Relational Mapper (ORM)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.4](https://github.com/quic-go/quic-go/releases/tag/v0.37.4), today) - A QUIC implementation in pure go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.14-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.14-canary.1), 1 day ago) - The React Framework
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.10.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
