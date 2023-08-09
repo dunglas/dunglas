@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.14-canary.1](https://github.com/vercel/next.js/releases/tag/v13.4.14-canary.1), 1 day ago) - The React Framework
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.10.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.2](https://github.com/dunglas/mercure/releases/tag/v0.15.2), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
