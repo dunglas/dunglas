@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.16.1](https://github.com/doctrine/orm/releases/tag/2.16.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.4](https://github.com/quic-go/quic-go/releases/tag/v0.37.4), 1 day ago) - A QUIC implementation in pure go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
