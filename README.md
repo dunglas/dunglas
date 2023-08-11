@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.20.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.20.0), today) - Deliver Go binaries as fast and easily as possible
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.1](https://github.com/doctrine/orm/releases/tag/2.16.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.4](https://github.com/quic-go/quic-go/releases/tag/v0.37.4), 1 day ago) - A QUIC implementation in pure go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.20.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.20.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.1](https://github.com/doctrine/orm/releases/tag/2.16.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.4](https://github.com/quic-go/quic-go/releases/tag/v0.37.4), 2 days ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
