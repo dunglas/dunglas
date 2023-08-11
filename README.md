@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.14](https://github.com/api-platform/core/releases/tag/v3.1.14), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.14-canary.2](https://github.com/vercel/next.js/releases/tag/v13.4.14-canary.2), today) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.20.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.20.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.1](https://github.com/doctrine/orm/releases/tag/2.16.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
