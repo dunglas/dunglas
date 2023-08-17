@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.9.3](https://github.com/hashicorp/packer/releases/tag/v1.9.3), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.17](https://github.com/vercel/next.js/releases/tag/v13.4.17), today) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.5](https://github.com/quic-go/quic-go/releases/tag/v0.37.5), today) - A QUIC implementation in pure go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
