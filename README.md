@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.3.16](https://github.com/hashicorp/nomad/releases/tag/v1.3.16), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.9.4](https://github.com/hashicorp/packer/releases/tag/v1.9.4), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.18](https://github.com/vercel/next.js/releases/tag/v13.4.18), today) - The React Framework
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.4](https://github.com/caddyserver/caddy/releases/tag/v2.7.4), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
