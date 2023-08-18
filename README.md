@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.18-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.18-canary.0), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.18](https://github.com/vercel/next.js/releases/tag/v13.4.18), today) - The React Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.4](https://github.com/caddyserver/caddy/releases/tag/v2.7.4), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.9.3](https://github.com/hashicorp/packer/releases/tag/v1.9.3), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.5](https://github.com/quic-go/quic-go/releases/tag/v0.37.5), 1 day ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
