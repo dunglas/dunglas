@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.3.16](https://github.com/hashicorp/nomad/releases/tag/v1.3.16), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.9.4](https://github.com/hashicorp/packer/releases/tag/v1.9.4), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.18](https://github.com/vercel/next.js/releases/tag/v13.4.18), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.19-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.19-canary.0), 1 day ago) - The React Framework
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.3.16](https://github.com/hashicorp/nomad/releases/tag/v1.3.16), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.9.4](https://github.com/hashicorp/packer/releases/tag/v1.9.4), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
