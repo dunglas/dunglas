@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.19](https://github.com/vercel/next.js/releases/tag/v13.4.19), today) - The React Framework
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.3.16](https://github.com/hashicorp/nomad/releases/tag/v1.3.16), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.4](https://github.com/caddyserver/caddy/releases/tag/v2.7.4), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.6](https://github.com/quic-go/quic-go/releases/tag/v0.37.6), 1 day ago) - A QUIC implementation in pure go
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.19](https://github.com/vercel/next.js/releases/tag/v13.4.19), 1 day ago) - The React Framework
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.3.16](https://github.com/hashicorp/nomad/releases/tag/v1.3.16), 2 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
