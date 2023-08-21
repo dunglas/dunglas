@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.20-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.20-canary.0), today) - The React Framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc5), today) - Build single static PHP binary, with PHP project together, with popular extensions included.
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.6](https://github.com/quic-go/quic-go/releases/tag/v0.37.6), 1 day ago) - A QUIC implementation in pure go
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.20-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.20-canary.0), 1 day ago) - The React Framework
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc5), 1 day ago) - Build single static PHP binary, with PHP project together, with popular extensions included.
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.6](https://github.com/quic-go/quic-go/releases/tag/v0.37.6), 2 days ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
