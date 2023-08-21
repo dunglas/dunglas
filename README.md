@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.38.0](https://github.com/quic-go/quic-go/releases/tag/v0.38.0), today) - A QUIC implementation in pure go
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.4.20-canary.0](https://github.com/vercel/next.js/releases/tag/v13.4.20-canary.0), 1 day ago) - The React Framework
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc5), 1 day ago) - Build single static PHP binary, with PHP project together, with popular extensions included.
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.37.6](https://github.com/quic-go/quic-go/releases/tag/v0.37.6), 2 days ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
