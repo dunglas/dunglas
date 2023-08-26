@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.15](https://github.com/api-platform/core/releases/tag/v3.1.15), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.38.1](https://github.com/quic-go/quic-go/releases/tag/v0.38.1), 1 day ago) - A QUIC implementation in pure go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.4](https://github.com/symfony/validator/releases/tag/v6.3.4), today) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.4](https://github.com/symfony/serializer/releases/tag/v6.3.4), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.4](https://github.com/symfony/http-foundation/releases/tag/v6.3.4), today) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
