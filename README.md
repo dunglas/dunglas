@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.4](https://github.com/symfony/validator/releases/tag/v6.3.4), 1 day ago) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.4](https://github.com/symfony/serializer/releases/tag/v6.3.4), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.4](https://github.com/symfony/http-foundation/releases/tag/v6.3.4), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.4](https://github.com/symfony/validator/releases/tag/v6.3.4), 2 days ago) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.4](https://github.com/symfony/serializer/releases/tag/v6.3.4), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.4](https://github.com/symfony/http-foundation/releases/tag/v6.3.4), 2 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
