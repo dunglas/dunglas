@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2), today) - Doctrine Object Relational Mapper (ORM)
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.4](https://github.com/symfony/validator/releases/tag/v6.3.4), 2 days ago) - Provides tools to validate values
 - [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.4](https://github.com/symfony/serializer/releases/tag/v6.3.4), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.4](https://github.com/symfony/http-foundation/releases/tag/v6.3.4), 2 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
