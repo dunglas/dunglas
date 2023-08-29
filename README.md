@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC3](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC3), today) - 
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.4](https://github.com/symfony/validator/releases/tag/v6.3.4), 3 days ago) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.4](https://github.com/symfony/serializer/releases/tag/v6.3.4), 3 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
