@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (today)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 day ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2), today) - Doctrine Object Relational Mapper (ORM)
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.4](https://github.com/symfony/validator/releases/tag/v6.3.4), 2 days ago) - Provides tools to validate values
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.4](https://github.com/symfony/serializer/releases/tag/v6.3.4), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.4](https://github.com/symfony/validator/releases/tag/v6.3.4), 3 days ago) - Provides tools to validate values
+- [symfony/serializer](https://github.com/symfony/serializer) ([v6.3.4](https://github.com/symfony/serializer/releases/tag/v6.3.4), 3 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [viageo-ch](https://github.com/viageo-ch) (1 week ago)
+- [viageo-ch](https://github.com/viageo-ch) (2 weeks ago)
 - [damienalexandre](https://github.com/damienalexandre) (4 months ago)
 - [toofff](https://github.com/toofff) (7 months ago)
