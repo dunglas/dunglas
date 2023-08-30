@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shivammathur/php-builder](https://github.com/shivammathur/php-builder) ([8.4](https://github.com/shivammathur/php-builder/releases/tag/8.4), today) - :elephant: Build PHP 5.6 and newer
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.24.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.24.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC3](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC3), 1 day ago) - 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
