@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC4](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC4), today) - 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [shivammathur/php-builder](https://github.com/shivammathur/php-builder) ([8.4](https://github.com/shivammathur/php-builder/releases/tag/8.4), 1 day ago) - :elephant: Build PHP 5.6 and newer
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.24.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.24.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
