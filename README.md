@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC4](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC4), today) - 
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC5](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC5), today) - 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [shivammathur/php-builder](https://github.com/shivammathur/php-builder) ([8.4](https://github.com/shivammathur/php-builder/releases/tag/8.4), 1 day ago) - :elephant: Build PHP 5.6 and newer
 
