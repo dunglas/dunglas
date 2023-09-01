@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC6](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC6), today) - 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.25.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC5](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC5), 1 day ago) - 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
