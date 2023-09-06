@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (6 days ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (1 week ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC6](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC6), 4 days ago) - 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC6](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC6), 5 days ago) - 
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
