@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.26.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.1), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
