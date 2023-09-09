@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), today) - A tool to automatically fix PHP Coding Standards issues
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc6](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc6), today) - Build single static PHP binary, with PHP project together, with popular extensions included.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc6](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc6), 1 day ago) - Build single static PHP binary, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [6x faster Docker builds for Symfony and API Platform projects](https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/) (1 month ago)
-- [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (3 months ago)
+- [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (4 months ago)
 - [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (5 months ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (5 months ago)
 - [Read the Linux Manual Pages on Mac and BSD, Directly From the Terminal](https://dunglas.dev/2022/12/read-the-linux-manual-pages-on-mac-and-bsd-directly-from-the-terminal/) (8 months ago)
