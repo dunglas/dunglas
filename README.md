@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (1 week ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (1 day ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
 
