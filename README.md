@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (1 day ago)
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (2 weeks ago)
 
 #### 🌱 My latest projects
 
