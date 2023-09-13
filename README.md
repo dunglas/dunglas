@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (1 day ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.2), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [viageo-ch](https://github.com/viageo-ch) (4 weeks ago)
 - [damienalexandre](https://github.com/damienalexandre) (5 months ago)
-- [toofff](https://github.com/toofff) (7 months ago)
+- [toofff](https://github.com/toofff) (8 months ago)
