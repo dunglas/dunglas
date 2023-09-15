@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.18](https://github.com/api-platform/core/releases/tag/v3.1.18), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.2](https://github.com/hashicorp/nomad/releases/tag/v1.6.2), 2 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
