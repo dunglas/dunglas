@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.27.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.27.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.18](https://github.com/api-platform/core/releases/tag/v3.1.18), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
