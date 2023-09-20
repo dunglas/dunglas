@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.2-canary.0](https://github.com/vercel/next.js/releases/tag/v13.5.2-canary.0), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.2-canary.1](https://github.com/vercel/next.js/releases/tag/v13.5.2-canary.1), today) - The React Framework
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.27.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.27.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
 
