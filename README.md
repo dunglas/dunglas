@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.0-beta.1), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.2](https://github.com/vercel/next.js/releases/tag/v13.5.2), today) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.0-beta.1), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.2](https://github.com/vercel/next.js/releases/tag/v13.5.2), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [guillaumedelre](https://github.com/guillaumedelre) (today)
+- [guillaumedelre](https://github.com/guillaumedelre) (1 day ago)
 - [DubbleClick](https://github.com/DubbleClick) (1 week ago)
 - [viageo-ch](https://github.com/viageo-ch) (1 month ago)
