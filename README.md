@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.0-beta.1), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.2](https://github.com/vercel/next.js/releases/tag/v13.5.2), 1 day ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
