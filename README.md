@@ -30,4 +30,4 @@
 
 - [guillaumedelre](https://github.com/guillaumedelre) (3 days ago)
 - [DubbleClick](https://github.com/DubbleClick) (1 week ago)
-- [viageo-ch](https://github.com/viageo-ch) (1 month ago)
+- [damienalexandre](https://github.com/damienalexandre) (5 months ago)
