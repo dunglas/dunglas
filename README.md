@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.3-canary.4](https://github.com/vercel/next.js/releases/tag/v13.5.3-canary.4), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.3](https://github.com/vercel/next.js/releases/tag/v13.5.3), today) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.0](https://github.com/quic-go/quic-go/releases/tag/v0.39.0), 1 day ago) - A QUIC implementation in pure go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.21.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.21.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
