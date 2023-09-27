@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.2](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.2), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.3](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.3), today) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.30.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.21.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.21.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
