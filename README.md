@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.2](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.2), today) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.30.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.21.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.21.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.0](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.0), 2 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
