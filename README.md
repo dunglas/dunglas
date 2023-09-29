@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.31.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.31.0), today) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.32.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.32.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.7](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.7), today) - The React Framework
 - [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) ([v1.0.0](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin/releases/tag/v1.0.0), 1 day ago) - Sell and deliver securely during the COVID-19 pandemic!
 
