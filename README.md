@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.6](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.6), today) - The React Framework
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) ([v1.0.0](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin/releases/tag/v1.0.0), today) - Sell and deliver securely during the COVID-19 pandemic!
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.6](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.6), 1 day ago) - The React Framework
+- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) ([v1.0.0](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin/releases/tag/v1.0.0), 1 day ago) - Sell and deliver securely during the COVID-19 pandemic!
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [guillaumedelre](https://github.com/guillaumedelre) (1 week ago)
 - [DubbleClick](https://github.com/DubbleClick) (2 weeks ago)
-- [damienalexandre](https://github.com/damienalexandre) (5 months ago)
+- [damienalexandre](https://github.com/damienalexandre) (6 months ago)
