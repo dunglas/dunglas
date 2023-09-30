@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4-canary.8](https://github.com/vercel/next.js/releases/tag/v13.5.4-canary.8), 1 day ago) - The React Framework
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.34.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) ([v1.0.0](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin/releases/tag/v1.0.0), 2 days ago) - Sell and deliver securely during the COVID-19 pandemic!
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), today) - Provides tools to validate values
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.5](https://github.com/symfony/http-foundation/releases/tag/v6.3.5), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.5](https://github.com/symfony/framework-bundle/releases/tag/v6.3.5), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
