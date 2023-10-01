@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), today) - Provides tools to validate values
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.5](https://github.com/symfony/http-foundation/releases/tag/v6.3.5), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.5](https://github.com/symfony/framework-bundle/releases/tag/v6.3.5), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 1 day ago) - Provides tools to validate values
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.5](https://github.com/symfony/http-foundation/releases/tag/v6.3.5), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.5](https://github.com/symfony/framework-bundle/releases/tag/v6.3.5), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/) (1 week ago)
-- [6x faster Docker builds for Symfony and API Platform projects](https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/) (1 month ago)
+- [6x faster Docker builds for Symfony and API Platform projects](https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/) (2 months ago)
 - [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (4 months ago)
 - [How Can JSON-LD Help You Sell More?](https://dunglas.dev/2023/04/how-can-json-ld-help-you-sell-more/) (6 months ago)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/) (6 months ago)
