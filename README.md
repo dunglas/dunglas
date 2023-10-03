@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.4](https://github.com/vercel/next.js/releases/tag/v13.5.4), today) - The React Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 3 days ago) - Provides tools to validate values
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.5](https://github.com/symfony/http-foundation/releases/tag/v6.3.5), 3 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.5](https://github.com/symfony/framework-bundle/releases/tag/v6.3.5), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
