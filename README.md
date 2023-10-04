@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.1](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.1), today) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.34.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.0](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.0), 1 day ago) - The React Framework
 - [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 4 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
