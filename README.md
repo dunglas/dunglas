@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
+- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.0](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.0), today) - The React Framework
-- [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 3 days ago) - Provides tools to validate values
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.5](https://github.com/symfony/http-foundation/releases/tag/v6.3.5), 3 days ago) - Defines an object-oriented layer for the HTTP specification
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.34.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.0](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.0), 1 day ago) - The React Framework
+- [symfony/validator](https://github.com/symfony/validator) ([v6.3.5](https://github.com/symfony/validator/releases/tag/v6.3.5), 4 days ago) - Provides tools to validate values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [guillaumedelre](https://github.com/guillaumedelre) (1 week ago)
-- [DubbleClick](https://github.com/DubbleClick) (2 weeks ago)
+- [guillaumedelre](https://github.com/guillaumedelre) (2 weeks ago)
+- [DubbleClick](https://github.com/DubbleClick) (3 weeks ago)
 - [damienalexandre](https://github.com/damienalexandre) (6 months ago)
