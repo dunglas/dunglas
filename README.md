@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc7](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc7), 1 day ago) - Build single static PHP binary, with PHP project together, with popular extensions included.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.2](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.2), 2 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
