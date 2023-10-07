@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (today)
-- [dunglas/.github](https://github.com/dunglas/.github) - My GitHub files (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (1 day ago)
+- [dunglas/.github](https://github.com/dunglas/.github) - My GitHub files (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.4](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.4), today) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc7](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc7), 1 day ago) - Build single static PHP binary, with PHP project together, with popular extensions included.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.4](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.4), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc7](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc7), 2 days ago) - Build single static PHP binary, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
