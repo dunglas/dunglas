@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 - [api-platform/.github](https://github.com/api-platform/.github) - Default community health files (2 days ago)
-- [dunglas/.github](https://github.com/dunglas/.github) - My GitHub files (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.3](https://github.com/dunglas/mercure/releases/tag/v0.15.3), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.8.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.8.0), today) - DigitalOcean API v2 client for PHP
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.4](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.4), 2 days ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
