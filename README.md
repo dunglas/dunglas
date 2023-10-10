@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.3](https://github.com/dunglas/mercure/releases/tag/v0.15.3), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.8.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.8.0), 1 day ago) - DigitalOcean API v2 client for PHP
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.4](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.4), 3 days ago) - The React Framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.3](https://github.com/dunglas/mercure/releases/tag/v0.15.3), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.8.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.8.0), 2 days ago) - DigitalOcean API v2 client for PHP
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.4](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.4), 4 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
