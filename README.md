@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), today) - The modern PHP app server
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.3](https://github.com/dunglas/mercure/releases/tag/v0.15.3), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.8.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.8.0), 2 days ago) - DigitalOcean API v2 client for PHP
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.4](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.4), 4 days ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
