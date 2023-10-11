@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.5](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.5), today) - The React Framework
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), today) - The modern PHP app server
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.3](https://github.com/dunglas/mercure/releases/tag/v0.15.3), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.5](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.5), 1 day ago) - The React Framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), 1 day ago) - The modern PHP app server
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.3](https://github.com/dunglas/mercure/releases/tag/v0.15.3), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [guillaumedelre](https://github.com/guillaumedelre) (2 weeks ago)
-- [DubbleClick](https://github.com/DubbleClick) (3 weeks ago)
+- [guillaumedelre](https://github.com/guillaumedelre) (3 weeks ago)
+- [DubbleClick](https://github.com/DubbleClick) (4 weeks ago)
 - [damienalexandre](https://github.com/damienalexandre) (6 months ago)
