@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.5](https://github.com/caddyserver/caddy/releases/tag/v2.7.5), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.7](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.7), today) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1), today) - Doctrine Object Relational Mapper (ORM)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), 1 day ago) - The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
