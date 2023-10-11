@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1), today) - Doctrine Object Relational Mapper (ORM)
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.6](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.6), today) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-beta.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-beta.2), 1 day ago) - The modern PHP app server
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.3](https://github.com/dunglas/mercure/releases/tag/v0.15.3), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
