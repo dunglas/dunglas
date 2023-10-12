@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.8](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.8), today) - The React Framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.5](https://github.com/caddyserver/caddy/releases/tag/v2.7.5), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5-canary.7](https://github.com/vercel/next.js/releases/tag/v13.5.5-canary.7), 1 day ago) - The React Framework
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
