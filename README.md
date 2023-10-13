@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.1](https://github.com/dunglas/vulcain/releases/tag/v0.5.1), 1 day ago) - Fast and idiomatic client-driven REST APIs.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.4](https://github.com/dunglas/mercure/releases/tag/v0.15.4), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.5](https://github.com/dunglas/mercure/releases/tag/v0.15.5), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.2](https://github.com/dunglas/vulcain/releases/tag/v0.5.2), today) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.2](https://github.com/dunglas/httpsfv/releases/tag/v1.0.2), today) - A Go library to parse and serialize HTTP structured field values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
