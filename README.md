@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.1](https://github.com/dunglas/vulcain/releases/tag/v0.5.1), today) - Fast and idiomatic client-driven REST APIs.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1), today) - A tool to automatically fix PHP Coding Standards issues
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.4](https://github.com/dunglas/mercure/releases/tag/v0.15.4), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.1](https://github.com/dunglas/vulcain/releases/tag/v0.5.1), 1 day ago) - Fast and idiomatic client-driven REST APIs.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.4](https://github.com/dunglas/mercure/releases/tag/v0.15.4), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [guillaumedelre](https://github.com/guillaumedelre) (3 weeks ago)
-- [DubbleClick](https://github.com/DubbleClick) (4 weeks ago)
+- [DubbleClick](https://github.com/DubbleClick) (1 month ago)
 - [damienalexandre](https://github.com/damienalexandre) (6 months ago)
