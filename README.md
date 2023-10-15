@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.5](https://github.com/dunglas/mercure/releases/tag/v0.15.5), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.2](https://github.com/dunglas/vulcain/releases/tag/v0.5.2), 1 day ago) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.2](https://github.com/dunglas/httpsfv/releases/tag/v1.0.2), 1 day ago) - A Go library to parse and serialize HTTP structured field values
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.5](https://github.com/dunglas/mercure/releases/tag/v0.15.5), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.2](https://github.com/dunglas/vulcain/releases/tag/v0.5.2), 2 days ago) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.2](https://github.com/dunglas/httpsfv/releases/tag/v1.0.2), 2 days ago) - A Go library to parse and serialize HTTP structured field values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (1 day ago)
+- [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (2 days ago)
 - [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/) (3 weeks ago)
 - [6x faster Docker builds for Symfony and API Platform projects](https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/) (2 months ago)
 - [Mitigate Attacks on your PHP Supply Chain](https://dunglas.dev/2023/05/mitigate-attacks-on-your-php-supply-chain/) (5 months ago)
