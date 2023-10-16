@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.5](https://github.com/vercel/next.js/releases/tag/v13.5.5), today) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.5](https://github.com/dunglas/mercure/releases/tag/v0.15.5), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.2](https://github.com/dunglas/vulcain/releases/tag/v0.5.2), 3 days ago) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.0.2](https://github.com/dunglas/httpsfv/releases/tag/v1.0.2), 3 days ago) - A Go library to parse and serialize HTTP structured field values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
