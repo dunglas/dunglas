@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.1](https://github.com/quic-go/quic-go/releases/tag/v0.39.1), today) - A QUIC implementation in pure go
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.6-canary.1](https://github.com/vercel/next.js/releases/tag/v13.5.6-canary.1), 1 day ago) - The React Framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.5](https://github.com/dunglas/mercure/releases/tag/v0.15.5), 4 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v0.5.2](https://github.com/dunglas/vulcain/releases/tag/v0.5.2), 4 days ago) - Fast and idiomatic client-driven REST APIs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
