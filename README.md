@@ -8,9 +8,9 @@
 
 #### 🌱 My latest projects
 
-- [dunglas/vulcain-website](https://github.com/dunglas/vulcain-website) - The website of Vulcain.rocks
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP
+- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP
 
 #### 🔭 Latest releases I've contributed to
 
