@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.6-canary.5](https://github.com/vercel/next.js/releases/tag/v13.5.6-canary.5), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.6-canary.6](https://github.com/vercel/next.js/releases/tag/v13.5.6-canary.6), today) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.1](https://github.com/quic-go/quic-go/releases/tag/v0.39.1), 1 day ago) - A QUIC implementation in pure go
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.5](https://github.com/dunglas/mercure/releases/tag/v0.15.5), 5 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
