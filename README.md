@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
 - [coopTilleuls/vulcain-website](https://github.com/coopTilleuls/vulcain-website) - The website of Vulcain.rocks (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.0](https://github.com/dunglas/vulcain/releases/tag/v1.0.0), today) - Fast and idiomatic client-driven REST APIs.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.6-canary.7](https://github.com/vercel/next.js/releases/tag/v13.5.6-canary.7), 1 day ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.21](https://github.com/api-platform/core/releases/tag/v3.1.21), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
