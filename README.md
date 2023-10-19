@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.6-canary.8](https://github.com/vercel/next.js/releases/tag/v13.5.6-canary.8), today) - The React Framework
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.0](https://github.com/dunglas/vulcain/releases/tag/v1.0.0), today) - Fast and idiomatic client-driven REST APIs.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.6-canary.7](https://github.com/vercel/next.js/releases/tag/v13.5.6-canary.7), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
