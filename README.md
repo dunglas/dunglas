@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [guillaumedelre](https://github.com/guillaumedelre) (1 month ago)
 - [DubbleClick](https://github.com/DubbleClick) (1 month ago)
 - [damienalexandre](https://github.com/damienalexandre) (6 months ago)
+- [toofff](https://github.com/toofff) (9 months ago)
