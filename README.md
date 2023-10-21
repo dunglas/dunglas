@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.7-canary.13](https://github.com/vercel/next.js/releases/tag/v13.5.7-canary.13), 1 day ago) - The React Framework
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.0](https://github.com/dunglas/vulcain/releases/tag/v1.0.0), 2 days ago) - Fast and idiomatic client-driven REST APIs.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.4.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.4.0-BETA1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.4.0-BETA1), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.3.6](https://github.com/symfony/http-foundation/releases/tag/v6.3.6), today) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
