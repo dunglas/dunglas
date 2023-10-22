@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [coopTilleuls/vulcain-website](https://github.com/coopTilleuls/vulcain-website) - The website of Vulcain.rocks (3 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [coopTilleuls/vulcain-website](https://github.com/coopTilleuls/vulcain-website) - The website of Vulcain.rocks (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/web-link](https://github.com/symfony/web-link) ([v7.0.0-BETA1](https://github.com/symfony/web-link/releases/tag/v7.0.0-BETA1), today) - Manages links between resources
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.0.0-BETA1), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-BETA1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.7-canary.14](https://github.com/vercel/next.js/releases/tag/v13.5.7-canary.14), 1 day ago) - The React Framework
+- [symfony/web-link](https://github.com/symfony/web-link) ([v7.0.0-BETA1](https://github.com/symfony/web-link/releases/tag/v7.0.0-BETA1), 1 day ago) - Manages links between resources
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.0.0-BETA1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
