@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v13.5.7-canary.15](https://github.com/vercel/next.js/releases/tag/v13.5.7-canary.15), 1 day ago) - The React Framework
 - [symfony/web-link](https://github.com/symfony/web-link) ([v7.0.0-BETA1](https://github.com/symfony/web-link/releases/tag/v7.0.0-BETA1), 2 days ago) - Manages links between resources
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.0.0-BETA1), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-BETA1), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
