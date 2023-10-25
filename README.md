@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (6 days ago)
-- [coopTilleuls/vulcain-website](https://github.com/coopTilleuls/vulcain-website) - The website of Vulcain.rocks (1 week ago)
 
 #### 🌱 My latest projects
 
