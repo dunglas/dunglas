@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.0](https://github.com/api-platform/api-platform/releases/tag/v3.2.0), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.2](https://github.com/quic-go/quic-go/releases/tag/v0.39.2), today) - A QUIC implementation in pure go
 - [symfony/web-link](https://github.com/symfony/web-link) ([v7.0.0-BETA1](https://github.com/symfony/web-link/releases/tag/v7.0.0-BETA1), 4 days ago) - Manages links between resources
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.0.0-BETA1), 4 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
