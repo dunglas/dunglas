@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (5 days ago)
-- [coopTilleuls/vulcain-website](https://github.com/coopTilleuls/vulcain-website) - The website of Vulcain.rocks (6 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (6 days ago)
+- [coopTilleuls/vulcain-website](https://github.com/coopTilleuls/vulcain-website) - The website of Vulcain.rocks (1 week ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/web-link](https://github.com/symfony/web-link) ([v7.0.0-BETA1](https://github.com/symfony/web-link/releases/tag/v7.0.0-BETA1), 3 days ago) - Manages links between resources
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.0.0-BETA1), 3 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-BETA1), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/web-link](https://github.com/symfony/web-link) ([v7.0.0-BETA1](https://github.com/symfony/web-link/releases/tag/v7.0.0-BETA1), 4 days ago) - Manages links between resources
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.0.0-BETA1), 4 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-BETA1), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [HansPeterOrding](https://github.com/HansPeterOrding) (1 day ago)
+- [HansPeterOrding](https://github.com/HansPeterOrding) (2 days ago)
 - [DubbleClick](https://github.com/DubbleClick) (1 month ago)
 - [damienalexandre](https://github.com/damienalexandre) (6 months ago)
