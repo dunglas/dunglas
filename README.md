@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.1), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.2](https://github.com/quic-go/quic-go/releases/tag/v0.39.2), today) - A QUIC implementation in pure go
-- [symfony/web-link](https://github.com/symfony/web-link) ([v7.0.0-BETA1](https://github.com/symfony/web-link/releases/tag/v7.0.0-BETA1), 4 days ago) - Manages links between resources
+- [rails/propshaft](https://github.com/rails/propshaft) ([v0.8.0](https://github.com/rails/propshaft/releases/tag/v0.8.0), 1 day ago) - Deliver assets for Rails
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.1), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.2](https://github.com/quic-go/quic-go/releases/tag/v0.39.2), 1 day ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [HansPeterOrding](https://github.com/HansPeterOrding) (2 days ago)
+- [HansPeterOrding](https://github.com/HansPeterOrding) (3 days ago)
 - [DubbleClick](https://github.com/DubbleClick) (1 month ago)
 - [damienalexandre](https://github.com/damienalexandre) (6 months ago)
