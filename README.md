@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 
 #### 🌱 My latest projects
 
