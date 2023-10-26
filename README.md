@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [rails/propshaft](https://github.com/rails/propshaft) ([v0.8.0](https://github.com/rails/propshaft/releases/tag/v0.8.0), 1 day ago) - Deliver assets for Rails
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.1), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.2](https://github.com/quic-go/quic-go/releases/tag/v0.39.2), 1 day ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
