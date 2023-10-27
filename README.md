@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.36.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.36.0), today) - A tool to automatically fix PHP Coding Standards issues
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.2](https://github.com/api-platform/api-platform/releases/tag/v3.2.2), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.2](https://github.com/api-platform/core/releases/tag/v3.2.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.3](https://github.com/quic-go/quic-go/releases/tag/v0.39.3), today) - A QUIC implementation in pure go
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.0](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.0), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
