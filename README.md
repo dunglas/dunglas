@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.2](https://github.com/api-platform/core/releases/tag/v3.2.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.39.3](https://github.com/quic-go/quic-go/releases/tag/v0.39.3), today) - A QUIC implementation in pure go
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.0](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.0), 1 day ago) - The React Framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
