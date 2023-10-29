@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
-- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (2 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.37.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.0), today) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.1](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.1), 1 day ago) - The React Framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.2](https://github.com/api-platform/api-platform/releases/tag/v3.2.2), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.2](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.2), 1 day ago) - The React Framework
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.37.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.2](https://github.com/api-platform/api-platform/releases/tag/v3.2.2), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [HansPeterOrding](https://github.com/HansPeterOrding) (5 days ago)
+- [HansPeterOrding](https://github.com/HansPeterOrding) (6 days ago)
 - [DubbleClick](https://github.com/DubbleClick) (1 month ago)
-- [damienalexandre](https://github.com/damienalexandre) (6 months ago)
+- [damienalexandre](https://github.com/damienalexandre) (7 months ago)
