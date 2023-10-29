@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.30](https://github.com/symfony/http-foundation/releases/tag/v5.4.30), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.30](https://github.com/symfony/framework-bundle/releases/tag/v5.4.30), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.30](https://github.com/symfony/symfony/releases/tag/v5.4.30), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.4.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v6.4.0-BETA2), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.4.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v6.4.0-BETA2), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.4.0-BETA2), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
