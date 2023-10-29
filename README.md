@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.2](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.2), 1 day ago) - The React Framework
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.37.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.2](https://github.com/api-platform/api-platform/releases/tag/v3.2.2), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.30](https://github.com/symfony/http-foundation/releases/tag/v5.4.30), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.30](https://github.com/symfony/framework-bundle/releases/tag/v5.4.30), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.30](https://github.com/symfony/symfony/releases/tag/v5.4.30), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
