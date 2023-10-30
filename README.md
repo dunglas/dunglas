@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.2), today) - The modern PHP app server
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1](https://github.com/vercel/next.js/releases/tag/v14.0.1), today) - The React Framework
 - [symfony/flex](https://github.com/symfony/flex) ([v2.4.1](https://github.com/symfony/flex/releases/tag/v2.4.1), today) - Composer plugin for Symfony
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.1](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.1), today) - Cache APT packages in GitHub Actions
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
