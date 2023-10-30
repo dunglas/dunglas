@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.4](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.4), today) - The React Framework
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.4.14](https://github.com/hashicorp/nomad/releases/tag/v1.4.14), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.3](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.3), 1 day ago) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
