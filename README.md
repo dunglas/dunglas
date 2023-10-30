@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (today)
 - [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) - [READ ONLY] (today)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (today)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 day ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.3](https://github.com/hashicorp/nomad/releases/tag/v1.6.3), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.3](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.3), 1 day ago) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.0-BETA2](https://github.com/symfony/http-foundation/releases/tag/v7.0.0-BETA2), 1 day ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
