@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.4](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.4), today) - The React Framework
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.4.14](https://github.com/hashicorp/nomad/releases/tag/v1.4.14), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [symfony/flex](https://github.com/symfony/flex) ([v2.4.1](https://github.com/symfony/flex/releases/tag/v2.4.1), today) - Composer plugin for Symfony
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.5](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.5), today) - The React Framework
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.1](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.1), today) - Cache APT packages in GitHub Actions
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
