@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1](https://github.com/vercel/next.js/releases/tag/v14.0.1), today) - The React Framework
 - [symfony/flex](https://github.com/symfony/flex) ([v2.4.1](https://github.com/symfony/flex/releases/tag/v2.4.1), today) - Composer plugin for Symfony
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.1-canary.5](https://github.com/vercel/next.js/releases/tag/v14.0.1-canary.5), today) - The React Framework
 - [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) ([v1.3.1](https://github.com/awalsh128/cache-apt-pkgs-action/releases/tag/v1.3.1), today) - Cache APT packages in GitHub Actions
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
