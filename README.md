@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.1](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.1), today) - The React Framework
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.40.0](https://github.com/quic-go/quic-go/releases/tag/v0.40.0), today) - A QUIC implementation in pure go
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.0](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.0), 1 day ago) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.2), 1 day ago) - The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
