@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) - [READ ONLY] (1 day ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 day ago)
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) - [READ ONLY] (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.5.0](https://github.com/helm/chart-testing-action/releases/tag/v2.5.0), today) - A GitHub Action to lint and test Helm charts
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc8](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc8), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.1](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.1), today) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.40.0](https://github.com/quic-go/quic-go/releases/tag/v0.40.0), today) - A QUIC implementation in pure go
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.2), 1 day ago) - The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
