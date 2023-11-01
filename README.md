@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) - [READ ONLY] (1 day ago)
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
+- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) - [READ ONLY] (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.0](https://github.com/helm/chart-testing-action/releases/tag/v2.6.0), today) - A GitHub Action to lint and test Helm charts
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc8](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc8), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.1](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.1), today) - The React Framework
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.0](https://github.com/helm/chart-testing-action/releases/tag/v2.6.0), 1 day ago) - A GitHub Action to lint and test Helm charts
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc8](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc8), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.1](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.1), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [Khodl](https://github.com/Khodl) (1 day ago)
+- [Khodl](https://github.com/Khodl) (2 days ago)
 - [HansPeterOrding](https://github.com/HansPeterOrding) (1 week ago)
 - [DubbleClick](https://github.com/DubbleClick) (1 month ago)
