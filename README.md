@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.3](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.3), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.5](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.5), today) - The React Framework
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.0](https://github.com/helm/chart-testing-action/releases/tag/v2.6.0), 1 day ago) - A GitHub Action to lint and test Helm charts
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc8](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc8), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
 
