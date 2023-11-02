@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.6](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.6), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.2-canary.8](https://github.com/vercel/next.js/releases/tag/v14.0.2-canary.8), today) - The React Framework
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-beta.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-beta.1), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.0](https://github.com/helm/chart-testing-action/releases/tag/v2.6.0), 2 days ago) - A GitHub Action to lint and test Helm charts
 
