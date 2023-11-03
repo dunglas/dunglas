@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.1](https://github.com/helm/chart-testing-action/releases/tag/v2.6.1), today) - A GitHub Action to lint and test Helm charts
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-beta.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-beta.1), 2 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.0](https://github.com/helm/chart-testing-action/releases/tag/v2.6.0), 3 days ago) - A GitHub Action to lint and test Helm charts
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc8](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc8), 3 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
