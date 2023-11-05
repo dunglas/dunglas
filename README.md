@@ -4,7 +4,7 @@
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (5 days ago)
-- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) - [READ ONLY] (6 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (6 days ago)
 
 #### 🌱 My latest projects
 
