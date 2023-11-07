@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.22.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.22.0), today) - Deliver Go binaries as fast and easily as possible
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.1](https://github.com/helm/chart-testing-action/releases/tag/v2.6.1), 4 days ago) - A GitHub Action to lint and test Helm charts
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-beta.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-beta.1), 6 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
