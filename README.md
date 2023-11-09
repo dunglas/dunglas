@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 week ago)
 - [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.22.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.22.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.1](https://github.com/helm/chart-testing-action/releases/tag/v2.6.1), 5 days ago) - A GitHub Action to lint and test Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.22.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.22.1), today) - Deliver Go binaries as fast and easily as possible
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) ([v2.6.1](https://github.com/helm/chart-testing-action/releases/tag/v2.6.1), 6 days ago) - A GitHub Action to lint and test Helm charts
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
