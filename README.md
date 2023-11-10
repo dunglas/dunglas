@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (1 week ago)
 - [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (1 week ago)
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.3.8](https://github.com/symfony/framework-bundle/releases/tag/v6.3.8), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.8](https://github.com/symfony/symfony/releases/tag/v6.3.8), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-BETA3), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), today) - The Symfony PHP framework
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3-canary.0](https://github.com/vercel/next.js/releases/tag/v14.0.3-canary.0), 1 day ago) - The React Framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
