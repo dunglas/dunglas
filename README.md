@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.0), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3-canary.4](https://github.com/vercel/next.js/releases/tag/v14.0.3-canary.4), today) - The React Framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-BETA3), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), 2 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
