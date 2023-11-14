@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3-canary.7](https://github.com/vercel/next.js/releases/tag/v14.0.3-canary.7), today) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), today) - A tool to automatically fix PHP Coding Standards issues
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3-canary.6](https://github.com/vercel/next.js/releases/tag/v14.0.3-canary.6), 1 day ago) - The React Framework
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.0), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
