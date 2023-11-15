@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 - [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3-canary.7](https://github.com/vercel/next.js/releases/tag/v14.0.3-canary.7), today) - The React Framework
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), today) - A tool to automatically fix PHP Coding Standards issues
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.0), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3-canary.8](https://github.com/vercel/next.js/releases/tag/v14.0.3-canary.8), 1 day ago) - The React Framework
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.0), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
