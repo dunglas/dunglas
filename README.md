@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included. (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
-- [helm/chart-testing-action](https://github.com/helm/chart-testing-action) - A GitHub Action to lint and test Helm charts (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-RC1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.5](https://github.com/api-platform/core/releases/tag/v3.2.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.0), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
