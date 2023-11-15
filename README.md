@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-RC1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1), today) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.5](https://github.com/api-platform/core/releases/tag/v3.2.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
