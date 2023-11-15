@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.5](https://github.com/api-platform/core/releases/tag/v3.2.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3-canary.8](https://github.com/vercel/next.js/releases/tag/v14.0.3-canary.8), 1 day ago) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.0), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
