@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-beta.2](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-beta.2), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta2](https://github.com/doctrine/orm/releases/tag/3.0.0-beta2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-RC1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
