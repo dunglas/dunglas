@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.3](https://github.com/vercel/next.js/releases/tag/v14.0.3), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4-canary.0](https://github.com/vercel/next.js/releases/tag/v14.0.4-canary.0), today) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.3), today) - The modern PHP app server
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-beta.2](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-beta.2), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
