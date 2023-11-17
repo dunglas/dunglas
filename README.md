@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), today) - Doctrine Object Relational Mapper (ORM)
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4-canary.1](https://github.com/vercel/next.js/releases/tag/v14.0.4-canary.1), 1 day ago) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.3), 1 day ago) - The modern PHP app server
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-beta.2](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-beta.2), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
