@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4-canary.7](https://github.com/vercel/next.js/releases/tag/v14.0.4-canary.7), today) - The React Framework
 - [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), today) - Integrates SonataMediaBundle for Symfony with CKEditor
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4-canary.6](https://github.com/vercel/next.js/releases/tag/v14.0.4-canary.6), 1 day ago) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
