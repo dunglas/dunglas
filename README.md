@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 days ago)
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included. (5 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), today) - Integrates SonataMediaBundle for Symfony with CKEditor
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4-canary.6](https://github.com/vercel/next.js/releases/tag/v14.0.4-canary.6), 1 day ago) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), 4 days ago) - Doctrine Object Relational Mapper (ORM)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.3), 5 days ago) - The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
