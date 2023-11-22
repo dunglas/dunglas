@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included. (5 days ago)
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4-canary.7](https://github.com/vercel/next.js/releases/tag/v14.0.4-canary.7), today) - The React Framework
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), today) - Integrates SonataMediaBundle for Symfony with CKEditor
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), 4 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4-canary.8](https://github.com/vercel/next.js/releases/tag/v14.0.4-canary.8), 1 day ago) - The React Framework
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), 1 day ago) - Integrates SonataMediaBundle for Symfony with CKEditor
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [Khodl](https://github.com/Khodl) (3 weeks ago)
-- [HansPeterOrding](https://github.com/HansPeterOrding) (4 weeks ago)
+- [HansPeterOrding](https://github.com/HansPeterOrding) (1 month ago)
 - [DubbleClick](https://github.com/DubbleClick) (2 months ago)
