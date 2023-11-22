@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.39.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), 1 day ago) - Integrates SonataMediaBundle for Symfony with CKEditor
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), 5 days ago) - Doctrine Object Relational Mapper (ORM)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.3), 6 days ago) - The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
