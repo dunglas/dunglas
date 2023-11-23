@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (1 day ago)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included. (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (2 days ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.39.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0), today) - A tool to automatically fix PHP Coding Standards issues
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), 1 day ago) - Integrates SonataMediaBundle for Symfony with CKEditor
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.39.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), 2 days ago) - Integrates SonataMediaBundle for Symfony with CKEditor
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.1](https://github.com/doctrine/orm/releases/tag/2.17.1), 6 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
