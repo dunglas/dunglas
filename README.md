@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.39.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.1), today) - A tool to automatically fix PHP Coding Standards issues
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.6](https://github.com/api-platform/core/releases/tag/v3.2.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.39.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), 3 days ago) - Integrates SonataMediaBundle for Symfony with CKEditor
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
