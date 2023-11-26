@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0-RC2](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0-RC2), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2), today) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.40.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.0), today) - A tool to automatically fix PHP Coding Standards issues
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.6](https://github.com/api-platform/core/releases/tag/v3.2.6), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle/releases/tag/v2.0.0), 5 days ago) - Integrates SonataMediaBundle for Symfony with CKEditor
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
