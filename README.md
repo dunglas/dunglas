@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.7](https://github.com/api-platform/core/releases/tag/v3.2.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.4](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.4), today) - The modern PHP app server
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0](https://github.com/symfony/symfony/releases/tag/v7.0.0), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
