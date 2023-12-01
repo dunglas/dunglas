@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-rc.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.7](https://github.com/api-platform/core/releases/tag/v3.2.7), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0-rc.4](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0-rc.4), 1 day ago) - The modern PHP app server
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.0](https://github.com/symfony/framework-bundle/releases/tag/v7.0.0), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
