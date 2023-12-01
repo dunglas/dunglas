@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.10](https://github.com/symfony/symfony/releases/tag/v6.3.10), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), today) - The Symfony PHP framework
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.0-rc.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.7](https://github.com/api-platform/core/releases/tag/v3.2.7), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
