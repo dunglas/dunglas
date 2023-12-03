@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.40.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.40.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2), today) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.1), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 2 days ago) - The Symfony PHP framework
 
