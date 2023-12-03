@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (1 week ago)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included. (2 weeks ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.40.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2), today) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.1](https://github.com/symfony/framework-bundle/releases/tag/v7.0.1), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 2 days ago) - The Symfony PHP framework
+- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.9.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.9.0), today) - DigitalOcean API v2 client for PHP
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.7](https://github.com/api-platform/api-platform/releases/tag/v3.2.7), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.8](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.8), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
