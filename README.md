@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.0](https://github.com/hashicorp/packer/releases/tag/v1.10.0), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.6](https://github.com/dunglas/mercure/releases/tag/v0.15.6), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.9.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.9.0), 3 days ago) - DigitalOcean API v2 client for PHP
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.7](https://github.com/api-platform/api-platform/releases/tag/v3.2.7), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
