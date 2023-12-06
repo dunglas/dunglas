@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.0](https://github.com/hashicorp/packer/releases/tag/v1.10.0), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.6](https://github.com/dunglas/mercure/releases/tag/v0.15.6), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.9.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.9.0), 2 days ago) - DigitalOcean API v2 client for PHP
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.0](https://github.com/hashicorp/packer/releases/tag/v1.10.0), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.6](https://github.com/dunglas/mercure/releases/tag/v0.15.6), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.9.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.9.0), 3 days ago) - DigitalOcean API v2 client for PHP
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [vinceAmstoutz](https://github.com/vinceAmstoutz) (2 days ago)
+- [vinceAmstoutz](https://github.com/vinceAmstoutz) (3 days ago)
 - [Khodl](https://github.com/Khodl) (1 month ago)
 - [HansPeterOrding](https://github.com/HansPeterOrding) (1 month ago)
