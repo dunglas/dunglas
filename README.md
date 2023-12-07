@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (today)
+- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (1 day ago)
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.6](https://github.com/dunglas/mercure/releases/tag/v0.15.6), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.9.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.9.0), 3 days ago) - DigitalOcean API v2 client for PHP
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.7](https://github.com/api-platform/api-platform/releases/tag/v3.2.7), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.6](https://github.com/dunglas/mercure/releases/tag/v0.15.6), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [DigitalOceanPHP/Client](https://github.com/DigitalOceanPHP/Client) ([4.9.0](https://github.com/DigitalOceanPHP/Client/releases/tag/4.9.0), 4 days ago) - DigitalOcean API v2 client for PHP
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.7](https://github.com/api-platform/api-platform/releases/tag/v3.2.7), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [vinceAmstoutz](https://github.com/vinceAmstoutz) (3 days ago)
+- [vinceAmstoutz](https://github.com/vinceAmstoutz) (4 days ago)
 - [Khodl](https://github.com/Khodl) (1 month ago)
 - [HansPeterOrding](https://github.com/HansPeterOrding) (1 month ago)
