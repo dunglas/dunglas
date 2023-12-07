@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.4](https://github.com/vercel/next.js/releases/tag/v14.0.4), today) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0), today) - The modern PHP app server
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.0](https://github.com/hashicorp/nomad/releases/tag/v1.7.0), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.6](https://github.com/dunglas/mercure/releases/tag/v0.15.6), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
