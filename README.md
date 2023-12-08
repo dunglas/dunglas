@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.5-canary.2](https://github.com/vercel/next.js/releases/tag/v14.0.5-canary.2), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.5-canary.3](https://github.com/vercel/next.js/releases/tag/v14.0.5-canary.3), today) - The React Framework
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.6](https://github.com/caddyserver/caddy/releases/tag/v2.7.6), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.0](https://github.com/dunglas/frankenphp/releases/tag/v1.0.0), 1 day ago) - The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
