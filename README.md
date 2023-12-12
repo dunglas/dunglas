@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) ([0.2.0](https://github.com/php-runtime/frankenphp-symfony/releases/tag/0.2.0), today) - [READ ONLY]
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.0.5-canary.7](https://github.com/vercel/next.js/releases/tag/v14.0.5-canary.7), 1 day ago) - The React Framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.1), 4 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
