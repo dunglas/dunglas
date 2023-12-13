@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.40.1](https://github.com/quic-go/quic-go/releases/tag/v0.40.1), today) - A QUIC implementation in pure go
 - [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) ([0.2.0](https://github.com/php-runtime/frankenphp-symfony/releases/tag/0.2.0), 1 day ago) - [READ ONLY]
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.1](https://github.com/hashicorp/nomad/releases/tag/v1.7.1), 5 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
