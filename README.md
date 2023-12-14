@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
-- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) - [READ ONLY] (2 days ago)
 
 #### 🌱 My latest projects
 
