@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0-rc9](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0-rc9), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.12](https://github.com/hashicorp/nomad/releases/tag/v1.5.12), 2 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.40.1](https://github.com/quic-go/quic-go/releases/tag/v0.40.1), 3 days ago) - A QUIC implementation in pure go
-- [php-runtime/frankenphp-symfony](https://github.com/php-runtime/frankenphp-symfony) ([0.2.0](https://github.com/php-runtime/frankenphp-symfony/releases/tag/0.2.0), 4 days ago) - [READ ONLY]
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
