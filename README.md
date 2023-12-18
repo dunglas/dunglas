@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
+- [Pithikos/C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - A minimal but powerful thread pool in ANSI C (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (4 days ago)
 
 #### 🌱 My latest projects
 
