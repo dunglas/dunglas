@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (today)
-- [Pithikos/C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - A minimal but powerful thread pool in ANSI C (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
+- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (today)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
 
 #### 🌱 My latest projects
 
