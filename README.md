@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.2.2](https://github.com/laravel/octane/releases/tag/v2.2.2), today) - Supercharge your Laravel application&#39;s performance.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.9](https://github.com/api-platform/core/releases/tag/v3.2.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/octane](https://github.com/laravel/octane) ([v2.2.3](https://github.com/laravel/octane/releases/tag/v2.2.3), today) - Supercharge your Laravel application&#39;s performance.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.8](https://github.com/api-platform/api-platform/releases/tag/v3.2.8), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.8](https://github.com/api-platform/core/releases/tag/v3.2.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
