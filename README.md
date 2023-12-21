@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.2](https://github.com/doctrine/orm/releases/tag/2.17.2), today) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.9](https://github.com/api-platform/api-platform/releases/tag/v3.2.9), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.9](https://github.com/api-platform/core/releases/tag/v3.2.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.1](https://github.com/dunglas/vulcain/releases/tag/v1.0.1), 1 day ago) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.7](https://github.com/dunglas/mercure/releases/tag/v0.15.7), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.2](https://github.com/doctrine/orm/releases/tag/2.17.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
