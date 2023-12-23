@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.2.5](https://github.com/laravel/octane/releases/tag/v2.2.5), today) - Supercharge your Laravel application&#39;s performance.
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.1](https://github.com/dunglas/vulcain/releases/tag/v1.0.1), 2 days ago) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.7](https://github.com/dunglas/mercure/releases/tag/v0.15.7), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [laravel/octane](https://github.com/laravel/octane) ([v2.2.5](https://github.com/laravel/octane/releases/tag/v2.2.5), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.1](https://github.com/dunglas/vulcain/releases/tag/v1.0.1), 3 days ago) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.7](https://github.com/dunglas/mercure/releases/tag/v0.15.7), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
