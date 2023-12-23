@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.10](https://github.com/api-platform/api-platform/releases/tag/v3.2.10), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.10](https://github.com/api-platform/core/releases/tag/v3.2.10), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.5](https://github.com/laravel/octane/releases/tag/v2.2.5), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.1](https://github.com/dunglas/vulcain/releases/tag/v1.0.1), 3 days ago) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.7](https://github.com/dunglas/mercure/releases/tag/v0.15.7), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
