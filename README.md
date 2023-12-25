@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), today) - The modern PHP app server 🧟
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.42.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.10](https://github.com/api-platform/api-platform/releases/tag/v3.2.10), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.10](https://github.com/api-platform/core/releases/tag/v3.2.10), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
