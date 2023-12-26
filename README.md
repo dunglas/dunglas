@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), today) - Supercharge your Laravel application&#39;s performance.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 1 day ago) - The modern PHP app server 🧟
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.42.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.10](https://github.com/api-platform/api-platform/releases/tag/v3.2.10), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
