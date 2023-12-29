@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (4 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.43.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.0), today) - A tool to automatically fix PHP Coding Standards issues
-- [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 3 days ago) - The modern PHP app server 🧟
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.43.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 4 days ago) - The modern PHP app server 🧟
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (2 weeks ago)
+- [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (3 weeks ago)
 - [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (1 month ago)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (2 months ago)
 - [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/) (3 months ago)
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [vinceAmstoutz](https://github.com/vinceAmstoutz) (3 weeks ago)
-- [Khodl](https://github.com/Khodl) (1 month ago)
+- [Khodl](https://github.com/Khodl) (2 months ago)
 - [HansPeterOrding](https://github.com/HansPeterOrding) (2 months ago)
