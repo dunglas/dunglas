@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.43.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.1), today) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.44.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.44.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 4 days ago) - The modern PHP app server 🧟
 
