@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.44.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.44.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.45.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.45.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), 4 days ago) - Supercharge your Laravel application&#39;s performance.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.10](https://github.com/api-platform/api-platform/releases/tag/v3.2.10), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
