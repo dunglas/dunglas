@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (3 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 week ago)
 
 #### 🌱 My latest projects
 
