@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (5 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (6 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.2](https://github.com/symfony/framework-bundle/releases/tag/v7.0.2), 6 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 6 days ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.2](https://github.com/symfony/framework-bundle/releases/tag/v7.0.2), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 1 week ago) - The Symfony PHP framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
