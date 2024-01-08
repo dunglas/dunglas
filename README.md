@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0.0), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 1 day ago) - The modern PHP app server 🧟
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0.0), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 2 days ago) - The modern PHP app server 🧟
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.2](https://github.com/symfony/framework-bundle/releases/tag/v7.0.2), 1 week ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
