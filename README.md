@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0.1), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.7](https://github.com/laravel/octane/releases/tag/v2.2.7), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0.0), 3 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 4 days ago) - The modern PHP app server 🧟
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
