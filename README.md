@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.11](https://github.com/api-platform/api-platform/releases/tag/v3.2.11), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.11](https://github.com/api-platform/core/releases/tag/v3.2.11), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0.1), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.2.7](https://github.com/laravel/octane/releases/tag/v2.2.7), 3 days ago) - Supercharge your Laravel application&#39;s performance.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 6 days ago) - The modern PHP app server 🧟
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
