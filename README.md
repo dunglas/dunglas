@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.11](https://github.com/api-platform/api-platform/releases/tag/v3.2.11), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.11](https://github.com/api-platform/core/releases/tag/v3.2.11), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0.1), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.11](https://github.com/api-platform/api-platform/releases/tag/v3.2.11), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.11](https://github.com/api-platform/core/releases/tag/v3.2.11), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.0.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.0.1), 3 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
