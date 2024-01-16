@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (4 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
 
 #### 🌱 My latest projects
 
