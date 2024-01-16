@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.0](https://github.com/laravel/octane/releases/tag/v2.3.0), today) - Supercharge your Laravel application&#39;s performance.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.13](https://github.com/hashicorp/nomad/releases/tag/v1.5.13), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.11](https://github.com/api-platform/api-platform/releases/tag/v3.2.11), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.11](https://github.com/api-platform/core/releases/tag/v3.2.11), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
