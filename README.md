@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (3 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.13](https://github.com/hashicorp/nomad/releases/tag/v1.5.13), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.11](https://github.com/api-platform/api-platform/releases/tag/v3.2.11), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.11](https://github.com/api-platform/core/releases/tag/v3.2.11), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.13](https://github.com/hashicorp/nomad/releases/tag/v1.5.13), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.11](https://github.com/api-platform/api-platform/releases/tag/v3.2.11), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.11](https://github.com/api-platform/core/releases/tag/v3.2.11), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
