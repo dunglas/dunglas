@@ -2,21 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (4 days ago)
+- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format. (today)
+- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format.
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.0](https://github.com/laravel/octane/releases/tag/v2.3.0), today) - Supercharge your Laravel application&#39;s performance.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.13](https://github.com/hashicorp/nomad/releases/tag/v1.5.13), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.11](https://github.com/api-platform/api-platform/releases/tag/v3.2.11), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.0](https://github.com/vercel/next.js/releases/tag/v14.1.0), today) - The React Framework
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.3](https://github.com/doctrine/orm/releases/tag/2.17.3), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.41.0](https://github.com/quic-go/quic-go/releases/tag/v0.41.0), 1 day ago) - A QUIC implementation in pure go
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
