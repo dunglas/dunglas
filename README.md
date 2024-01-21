@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.3](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.3), today) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.3](https://github.com/doctrine/orm/releases/tag/2.17.3), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.4](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.4), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.3](https://github.com/doctrine/orm/releases/tag/2.17.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [vinceAmstoutz](https://github.com/vinceAmstoutz) (1 month ago)
 - [Khodl](https://github.com/Khodl) (2 months ago)
-- [HansPeterOrding](https://github.com/HansPeterOrding) (2 months ago)
+- [HansPeterOrding](https://github.com/HansPeterOrding) (3 months ago)
