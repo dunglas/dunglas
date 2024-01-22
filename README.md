@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.4](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.4), 1 day ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.3](https://github.com/doctrine/orm/releases/tag/2.17.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.5](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.5), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.3](https://github.com/doctrine/orm/releases/tag/2.17.3), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
