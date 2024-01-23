@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.6](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.6), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.7](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.7), today) - The React Framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.12](https://github.com/api-platform/demo/releases/tag/v3.2.12), 1 day ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
