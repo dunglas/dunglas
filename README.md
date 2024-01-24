@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.8](https://github.com/dunglas/mercure/releases/tag/v0.15.8), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.9](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.9), today) - The React Framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.1](https://github.com/laravel/octane/releases/tag/v2.3.1), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.12](https://github.com/api-platform/demo/releases/tag/v3.2.12), 2 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
