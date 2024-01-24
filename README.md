@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.9](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.9), today) - The React Framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.1](https://github.com/laravel/octane/releases/tag/v2.3.1), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.7](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.7), 1 day ago) - The React Framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.12](https://github.com/api-platform/demo/releases/tag/v3.2.12), 2 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
