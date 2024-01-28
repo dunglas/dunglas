@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.17.4](https://github.com/doctrine/orm/releases/tag/2.17.4), today) - Doctrine Object Relational Mapper (ORM)
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.9](https://github.com/dunglas/mercure/releases/tag/v0.15.9), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.1](https://github.com/laravel/octane/releases/tag/v2.3.1), 5 days ago) - Supercharge your Laravel application&#39;s performance.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.12](https://github.com/api-platform/demo/releases/tag/v3.2.12), 6 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
