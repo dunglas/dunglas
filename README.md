@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.35](https://github.com/symfony/framework-bundle/releases/tag/v5.4.35), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.35](https://github.com/symfony/symfony/releases/tag/v5.4.35), today) - The Symfony PHP framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.2](https://github.com/laravel/octane/releases/tag/v2.3.2), today) - Supercharge your Laravel application&#39;s performance.
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.1](https://github.com/hashicorp/packer/releases/tag/v1.10.1), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) ([v1.0.0](https://github.com/dunglas/caddy-cbrotli/releases/tag/v1.0.0), today) - A Caddy module providing support for the Brotli compression format.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
