@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (6 days ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.1](https://github.com/hashicorp/packer/releases/tag/v1.10.1), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) ([v1.0.0](https://github.com/dunglas/caddy-cbrotli/releases/tag/v1.0.0), today) - A Caddy module providing support for the Brotli compression format.
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-RC1](https://github.com/doctrine/orm/releases/tag/3.0.0-RC1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.9](https://github.com/dunglas/mercure/releases/tag/v0.15.9), 5 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
