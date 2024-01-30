@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.2](https://github.com/laravel/octane/releases/tag/v2.3.2), today) - Supercharge your Laravel application&#39;s performance.
 - [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.1](https://github.com/hashicorp/packer/releases/tag/v1.10.1), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) ([v1.0.0](https://github.com/dunglas/caddy-cbrotli/releases/tag/v1.0.0), today) - A Caddy module providing support for the Brotli compression format.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-RC1](https://github.com/doctrine/orm/releases/tag/3.0.0-RC1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
