@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.4.3](https://github.com/symfony/framework-bundle/releases/tag/v6.4.3), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.3](https://github.com/symfony/symfony/releases/tag/v6.4.3), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.3](https://github.com/symfony/framework-bundle/releases/tag/v7.0.3), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), today) - The Symfony PHP framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.2](https://github.com/laravel/octane/releases/tag/v2.3.2), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
