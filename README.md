@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.3](https://github.com/symfony/framework-bundle/releases/tag/v7.0.3), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 1 day ago) - The Symfony PHP framework
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.2](https://github.com/laravel/octane/releases/tag/v2.3.2), 2 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
