@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.0), today) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.3](https://github.com/symfony/framework-bundle/releases/tag/v7.0.3), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
