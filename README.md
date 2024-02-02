@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.3](https://github.com/symfony/framework-bundle/releases/tag/v7.0.3), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.3](https://github.com/symfony/framework-bundle/releases/tag/v7.0.3), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
