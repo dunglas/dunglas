@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0), today) - Doctrine Object Relational Mapper (ORM)
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.5.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.5.0), today) - Pretty REST-like URLs in EasyAdmin
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.0), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
