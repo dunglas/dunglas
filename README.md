@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.0), today) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.0), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
