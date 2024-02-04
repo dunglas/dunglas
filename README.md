@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) - Pretty REST-like URLs in EasyAdmin (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) - Pretty REST-like URLs in EasyAdmin (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0), today) - Doctrine Object Relational Mapper (ORM)
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.5.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.5.0), today) - Pretty REST-like URLs in EasyAdmin
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.0), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.5.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.5.0), 1 day ago) - Pretty REST-like URLs in EasyAdmin
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.0), 2 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
