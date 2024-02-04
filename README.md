@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) - Pretty REST-like URLs in EasyAdmin (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0-beta.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0-beta.2), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), today) - The modern PHP app server 🧟
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.5.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.5.0), 1 day ago) - Pretty REST-like URLs in EasyAdmin
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.0](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.0), 2 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
