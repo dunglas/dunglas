@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), today) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), today) - Demo app for the API Platform framework
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0-beta.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0-beta.2), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 day ago) - The modern PHP app server 🧟
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
