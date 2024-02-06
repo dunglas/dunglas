@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.2), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), 1 day ago) - Demo app for the API Platform framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0-beta.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0-beta.2), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
