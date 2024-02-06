@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) - Pretty REST-like URLs in EasyAdmin (2 days ago)
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (2 days ago)
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) - Pretty REST-like URLs in EasyAdmin (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), today) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), today) - Demo app for the API Platform framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0-beta.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0-beta.2), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), 1 day ago) - Demo app for the API Platform framework
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0-beta.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0-beta.2), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (1 month ago)
+- [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (2 months ago)
 - [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (2 months ago)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (3 months ago)
 - [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/) (4 months ago)
