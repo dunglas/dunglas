@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.14](https://github.com/hashicorp/nomad/releases/tag/v1.5.14), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.2), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 3 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), 3 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
