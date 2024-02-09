@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (4 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (5 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.14](https://github.com/hashicorp/nomad/releases/tag/v1.5.14), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.2), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 3 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.14](https://github.com/hashicorp/nomad/releases/tag/v1.5.14), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.2](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.2), 3 days ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.1](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.1), 4 days ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
