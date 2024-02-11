@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
+- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [helm/kind-action](https://github.com/helm/kind-action) ([v1.9.0](https://github.com/helm/kind-action/releases/tag/v1.9.0), today) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.3), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC7](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC7), 2 days ago) - 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.14](https://github.com/hashicorp/nomad/releases/tag/v1.5.14), 3 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
