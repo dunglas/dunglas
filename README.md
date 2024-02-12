@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
+- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [helm/kind-action](https://github.com/helm/kind-action) ([v1.9.0](https://github.com/helm/kind-action/releases/tag/v1.9.0), today) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.3), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC7](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC7), 2 days ago) - 
+- [helm/kind-action](https://github.com/helm/kind-action) ([v1.9.0](https://github.com/helm/kind-action/releases/tag/v1.9.0), 1 day ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.3), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC7](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC7), 3 days ago) - 
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
