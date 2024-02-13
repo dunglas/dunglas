@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0), today) - 
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.9.0](https://github.com/helm/kind-action/releases/tag/v1.9.0), 2 days ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.3), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0-RC7](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0-RC7), 4 days ago) - 
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
