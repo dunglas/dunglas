@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.8](https://github.com/hashicorp/nomad/releases/tag/v1.6.8), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0), today) - 
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.9.0](https://github.com/helm/kind-action/releases/tag/v1.9.0), 2 days ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.11.3](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.3), 2 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
