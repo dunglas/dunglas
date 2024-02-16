@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (3 days ago)
-- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (4 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (4 days ago)
+- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (5 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.3](https://github.com/laravel/octane/releases/tag/v2.3.3), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.8](https://github.com/hashicorp/nomad/releases/tag/v1.6.8), 2 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0), 2 days ago) - 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.3](https://github.com/laravel/octane/releases/tag/v2.3.3), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.8](https://github.com/hashicorp/nomad/releases/tag/v1.6.8), 3 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0), 3 days ago) - 
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
