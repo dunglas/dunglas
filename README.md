@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0-beta.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0-beta.3), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.3](https://github.com/laravel/octane/releases/tag/v2.3.3), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.8](https://github.com/hashicorp/nomad/releases/tag/v1.6.8), 3 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [sweetrdf/rdfInterface](https://github.com/sweetrdf/rdfInterface) ([2.0.0](https://github.com/sweetrdf/rdfInterface/releases/tag/2.0.0), 3 days ago) - 
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
