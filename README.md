@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.18.1](https://github.com/doctrine/orm/releases/tag/2.18.1), today) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1), today) - Doctrine Object Relational Mapper (ORM)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.14](https://github.com/api-platform/core/releases/tag/v3.2.14), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
