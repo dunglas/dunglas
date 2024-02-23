@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (6 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 week ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1), today) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.14](https://github.com/api-platform/core/releases/tag/v3.2.14), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.14](https://github.com/api-platform/core/releases/tag/v3.2.14), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
