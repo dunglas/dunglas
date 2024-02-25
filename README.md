@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.0), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
