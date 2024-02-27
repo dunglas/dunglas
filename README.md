@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.4](https://github.com/laravel/octane/releases/tag/v2.3.4), today) - Supercharge your Laravel application&#39;s performance.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.4](https://github.com/symfony/http-foundation/releases/tag/v7.0.4), today) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.4](https://github.com/symfony/framework-bundle/releases/tag/v7.0.4), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
