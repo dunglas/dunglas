@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.1), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1), 5 days ago) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.4](https://github.com/symfony/http-foundation/releases/tag/v7.0.4), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.4](https://github.com/symfony/framework-bundle/releases/tag/v7.0.4), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
