@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
+- [StephenMiracle](https://github.com/StephenMiracle) (today)
 - [vinceAmstoutz](https://github.com/vinceAmstoutz) (2 months ago)
 - [Khodl](https://github.com/Khodl) (4 months ago)
-- [HansPeterOrding](https://github.com/HansPeterOrding) (4 months ago)
