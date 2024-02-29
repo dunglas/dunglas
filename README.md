@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.15](https://github.com/api-platform/api-platform/releases/tag/v3.2.15), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.15](https://github.com/api-platform/core/releases/tag/v3.2.15), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.4](https://github.com/laravel/octane/releases/tag/v2.3.4), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.4](https://github.com/symfony/http-foundation/releases/tag/v7.0.4), 2 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.4](https://github.com/symfony/framework-bundle/releases/tag/v7.0.4), 2 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
