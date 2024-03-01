@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.2), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.82](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.82), 1 day ago) - The React Framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.15](https://github.com/api-platform/api-platform/releases/tag/v3.2.15), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.15](https://github.com/api-platform/core/releases/tag/v3.2.15), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
