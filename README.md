@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.2](https://github.com/doctrine/orm/releases/tag/3.0.2), today) - Doctrine Object Relational Mapper (ORM)
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.2), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.1-canary.82](https://github.com/vercel/next.js/releases/tag/v14.1.1-canary.82), 1 day ago) - The React Framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.15](https://github.com/api-platform/api-platform/releases/tag/v3.2.15), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
