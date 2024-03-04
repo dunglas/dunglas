@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.37](https://github.com/symfony/symfony/releases/tag/v5.4.37), today) - The Symfony PHP framework
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.2-canary.5](https://github.com/vercel/next.js/releases/tag/v14.1.2-canary.5), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.2](https://github.com/vercel/next.js/releases/tag/v14.1.2), today) - The React Framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), today) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.15](https://github.com/api-platform/demo/releases/tag/v3.2.15), today) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
