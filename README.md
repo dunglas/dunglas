@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.37](https://github.com/symfony/symfony/releases/tag/v5.4.37), today) - The Symfony PHP framework
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.2-canary.5](https://github.com/vercel/next.js/releases/tag/v14.1.2-canary.5), today) - The React Framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.15](https://github.com/api-platform/demo/releases/tag/v3.2.15), today) - Demo app for the API Platform framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.3), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
