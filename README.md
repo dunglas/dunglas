@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 
 #### 🌱 My latest projects
