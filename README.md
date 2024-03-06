@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [StephenMiracle/frankenwp](https://github.com/StephenMiracle/frankenwp) -  (1 day ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.2](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.2), 1 day ago) - The React Framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.16](https://github.com/api-platform/demo/releases/tag/v3.2.16), today) - Demo app for the API Platform framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.3](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.3), today) - The React Framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.16](https://github.com/api-platform/api-platform/releases/tag/v3.2.16), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
