@@ -15,8 +15,8 @@
 #### 🔭 Latest releases I've contributed to
 
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.6](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.6), 1 day ago) - The React Framework
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.2](https://github.com/hashicorp/packer/releases/tag/v1.10.2), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.16](https://github.com/api-platform/demo/releases/tag/v3.2.16), 1 day ago) - Demo app for the API Platform framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.16](https://github.com/api-platform/api-platform/releases/tag/v3.2.16), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
