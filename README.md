@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (4 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (5 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.4](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.4), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.16](https://github.com/api-platform/api-platform/releases/tag/v3.2.16), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.6](https://github.com/api-platform/admin/releases/tag/v3.4.6), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.4](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.4), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.16](https://github.com/api-platform/api-platform/releases/tag/v3.2.16), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.6](https://github.com/api-platform/admin/releases/tag/v3.4.6), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
