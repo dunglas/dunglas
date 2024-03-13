@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.5](https://github.com/laravel/octane/releases/tag/v2.3.5), today) - Supercharge your Laravel application&#39;s performance.
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.11.0-alpha](https://github.com/hashicorp/packer/releases/tag/v1.11.0-alpha), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.16](https://github.com/hashicorp/nomad/releases/tag/v1.5.16), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.5](https://github.com/laravel/octane/releases/tag/v2.3.5), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.11.0-alpha](https://github.com/hashicorp/packer/releases/tag/v1.11.0-alpha), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.16](https://github.com/hashicorp/nomad/releases/tag/v1.5.16), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (1 week ago)
+- [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (2 weeks ago)
 - [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (3 months ago)
 - [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (3 months ago)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (5 months ago)
