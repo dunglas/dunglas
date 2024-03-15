@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (3 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.5](https://github.com/laravel/octane/releases/tag/v2.3.5), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.16](https://github.com/hashicorp/nomad/releases/tag/v1.5.16), 2 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.4](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.4), 4 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.5](https://github.com/laravel/octane/releases/tag/v2.3.5), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.5.16](https://github.com/hashicorp/nomad/releases/tag/v1.5.16), 3 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.4](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.4), 5 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
