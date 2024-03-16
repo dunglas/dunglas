@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.5), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.6.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.6.0), today) - Pretty REST-like URLs in EasyAdmin
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.17](https://github.com/api-platform/demo/releases/tag/v3.2.17), 1 day ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.17](https://github.com/api-platform/core/releases/tag/v3.2.17), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
