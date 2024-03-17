@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (4 days ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1), today) - Doctrine Object Relational Mapper (ORM)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.5), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.6.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.6.0), today) - Pretty REST-like URLs in EasyAdmin
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.5), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.6.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.6.0), 1 day ago) - Pretty REST-like URLs in EasyAdmin
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
