@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (3 days ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.10](https://github.com/dunglas/mercure/releases/tag/v0.15.10), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.42.0](https://github.com/quic-go/quic-go/releases/tag/v0.42.0), today) - A QUIC implementation in pure Go
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.5), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
