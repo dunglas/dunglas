@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.2](https://github.com/dunglas/vulcain/releases/tag/v1.0.2), today) - Fast and idiomatic client-driven REST APIs.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.10](https://github.com/dunglas/mercure/releases/tag/v0.15.10), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.42.0](https://github.com/quic-go/quic-go/releases/tag/v0.42.0), today) - A QUIC implementation in pure Go
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
