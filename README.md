@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.42.0](https://github.com/quic-go/quic-go/releases/tag/v0.42.0), today) - A QUIC implementation in pure Go
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.5](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.5), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.6.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.6.0), 2 days ago) - Pretty REST-like URLs in EasyAdmin
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
