@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2), today) - Doctrine Object Relational Mapper (ORM)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.2](https://github.com/dunglas/vulcain/releases/tag/v1.0.2), today) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.10](https://github.com/dunglas/mercure/releases/tag/v0.15.10), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.2](https://github.com/dunglas/vulcain/releases/tag/v1.0.2), 1 day ago) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.10](https://github.com/dunglas/mercure/releases/tag/v0.15.10), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -24,7 +24,7 @@
 - [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (3 months ago)
 - [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (3 months ago)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (5 months ago)
-- [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/) (5 months ago)
+- [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
