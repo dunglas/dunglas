@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.12.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.12.0), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.2](https://github.com/dunglas/vulcain/releases/tag/v1.0.2), 1 day ago) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.10](https://github.com/dunglas/mercure/releases/tag/v0.15.10), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
