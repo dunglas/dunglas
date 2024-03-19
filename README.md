@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), today) - 🧟 The modern PHP app server
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.12.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.12.0), today) - Symfony Bundle for Doctrine ORM and DBAL
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.2](https://github.com/dunglas/vulcain/releases/tag/v1.0.2), 1 day ago) - Fast and idiomatic client-driven REST APIs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
