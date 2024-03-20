@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.1.4](https://github.com/vercel/next.js/releases/tag/v14.1.4), today) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), 1 day ago) - 🧟 The modern PHP app server
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.12.0](https://github.com/doctrine/DoctrineBundle/releases/tag/2.12.0), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
