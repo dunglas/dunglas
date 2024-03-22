@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.38](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.38), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.39](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.39), today) - The React Framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1), today) - Doctrine Object Relational Mapper (ORM)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), 3 days ago) - 🧟 The modern PHP app server
 
