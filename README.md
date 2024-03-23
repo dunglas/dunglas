@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (4 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.7.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.7.0), today) - Pretty REST-like URLs in EasyAdmin
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.39](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.39), today) - The React Framework
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1), today) - Doctrine Object Relational Mapper (ORM)
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.7.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.7.0), 1 day ago) - Pretty REST-like URLs in EasyAdmin
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.39](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.39), 1 day ago) - The React Framework
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
