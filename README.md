@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.42](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.42), today) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.2](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2), today) - 🧟 The modern PHP app server
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.0-canary.41](https://github.com/vercel/next.js/releases/tag/v14.2.0-canary.41), 1 day ago) - The React Framework
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.7.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.7.0), 3 days ago) - Pretty REST-like URLs in EasyAdmin
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
