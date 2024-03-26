@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.11.0-alpha2](https://github.com/hashicorp/packer/releases/tag/v1.11.0-alpha2), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), today) - Supercharge your Laravel application&#39;s performance.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.18](https://github.com/api-platform/api-platform/releases/tag/v3.2.18), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.18](https://github.com/api-platform/demo/releases/tag/v3.2.18), 1 day ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
