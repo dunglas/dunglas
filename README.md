@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [phpinternalsbook/PHP-Internals-Book](https://github.com/phpinternalsbook/PHP-Internals-Book) - PHP Internals Book (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [phpinternalsbook/PHP-Internals-Book](https://github.com/phpinternalsbook/PHP-Internals-Book) - PHP Internals Book (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.11.0-alpha2](https://github.com/hashicorp/packer/releases/tag/v1.11.0-alpha2), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.18](https://github.com/api-platform/api-platform/releases/tag/v3.2.18), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.11.0-alpha2](https://github.com/hashicorp/packer/releases/tag/v1.11.0-alpha2), 2 days ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.18](https://github.com/api-platform/api-platform/releases/tag/v3.2.18), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [StephenMiracle](https://github.com/StephenMiracle) (3 weeks ago)
+- [StephenMiracle](https://github.com/StephenMiracle) (4 weeks ago)
 - [vinceAmstoutz](https://github.com/vinceAmstoutz) (3 months ago)
-- [Khodl](https://github.com/Khodl) (4 months ago)
+- [Khodl](https://github.com/Khodl) (5 months ago)
