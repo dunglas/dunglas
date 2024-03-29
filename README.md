@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (today)
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (1 day ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
-- [phpinternalsbook/PHP-Internals-Book](https://github.com/phpinternalsbook/PHP-Internals-Book) - PHP Internals Book (5 days ago)
 
 #### 🌱 My latest projects
 
