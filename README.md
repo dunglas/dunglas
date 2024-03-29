@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.18](https://github.com/api-platform/api-platform/releases/tag/v3.2.18), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.18](https://github.com/api-platform/demo/releases/tag/v3.2.18), 4 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
