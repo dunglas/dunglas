@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [golang/go](https://github.com/golang/go) - The Go programming language (1 day ago)
 - [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 day ago)
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 week ago)
 
 #### 🌱 My latest projects
 
