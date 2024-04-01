@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [golang/go](https://github.com/golang/go) - The Go programming language (1 day ago)
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (1 day ago)
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (3 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
+- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (2 days ago)
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.19](https://github.com/api-platform/demo/releases/tag/v3.2.19), 2 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), 5 days ago) - Supercharge your Laravel application&#39;s performance.
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.19](https://github.com/api-platform/demo/releases/tag/v3.2.19), 3 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), 6 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [StephenMiracle](https://github.com/StephenMiracle) (1 month ago)
-- [vinceAmstoutz](https://github.com/vinceAmstoutz) (3 months ago)
+- [vinceAmstoutz](https://github.com/vinceAmstoutz) (4 months ago)
 - [Khodl](https://github.com/Khodl) (5 months ago)
