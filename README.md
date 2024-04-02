@@ -20,11 +20,11 @@
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
+- [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (today)
 - [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (1 month ago)
 - [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (3 months ago)
 - [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (4 months ago)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (5 months ago)
-- [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
