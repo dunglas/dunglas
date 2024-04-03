@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.7](https://github.com/laravel/octane/releases/tag/v2.3.7), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.6](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.6), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.19](https://github.com/api-platform/demo/releases/tag/v3.2.19), 5 days ago) - Demo app for the API Platform framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.6](https://github.com/symfony/http-foundation/releases/tag/v7.0.6), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.6](https://github.com/symfony/framework-bundle/releases/tag/v7.0.6), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
