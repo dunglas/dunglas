@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (6 days ago)
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP (6 days ago)
 
 #### 🌱 My latest projects
 
