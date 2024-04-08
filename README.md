@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.11](https://github.com/dunglas/mercure/releases/tag/v0.15.11), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.5](https://github.com/symfony/mercure/releases/tag/v0.6.5), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.20](https://github.com/api-platform/api-platform/releases/tag/v3.2.20), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.20](https://github.com/api-platform/demo/releases/tag/v3.2.20), 5 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.20](https://github.com/api-platform/core/releases/tag/v3.2.20), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
