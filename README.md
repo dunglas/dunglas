@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.1-canary.3](https://github.com/vercel/next.js/releases/tag/v14.2.1-canary.3), 1 day ago) - The React Framework
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.7](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.7), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.15.11](https://github.com/dunglas/mercure/releases/tag/v0.15.11), 5 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
