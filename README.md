@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.1-canary.3](https://github.com/vercel/next.js/releases/tag/v14.2.1-canary.3), 1 day ago) - The React Framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.7](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.7), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.1-canary.4](https://github.com/vercel/next.js/releases/tag/v14.2.1-canary.4), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.1.7](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.1.7), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
