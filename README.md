@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.1-canary.7](https://github.com/vercel/next.js/releases/tag/v14.2.1-canary.7), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.0](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.0), today) - The React Framework
 - [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.3.2](https://github.com/xdebug/xdebug/releases/tag/3.3.2), today) - Xdebug — Step Debugger and Debugging Aid for PHP
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.21](https://github.com/api-platform/api-platform/releases/tag/v3.2.21), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
