@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.4](https://github.com/doctrine/orm/releases/tag/2.19.4), today) - Doctrine Object Relational Mapper (ORM)
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.1](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.1), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.3](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.3), today) - The React Framework
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), today) - Doctrine Object Relational Mapper (ORM)
 - [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.3.2](https://github.com/xdebug/xdebug/releases/tag/3.3.2), today) - Xdebug — Step Debugger and Debugging Aid for PHP
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
