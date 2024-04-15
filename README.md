@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.1-canary.5](https://github.com/vercel/next.js/releases/tag/v14.2.1-canary.5), today) - The React Framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.21](https://github.com/api-platform/demo/releases/tag/v3.2.21), today) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.1-canary.5](https://github.com/vercel/next.js/releases/tag/v14.2.1-canary.5), 1 day ago) - The React Framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.21](https://github.com/api-platform/demo/releases/tag/v3.2.21), 1 day ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
