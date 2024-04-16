@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.6.10](https://github.com/hashicorp/nomad/releases/tag/v1.6.10), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.3.2](https://github.com/xdebug/xdebug/releases/tag/3.3.2), 1 day ago) - Xdebug — Step Debugger and Debugging Aid for PHP
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.21](https://github.com/api-platform/api-platform/releases/tag/v3.2.21), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
