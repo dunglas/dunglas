@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.7](https://github.com/hashicorp/nomad/releases/tag/v1.7.7), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.3.2](https://github.com/xdebug/xdebug/releases/tag/3.3.2), 1 day ago) - Xdebug — Step Debugger and Debugging Aid for PHP
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.7](https://github.com/hashicorp/nomad/releases/tag/v1.7.7), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.3.2](https://github.com/xdebug/xdebug/releases/tag/3.3.2), 2 days ago) - Xdebug — Step Debugger and Debugging Aid for PHP
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
