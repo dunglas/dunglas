@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (5 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.13](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.13), 1 day ago) - The React Framework
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.7](https://github.com/hashicorp/nomad/releases/tag/v1.7.7), 4 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.14](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.14), 1 day ago) - The React Framework
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.7](https://github.com/hashicorp/nomad/releases/tag/v1.7.7), 5 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), 6 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [mgionas](https://github.com/mgionas) (3 days ago)
+- [mgionas](https://github.com/mgionas) (4 days ago)
 - [StephenMiracle](https://github.com/StephenMiracle) (1 month ago)
 - [vinceAmstoutz](https://github.com/vinceAmstoutz) (4 months ago)
