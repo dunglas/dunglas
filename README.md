@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.3](https://github.com/hashicorp/packer/releases/tag/v1.10.3), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.16](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.16), today) - The React Framework
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.7](https://github.com/hashicorp/nomad/releases/tag/v1.7.7), 6 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
