@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.15](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.15), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.16](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.16), today) - The React Framework
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.7](https://github.com/hashicorp/nomad/releases/tag/v1.7.7), 6 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 
