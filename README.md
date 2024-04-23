@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), today) - Supercharge your Laravel application&#39;s performance.
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.10.0](https://github.com/helm/kind-action/releases/tag/v1.10.0), today) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.3](https://github.com/hashicorp/packer/releases/tag/v1.10.3), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.7.7](https://github.com/hashicorp/nomad/releases/tag/v1.7.7), 1 week ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
