@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), today) - Supercharge your Laravel application&#39;s performance.
-- [helm/kind-action](https://github.com/helm/kind-action) ([v1.10.0](https://github.com/helm/kind-action/releases/tag/v1.10.0), today) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.3](https://github.com/hashicorp/packer/releases/tag/v1.10.3), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [helm/kind-action](https://github.com/helm/kind-action) ([v1.10.0](https://github.com/helm/kind-action/releases/tag/v1.10.0), 1 day ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.10.3](https://github.com/hashicorp/packer/releases/tag/v1.10.3), 2 days ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [mgionas](https://github.com/mgionas) (6 days ago)
+- [mgionas](https://github.com/mgionas) (1 week ago)
 - [StephenMiracle](https://github.com/StephenMiracle) (1 month ago)
 - [vinceAmstoutz](https://github.com/vinceAmstoutz) (4 months ago)
