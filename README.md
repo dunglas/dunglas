@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.22](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.22), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.23](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.23), today) - The React Framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 2 days ago) - Supercharge your Laravel application&#39;s performance.
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.10.0](https://github.com/helm/kind-action/releases/tag/v1.10.0), 2 days ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 
