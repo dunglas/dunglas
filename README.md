@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.3](https://github.com/vercel/next.js/releases/tag/v14.2.3), today) - The React Framework
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [helm/kind-action](https://github.com/helm/kind-action) ([v1.10.0](https://github.com/helm/kind-action/releases/tag/v1.10.0), 1 day ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.22](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.22), 1 day ago) - The React Framework
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [helm/kind-action](https://github.com/helm/kind-action) ([v1.10.0](https://github.com/helm/kind-action/releases/tag/v1.10.0), 2 days ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
