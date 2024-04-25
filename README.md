@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), today) - 🧟 The modern PHP app server
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.23](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.23), today) - The React Framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [helm/kind-action](https://github.com/helm/kind-action) ([v1.10.0](https://github.com/helm/kind-action/releases/tag/v1.10.0), 2 days ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
