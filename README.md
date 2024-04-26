@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2 (today)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2 (1 day ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,16 +14,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), today) - 🧟 The modern PHP app server
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.23](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.23), today) - The React Framework
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.24](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.24), 1 day ago) - The React Framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 1 day ago) - 🧟 The modern PHP app server
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (3 weeks ago)
 - [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (1 month ago)
 - [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (4 months ago)
-- [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (4 months ago)
+- [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (5 months ago)
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
