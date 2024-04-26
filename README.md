@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.25](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.25), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.26](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.26), today) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 1 day ago) - 🧟 The modern PHP app server
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 
