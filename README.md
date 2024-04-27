@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.43.0](https://github.com/quic-go/quic-go/releases/tag/v0.43.0), today) - A QUIC implementation in pure Go
 - [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.28](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.28), 1 day ago) - The React Framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 2 days ago) - 🧟 The modern PHP app server
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.8](https://github.com/laravel/octane/releases/tag/v2.3.8), 4 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
