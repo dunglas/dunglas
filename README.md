@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2 (3 days ago)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2 (4 days ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.29](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.29), 1 day ago) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.43.0](https://github.com/quic-go/quic-go/releases/tag/v0.43.0), 1 day ago) - A QUIC implementation in pure Go
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 3 days ago) - 🧟 The modern PHP app server
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.30](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.30), 1 day ago) - The React Framework
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.43.0](https://github.com/quic-go/quic-go/releases/tag/v0.43.0), 2 days ago) - A QUIC implementation in pure Go
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 4 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [l0wskilled](https://github.com/l0wskilled) (today)
+- [l0wskilled](https://github.com/l0wskilled) (1 day ago)
 - [mgionas](https://github.com/mgionas) (1 week ago)
-- [StephenMiracle](https://github.com/StephenMiracle) (1 month ago)
+- [StephenMiracle](https://github.com/StephenMiracle) (2 months ago)
