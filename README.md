@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 - [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2 (4 days ago)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.3.0-canary.30](https://github.com/vercel/next.js/releases/tag/v14.3.0-canary.30), 1 day ago) - The React Framework
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) ([v0.43.0](https://github.com/quic-go/quic-go/releases/tag/v0.43.0), 2 days ago) - A QUIC implementation in pure Go
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 4 days ago) - 🧟 The modern PHP app server
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.39](https://github.com/symfony/http-foundation/releases/tag/v5.4.39), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.39](https://github.com/symfony/framework-bundle/releases/tag/v5.4.39), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.39](https://github.com/symfony/symfony/releases/tag/v5.4.39), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
