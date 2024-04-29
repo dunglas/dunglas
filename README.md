@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.0](https://github.com/api-platform/demo/releases/tag/v3.3.0), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.0](https://github.com/api-platform/core/releases/tag/v3.3.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.7](https://github.com/symfony/http-foundation/releases/tag/v7.0.7), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.0.7](https://github.com/symfony/framework-bundle/releases/tag/v7.0.7), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
