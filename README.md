@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.5](https://github.com/doctrine/orm/releases/tag/2.19.5), today) - Doctrine Object Relational Mapper (ORM)
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.0](https://github.com/api-platform/demo/releases/tag/v3.3.0), 1 day ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.0](https://github.com/api-platform/core/releases/tag/v3.3.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.7](https://github.com/symfony/http-foundation/releases/tag/v7.0.7), 1 day ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
