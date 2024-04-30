@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (1 day ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 day ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0), today) - The Laravel Framework.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.0](https://github.com/api-platform/api-platform/releases/tag/v3.3.0), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3), today) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.0](https://github.com/api-platform/demo/releases/tag/v3.3.0), 1 day ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
