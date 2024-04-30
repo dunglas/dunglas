@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.9](https://github.com/laravel/octane/releases/tag/v2.3.9), today) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0), today) - The Laravel Framework.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.0](https://github.com/api-platform/api-platform/releases/tag/v3.3.0), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3), today) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
