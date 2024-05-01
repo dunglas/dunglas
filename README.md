@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 day ago)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 days ago)
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.9](https://github.com/laravel/octane/releases/tag/v2.3.9), today) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0), today) - The Laravel Framework.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.0](https://github.com/api-platform/api-platform/releases/tag/v3.3.0), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.9](https://github.com/laravel/octane/releases/tag/v2.3.9), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0), 1 day ago) - The Laravel Framework.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.0](https://github.com/api-platform/api-platform/releases/tag/v3.3.0), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [l0wskilled](https://github.com/l0wskilled) (2 days ago)
-- [mgionas](https://github.com/mgionas) (1 week ago)
+- [l0wskilled](https://github.com/l0wskilled) (3 days ago)
+- [mgionas](https://github.com/mgionas) (2 weeks ago)
 - [StephenMiracle](https://github.com/StephenMiracle) (2 months ago)
