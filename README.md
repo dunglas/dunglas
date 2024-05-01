@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.1), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.9](https://github.com/laravel/octane/releases/tag/v2.3.9), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0), 1 day ago) - The Laravel Framework.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.0](https://github.com/api-platform/api-platform/releases/tag/v3.3.0), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
