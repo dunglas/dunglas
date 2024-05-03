@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.1](https://github.com/api-platform/core/releases/tag/v3.3.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.2](https://github.com/api-platform/core/releases/tag/v3.3.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-BETA1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-BETA1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
