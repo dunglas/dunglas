@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 days ago)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 days ago)
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-BETA1), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-BETA1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-BETA1), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-BETA1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [l0wskilled](https://github.com/l0wskilled) (4 days ago)
+- [l0wskilled](https://github.com/l0wskilled) (5 days ago)
 - [mgionas](https://github.com/mgionas) (2 weeks ago)
 - [StephenMiracle](https://github.com/StephenMiracle) (2 months ago)
