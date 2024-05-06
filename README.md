@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.0), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.2](https://github.com/api-platform/api-platform/releases/tag/v3.3.2), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.2](https://github.com/api-platform/core/releases/tag/v3.3.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-BETA1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-BETA1), 4 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
