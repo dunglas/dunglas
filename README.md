@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.0), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.2](https://github.com/api-platform/api-platform/releases/tag/v3.3.2), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.2](https://github.com/api-platform/core/releases/tag/v3.3.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.0), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.2](https://github.com/api-platform/api-platform/releases/tag/v3.3.2), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.2](https://github.com/api-platform/core/releases/tag/v3.3.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
