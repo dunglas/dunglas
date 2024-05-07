@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.10](https://github.com/laravel/octane/releases/tag/v2.3.10), today) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), today) - The Laravel Framework.
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.0-beta.1](https://github.com/hashicorp/nomad/releases/tag/v1.8.0-beta.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
