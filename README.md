@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), today) - The Laravel Framework.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.0-beta.1](https://github.com/hashicorp/nomad/releases/tag/v1.8.0-beta.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.0), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.2](https://github.com/api-platform/api-platform/releases/tag/v3.3.2), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
