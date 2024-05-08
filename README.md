@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.10](https://github.com/laravel/octane/releases/tag/v2.3.10), today) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), today) - The Laravel Framework.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.10](https://github.com/laravel/octane/releases/tag/v2.3.10), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), 1 day ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [l0wskilled](https://github.com/l0wskilled) (1 week ago)
-- [mgionas](https://github.com/mgionas) (2 weeks ago)
+- [mgionas](https://github.com/mgionas) (3 weeks ago)
 - [StephenMiracle](https://github.com/StephenMiracle) (2 months ago)
