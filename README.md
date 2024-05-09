@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 week ago)
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.10](https://github.com/laravel/octane/releases/tag/v2.3.10), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), 1 day ago) - The Laravel Framework.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.10](https://github.com/laravel/octane/releases/tag/v2.3.10), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), 2 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
