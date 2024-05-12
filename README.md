@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 week ago)
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.3](https://github.com/api-platform/core/releases/tag/v3.3.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), 4 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.10](https://github.com/laravel/octane/releases/tag/v2.3.10), 4 days ago) - Supercharge your Laravel application&#39;s performance.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.3](https://github.com/api-platform/core/releases/tag/v3.3.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), 5 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.10](https://github.com/laravel/octane/releases/tag/v2.3.10), 5 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [l0wskilled](https://github.com/l0wskilled) (1 week ago)
+- [l0wskilled](https://github.com/l0wskilled) (2 weeks ago)
 - [mgionas](https://github.com/mgionas) (3 weeks ago)
 - [StephenMiracle](https://github.com/StephenMiracle) (2 months ago)
