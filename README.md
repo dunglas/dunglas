@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.7](https://github.com/api-platform/admin/releases/tag/v3.4.7), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.3](https://github.com/api-platform/demo/releases/tag/v3.3.3), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.3](https://github.com/api-platform/core/releases/tag/v3.3.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-beta.2), 6 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
