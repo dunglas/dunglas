@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (2 weeks ago)
-- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (2 weeks ago)
+- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (1 week ago)
 
 #### 🌱 My latest projects
 
