@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.7](https://github.com/api-platform/admin/releases/tag/v3.4.7), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.3](https://github.com/api-platform/demo/releases/tag/v3.3.3), today) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.3](https://github.com/api-platform/core/releases/tag/v3.3.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.7](https://github.com/api-platform/admin/releases/tag/v3.4.7), 1 day ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.3](https://github.com/api-platform/demo/releases/tag/v3.3.3), 1 day ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.3](https://github.com/api-platform/core/releases/tag/v3.3.3), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
