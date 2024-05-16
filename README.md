@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.3](https://github.com/api-platform/api-platform/releases/tag/v3.3.3), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 2 days ago) - 🧟 The modern PHP app server
 - [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.7](https://github.com/api-platform/admin/releases/tag/v3.4.7), 3 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.3](https://github.com/api-platform/demo/releases/tag/v3.3.3), 3 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
