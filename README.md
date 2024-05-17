@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.11.0-beta](https://github.com/hashicorp/packer/releases/tag/v1.11.0-beta), 1 day ago) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.3](https://github.com/api-platform/api-platform/releases/tag/v3.3.3), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 3 days ago) - 🧟 The modern PHP app server
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-RC1), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-RC1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
