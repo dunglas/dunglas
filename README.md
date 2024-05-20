@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-rc.1), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-RC1), 3 days ago) - Defines an object-oriented layer for the HTTP specification
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-RC1), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 3 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
