@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-rc.1), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-RC1), 3 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-RC1), 3 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-rc.1), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-RC1), 4 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-RC1), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
