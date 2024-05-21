@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.1), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0-rc.1](https://github.com/caddyserver/caddy/releases/tag/v2.8.0-rc.1), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0-RC1](https://github.com/symfony/http-foundation/releases/tag/v7.1.0-RC1), 4 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.1.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v7.1.0-RC1), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
