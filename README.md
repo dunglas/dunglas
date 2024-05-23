@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.8.0-rc.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0), today) - Doctrine Object Relational Mapper (ORM)
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.11](https://github.com/laravel/octane/releases/tag/v2.3.11), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.8.0](https://github.com/laravel/framework/releases/tag/v11.8.0), 2 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
