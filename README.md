@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.4](https://github.com/api-platform/core/releases/tag/v3.3.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.8.0-rc.1), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.11](https://github.com/laravel/octane/releases/tag/v2.3.11), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
