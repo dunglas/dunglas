@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.4](https://github.com/api-platform/demo/releases/tag/v3.3.4), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.4](https://github.com/api-platform/core/releases/tag/v3.3.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.0-rc.1](https://github.com/hashicorp/nomad/releases/tag/v1.8.0-rc.1), 4 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
