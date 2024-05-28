@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.9.1](https://github.com/laravel/framework/releases/tag/v11.9.1), today) - The Laravel Framework.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.12](https://github.com/laravel/octane/releases/tag/v2.3.12), today) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.9.0](https://github.com/laravel/framework/releases/tag/v11.9.0), today) - The Laravel Framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.4](https://github.com/api-platform/demo/releases/tag/v3.3.4), 1 day ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
