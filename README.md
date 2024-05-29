@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.0](https://github.com/hashicorp/nomad/releases/tag/v1.8.0), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.5](https://github.com/api-platform/demo/releases/tag/v3.3.5), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.5](https://github.com/api-platform/core/releases/tag/v3.3.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.4](https://github.com/api-platform/api-platform/releases/tag/v3.3.4), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
