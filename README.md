@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.1](https://github.com/caddyserver/caddy/releases/tag/v2.8.1), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.0](https://github.com/dunglas/mercure/releases/tag/v0.16.0), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [laravel/framework](https://github.com/laravel/framework) ([v11.9.2](https://github.com/laravel/framework/releases/tag/v11.9.2), today) - The Laravel Framework.
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.3](https://github.com/dunglas/vulcain/releases/tag/v1.0.3), today) - Fast and idiomatic client-driven REST APIs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
