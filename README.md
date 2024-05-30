@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (3 days ago)
-- [dunglas/frankenphp-wordpress](https://github.com/dunglas/frankenphp-wordpress) - WordPress on FrankenPHP (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 week ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.0](https://github.com/caddyserver/caddy/releases/tag/v2.8.0), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.0](https://github.com/hashicorp/nomad/releases/tag/v1.8.0), 1 day ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.5](https://github.com/api-platform/demo/releases/tag/v3.3.5), 1 day ago) - Demo app for the API Platform framework
+- [laravel/framework](https://github.com/laravel/framework) ([v11.9.2](https://github.com/laravel/framework/releases/tag/v11.9.2), today) - The Laravel Framework.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.3](https://github.com/dunglas/vulcain/releases/tag/v1.0.3), today) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.16.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.16.0), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
