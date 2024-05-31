@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.0](https://github.com/symfony/http-foundation/releases/tag/v7.1.0), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0](https://github.com/symfony/symfony/releases/tag/v7.1.0), today) - The Symfony PHP framework
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.1](https://github.com/caddyserver/caddy/releases/tag/v2.8.1), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.4](https://github.com/dunglas/vulcain/releases/tag/v1.0.4), today) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.16.1](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.16.1), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.0alpha1](https://github.com/xdebug/xdebug/releases/tag/3.4.0alpha1), today) - Xdebug — Step Debugger and Debugging Aid for PHP
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
