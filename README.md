@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.1](https://github.com/dunglas/mercure/releases/tag/v0.16.1), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.4](https://github.com/dunglas/vulcain/releases/tag/v1.0.4), today) - Fast and idiomatic client-driven REST APIs.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.16.1](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.16.1), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.0alpha1](https://github.com/xdebug/xdebug/releases/tag/3.4.0alpha1), today) - Xdebug — Step Debugger and Debugging Aid for PHP
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
