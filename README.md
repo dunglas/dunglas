@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.40](https://github.com/symfony/http-foundation/releases/tag/v5.4.40), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.40](https://github.com/symfony/symfony/releases/tag/v5.4.40), today) - The Symfony PHP framework
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v6.4.8](https://github.com/symfony/http-foundation/releases/tag/v6.4.8), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.8](https://github.com/symfony/symfony/releases/tag/v6.4.8), today) - The Symfony PHP framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.4](https://github.com/caddyserver/caddy/releases/tag/v2.8.4), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
