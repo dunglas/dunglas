@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.2](https://github.com/caddyserver/caddy/releases/tag/v2.8.2), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.1](https://github.com/dunglas/mercure/releases/tag/v0.16.1), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.4](https://github.com/dunglas/vulcain/releases/tag/v1.0.4), 2 days ago) - Fast and idiomatic client-driven REST APIs.
-- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.0alpha1](https://github.com/xdebug/xdebug/releases/tag/3.4.0alpha1), 2 days ago) - Xdebug — Step Debugger and Debugging Aid for PHP
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
