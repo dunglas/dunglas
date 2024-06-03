@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (today)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 day ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.8](https://github.com/symfony/http-foundation/releases/tag/v7.0.8), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.8](https://github.com/symfony/symfony/releases/tag/v7.0.8), today) - The Symfony PHP framework
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.4](https://github.com/caddyserver/caddy/releases/tag/v2.8.4), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.0.8](https://github.com/symfony/http-foundation/releases/tag/v7.0.8), 1 day ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.8](https://github.com/symfony/symfony/releases/tag/v7.0.8), 1 day ago) - The Symfony PHP framework
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.8.4](https://github.com/caddyserver/caddy/releases/tag/v2.8.4), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/) (5 days ago)
+- [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/) (6 days ago)
 - [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (2 months ago)
 - [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (3 months ago)
 - [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (5 months ago)
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [superfly](https://github.com/superfly) (3 days ago)
+- [superfly](https://github.com/superfly) (4 days ago)
 - [l0wskilled](https://github.com/l0wskilled) (1 month ago)
 - [mgionas](https://github.com/mgionas) (1 month ago)
