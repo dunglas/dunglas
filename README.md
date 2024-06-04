@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
+- [sweikenb](https://github.com/sweikenb) (today)
 - [superfly](https://github.com/superfly) (5 days ago)
 - [l0wskilled](https://github.com/l0wskilled) (1 month ago)
-- [mgionas](https://github.com/mgionas) (1 month ago)
