@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (today)
 - [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (today)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🌱 My latest projects
 
