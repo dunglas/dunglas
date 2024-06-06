@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.2](https://github.com/dunglas/mercure/releases/tag/v0.16.2), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.5](https://github.com/dunglas/vulcain/releases/tag/v1.0.5), 1 day ago) - Fast and idiomatic client-driven REST APIs.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.4.0](https://github.com/laravel/octane/releases/tag/v2.4.0), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.2](https://github.com/dunglas/mercure/releases/tag/v0.16.2), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.5](https://github.com/dunglas/vulcain/releases/tag/v1.0.5), 2 days ago) - Fast and idiomatic client-driven REST APIs.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.4.0](https://github.com/laravel/octane/releases/tag/v2.4.0), 2 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [sweikenb](https://github.com/sweikenb) (1 day ago)
-- [superfly](https://github.com/superfly) (6 days ago)
+- [sweikenb](https://github.com/sweikenb) (2 days ago)
+- [superfly](https://github.com/superfly) (1 week ago)
 - [l0wskilled](https://github.com/l0wskilled) (1 month ago)
