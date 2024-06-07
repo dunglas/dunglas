@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.0](https://github.com/dunglas/frankenphp/releases/tag/v1.2.0), 1 day ago) - 🧟 The modern PHP app server
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.2](https://github.com/dunglas/mercure/releases/tag/v0.16.2), 3 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.0.5](https://github.com/dunglas/vulcain/releases/tag/v1.0.5), 3 days ago) - Fast and idiomatic client-driven REST APIs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
