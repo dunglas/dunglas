@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.0](https://github.com/dunglas/frankenphp/releases/tag/v1.2.0), 3 days ago) - 🧟 The modern PHP app server
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.2](https://github.com/dunglas/mercure/releases/tag/v0.16.2), 5 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), 3 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.0](https://github.com/dunglas/frankenphp/releases/tag/v1.2.0), 4 days ago) - 🧟 The modern PHP app server
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.2](https://github.com/dunglas/mercure/releases/tag/v0.16.2), 6 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [sweikenb](https://github.com/sweikenb) (5 days ago)
+- [sweikenb](https://github.com/sweikenb) (6 days ago)
 - [superfly](https://github.com/superfly) (1 week ago)
 - [l0wskilled](https://github.com/l0wskilled) (1 month ago)
