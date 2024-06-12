@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.4](https://github.com/vercel/next.js/releases/tag/v14.2.4), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.27](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.27), today) - The React Framework
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), 5 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.0](https://github.com/dunglas/frankenphp/releases/tag/v1.2.0), 6 days ago) - 🧟 The modern PHP app server
 
