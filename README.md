@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (5 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.4](https://github.com/vercel/next.js/releases/tag/v14.2.4), today) - The React Framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), 4 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.0](https://github.com/dunglas/frankenphp/releases/tag/v1.2.0), 5 days ago) - 🧟 The modern PHP app server
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.4](https://github.com/vercel/next.js/releases/tag/v14.2.4), 1 day ago) - The React Framework
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), 5 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.0](https://github.com/dunglas/frankenphp/releases/tag/v1.2.0), 6 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
