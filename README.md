@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.28](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.28), 1 day ago) - The React Framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), 6 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.28](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.28), 2 days ago) - The React Framework
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.3), 1 week ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.0](https://github.com/dunglas/frankenphp/releases/tag/v1.2.0), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
