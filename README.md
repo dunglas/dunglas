@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (2 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (6 days ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.31](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.31), today) - The React Framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6](https://github.com/api-platform/demo/releases/tag/v3.3.6), today) - Demo app for the API Platform framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.6](https://github.com/api-platform/api-platform/releases/tag/v3.3.6), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.32](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.32), 1 day ago) - The React Framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6](https://github.com/api-platform/demo/releases/tag/v3.3.6), 1 day ago) - Demo app for the API Platform framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.6](https://github.com/api-platform/api-platform/releases/tag/v3.3.6), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
