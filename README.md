@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.8.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.8.0), today) - Pretty REST-like URLs in EasyAdmin
 - [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.35](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.35), 1 day ago) - The React Framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6](https://github.com/api-platform/demo/releases/tag/v3.3.6), 3 days ago) - Demo app for the API Platform framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.6](https://github.com/api-platform/api-platform/releases/tag/v3.3.6), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
