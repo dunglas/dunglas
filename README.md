@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.13](https://github.com/laravel/framework/releases/tag/v10.48.13), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.11.0](https://github.com/laravel/framework/releases/tag/v11.11.0), today) - The Laravel Framework.
 - [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.36](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.36), 1 day ago) - The React Framework
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.8.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.8.0), 1 day ago) - Pretty REST-like URLs in EasyAdmin
 
