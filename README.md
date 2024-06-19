@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.11.0](https://github.com/laravel/framework/releases/tag/v11.11.0), today) - The Laravel Framework.
-- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.36](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.36), 1 day ago) - The React Framework
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.8.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.8.0), 1 day ago) - Pretty REST-like URLs in EasyAdmin
+- [laravel/framework](https://github.com/laravel/framework) ([v11.11.0](https://github.com/laravel/framework/releases/tag/v11.11.0), 1 day ago) - The Laravel Framework.
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.8.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.8.0), 2 days ago) - Pretty REST-like URLs in EasyAdmin
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6](https://github.com/api-platform/demo/releases/tag/v3.3.6), 5 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
