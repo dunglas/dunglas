@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) ([v1.8.1](https://github.com/hashicorp/nomad/releases/tag/v1.8.1), today) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.11.0](https://github.com/laravel/framework/releases/tag/v11.11.0), 1 day ago) - The Laravel Framework.
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.8.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.8.0), 2 days ago) - Pretty REST-like URLs in EasyAdmin
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6](https://github.com/api-platform/demo/releases/tag/v3.3.6), 5 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
