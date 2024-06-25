@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 week ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 weeks ago)
 
 #### 🌱 My latest projects
 
