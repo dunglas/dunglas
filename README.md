@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.1](https://github.com/dunglas/frankenphp/releases/tag/v1.2.1), today) - 🧟 The modern PHP app server
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) ([ent-changelog-1.6.12](https://github.com/hashicorp/nomad/releases/tag/ent-changelog-1.6.12), 4 days ago) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.14](https://github.com/laravel/framework/releases/tag/v10.48.14), 4 days ago) - The Laravel Framework.
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.8.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.8.0), 1 week ago) - Pretty REST-like URLs in EasyAdmin
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
