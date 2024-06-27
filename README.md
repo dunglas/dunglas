@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1), today) - Doctrine Object Relational Mapper (ORM)
 - [laravel/framework](https://github.com/laravel/framework) ([v11.13.0](https://github.com/laravel/framework/releases/tag/v11.13.0), today) - The Laravel Framework.
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.2.4](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.2.4), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6-1](https://github.com/api-platform/demo/releases/tag/v3.3.6-1), 1 day ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
