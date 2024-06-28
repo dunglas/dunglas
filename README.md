@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.9](https://github.com/symfony/symfony/releases/tag/v6.4.9), today) - The Symfony PHP framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.7](https://github.com/api-platform/demo/releases/tag/v3.3.7), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.7](https://github.com/api-platform/core/releases/tag/v3.3.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.13.0](https://github.com/laravel/framework/releases/tag/v11.13.0), 1 day ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
