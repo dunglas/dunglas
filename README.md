@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/packer](https://github.com/hashicorp/packer) ([v1.11.1](https://github.com/hashicorp/packer/releases/tag/v1.11.1), today) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 3 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.7](https://github.com/api-platform/api-platform/releases/tag/v3.3.7), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 3 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
