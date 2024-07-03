@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (5 days ago)
-- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
+- [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.1](https://github.com/laravel/octane/releases/tag/v2.5.1), today) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.15](https://github.com/laravel/framework/releases/tag/v10.48.15), today) - The Laravel Framework.
-- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.1](https://github.com/laravel/octane/releases/tag/v2.5.1), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.15](https://github.com/laravel/framework/releases/tag/v10.48.15), 1 day ago) - The Laravel Framework.
+- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
