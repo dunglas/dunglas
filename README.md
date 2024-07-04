@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.1](https://github.com/laravel/octane/releases/tag/v2.5.1), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.15](https://github.com/laravel/framework/releases/tag/v10.48.15), 1 day ago) - The Laravel Framework.
-- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.1](https://github.com/laravel/octane/releases/tag/v2.5.1), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.15](https://github.com/laravel/framework/releases/tag/v10.48.15), 2 days ago) - The Laravel Framework.
+- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [sweikenb](https://github.com/sweikenb) (4 weeks ago)
+- [sweikenb](https://github.com/sweikenb) (1 month ago)
 - [l0wskilled](https://github.com/l0wskilled) (2 months ago)
 - [mgionas](https://github.com/mgionas) (2 months ago)
