@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.1](https://github.com/laravel/octane/releases/tag/v2.5.1), 1 week ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.15](https://github.com/laravel/framework/releases/tag/v10.48.15), 1 week ago) - The Laravel Framework.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.2](https://github.com/laravel/octane/releases/tag/v2.5.2), today) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.15.0](https://github.com/laravel/framework/releases/tag/v11.15.0), today) - The Laravel Framework.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
