@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.5](https://github.com/vercel/next.js/releases/tag/v14.2.5), today) - The React Framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.5.2](https://github.com/laravel/octane/releases/tag/v2.5.2), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.15.0](https://github.com/laravel/framework/releases/tag/v11.15.0), 1 day ago) - The Laravel Framework.
-- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
