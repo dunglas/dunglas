@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v14.2.5](https://github.com/vercel/next.js/releases/tag/v14.2.5), today) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.62](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.62), today) - The React Framework
 - [laravel/octane](https://github.com/laravel/octane) ([v2.5.2](https://github.com/laravel/octane/releases/tag/v2.5.2), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.15.0](https://github.com/laravel/framework/releases/tag/v11.15.0), 1 day ago) - The Laravel Framework.
 
