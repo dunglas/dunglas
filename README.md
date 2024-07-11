@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (1 week ago)
 
 #### 🌱 My latest projects
 
