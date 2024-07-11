@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (6 days ago)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (6 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.62](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.62), today) - The React Framework
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.2](https://github.com/laravel/octane/releases/tag/v2.5.2), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.15.0](https://github.com/laravel/framework/releases/tag/v11.15.0), 1 day ago) - The Laravel Framework.
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.63](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.63), 1 day ago) - The React Framework
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.2](https://github.com/laravel/octane/releases/tag/v2.5.2), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.15.0](https://github.com/laravel/framework/releases/tag/v11.15.0), 2 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
