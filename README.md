@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.2](https://github.com/dunglas/frankenphp/releases/tag/v1.2.2), today) - 🧟 The modern PHP app server
 - [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.64](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.64), 1 day ago) - The React Framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), 1 day ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.8](https://github.com/api-platform/core/releases/tag/v3.3.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
