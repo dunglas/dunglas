@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.2](https://github.com/dunglas/frankenphp/releases/tag/v1.2.2), today) - 🧟 The modern PHP app server
-- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.64](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.64), 1 day ago) - The React Framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), 1 day ago) - Demo app for the API Platform framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.65](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.65), 1 day ago) - The React Framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.2](https://github.com/dunglas/frankenphp/releases/tag/v1.2.2), 1 day ago) - 🧟 The modern PHP app server
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), 2 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
