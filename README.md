@@ -4,7 +4,7 @@
 
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (4 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
 
 #### 🌱 My latest projects
 
