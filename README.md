@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.66](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.66), 1 day ago) - The React Framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.0), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.2](https://github.com/dunglas/frankenphp/releases/tag/v1.2.2), 2 days ago) - 🧟 The modern PHP app server
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.67](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.67), 1 day ago) - The React Framework
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.0), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.2](https://github.com/dunglas/frankenphp/releases/tag/v1.2.2), 3 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
