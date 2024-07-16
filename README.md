@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.16.0](https://github.com/laravel/framework/releases/tag/v11.16.0), today) - The Laravel Framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.9](https://github.com/api-platform/demo/releases/tag/v3.3.9), today) - Demo app for the API Platform framework
 - [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.68](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.68), 1 day ago) - The React Framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.9](https://github.com/api-platform/core/releases/tag/v3.3.9), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
