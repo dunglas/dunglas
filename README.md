@@ -4,7 +4,7 @@
 
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (5 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) - The Amnesty International WordPress Humanity Theme (5 days ago)
 
 #### 🌱 My latest projects
 
