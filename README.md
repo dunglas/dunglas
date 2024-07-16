@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (4 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.9](https://github.com/api-platform/core/releases/tag/v3.3.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.0](https://github.com/api-platform/admin/releases/tag/v4.0.0), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.67](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.67), 1 day ago) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) ([v15.0.0-canary.68](https://github.com/vercel/next.js/releases/tag/v15.0.0-canary.68), 1 day ago) - The React Framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.9](https://github.com/api-platform/core/releases/tag/v3.3.9), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.0](https://github.com/api-platform/admin/releases/tag/v4.0.0), 1 day ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [sweikenb](https://github.com/sweikenb) (1 month ago)
 - [l0wskilled](https://github.com/l0wskilled) (2 months ago)
-- [mgionas](https://github.com/mgionas) (2 months ago)
+- [mgionas](https://github.com/mgionas) (3 months ago)
