@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.17.0](https://github.com/laravel/framework/releases/tag/v11.17.0), 3 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.18.0](https://github.com/laravel/framework/releases/tag/v11.18.0), today) - The Laravel Framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.11](https://github.com/api-platform/demo/releases/tag/v3.3.11), 6 days ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.11](https://github.com/api-platform/core/releases/tag/v3.3.11), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
