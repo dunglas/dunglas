@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (6 days ago)
 - [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (6 days ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (6 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
 
 #### 🌱 My latest projects
 
