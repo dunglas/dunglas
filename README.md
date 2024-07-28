@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (6 days ago)
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (6 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (1 week ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.3](https://github.com/symfony/http-foundation/releases/tag/v7.1.3), 1 day ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 1 day ago) - The Symfony PHP framework
-- [laravel/framework](https://github.com/laravel/framework) ([v11.18.1](https://github.com/laravel/framework/releases/tag/v11.18.1), 1 day ago) - The Laravel Framework.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.3](https://github.com/symfony/http-foundation/releases/tag/v7.1.3), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 2 days ago) - The Symfony PHP framework
+- [laravel/framework](https://github.com/laravel/framework) ([v11.18.1](https://github.com/laravel/framework/releases/tag/v11.18.1), 2 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
