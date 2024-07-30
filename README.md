@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.3](https://github.com/symfony/http-foundation/releases/tag/v7.1.3), 3 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 3 days ago) - The Symfony PHP framework
-- [laravel/framework](https://github.com/laravel/framework) ([v11.18.1](https://github.com/laravel/framework/releases/tag/v11.18.1), 3 days ago) - The Laravel Framework.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.3](https://github.com/symfony/http-foundation/releases/tag/v7.1.3), 4 days ago) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 4 days ago) - The Symfony PHP framework
+- [laravel/framework](https://github.com/laravel/framework) ([v11.18.1](https://github.com/laravel/framework/releases/tag/v11.18.1), 4 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [lrotermund](https://github.com/lrotermund) (today)
+- [lrotermund](https://github.com/lrotermund) (1 day ago)
 - [sweikenb](https://github.com/sweikenb) (1 month ago)
 - [l0wskilled](https://github.com/l0wskilled) (3 months ago)
