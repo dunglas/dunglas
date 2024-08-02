@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (1 week ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (1 week ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.1.2](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.1.2), today) - The Amnesty International WordPress Humanity Theme
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 2 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [laravel/framework](https://github.com/laravel/framework) ([v11.19.0](https://github.com/laravel/framework/releases/tag/v11.19.0), 3 days ago) - The Laravel Framework.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.3](https://github.com/symfony/http-foundation/releases/tag/v7.1.3), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
