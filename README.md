@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 1 day ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [laravel/framework](https://github.com/laravel/framework) ([v11.19.0](https://github.com/laravel/framework/releases/tag/v11.19.0), 2 days ago) - The Laravel Framework.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.3](https://github.com/symfony/http-foundation/releases/tag/v7.1.3), 6 days ago) - Defines an object-oriented layer for the HTTP specification
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 2 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [laravel/framework](https://github.com/laravel/framework) ([v11.19.0](https://github.com/laravel/framework/releases/tag/v11.19.0), 3 days ago) - The Laravel Framework.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.3](https://github.com/symfony/http-foundation/releases/tag/v7.1.3), 1 week ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [lrotermund](https://github.com/lrotermund) (3 days ago)
+- [lrotermund](https://github.com/lrotermund) (4 days ago)
 - [sweikenb](https://github.com/sweikenb) (1 month ago)
 - [l0wskilled](https://github.com/l0wskilled) (3 months ago)
