@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (1 week ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,20 +14,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.1.2](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.1.2), 1 day ago) - The Amnesty International WordPress Humanity Theme
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 3 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [laravel/framework](https://github.com/laravel/framework) ([v11.19.0](https://github.com/laravel/framework/releases/tag/v11.19.0), 4 days ago) - The Laravel Framework.
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.1.2](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.1.2), 2 days ago) - The Amnesty International WordPress Humanity Theme
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [laravel/framework](https://github.com/laravel/framework) ([v11.19.0](https://github.com/laravel/framework/releases/tag/v11.19.0), 5 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
 - [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/) (2 months ago)
 - [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (4 months ago)
 - [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (5 months ago)
-- [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (7 months ago)
+- [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (8 months ago)
 - [Mercure, Braid, PREP… news about subscribing to HTTP resource updates](https://dunglas.dev/2023/11/mercure-braid-prep-news-about-subscribing-to-http-resource-updates/) (8 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [lrotermund](https://github.com/lrotermund) (5 days ago)
+- [lrotermund](https://github.com/lrotermund) (6 days ago)
 - [sweikenb](https://github.com/sweikenb) (2 months ago)
 - [l0wskilled](https://github.com/l0wskilled) (3 months ago)
