@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.20.0](https://github.com/laravel/framework/releases/tag/v11.20.0), today) - The Laravel Framework.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.3](https://github.com/dunglas/frankenphp/releases/tag/v1.2.3), today) - 🧟 The modern PHP app server
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.8.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.8.1), 1 day ago) - Pretty REST-like URLs in EasyAdmin
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.1.2](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.1.2), 4 days ago) - The Amnesty International WordPress Humanity Theme
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
