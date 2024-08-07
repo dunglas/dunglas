@@ -4,7 +4,7 @@
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (2 weeks ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.0](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.0), 1 day ago) - Pretty REST-like URLs in EasyAdmin
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.1), today) - Pretty REST-like URLs in EasyAdmin
 - [laravel/octane](https://github.com/laravel/octane) ([v2.5.3](https://github.com/laravel/octane/releases/tag/v2.5.3), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.20.0](https://github.com/laravel/framework/releases/tag/v11.20.0), 1 day ago) - The Laravel Framework.
 
