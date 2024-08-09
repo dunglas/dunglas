@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.1), 1 day ago) - Pretty REST-like URLs in EasyAdmin
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.3](https://github.com/laravel/octane/releases/tag/v2.5.3), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.20.0](https://github.com/laravel/framework/releases/tag/v11.20.0), 2 days ago) - The Laravel Framework.
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.1), 2 days ago) - Pretty REST-like URLs in EasyAdmin
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.3](https://github.com/laravel/octane/releases/tag/v2.5.3), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.20.0](https://github.com/laravel/framework/releases/tag/v11.20.0), 3 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
