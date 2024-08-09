@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), today) - The Laravel Framework.
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.1), 2 days ago) - Pretty REST-like URLs in EasyAdmin
 - [laravel/octane](https://github.com/laravel/octane) ([v2.5.3](https://github.com/laravel/octane/releases/tag/v2.5.3), 3 days ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.20.0](https://github.com/laravel/framework/releases/tag/v11.20.0), 3 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
