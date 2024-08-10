@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 1 day ago) - The Laravel Framework.
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.1), 3 days ago) - Pretty REST-like URLs in EasyAdmin
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.3](https://github.com/laravel/octane/releases/tag/v2.5.3), 4 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
