@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 1 day ago) - The Laravel Framework.
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.1), 3 days ago) - Pretty REST-like URLs in EasyAdmin
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 2 days ago) - The Laravel Framework.
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.1](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.1), 4 days ago) - Pretty REST-like URLs in EasyAdmin
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
