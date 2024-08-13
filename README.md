@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 1 day ago) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.2), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
