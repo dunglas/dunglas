@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), today) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.2), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 1 day ago) - 🧟 The modern PHP app server
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.2), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
