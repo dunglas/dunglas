@@ -30,4 +30,4 @@
 
 - [lrotermund](https://github.com/lrotermund) (2 weeks ago)
 - [sweikenb](https://github.com/sweikenb) (2 months ago)
-- [l0wskilled](https://github.com/l0wskilled) (3 months ago)
+- [superfly](https://github.com/superfly) (2 months ago)
