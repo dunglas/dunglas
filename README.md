@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.30](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.30), today) - Kubernetes website and documentation repo: 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), today) - Kubernetes website and documentation repo: 
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 1 day ago) - 🧟 The modern PHP app server
 
