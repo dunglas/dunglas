@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (today)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 day ago)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (1 day ago)
 
 #### 🌱 My latest projects
 
