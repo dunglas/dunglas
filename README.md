@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (today)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 day ago)
 - [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch
 - [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format.
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
-- [dunglas/frankenphp-drupal](https://github.com/dunglas/frankenphp-drupal) - Drupal on FrankenPHP
 
 #### 🔭 Latest releases I've contributed to
 
