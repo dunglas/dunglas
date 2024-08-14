@@ -4,7 +4,7 @@
 
 - [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (2 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (2 days ago)
 
 #### 🌱 My latest projects
 
