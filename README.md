@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.2](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.2), today) - Pretty REST-like URLs in EasyAdmin
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 day ago) - Kubernetes website and documentation repo: 
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 2 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
