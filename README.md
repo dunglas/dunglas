@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.2](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.2), today) - Pretty REST-like URLs in EasyAdmin
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 day ago) - Kubernetes website and documentation repo: 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.2](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.2), 1 day ago) - Pretty REST-like URLs in EasyAdmin
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 days ago) - Kubernetes website and documentation repo: 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
