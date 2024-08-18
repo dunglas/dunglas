@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.16.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.16.3), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.3](https://github.com/dunglas/mercure/releases/tag/v0.16.3), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.2](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.2), 4 days ago) - Pretty REST-like URLs in EasyAdmin
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 5 days ago) - Kubernetes website and documentation repo: 
 
