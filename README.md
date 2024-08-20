@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (today)
 - [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.4](https://github.com/laravel/octane/releases/tag/v2.5.4), today) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.21.0](https://github.com/laravel/framework/releases/tag/v11.21.0), today) - The Laravel Framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.3](https://github.com/dunglas/mercure/releases/tag/v0.16.3), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
