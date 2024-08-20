@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.21.0](https://github.com/laravel/framework/releases/tag/v11.21.0), today) - The Laravel Framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.3](https://github.com/dunglas/mercure/releases/tag/v0.16.3), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.2](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.2), 6 days ago) - Pretty REST-like URLs in EasyAdmin
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
