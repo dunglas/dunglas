@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors (1 day ago)
-- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (5 days ago)
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.3](https://github.com/dunglas/mercure/releases/tag/v0.16.3), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.2](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.2), 5 days ago) - Pretty REST-like URLs in EasyAdmin
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.16.3](https://github.com/dunglas/mercure/releases/tag/v0.16.3), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [marcin-jozwikowski/easy-admin-pretty-urls](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls) ([v2.9.2](https://github.com/marcin-jozwikowski/easy-admin-pretty-urls/releases/tag/v2.9.2), 6 days ago) - Pretty REST-like URLs in EasyAdmin
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
