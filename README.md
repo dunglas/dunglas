@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON. (today)
 
 #### 🌱 My latest projects
 
