@@ -4,7 +4,7 @@
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
-- [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON. (1 day ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (today)
 
 #### 🌱 My latest projects
 
