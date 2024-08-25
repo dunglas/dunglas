@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.4](https://github.com/laravel/octane/releases/tag/v2.5.4), 4 days ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.21.0](https://github.com/laravel/framework/releases/tag/v11.21.0), 4 days ago) - The Laravel Framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.4](https://github.com/laravel/octane/releases/tag/v2.5.4), 5 days ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.21.0](https://github.com/laravel/framework/releases/tag/v11.21.0), 5 days ago) - The Laravel Framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
