@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - PHP runtime &amp; extensions header files for PhpStorm (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2), 1 day ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [laravel/octane](https://github.com/laravel/octane) ([v2.5.4](https://github.com/laravel/octane/releases/tag/v2.5.4), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.21.0](https://github.com/laravel/framework/releases/tag/v11.21.0), 1 week ago) - The Laravel Framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
