@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/web-php](https://github.com/php/web-php) - The www.php.net site (2 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - PHP runtime &amp; extensions header files for PhpStorm (2 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [php/web-php](https://github.com/php/web-php) - The www.php.net site (2 days ago)
 
 #### 🌱 My latest projects
 
