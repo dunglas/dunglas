@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.12](https://github.com/api-platform/core/releases/tag/v3.3.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.5](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5), 3 days ago) - 🧟 The modern PHP app server
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2), 4 days ago) - PHP runtime &amp; extensions header files for PhpStorm
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.4](https://github.com/laravel/octane/releases/tag/v2.5.4), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
