@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/serializer](https://github.com/symfony/serializer) ([v6.4.11](https://github.com/symfony/serializer/releases/tag/v6.4.11), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.11](https://github.com/symfony/symfony/releases/tag/v6.4.11), today) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.4](https://github.com/symfony/serializer/releases/tag/v7.1.4), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.12](https://github.com/api-platform/core/releases/tag/v3.3.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
