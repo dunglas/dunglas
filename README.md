@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) ([v4.2.3](https://github.com/ikarus23/MifareClassicTool/releases/tag/v4.2.3), today) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.4](https://github.com/symfony/serializer/releases/tag/v7.1.4), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 day ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
