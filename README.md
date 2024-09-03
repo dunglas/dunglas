@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), today) - The Laravel Framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.4](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) ([v4.2.3](https://github.com/ikarus23/MifareClassicTool/releases/tag/v4.2.3), 3 days ago) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.4](https://github.com/symfony/serializer/releases/tag/v7.1.4), 4 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
