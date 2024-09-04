@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - PHP runtime &amp; extensions header files for PhpStorm (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), today) - The Laravel Framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.4](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) ([v4.2.3](https://github.com/ikarus23/MifareClassicTool/releases/tag/v4.2.3), 3 days ago) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 1 day ago) - The Laravel Framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.4](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) ([v4.2.3](https://github.com/ikarus23/MifareClassicTool/releases/tag/v4.2.3), 4 days ago) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
