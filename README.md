@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - PHP runtime &amp; extensions header files for PhpStorm (1 week ago)
 
 #### 🌱 My latest projects
 
