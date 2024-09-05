@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 
 #### 🌱 My latest projects
 
