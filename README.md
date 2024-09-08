@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (5 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 4 days ago) - The Laravel Framework.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 5 days ago) - The Laravel Framework.
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) ([v4.2.3](https://github.com/ikarus23/MifareClassicTool/releases/tag/v4.2.3), 1 week ago) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
