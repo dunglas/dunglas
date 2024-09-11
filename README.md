@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.23.2](https://github.com/laravel/framework/releases/tag/v11.23.2), today) - The Laravel Framework.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.5](https://github.com/laravel/octane/releases/tag/v2.5.5), today) - Supercharge your Laravel application&#39;s performance.
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 5 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 1 week ago) - The Laravel Framework.
-- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) ([v4.2.3](https://github.com/ikarus23/MifareClassicTool/releases/tag/v4.2.3), 1 week ago) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
