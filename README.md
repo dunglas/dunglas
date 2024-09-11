@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 4 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 5 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 1 week ago) - The Laravel Framework.
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) ([v4.2.3](https://github.com/ikarus23/MifareClassicTool/releases/tag/v4.2.3), 1 week ago) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [twisted1919](https://github.com/twisted1919) (today)
+- [twisted1919](https://github.com/twisted1919) (1 day ago)
 - [lrotermund](https://github.com/lrotermund) (1 month ago)
 - [sweikenb](https://github.com/sweikenb) (3 months ago)
