@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.23.2](https://github.com/laravel/framework/releases/tag/v11.23.2), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.23.3](https://github.com/laravel/framework/releases/tag/v11.23.3), today) - The Laravel Framework.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.5.5](https://github.com/laravel/octane/releases/tag/v2.5.5), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 6 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
