@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.23.2](https://github.com/laravel/framework/releases/tag/v11.23.2), today) - The Laravel Framework.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.5](https://github.com/laravel/octane/releases/tag/v2.5.5), today) - Supercharge your Laravel application&#39;s performance.
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 5 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.23.2](https://github.com/laravel/framework/releases/tag/v11.23.2), 1 day ago) - The Laravel Framework.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.5](https://github.com/laravel/octane/releases/tag/v2.5.5), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 6 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [twisted1919](https://github.com/twisted1919) (1 day ago)
+- [twisted1919](https://github.com/twisted1919) (2 days ago)
 - [lrotermund](https://github.com/lrotermund) (1 month ago)
 - [sweikenb](https://github.com/sweikenb) (3 months ago)
