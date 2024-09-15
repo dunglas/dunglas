@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.13](https://github.com/api-platform/core/releases/tag/v3.3.13), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), 2 days ago) - The Laravel Framework.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.5.5](https://github.com/laravel/octane/releases/tag/v2.5.5), 4 days ago) - Supercharge your Laravel application&#39;s performance.
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.3), 1 week ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
