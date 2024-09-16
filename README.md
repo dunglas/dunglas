@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (today)
 
 #### 🌱 My latest projects
 
