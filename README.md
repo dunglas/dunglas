@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (1 day ago)
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) - WHATWG conformant url parser for the Go language (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 
 #### 🌱 My latest projects
 
