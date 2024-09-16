@@ -4,7 +4,7 @@
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
+- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) - WHATWG conformant url parser for the Go language (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.5.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.5.0), today) - WHATWG conformant url parser for the Go language
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), 1 day ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.13](https://github.com/api-platform/core/releases/tag/v3.3.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), 3 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
