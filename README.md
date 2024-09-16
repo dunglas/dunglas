@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), today) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.13](https://github.com/api-platform/core/releases/tag/v3.3.13), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), 2 days ago) - The Laravel Framework.
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), 1 day ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.13](https://github.com/api-platform/core/releases/tag/v3.3.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), 3 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [twisted1919](https://github.com/twisted1919) (5 days ago)
+- [twisted1919](https://github.com/twisted1919) (6 days ago)
 - [lrotermund](https://github.com/lrotermund) (1 month ago)
 - [sweikenb](https://github.com/sweikenb) (3 months ago)
