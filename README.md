@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern) - A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.5.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.5.0), today) - WHATWG conformant url parser for the Go language
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), 1 day ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.13](https://github.com/api-platform/core/releases/tag/v3.3.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.5.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.5.0), 1 day ago) - WHATWG conformant url parser for the Go language
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), 2 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.13](https://github.com/api-platform/core/releases/tag/v3.3.13), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [twisted1919](https://github.com/twisted1919) (6 days ago)
+- [twisted1919](https://github.com/twisted1919) (1 week ago)
 - [lrotermund](https://github.com/lrotermund) (1 month ago)
 - [sweikenb](https://github.com/sweikenb) (3 months ago)
