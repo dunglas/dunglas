@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.2.0](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.2.0), today) - The Amnesty International WordPress Humanity Theme
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.5.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.5.0), 1 day ago) - WHATWG conformant url parser for the Go language
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), 2 days ago) - Demo app for the API Platform framework
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.2.0](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.2.0), 1 day ago) - The Amnesty International WordPress Humanity Theme
+- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.5.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.5.0), 2 days ago) - WHATWG conformant url parser for the Go language
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), 3 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
