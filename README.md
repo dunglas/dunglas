@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (2 days ago)
 
 #### 🌱 My latest projects
 
