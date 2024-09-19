@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.0](https://github.com/api-platform/demo/releases/tag/v4.0.0), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.0](https://github.com/api-platform/core/releases/tag/v4.0.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.4.0](https://github.com/api-platform/demo/releases/tag/v3.4.0), 1 day ago) - Demo app for the API Platform framework
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.2.0](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.2.0), 2 days ago) - The Amnesty International WordPress Humanity Theme
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
