@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.0](https://github.com/api-platform/demo/releases/tag/v4.0.0), today) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0](https://github.com/api-platform/core/releases/tag/v4.0.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.2.0](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.2.0), 2 days ago) - The Amnesty International WordPress Humanity Theme
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
