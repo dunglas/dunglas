@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.1](https://github.com/api-platform/demo/releases/tag/v4.0.1), today) - Demo app for the API Platform framework
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.4](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.4), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.0](https://github.com/api-platform/demo/releases/tag/v4.0.0), 1 day ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
