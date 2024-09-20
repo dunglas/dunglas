@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (2 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.0](https://github.com/api-platform/demo/releases/tag/v4.0.0), today) - Demo app for the API Platform framework
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.2.0](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.2.0), 2 days ago) - The Amnesty International WordPress Humanity Theme
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.0](https://github.com/api-platform/demo/releases/tag/v4.0.0), 1 day ago) - Demo app for the API Platform framework
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v1.2.0](https://github.com/amnestywebsite/humanity-theme/releases/tag/v1.2.0), 3 days ago) - The Amnesty International WordPress Humanity Theme
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (today)
+- [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (1 day ago)
 - [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/) (3 months ago)
 - [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (5 months ago)
 - [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (6 months ago)
