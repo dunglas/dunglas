@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (3 days ago)
+- [api-platform/json-hal](https://github.com/api-platform/json-hal) - API Platform JSON-HAL component (today)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
 
 #### 🌱 My latest projects
 
