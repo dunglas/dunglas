@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.44](https://github.com/symfony/serializer/releases/tag/v5.4.44), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.44](https://github.com/symfony/http-foundation/releases/tag/v5.4.44), today) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.44](https://github.com/symfony/symfony/releases/tag/v5.4.44), today) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.5](https://github.com/symfony/serializer/releases/tag/v7.1.5), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.5](https://github.com/symfony/http-foundation/releases/tag/v7.1.5), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
