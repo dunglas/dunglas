@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.1](https://github.com/api-platform/demo/releases/tag/v4.0.1), 1 day ago) - Demo app for the API Platform framework
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.3.4](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.3.4), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/serializer](https://github.com/symfony/serializer) ([v5.4.44](https://github.com/symfony/serializer/releases/tag/v5.4.44), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.4.44](https://github.com/symfony/http-foundation/releases/tag/v5.4.44), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.44](https://github.com/symfony/symfony/releases/tag/v5.4.44), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
