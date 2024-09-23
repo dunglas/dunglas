@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (2 days ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 days ago)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (2 days ago)
 
 #### 🌱 My latest projects
 
