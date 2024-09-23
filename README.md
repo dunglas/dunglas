@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.2](https://github.com/api-platform/demo/releases/tag/v4.0.2), today) - Demo app for the API Platform framework
 - [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.5](https://github.com/symfony/serializer/releases/tag/v7.1.5), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.5](https://github.com/symfony/http-foundation/releases/tag/v7.1.5), 2 days ago) - Defines an object-oriented layer for the HTTP specification
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 2 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
