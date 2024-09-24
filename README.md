@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (today)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 days ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (2 days ago)
+- [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (1 day ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (3 days ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.2](https://github.com/api-platform/demo/releases/tag/v4.0.2), today) - Demo app for the API Platform framework
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.5](https://github.com/symfony/serializer/releases/tag/v7.1.5), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.5](https://github.com/symfony/http-foundation/releases/tag/v7.1.5), 2 days ago) - Defines an object-oriented layer for the HTTP specification
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.2](https://github.com/api-platform/demo/releases/tag/v4.0.2), 1 day ago) - Demo app for the API Platform framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.5](https://github.com/symfony/serializer/releases/tag/v7.1.5), 3 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.5](https://github.com/symfony/http-foundation/releases/tag/v7.1.5), 3 days ago) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (4 days ago)
+- [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (5 days ago)
 - [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/) (3 months ago)
 - [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (5 months ago)
 - [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (6 months ago)
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [twisted1919](https://github.com/twisted1919) (1 week ago)
+- [twisted1919](https://github.com/twisted1919) (2 weeks ago)
 - [lrotermund](https://github.com/lrotermund) (1 month ago)
 - [sweikenb](https://github.com/sweikenb) (3 months ago)
