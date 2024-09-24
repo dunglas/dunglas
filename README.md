@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.6](https://github.com/laravel/octane/releases/tag/v2.5.6), today) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.24.0](https://github.com/laravel/framework/releases/tag/v11.24.0), today) - The Laravel Framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.2](https://github.com/api-platform/demo/releases/tag/v4.0.2), 1 day ago) - Demo app for the API Platform framework
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.5](https://github.com/symfony/serializer/releases/tag/v7.1.5), 3 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
