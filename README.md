@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website) - The website of FrankenPHP (2 days ago)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (4 days ago)
 
 #### 🌱 My latest projects
 
