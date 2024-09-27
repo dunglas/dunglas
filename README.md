@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-pack](https://github.com/api-platform/api-pack) ([v1.4.0](https://github.com/api-platform/api-pack/releases/tag/v1.4.0), today) - A Symfony pack for API Platform
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.0](https://github.com/api-platform/core/releases/tag/v4.0.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/framework](https://github.com/laravel/framework) ([v11.25.0](https://github.com/laravel/framework/releases/tag/v11.25.0), 1 day ago) - The Laravel Framework.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.6](https://github.com/laravel/octane/releases/tag/v2.5.6), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
