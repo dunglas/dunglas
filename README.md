@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 
 #### 🌱 My latest projects
 
