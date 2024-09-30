@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
 
 #### 🌱 My latest projects
 
