@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-pack](https://github.com/api-platform/api-pack) ([v1.4.0](https://github.com/api-platform/api-pack/releases/tag/v1.4.0), 3 days ago) - A Symfony pack for API Platform
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0](https://github.com/api-platform/core/releases/tag/v4.0.0), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [laravel/framework](https://github.com/laravel/framework) ([v11.25.0](https://github.com/laravel/framework/releases/tag/v11.25.0), 4 days ago) - The Laravel Framework.
+- [api-platform/api-pack](https://github.com/api-platform/api-pack) ([v1.4.0](https://github.com/api-platform/api-pack/releases/tag/v1.4.0), 4 days ago) - A Symfony pack for API Platform
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0](https://github.com/api-platform/core/releases/tag/v4.0.0), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/framework](https://github.com/laravel/framework) ([v11.25.0](https://github.com/laravel/framework/releases/tag/v11.25.0), 5 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [twisted1919](https://github.com/twisted1919) (2 weeks ago)
+- [twisted1919](https://github.com/twisted1919) (3 weeks ago)
 - [lrotermund](https://github.com/lrotermund) (2 months ago)
 - [sweikenb](https://github.com/sweikenb) (3 months ago)
