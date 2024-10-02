@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.8](https://github.com/laravel/octane/releases/tag/v2.5.8), today) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.26.0](https://github.com/laravel/framework/releases/tag/v11.26.0), today) - The Laravel Framework.
-- [api-platform/api-pack](https://github.com/api-platform/api-pack) ([v1.4.0](https://github.com/api-platform/api-pack/releases/tag/v1.4.0), 4 days ago) - A Symfony pack for API Platform
+- [laravel/octane](https://github.com/laravel/octane) ([v2.5.8](https://github.com/laravel/octane/releases/tag/v2.5.8), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.26.0](https://github.com/laravel/framework/releases/tag/v11.26.0), 1 day ago) - The Laravel Framework.
+- [api-platform/api-pack](https://github.com/api-platform/api-pack) ([v1.4.0](https://github.com/api-platform/api-pack/releases/tag/v1.4.0), 5 days ago) - A Symfony pack for API Platform
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -30,4 +30,4 @@
 
 - [twisted1919](https://github.com/twisted1919) (3 weeks ago)
 - [lrotermund](https://github.com/lrotermund) (2 months ago)
-- [sweikenb](https://github.com/sweikenb) (3 months ago)
+- [sweikenb](https://github.com/sweikenb) (4 months ago)
