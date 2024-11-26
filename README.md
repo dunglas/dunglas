@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (5 days ago)
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS. (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,20 +14,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.5.8](https://github.com/laravel/octane/releases/tag/v2.5.8), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.26.0](https://github.com/laravel/framework/releases/tag/v11.26.0), 1 day ago) - The Laravel Framework.
-- [api-platform/api-pack](https://github.com/api-platform/api-pack) ([v1.4.0](https://github.com/api-platform/api-pack/releases/tag/v1.4.0), 5 days ago) - A Symfony pack for API Platform
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.25](https://github.com/laravel/framework/releases/tag/v10.48.25), today) - The Laravel Framework.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.6.0](https://github.com/laravel/octane/releases/tag/v2.6.0), today) - Supercharge your Laravel application&#39;s performance.
+- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.2](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.2), today) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (1 week ago)
-- [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/) (4 months ago)
-- [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (6 months ago)
-- [Running Laravel Apps With FrankenPHP (Laracon EU)](https://dunglas.dev/2024/02/running-laravel-apps-with-frankenphp-laracon-eu/) (7 months ago)
-- [PHP and Symfony Apps As Standalone Binaries](https://dunglas.dev/2023/12/php-and-symfony-apps-as-standalone-binaries/) (9 months ago)
+- [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/) (1 week ago)
+- [How to debug Xdebug… or any other weird bug in PHP](https://dunglas.dev/2024/10/how-to-debug-xdebug-or-any-other-weird-bug-in-php/) (1 month ago)
+- [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (2 months ago)
+- [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/) (6 months ago)
+- [Front-end application development, Symfony-style(s)](https://dunglas.dev/2024/04/front-end-application-development-symfony-styles/) (7 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [twisted1919](https://github.com/twisted1919) (3 weeks ago)
-- [lrotermund](https://github.com/lrotermund) (2 months ago)
-- [sweikenb](https://github.com/sweikenb) (4 months ago)
+- [Oksydan](https://github.com/Oksydan) (3 weeks ago)
+- [twisted1919](https://github.com/twisted1919) (2 months ago)
+- [lrotermund](https://github.com/lrotermund) (4 months ago)
