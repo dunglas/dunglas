@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.34.1](https://github.com/laravel/framework/releases/tag/v11.34.1), 1 day ago) - The Laravel Framework.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.6.0](https://github.com/laravel/octane/releases/tag/v2.6.0), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) ([v1.4.2](https://github.com/dunglas/doctrine-json-odm/releases/tag/v1.4.2), 1 day ago) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.9](https://github.com/symfony/serializer/releases/tag/v7.1.9), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.1.9](https://github.com/symfony/http-foundation/releases/tag/v7.1.9), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
