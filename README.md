@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another! (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another! (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.0](https://github.com/xdebug/xdebug/releases/tag/3.4.0), today) - Xdebug — Step Debugger and Debugging Aid for PHP
-- [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), 1 day ago) - The Laravel Framework.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.9](https://github.com/symfony/serializer/releases/tag/v7.1.9), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.0](https://github.com/xdebug/xdebug/releases/tag/3.4.0), 1 day ago) - Xdebug — Step Debugger and Debugging Aid for PHP
+- [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), 2 days ago) - The Laravel Framework.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.9](https://github.com/symfony/serializer/releases/tag/v7.1.9), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [Oksydan](https://github.com/Oksydan) (4 weeks ago)
+- [Oksydan](https://github.com/Oksydan) (1 month ago)
 - [twisted1919](https://github.com/twisted1919) (2 months ago)
 - [lrotermund](https://github.com/lrotermund) (4 months ago)
