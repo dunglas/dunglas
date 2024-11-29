@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), today) - 🧟 The modern PHP app server
 - [symfony/serializer](https://github.com/symfony/serializer) ([v7.2.0](https://github.com/symfony/serializer/releases/tag/v7.2.0), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/messenger](https://github.com/symfony/messenger) ([v7.2.0](https://github.com/symfony/messenger/releases/tag/v7.2.0), today) - Helps applications send and receive messages to/from other applications or via message queues
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.0](https://github.com/symfony/http-foundation/releases/tag/v7.2.0), today) - Defines an object-oriented layer for the HTTP specification
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
