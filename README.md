@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.0](https://github.com/xdebug/xdebug/releases/tag/3.4.0), 1 day ago) - Xdebug — Step Debugger and Debugging Aid for PHP
-- [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), 2 days ago) - The Laravel Framework.
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.1.9](https://github.com/symfony/serializer/releases/tag/v7.1.9), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.2.0](https://github.com/symfony/serializer/releases/tag/v7.2.0), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v7.2.0](https://github.com/symfony/http-foundation/releases/tag/v7.2.0), today) - Defines an object-oriented layer for the HTTP specification
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
