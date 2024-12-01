@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another! (2 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 days ago)
+- [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another! (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scheb/2fa](https://github.com/scheb/2fa) ([v6.13.0](https://github.com/scheb/2fa/releases/tag/v6.13.0), 1 day ago) - Two-factor authentication for Symfony applications 🔐
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 day ago) - 🧟 The modern PHP app server
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.2.0](https://github.com/symfony/serializer/releases/tag/v7.2.0), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [scheb/2fa](https://github.com/scheb/2fa) ([v6.13.0](https://github.com/scheb/2fa/releases/tag/v6.13.0), 2 days ago) - Two-factor authentication for Symfony applications 🔐
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 2 days ago) - 🧟 The modern PHP app server
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.2.0](https://github.com/symfony/serializer/releases/tag/v7.2.0), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
