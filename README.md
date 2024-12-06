@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (2 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
 - [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another! (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.1), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [scheb/2fa](https://github.com/scheb/2fa) ([v6.13.0](https://github.com/scheb/2fa/releases/tag/v6.13.0), 6 days ago) - Two-factor authentication for Symfony applications 🔐
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 6 days ago) - 🧟 The modern PHP app server
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.1), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [scheb/2fa](https://github.com/scheb/2fa) ([v6.13.0](https://github.com/scheb/2fa/releases/tag/v6.13.0), 1 week ago) - Two-factor authentication for Symfony applications 🔐
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (today)
+- [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (1 day ago)
 - [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/) (3 weeks ago)
 - [How to debug Xdebug… or any other weird bug in PHP](https://dunglas.dev/2024/10/how-to-debug-xdebug-or-any-other-weird-bug-in-php/) (1 month ago)
 - [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (2 months ago)
