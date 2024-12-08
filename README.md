@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
-- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (4 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (5 days ago)
+- [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.  (5 days ago)
 - [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another! (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 1 day ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.11](https://github.com/api-platform/core/releases/tag/v4.0.11), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.1), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 2 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.11](https://github.com/api-platform/core/releases/tag/v4.0.11), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.1), 3 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (2 days ago)
+- [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (3 days ago)
 - [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/) (3 weeks ago)
 - [How to debug Xdebug… or any other weird bug in PHP](https://dunglas.dev/2024/10/how-to-debug-xdebug-or-any-other-weird-bug-in-php/) (1 month ago)
 - [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (2 months ago)
