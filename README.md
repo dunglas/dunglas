@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.35.0](https://github.com/laravel/framework/releases/tag/v11.35.0), today) - The Laravel Framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.11](https://github.com/api-platform/demo/releases/tag/v4.0.11), 2 days ago) - Demo app for the API Platform framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 4 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.11](https://github.com/api-platform/core/releases/tag/v4.0.11), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
