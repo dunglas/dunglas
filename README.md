@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), today) - Kubernetes website and documentation repo: 
 - [symfony/messenger](https://github.com/symfony/messenger) ([v7.2.1](https://github.com/symfony/messenger/releases/tag/v7.2.1), today) - Helps applications send and receive messages to/from other applications or via message queues
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.1](https://github.com/symfony/framework-bundle/releases/tag/v7.2.1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
