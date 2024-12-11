@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.35.0](https://github.com/laravel/framework/releases/tag/v11.35.0), 1 day ago) - The Laravel Framework.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.11](https://github.com/api-platform/demo/releases/tag/v4.0.11), 3 days ago) - Demo app for the API Platform framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 5 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/messenger](https://github.com/symfony/messenger) ([v7.2.1](https://github.com/symfony/messenger/releases/tag/v7.2.1), today) - Helps applications send and receive messages to/from other applications or via message queues
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.2.1](https://github.com/symfony/framework-bundle/releases/tag/v7.2.1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
