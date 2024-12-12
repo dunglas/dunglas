@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.35.1](https://github.com/laravel/framework/releases/tag/v11.35.1), today) - The Laravel Framework.
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.9](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.9), today) - The Amnesty International WordPress Humanity Theme
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 day ago) - Kubernetes website and documentation repo: 
-- [symfony/messenger](https://github.com/symfony/messenger) ([v7.2.1](https://github.com/symfony/messenger/releases/tag/v7.2.1), 1 day ago) - Helps applications send and receive messages to/from other applications or via message queues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
