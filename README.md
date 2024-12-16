@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [helm/kind-action](https://github.com/helm/kind-action) ([v1.11.0](https://github.com/helm/kind-action/releases/tag/v1.11.0), today) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.12](https://github.com/api-platform/core/releases/tag/v4.0.12), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.2), 3 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.35.1](https://github.com/laravel/framework/releases/tag/v11.35.1), 4 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
