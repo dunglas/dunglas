@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (today)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 days ago)
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly. (3 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
 
 #### 🌱 My latest projects
 
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP
 - [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch
 - [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format.
-- [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 
 #### 🔭 Latest releases I've contributed to
 
