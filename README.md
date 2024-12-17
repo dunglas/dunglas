@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.36.0](https://github.com/laravel/framework/releases/tag/v11.36.0), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.36.1](https://github.com/laravel/framework/releases/tag/v11.36.1), today) - The Laravel Framework.
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), today) - PHP runtime &amp; extensions header files for PhpStorm
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.11.0](https://github.com/helm/kind-action/releases/tag/v1.11.0), 1 day ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 
