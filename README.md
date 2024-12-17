@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), today) - PHP runtime &amp; extensions header files for PhpStorm
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.11.0](https://github.com/helm/kind-action/releases/tag/v1.11.0), 1 day ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.12](https://github.com/api-platform/core/releases/tag/v4.0.12), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.2), 4 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
+- [autaut03](https://github.com/autaut03) (today)
 - [Oksydan](https://github.com/Oksydan) (1 month ago)
 - [twisted1919](https://github.com/twisted1919) (3 months ago)
-- [lrotermund](https://github.com/lrotermund) (4 months ago)
