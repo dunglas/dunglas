@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (1 day ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 days ago)
 
 #### 🌱 My latest projects
 
