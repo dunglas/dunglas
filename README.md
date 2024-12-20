@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.4](https://github.com/dunglas/frankenphp/releases/tag/v1.3.4), today) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php/php-src](https://github.com/php/php-src) ([php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15), today) - The PHP Interpreter
-- [laravel/framework](https://github.com/laravel/framework) ([v11.36.1](https://github.com/laravel/framework/releases/tag/v11.36.1), 3 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
