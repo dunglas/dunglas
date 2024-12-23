@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), today) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15), 2 days ago) - The PHP Interpreter
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 1 day ago) - 🧟 The modern PHP app server
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15), 3 days ago) - The PHP Interpreter
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [PhilETaylor](https://github.com/PhilETaylor) (2 days ago)
-- [autaut03](https://github.com/autaut03) (5 days ago)
+- [PhilETaylor](https://github.com/PhilETaylor) (3 days ago)
+- [autaut03](https://github.com/autaut03) (6 days ago)
 - [Oksydan](https://github.com/Oksydan) (1 month ago)
