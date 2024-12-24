@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.3), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.12.0](https://github.com/helm/kind-action/releases/tag/v1.12.0), 1 day ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 2 days ago) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
