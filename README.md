@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) ([1.18.0-rc2](https://github.com/emcrisostomo/fswatch/releases/tag/1.18.0-rc2), today) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.3), 6 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [helm/kind-action](https://github.com/helm/kind-action) ([v1.12.0](https://github.com/helm/kind-action/releases/tag/v1.12.0), 1 week ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
