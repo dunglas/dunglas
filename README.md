@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (6 days ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (1 week ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.3), 5 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [helm/kind-action](https://github.com/helm/kind-action) ([v1.12.0](https://github.com/helm/kind-action/releases/tag/v1.12.0), 6 days ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.4.3](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.4.3), 6 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [helm/kind-action](https://github.com/helm/kind-action) ([v1.12.0](https://github.com/helm/kind-action/releases/tag/v1.12.0), 1 week ago) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [malsatin](https://github.com/malsatin) (1 day ago)
+- [malsatin](https://github.com/malsatin) (2 days ago)
 - [PhilETaylor](https://github.com/PhilETaylor) (1 week ago)
 - [autaut03](https://github.com/autaut03) (1 week ago)
