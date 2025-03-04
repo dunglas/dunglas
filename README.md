@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.1.0](https://github.com/laravel/framework/releases/tag/v12.1.0), today) - The Laravel Framework.
 - [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.0), today) - WHATWG conformant url parser for the Go language
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.19](https://github.com/api-platform/core/releases/tag/v4.0.19), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.12](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.12), 6 days ago) - The Amnesty International WordPress Humanity Theme
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
