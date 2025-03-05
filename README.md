@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (4 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (6 days ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 week ago)
 - [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.1.0](https://github.com/laravel/framework/releases/tag/v12.1.0), today) - The Laravel Framework.
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.0), today) - WHATWG conformant url parser for the Go language
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.19](https://github.com/api-platform/core/releases/tag/v4.0.19), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/framework](https://github.com/laravel/framework) ([v12.1.0](https://github.com/laravel/framework/releases/tag/v12.1.0), 1 day ago) - The Laravel Framework.
+- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.0), 1 day ago) - WHATWG conformant url parser for the Go language
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.19](https://github.com/api-platform/core/releases/tag/v4.0.19), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (2 months ago)
+- [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (3 months ago)
 - [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/) (3 months ago)
 - [How to debug Xdebug… or any other weird bug in PHP](https://dunglas.dev/2024/10/how-to-debug-xdebug-or-any-other-weird-bug-in-php/) (4 months ago)
 - [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (5 months ago)
