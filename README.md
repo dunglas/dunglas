@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (1 week ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 week ago)
-- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
 
 #### 🌱 My latest projects
 
