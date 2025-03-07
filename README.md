@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (6 days ago)
+- [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website (1 week ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 week ago)
 - [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.1), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 1 day ago) - The Laravel Framework.
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.0), 2 days ago) - WHATWG conformant url parser for the Go language
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.1), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 2 days ago) - The Laravel Framework.
+- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.0), 3 days ago) - WHATWG conformant url parser for the Go language
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [vemaeg](https://github.com/vemaeg) (today)
+- [vemaeg](https://github.com/vemaeg) (1 day ago)
 - [malsatin](https://github.com/malsatin) (2 months ago)
 - [Oksydan](https://github.com/Oksydan) (4 months ago)
