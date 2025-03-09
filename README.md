@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.1](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.1), 3 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.2), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 4 days ago) - The Laravel Framework.
 - [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.0](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.0), 5 days ago) - WHATWG conformant url parser for the Go language
 
