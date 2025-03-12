@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (today)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.1.0](https://github.com/dunglas/httpsfv/releases/tag/v1.1.0), today) - A Go library to parse and serialize HTTP structured field values
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 1 day ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.2](https://github.com/xdebug/xdebug/releases/tag/3.4.2), 3 days ago) - Xdebug — Step Debugger and Debugging Aid for PHP
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.2](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.2), 3 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
