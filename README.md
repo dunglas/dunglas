@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.8.2](https://github.com/laravel/octane/releases/tag/v2.8.2), today) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.2.0](https://github.com/laravel/framework/releases/tag/v12.2.0), today) - The Laravel Framework.
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.1.0](https://github.com/dunglas/httpsfv/releases/tag/v1.1.0), today) - A Go library to parse and serialize HTTP structured field values
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 1 day ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.4.2](https://github.com/xdebug/xdebug/releases/tag/3.4.2), 3 days ago) - Xdebug — Step Debugger and Debugging Aid for PHP
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
