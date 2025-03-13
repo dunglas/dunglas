@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19), today) - The PHP Interpreter
 - [laravel/octane](https://github.com/laravel/octane) ([v2.8.2](https://github.com/laravel/octane/releases/tag/v2.8.2), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.2.0](https://github.com/laravel/framework/releases/tag/v12.2.0), 1 day ago) - The Laravel Framework.
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) ([v1.1.0](https://github.com/dunglas/httpsfv/releases/tag/v1.1.0), 1 day ago) - A Go library to parse and serialize HTTP structured field values
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
