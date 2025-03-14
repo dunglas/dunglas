@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 days ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (2 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php/php-src](https://github.com/php/php-src) ([php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19), 1 day ago) - The PHP Interpreter
 - [laravel/octane](https://github.com/laravel/octane) ([v2.8.2](https://github.com/laravel/octane/releases/tag/v2.8.2), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.2.0](https://github.com/laravel/framework/releases/tag/v12.2.0), 2 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
