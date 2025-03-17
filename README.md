@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 days ago)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (4 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (5 days ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v6.5.1](https://github.com/golangci/golangci-lint-action/releases/tag/v6.5.1), 1 day ago) - Official GitHub Action for golangci-lint from its authors
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19), 3 days ago) - The PHP Interpreter
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v6.5.1](https://github.com/golangci/golangci-lint-action/releases/tag/v6.5.1), 2 days ago) - Official GitHub Action for golangci-lint from its authors
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19), 4 days ago) - The PHP Interpreter
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
