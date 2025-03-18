@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.3.0](https://github.com/laravel/framework/releases/tag/v12.3.0), today) - The Laravel Framework.
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v6.5.1](https://github.com/golangci/golangci-lint-action/releases/tag/v6.5.1), 3 days ago) - Official GitHub Action for golangci-lint from its authors
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19), 5 days ago) - The PHP Interpreter
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
