@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
-- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (6 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
+- [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.3.0](https://github.com/laravel/framework/releases/tag/v12.3.0), today) - The Laravel Framework.
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v6.5.1](https://github.com/golangci/golangci-lint-action/releases/tag/v6.5.1), 3 days ago) - Official GitHub Action for golangci-lint from its authors
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/framework](https://github.com/laravel/framework) ([v12.3.0](https://github.com/laravel/framework/releases/tag/v12.3.0), 1 day ago) - The Laravel Framework.
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v6.5.1](https://github.com/golangci/golangci-lint-action/releases/tag/v6.5.1), 4 days ago) - Official GitHub Action for golangci-lint from its authors
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
