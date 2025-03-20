@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.1](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.1), today) - WHATWG conformant url parser for the Go language
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.0), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.3.0](https://github.com/laravel/framework/releases/tag/v12.3.0), 1 day ago) - The Laravel Framework.
+- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.1](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.1), 1 day ago) - WHATWG conformant url parser for the Go language
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.0), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.3.0](https://github.com/laravel/framework/releases/tag/v12.3.0), 2 days ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [vemaeg](https://github.com/vemaeg) (1 week ago)
+- [vemaeg](https://github.com/vemaeg) (2 weeks ago)
 - [malsatin](https://github.com/malsatin) (2 months ago)
 - [Oksydan](https://github.com/Oksydan) (4 months ago)
