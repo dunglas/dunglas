@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [scheb/2fa](https://github.com/scheb/2fa) ([v7.7.0](https://github.com/scheb/2fa/releases/tag/v7.7.0), today) - Two-factor authentication for Symfony applications 🔐
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.2](https://github.com/api-platform/core/releases/tag/v4.1.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.1](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.1), 4 days ago) - WHATWG conformant url parser for the Go language
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.0](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.0), 4 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
