@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.3](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.3), today) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v7.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v7.0.0), today) - Official GitHub Action for golangci-lint from its authors
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.3](https://github.com/api-platform/core/releases/tag/v4.1.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [scheb/2fa](https://github.com/scheb/2fa) ([v7.7.1](https://github.com/scheb/2fa/releases/tag/v7.7.1), today) - Two-factor authentication for Symfony applications 🔐
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
