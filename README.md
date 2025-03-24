@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
 
@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [scheb/2fa](https://github.com/scheb/2fa) ([v7.7.1](https://github.com/scheb/2fa/releases/tag/v7.7.1), today) - Two-factor authentication for Symfony applications 🔐
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.1](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.1), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [scheb/2fa](https://github.com/scheb/2fa) ([v7.7.0](https://github.com/scheb/2fa/releases/tag/v7.7.0), 1 day ago) - Two-factor authentication for Symfony applications 🔐
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.2](https://github.com/api-platform/core/releases/tag/v4.1.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
