@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.5.0](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0), today) - 🧟 The modern PHP app server
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.4](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.4), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v7.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v7.0.0), 2 days ago) - Official GitHub Action for golangci-lint from its authors
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.3](https://github.com/api-platform/core/releases/tag/v4.1.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
