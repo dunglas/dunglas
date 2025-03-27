@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.13](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.13), today) - The Amnesty International WordPress Humanity Theme
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.5.0](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0), 1 day ago) - 🧟 The modern PHP app server
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.4](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.4), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v7.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v7.0.0), 3 days ago) - Official GitHub Action for golangci-lint from its authors
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
