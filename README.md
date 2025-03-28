@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (1 day ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 days ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.13](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.13), today) - The Amnesty International WordPress Humanity Theme
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.5.0](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0), 1 day ago) - 🧟 The modern PHP app server
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.4](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.4), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.13](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.13), 1 day ago) - The Amnesty International WordPress Humanity Theme
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.5.0](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0), 2 days ago) - 🧟 The modern PHP app server
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0-beta.4](https://github.com/caddyserver/caddy/releases/tag/v2.10.0-beta.4), 3 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -29,5 +29,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
 - [vemaeg](https://github.com/vemaeg) (3 weeks ago)
-- [malsatin](https://github.com/malsatin) (2 months ago)
+- [malsatin](https://github.com/malsatin) (3 months ago)
 - [Oksydan](https://github.com/Oksydan) (4 months ago)
