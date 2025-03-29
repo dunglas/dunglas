@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.4.0](https://github.com/laravel/framework/releases/tag/v12.4.0), today) - The Laravel Framework.
 - [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.2](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.2), 1 day ago) - WHATWG conformant url parser for the Go language
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.4](https://github.com/api-platform/core/releases/tag/v4.1.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.2.5](https://github.com/symfony/serializer/releases/tag/v7.2.5), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
