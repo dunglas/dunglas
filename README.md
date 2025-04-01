@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.4.1](https://github.com/laravel/framework/releases/tag/v12.4.1), 2 days ago) - The Laravel Framework.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.8.3](https://github.com/laravel/octane/releases/tag/v2.8.3), today) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.5.0](https://github.com/laravel/framework/releases/tag/v12.5.0), today) - The Laravel Framework.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.3.0), 2 days ago) - GitHub Action for GoReleaser
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) ([v0.6.2](https://github.com/nlnwa/whatwg-url/releases/tag/v0.6.2), 4 days ago) - WHATWG conformant url parser for the Go language
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
