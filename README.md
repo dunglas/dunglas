@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.6.0](https://github.com/laravel/framework/releases/tag/v12.6.0), today) - The Laravel Framework.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.8.3](https://github.com/laravel/octane/releases/tag/v2.8.3), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.5.0](https://github.com/laravel/framework/releases/tag/v12.5.0), 1 day ago) - The Laravel Framework.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.3.0), 3 days ago) - GitHub Action for GoReleaser
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
