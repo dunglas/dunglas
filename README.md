@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.6.0](https://github.com/laravel/framework/releases/tag/v12.6.0), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.7.2](https://github.com/laravel/framework/releases/tag/v12.7.2), today) - The Laravel Framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.5](https://github.com/api-platform/core/releases/tag/v4.1.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/octane](https://github.com/laravel/octane) ([v2.8.3](https://github.com/laravel/octane/releases/tag/v2.8.3), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.3.0), 4 days ago) - GitHub Action for GoReleaser
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
