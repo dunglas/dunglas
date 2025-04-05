@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.7.2](https://github.com/laravel/framework/releases/tag/v12.7.2), 1 day ago) - The Laravel Framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.5](https://github.com/api-platform/core/releases/tag/v4.1.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [laravel/octane](https://github.com/laravel/octane) ([v2.8.3](https://github.com/laravel/octane/releases/tag/v2.8.3), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.7.2](https://github.com/laravel/framework/releases/tag/v12.7.2), 2 days ago) - The Laravel Framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.5](https://github.com/api-platform/core/releases/tag/v4.1.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/octane](https://github.com/laravel/octane) ([v2.8.3](https://github.com/laravel/octane/releases/tag/v2.8.3), 4 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [vemaeg](https://github.com/vemaeg) (4 weeks ago)
+- [vemaeg](https://github.com/vemaeg) (1 month ago)
 - [malsatin](https://github.com/malsatin) (3 months ago)
 - [Oksydan](https://github.com/Oksydan) (5 months ago)
