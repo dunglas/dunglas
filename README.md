@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (today)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 day ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 week ago)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.6](https://github.com/api-platform/core/releases/tag/v4.1.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [laravel/framework](https://github.com/laravel/framework) ([v12.7.2](https://github.com/laravel/framework/releases/tag/v12.7.2), 4 days ago) - The Laravel Framework.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.8.3](https://github.com/laravel/octane/releases/tag/v2.8.3), 6 days ago) - Supercharge your Laravel application&#39;s performance.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.6](https://github.com/api-platform/core/releases/tag/v4.1.6), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laravel/framework](https://github.com/laravel/framework) ([v12.7.2](https://github.com/laravel/framework/releases/tag/v12.7.2), 5 days ago) - The Laravel Framework.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.8.3](https://github.com/laravel/octane/releases/tag/v2.8.3), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
