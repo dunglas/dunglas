@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (3 days ago)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (4 days ago)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (2 weeks ago)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (2 weeks ago)
 
@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20), today) - The PHP Interpreter
-- [laravel/framework](https://github.com/laravel/framework) ([v12.8.1](https://github.com/laravel/framework/releases/tag/v12.8.1), 2 days ago) - The Laravel Framework.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.9.0](https://github.com/laravel/octane/releases/tag/v2.9.0), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20), 1 day ago) - The PHP Interpreter
+- [laravel/framework](https://github.com/laravel/framework) ([v12.8.1](https://github.com/laravel/framework/releases/tag/v12.8.1), 3 days ago) - The Laravel Framework.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.9.0](https://github.com/laravel/octane/releases/tag/v2.9.0), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [Develop Faster With FrankenPHP](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/) (1 week ago)
+- [Develop Faster With FrankenPHP](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/) (2 weeks ago)
 - [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (4 months ago)
 - [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/) (4 months ago)
 - [How to debug Xdebug… or any other weird bug in PHP](https://dunglas.dev/2024/10/how-to-debug-xdebug-or-any-other-weird-bug-in-php/) (6 months ago)
