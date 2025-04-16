@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.9.1](https://github.com/laravel/framework/releases/tag/v12.9.1), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.9.2](https://github.com/laravel/framework/releases/tag/v12.9.2), today) - The Laravel Framework.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.9.1](https://github.com/laravel/octane/releases/tag/v2.9.1), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.7](https://github.com/api-platform/core/releases/tag/v4.1.7), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
