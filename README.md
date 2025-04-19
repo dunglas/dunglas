@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.2), today) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0](https://github.com/caddyserver/caddy/releases/tag/v2.10.0), 1 day ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [laravel/framework](https://github.com/laravel/framework) ([v12.9.2](https://github.com/laravel/framework/releases/tag/v12.9.2), 3 days ago) - The Laravel Framework.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.9.1](https://github.com/laravel/octane/releases/tag/v2.9.1), 4 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
