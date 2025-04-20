@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scheb/2fa](https://github.com/scheb/2fa) ([v7.8.0](https://github.com/scheb/2fa/releases/tag/v7.8.0), today) - Two-factor authentication for Symfony applications 🔐
+- [scheb/2fa](https://github.com/scheb/2fa) ([v7.9.0](https://github.com/scheb/2fa/releases/tag/v7.9.0), today) - Two-factor authentication for Symfony applications 🔐
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.2), 1 day ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0](https://github.com/caddyserver/caddy/releases/tag/v2.10.0), 2 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
