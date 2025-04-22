@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 week ago)
 - [dunglas/frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP (1 week ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [scheb/2fa](https://github.com/scheb/2fa) ([v7.9.0](https://github.com/scheb/2fa/releases/tag/v7.9.0), 1 day ago) - Two-factor authentication for Symfony applications 🔐
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.2), 2 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0](https://github.com/caddyserver/caddy/releases/tag/v2.10.0), 3 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [scheb/2fa](https://github.com/scheb/2fa) ([v7.9.0](https://github.com/scheb/2fa/releases/tag/v7.9.0), 2 days ago) - Two-factor authentication for Symfony applications 🔐
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) ([2.5.2](https://github.com/crazywhalecc/static-php-cli/releases/tag/2.5.2), 3 days ago) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.10.0](https://github.com/caddyserver/caddy/releases/tag/v2.10.0), 4 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
