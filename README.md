@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs. (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.19.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.19.0), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.2.0](https://github.com/dunglas/vulcain/releases/tag/v1.2.0), today) - 🔨 Fast and idiomatic client-driven REST APIs.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.10.0](https://github.com/laravel/framework/releases/tag/v12.10.0), today) - The Laravel Framework.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.0](https://github.com/dunglas/mercure/releases/tag/v0.19.0), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.2.0](https://github.com/dunglas/vulcain/releases/tag/v1.2.0), 1 day ago) - 🔨 Fast and idiomatic client-driven REST APIs.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.10.0](https://github.com/laravel/framework/releases/tag/v12.10.0), 1 day ago) - The Laravel Framework.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
