@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.44.5](https://github.com/laravel/framework/releases/tag/v11.44.5), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.10.2](https://github.com/laravel/framework/releases/tag/v12.10.2), today) - The Laravel Framework.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.0](https://github.com/dunglas/mercure/releases/tag/v0.19.0), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.2.0](https://github.com/dunglas/vulcain/releases/tag/v1.2.0), 2 days ago) - 🔨 Fast and idiomatic client-driven REST APIs.
 
