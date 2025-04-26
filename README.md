@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs. (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.44.7](https://github.com/laravel/framework/releases/tag/v11.44.7), today) - The Laravel Framework.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.0](https://github.com/dunglas/mercure/releases/tag/v0.19.0), 3 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.2.0](https://github.com/dunglas/vulcain/releases/tag/v1.2.0), 3 days ago) - 🔨 Fast and idiomatic client-driven REST APIs.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.44.7](https://github.com/laravel/framework/releases/tag/v11.44.7), 1 day ago) - The Laravel Framework.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.0](https://github.com/dunglas/mercure/releases/tag/v0.19.0), 4 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.2.0](https://github.com/dunglas/vulcain/releases/tag/v1.2.0), 4 days ago) - 🔨 Fast and idiomatic client-driven REST APIs.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
