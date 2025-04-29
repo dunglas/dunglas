@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.11.0](https://github.com/laravel/framework/releases/tag/v12.11.0), today) - The Laravel Framework.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.0](https://github.com/dunglas/mercure/releases/tag/v0.19.0), 1 week ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) ([v1.2.0](https://github.com/dunglas/vulcain/releases/tag/v1.2.0), 1 week ago) - 🔨 Fast and idiomatic client-driven REST APIs.
+- [scheb/2fa](https://github.com/scheb/2fa) ([v7.9.0](https://github.com/scheb/2fa/releases/tag/v7.9.0), 1 week ago) - Two-factor authentication for Symfony applications 🔐
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
