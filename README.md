@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [Amnesty-International-France/website](https://github.com/Amnesty-International-France/website) -  (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [Amnesty-International-France/website](https://github.com/Amnesty-International-France/website) -  (3 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v7.3.0-BETA1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA1](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA1), today) - Helps applications send and receive messages to/from other applications or via message queues
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0-BETA1), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v7.3.0-BETA1), 1 day ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA1](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA1), 1 day ago) - Helps applications send and receive messages to/from other applications or via message queues
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0-BETA1), 1 day ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
