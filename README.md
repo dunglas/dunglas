@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
-- [Amnesty-International-France/website](https://github.com/Amnesty-International-France/website) -  (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
+- [Amnesty-International-France/website](https://github.com/Amnesty-International-France/website) -  (5 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v8.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v8.0.0), today) - Official GitHub Action for golangci-lint from its authors
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v7.3.0-BETA1), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA1](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA1), 2 days ago) - Helps applications send and receive messages to/from other applications or via message queues
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v8.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v8.0.0), 1 day ago) - Official GitHub Action for golangci-lint from its authors
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v7.3.0-BETA1), 3 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA1](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA1), 3 days ago) - Helps applications send and receive messages to/from other applications or via message queues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [vemaeg](https://github.com/vemaeg) (1 month ago)
+- [vemaeg](https://github.com/vemaeg) (2 months ago)
 - [malsatin](https://github.com/malsatin) (4 months ago)
 - [Oksydan](https://github.com/Oksydan) (6 months ago)
