@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
 - [Amnesty-International-France/website](https://github.com/Amnesty-International-France/website) -  (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.14](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.14), today) - The Amnesty International WordPress Humanity Theme
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v8.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v8.0.0), 3 days ago) - Official GitHub Action for golangci-lint from its authors
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v7.3.0-BETA1), 5 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.14](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.14), 1 day ago) - The Amnesty International WordPress Humanity Theme
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v8.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v8.0.0), 4 days ago) - Official GitHub Action for golangci-lint from its authors
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-BETA1](https://github.com/symfony/serializer/releases/tag/v7.3.0-BETA1), 6 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
