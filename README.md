@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.8](https://github.com/api-platform/core/releases/tag/v4.1.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php/php-src](https://github.com/php/php-src) ([php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21), 1 day ago) - The PHP Interpreter
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.14](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.14), 2 days ago) - The Amnesty International WordPress Humanity Theme
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v8.0.0](https://github.com/golangci/golangci-lint-action/releases/tag/v8.0.0), 5 days ago) - Official GitHub Action for golangci-lint from its authors
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
