@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
 - [Amnesty-International-France/website](https://github.com/Amnesty-International-France/website) -  (1 week ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 weeks ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.8](https://github.com/api-platform/core/releases/tag/v4.1.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21), 1 day ago) - The PHP Interpreter
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.14](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.14), 2 days ago) - The Amnesty International WordPress Humanity Theme
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.8](https://github.com/api-platform/core/releases/tag/v4.1.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [php/php-src](https://github.com/php/php-src) ([php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21), 2 days ago) - The PHP Interpreter
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.14](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.14), 3 days ago) - The Amnesty International WordPress Humanity Theme
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
