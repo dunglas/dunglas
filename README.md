@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.8](https://github.com/api-platform/core/releases/tag/v4.1.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [php/php-src](https://github.com/php/php-src) ([php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21), 2 days ago) - The PHP Interpreter
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.0.14](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.0.14), 3 days ago) - The Amnesty International WordPress Humanity Theme
+- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA2](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA2), today) - Helps applications send and receive messages to/from other applications or via message queues
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0-BETA2), today) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), today) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
