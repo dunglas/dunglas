@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.9.2](https://github.com/laravel/octane/releases/tag/v2.9.2), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.9.3](https://github.com/laravel/octane/releases/tag/v2.9.3), today) - Supercharge your Laravel application&#39;s performance.
 - [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA2](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA2), 4 days ago) - Helps applications send and receive messages to/from other applications or via message queues
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0-BETA2), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
