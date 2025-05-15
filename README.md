@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.19.2](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.19.2), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.2](https://github.com/dunglas/mercure/releases/tag/v0.19.2), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [laravel/octane](https://github.com/laravel/octane) ([v2.9.3](https://github.com/laravel/octane/releases/tag/v2.9.3), 1 day ago) - Supercharge your Laravel application&#39;s performance.
 - [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA2](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA2), 5 days ago) - Helps applications send and receive messages to/from other applications or via message queues
 
