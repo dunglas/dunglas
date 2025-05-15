@@ -20,11 +20,11 @@
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
+- [FrankenPHP Is Now Officially Supported by The PHP Foundation](https://dunglas.dev/2025/05/frankenphp-is-now-officially-supported-by-the-php-foundation/) (today)
 - [Develop Faster With FrankenPHP](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/) (1 month ago)
 - [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (5 months ago)
 - [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/) (6 months ago)
 - [How to debug Xdebug… or any other weird bug in PHP](https://dunglas.dev/2024/10/how-to-debug-xdebug-or-any-other-weird-bug-in-php/) (7 months ago)
-- [API Platform for Laravel](https://dunglas.dev/2024/09/api-platform-for-laravel/) (7 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
