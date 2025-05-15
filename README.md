@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
 - [Amnesty-International-France/website](https://github.com/Amnesty-International-France/website) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.9.3](https://github.com/laravel/octane/releases/tag/v2.9.3), today) - Supercharge your Laravel application&#39;s performance.
-- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA2](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA2), 4 days ago) - Helps applications send and receive messages to/from other applications or via message queues
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0-BETA2), 4 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [laravel/octane](https://github.com/laravel/octane) ([v2.9.3](https://github.com/laravel/octane/releases/tag/v2.9.3), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA2](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA2), 5 days ago) - Helps applications send and receive messages to/from other applications or via message queues
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v7.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v7.3.0-BETA2), 5 days ago) - Provides a tight integration between Symfony components and the Symfony full-stack framework
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
