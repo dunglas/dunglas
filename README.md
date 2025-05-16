@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.2](https://github.com/dunglas/mercure/releases/tag/v0.19.2), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [laravel/octane](https://github.com/laravel/octane) ([v2.9.3](https://github.com/laravel/octane/releases/tag/v2.9.3), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-BETA2](https://github.com/symfony/messenger/releases/tag/v7.3.0-BETA2), 6 days ago) - Helps applications send and receive messages to/from other applications or via message queues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
