@@ -4,7 +4,7 @@
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
-- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (3 days ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (3 days ago)
 
 #### 🌱 My latest projects
 
