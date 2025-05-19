@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.0](https://github.com/dunglas/frankenphp/releases/tag/v1.6.0), today) - 🧟 The modern PHP app server
 - [scheb/2fa](https://github.com/scheb/2fa) ([v7.10.0](https://github.com/scheb/2fa/releases/tag/v7.10.0), today) - Two-factor authentication for Symfony applications 🔐
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), 3 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.2](https://github.com/dunglas/mercure/releases/tag/v0.19.2), 4 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
