@@ -28,6 +28,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
+- [rico](https://github.com/rico) (today)
 - [vemaeg](https://github.com/vemaeg) (2 months ago)
 - [malsatin](https://github.com/malsatin) (4 months ago)
-- [Oksydan](https://github.com/Oksydan) (6 months ago)
