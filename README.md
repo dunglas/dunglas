@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [scheb/2fa](https://github.com/scheb/2fa) ([v7.10.0](https://github.com/scheb/2fa/releases/tag/v7.10.0), today) - Two-factor authentication for Symfony applications 🔐
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), 3 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.2](https://github.com/dunglas/mercure/releases/tag/v0.19.2), 4 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [laravel/octane](https://github.com/laravel/octane) ([v2.9.3](https://github.com/laravel/octane/releases/tag/v2.9.3), 5 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
