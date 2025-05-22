@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.1.1](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.1.1), today) - The Amnesty International WordPress Humanity Theme
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.0](https://github.com/dunglas/frankenphp/releases/tag/v1.6.0), 3 days ago) - 🧟 The modern PHP app server
 - [scheb/2fa](https://github.com/scheb/2fa) ([v7.10.0](https://github.com/scheb/2fa/releases/tag/v7.10.0), 3 days ago) - Two-factor authentication for Symfony applications 🔐
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
