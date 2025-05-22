@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (3 days ago)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (6 days ago)
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.12](https://github.com/api-platform/core/releases/tag/v4.1.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.1.1](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.1.1), today) - The Amnesty International WordPress Humanity Theme
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.0](https://github.com/dunglas/frankenphp/releases/tag/v1.6.0), 3 days ago) - 🧟 The modern PHP app server
-- [scheb/2fa](https://github.com/scheb/2fa) ([v7.10.0](https://github.com/scheb/2fa/releases/tag/v7.10.0), 3 days ago) - Two-factor authentication for Symfony applications 🔐
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
