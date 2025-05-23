@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (today)
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (4 days ago)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.2](https://github.com/dunglas/frankenphp/releases/tag/v1.6.2), today) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.12](https://github.com/api-platform/core/releases/tag/v4.1.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.1.1](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.1.1), 1 day ago) - The Amnesty International WordPress Humanity Theme
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.0](https://github.com/dunglas/frankenphp/releases/tag/v1.6.0), 4 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
