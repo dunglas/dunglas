@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.2](https://github.com/dunglas/frankenphp/releases/tag/v1.6.2), 2 days ago) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.12](https://github.com/api-platform/core/releases/tag/v4.1.12), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.1.1](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.1.1), 3 days ago) - The Amnesty International WordPress Humanity Theme
+- [symfony/web-link](https://github.com/symfony/web-link) ([v7.3.0-RC1](https://github.com/symfony/web-link/releases/tag/v7.3.0-RC1), today) - Manages links between resources
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v7.3.0-RC1), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0-RC1](https://github.com/symfony/messenger/releases/tag/v7.3.0-RC1), today) - Helps applications send and receive messages to/from other applications or via message queues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
