@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format. (today)
-- [alexandre-daubois/ext-go](https://github.com/alexandre-daubois/ext-go) -  (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format. (1 day ago)
+- [alexandre-daubois/ext-go](https://github.com/alexandre-daubois/ext-go) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) ([v1.0.1](https://github.com/dunglas/caddy-cbrotli/releases/tag/v1.0.1), today) - A Caddy module providing support for the Brotli compression format.
-- [symfony/web-link](https://github.com/symfony/web-link) ([v7.3.0-RC1](https://github.com/symfony/web-link/releases/tag/v7.3.0-RC1), 2 days ago) - Manages links between resources
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v7.3.0-RC1), 2 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) ([v1.0.1](https://github.com/dunglas/caddy-cbrotli/releases/tag/v1.0.1), 1 day ago) - A Caddy module providing support for the Brotli compression format.
+- [symfony/web-link](https://github.com/symfony/web-link) ([v7.3.0-RC1](https://github.com/symfony/web-link/releases/tag/v7.3.0-RC1), 3 days ago) - Manages links between resources
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0-RC1](https://github.com/symfony/serializer/releases/tag/v7.3.0-RC1), 3 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
