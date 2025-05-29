@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.1.2](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.1.2), 1 day ago) - The Amnesty International WordPress Humanity Theme
-- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) ([v1.0.1](https://github.com/dunglas/caddy-cbrotli/releases/tag/v1.0.1), 2 days ago) - A Caddy module providing support for the Brotli compression format.
-- [symfony/web-link](https://github.com/symfony/web-link) ([v7.3.0-RC1](https://github.com/symfony/web-link/releases/tag/v7.3.0-RC1), 4 days ago) - Manages links between resources
+- [symfony/web-link](https://github.com/symfony/web-link) ([v7.3.0](https://github.com/symfony/web-link/releases/tag/v7.3.0), today) - Manages links between resources
+- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0](https://github.com/symfony/serializer/releases/tag/v7.3.0), today) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/messenger](https://github.com/symfony/messenger) ([v7.3.0](https://github.com/symfony/messenger/releases/tag/v7.3.0), today) - Helps applications send and receive messages to/from other applications or via message queues
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
