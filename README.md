@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (today)
-- [alexandre-daubois/ext-go](https://github.com/alexandre-daubois/ext-go) -  (2 days ago)
 - [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format. (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 
 #### 🌱 My latest projects
 
