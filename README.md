@@ -2,32 +2,32 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (4 days ago)
-- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format. (6 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (6 days ago)
 
 #### 🌱 My latest projects
 
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) - 🍺🧟 Homebrew tap for FrankenPHP
-- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch
-- [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli) - A Caddy module providing support for the Brotli compression format.
+- [dunglas/frankenphp-hot-reload](https://github.com/dunglas/frankenphp-hot-reload) - Hot reloading for PHP applications using FrankenPHP
+- [dunglas/frankenphp-queue](https://github.com/dunglas/frankenphp-queue) - Queue extension for FrankenPHP
+- [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) -  A PHP extension to write gRPC servers using the official gRPC library written in Go 
 
 #### 🔭 Latest releases I've contributed to
 
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme) ([v2.1.3](https://github.com/amnestywebsite/humanity-theme/releases/tag/v2.1.3), 4 days ago) - The Amnesty International WordPress Humanity Theme
-- [symfony/web-link](https://github.com/symfony/web-link) ([v7.3.0](https://github.com/symfony/web-link/releases/tag/v7.3.0), 4 days ago) - Manages links between resources
-- [symfony/serializer](https://github.com/symfony/serializer) ([v7.3.0](https://github.com/symfony/serializer/releases/tag/v7.3.0), 4 days ago) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [viest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) ([v2.0.1](https://github.com/viest/php-ext-xlswriter/releases/tag/v2.0.1), 1 day ago) - 🚀 PHP Extension for creating and reader XLSX files. 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.17.4](https://github.com/laravel/octane/releases/tag/v2.17.4), 4 days ago) - Supercharge your Laravel application&#39;s performance.
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v9.2.1](https://github.com/golangci/golangci-lint-action/releases/tag/v9.2.1), 4 days ago) - Official GitHub Action for golangci-lint from its authors
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
-- [FrankenPHP’s New Features: Thread Autoscaling, Mostly Static Binaries, deb and RPM Packages, Caddy 2.10…](https://dunglas.dev/2025/05/frankenphps-new-features-thread-autoscaling-mostly-static-binaries-deb-and-rpm-packages-caddy-2-10/) (2 weeks ago)
-- [FrankenPHP Is Now Officially Supported by The PHP Foundation](https://dunglas.dev/2025/05/frankenphp-is-now-officially-supported-by-the-php-foundation/) (2 weeks ago)
-- [Develop Faster With FrankenPHP](https://dunglas.dev/2025/03/develop-faster-with-frankenphp/) (2 months ago)
-- [HTTP compression in PHP (new Symfony AssetMapper feature)](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/) (5 months ago)
-- [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/) (6 months ago)
+- [Mercure 0.23.5: Helm chart hardening](https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/) (3 weeks ago)
+- [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (1 month ago)
+- [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (2 months ago)
+- [Merry Christmas! FrankenPHP 1.11: Hot Reload, Structured Logging, and More Speed](https://dunglas.dev/2025/12/merry-christmas-frankenphp-1-11-hot-reload-structured-logging-and-more-speed/) (5 months ago)
+- [The Best of Both Worlds: Go-Powered gRPC for Your PHP and API Platform Apps](https://dunglas.dev/2025/09/the-best-of-both-worlds-go-powered-grpc-for-your-php-and-api-platform-apps/) (8 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
 
-- [rico](https://github.com/rico) (2 weeks ago)
-- [vemaeg](https://github.com/vemaeg) (2 months ago)
-- [malsatin](https://github.com/malsatin) (5 months ago)
+- [kiatng](https://github.com/kiatng) (1 month ago)
+- [jv2222](https://github.com/jv2222) (3 months ago)
+- [SecuMailer](https://github.com/SecuMailer) (4 months ago)
