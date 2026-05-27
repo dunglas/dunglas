@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
-- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (6 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
+- [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [viest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) ([v2.0.1](https://github.com/viest/php-ext-xlswriter/releases/tag/v2.0.1), 1 day ago) - 🚀 PHP Extension for creating and reader XLSX files. 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.17.4](https://github.com/laravel/octane/releases/tag/v2.17.4), 4 days ago) - Supercharge your Laravel application&#39;s performance.
-- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v9.2.1](https://github.com/golangci/golangci-lint-action/releases/tag/v9.2.1), 4 days ago) - Official GitHub Action for golangci-lint from its authors
+- [viest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) ([v2.0.1](https://github.com/viest/php-ext-xlswriter/releases/tag/v2.0.1), 2 days ago) - 🚀 PHP Extension for creating and reader XLSX files. 
+- [laravel/octane](https://github.com/laravel/octane) ([v2.17.4](https://github.com/laravel/octane/releases/tag/v2.17.4), 5 days ago) - Supercharge your Laravel application&#39;s performance.
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) ([v9.2.1](https://github.com/golangci/golangci-lint-action/releases/tag/v9.2.1), 5 days ago) - Official GitHub Action for golangci-lint from its authors
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
