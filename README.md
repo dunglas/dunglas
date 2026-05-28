@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 days ago)
 - [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
 
