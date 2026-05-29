@@ -63,12 +63,19 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dunglas&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dunglas&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dunglas/dunglas/cards/github_dark/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/dunglas/dunglas/cards/default/3-stats.svg" alt="GitHub stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dunglas/dunglas/cards/github_dark/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/dunglas/dunglas/cards/default/1-repos-per-language.svg" alt="Repos per language" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dunglas&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunglas&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dunglas/dunglas/cards/github_dark/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/dunglas/dunglas/cards/default/2-most-commit-language.svg" alt="Most-used languages" />
   </picture>
 </p>
 
