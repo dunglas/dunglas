@@ -1,26 +1,105 @@
-### Hey 👋
+<p align="center">
+  <a href="https://dunglas.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Polyglot+developer;Go+%C2%B7+C+%C2%B7+PHP+%C2%B7+JavaScript;Creator+of+FrankenPHP%2C+Mercure%2C+API+Platform;Open+source+maintainer" alt="Polyglot developer · Go · C · PHP · JavaScript · Creator of FrankenPHP, Mercure, API Platform · Open source maintainer" />
+  </a>
+</p>
 
-#### 👷 Check out what I'm currently working on
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dunglas&style=flat-square&color=00ADD8" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dunglas?style=flat-square&color=00ADD8" alt="GitHub followers" />
+</p>
+
+## About
+
+Software engineer working on open source for the web. Creator of [FrankenPHP](https://frankenphp.dev), [Mercure](https://mercure.rocks), and [API Platform](https://api-platform.com). [Symfony Core Team](https://symfony.com/doc/current/contributing/code/core_team.html) member. Co-founder of [Les-Tilleuls.coop](https://les-tilleuls.coop).
+
+Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, real-time protocols, API design, and developer tooling.
+
+<p align="center">
+  <a href="https://dunglas.dev"><img src="https://img.shields.io/badge/Blog-dunglas.dev-FF6B00?style=flat-square&logo=hashnode&logoColor=fff" alt="Blog" /></a>
+  <a href="https://mastodon.social/@dunglas"><img src="https://img.shields.io/badge/Mastodon-@dunglas-6364FF?style=flat-square&logo=mastodon&logoColor=fff" alt="Mastodon" /></a>
+  <a href="https://bsky.app/profile/dunglas.dev"><img src="https://img.shields.io/badge/Bluesky-dunglas.dev-0285FF?style=flat-square&logo=bluesky&logoColor=fff" alt="Bluesky" /></a>
+  <a href="https://x.com/dunglas"><img src="https://img.shields.io/badge/X-@dunglas-000?style=flat-square&logo=x&logoColor=fff" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/kevindunglas/"><img src="https://img.shields.io/badge/LinkedIn-kevindunglas-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://github.com/sponsors/dunglas"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=fff" alt="Sponsor" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff" alt="Go" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000" alt="C" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=fff" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=fff" alt="Caddy" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff" alt="Kubernetes" />
+</p>
+
+## 🚀 Featured projects
+
+- **[FrankenPHP](https://github.com/dunglas/frankenphp)** — Modern PHP app server built on Caddy and Go. Worker mode, early hints, 103 status, Zstandard. ![Stars](https://img.shields.io/github/stars/dunglas/frankenphp?style=flat-square&label=&logo=github)
+- **[Mercure](https://github.com/dunglas/mercure)** — Real-time updates over HTTP. Server-sent events with authorization, history, and a high-throughput hub. ![Stars](https://img.shields.io/github/stars/dunglas/mercure?style=flat-square&label=&logo=github)
+- **[API Platform](https://github.com/api-platform/api-platform)** — Framework to build hypermedia and GraphQL APIs, web apps, and admin interfaces in PHP. ![Stars](https://img.shields.io/github/stars/api-platform/api-platform?style=flat-square&label=&logo=github)
+- **[Vulcain](https://github.com/dunglas/vulcain)** — Fast, client-driven REST APIs over HTTP/2 and HTTP/3 with server push. ![Stars](https://img.shields.io/github/stars/dunglas/vulcain?style=flat-square&label=&logo=github)
+- **[Caddy modules](https://github.com/dunglas?tab=repositories&q=caddy)** — `caddy-cbrotli`, `caddy-cgi`, and other Caddy extensions used in production by FrankenPHP.
+
+## 👷 Currently working on
 {{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) — {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
+## 🌱 Latest personal projects
 {{range recentRepos 3}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) — {{.Description}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 3}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### 📜 My recent [blog posts](https://dunglas.fr)
-{{range rss "https://dunglas.fr/feed/" 5}}
+## 📜 Recent [blog posts](https://dunglas.dev)
+{{range rss "https://dunglas.dev/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/dunglas) (thank you!)
+## 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dunglas&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dunglas&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dunglas&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunglas&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  </picture>
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/dunglas">
+    <img src="https://trophy.ryglcloud.net/?username=dunglas&theme=flat&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
+  </a>
+</p>
+
+## 📈 Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dunglas&theme=tokyo-night&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dunglas&theme=minimal&hide_border=true&area=true" alt="Activity graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dunglas/dunglas/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/dunglas/dunglas/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+## ❤️ Sponsors
+
+<a href="https://github.com/sponsors/dunglas"><img src="https://img.shields.io/badge/Become%20a%20sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=fff" alt="Become a sponsor" /></a>
+
 {{range sponsors 3}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
