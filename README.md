@@ -11,7 +11,7 @@
 
 ## About
 
-Software engineer working on open source for the web. Creator of [FrankenPHP](https://frankenphp.dev), [Mercure](https://mercure.rocks), and [API Platform](https://api-platform.com). [Symfony Core Team](https://symfony.com/doc/current/contributing/code/core_team.html) member. Co-founder of [Les-Tilleuls.coop](https://les-tilleuls.coop).
+Software engineer working on open source for the web. Creator of [FrankenPHP](https://frankenphp.dev), [Mercure](https://mercure.rocks), and [API Platform](https://api-platform.com). [Caddy](https://caddyserver.com) maintainer. [Symfony Core Team](https://symfony.com/doc/current/contributing/code/core_team.html) member. Co-founder of [Les-Tilleuls.coop](https://les-tilleuls.coop).
 
 Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, real-time protocols, API design, and developer tooling.
 
@@ -42,7 +42,7 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 - **[Mercure](https://github.com/dunglas/mercure)** — Real-time updates over HTTP. Server-sent events with authorization, history, and a high-throughput hub. ![Stars](https://img.shields.io/github/stars/dunglas/mercure?style=flat-square&label=&logo=github)
 - **[API Platform](https://github.com/api-platform/api-platform)** — Framework to build hypermedia and GraphQL APIs, web apps, and admin interfaces in PHP. ![Stars](https://img.shields.io/github/stars/api-platform/api-platform?style=flat-square&label=&logo=github)
 - **[Vulcain](https://github.com/dunglas/vulcain)** — Fast, client-driven REST APIs over HTTP/2 and HTTP/3 with server push. ![Stars](https://img.shields.io/github/stars/dunglas/vulcain?style=flat-square&label=&logo=github)
-- **[Caddy modules](https://github.com/dunglas?tab=repositories&q=caddy)** — `caddy-cbrotli`, `caddy-cgi`, and other Caddy extensions used in production by FrankenPHP.
+- **[Caddy modules](https://github.com/dunglas?tab=repositories&q=caddy)** — `caddy-cbrotli` and other Caddy extensions used in production by FrankenPHP.
 
 ## 👷 Currently working on
 
