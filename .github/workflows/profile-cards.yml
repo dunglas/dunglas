@@ -25,6 +25,24 @@ jobs:
           UTC_OFFSET: 1
           AUTO_PUSH: false
 
+      - name: Cache third-party widgets
+        run: |
+          set -euo pipefail
+          out=profile-summary-card-output/extras
+          mkdir -p "$out"
+          curl --fail --retry 3 --retry-delay 5 -sSL \
+            'https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Polyglot+developer;Go+%C2%B7+C+%C2%B7+PHP+%C2%B7+JavaScript;Creator+of+FrankenPHP%2C+Mercure%2C+API+Platform;Open+source+maintainer' \
+            -o "$out/typing.svg"
+          curl --fail --retry 3 --retry-delay 5 -sSL \
+            'https://github-readme-activity-graph.vercel.app/graph?username=dunglas&theme=minimal&hide_border=true&area=true' \
+            -o "$out/activity-light.svg"
+          curl --fail --retry 3 --retry-delay 5 -sSL \
+            'https://github-readme-activity-graph.vercel.app/graph?username=dunglas&theme=tokyo-night&hide_border=true&area=true' \
+            -o "$out/activity-dark.svg"
+          curl --fail --retry 3 --retry-delay 5 -sSL \
+            'https://trophy.ryglcloud.net/?username=dunglas&theme=flat&no-frame=true&column=7&margin-w=10' \
+            -o "$out/trophy.svg"
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: cards
