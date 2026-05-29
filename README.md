@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://dunglas.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Polyglot+developer;Go+%C2%B7+C+%C2%B7+PHP+%C2%B7+JavaScript;Creator+of+FrankenPHP%2C+Mercure%2C+API+Platform;Open+source+maintainer" alt="Polyglot developer · Go · C · PHP · JavaScript · Creator of FrankenPHP, Mercure, API Platform · Open source maintainer" />
+    <img src="https://raw.githubusercontent.com/dunglas/dunglas/cards/extras/typing.svg" alt="Polyglot developer · Go · C · PHP · JavaScript · Creator of FrankenPHP, Mercure, API Platform · Open source maintainer" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dunglas&style=flat-square&color=00ADD8" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dunglas?style=flat-square&color=00ADD8" alt="GitHub followers" />
 </p>
 
@@ -88,7 +87,7 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 <p align="center">
   <a href="https://github.com/dunglas">
-    <img src="https://trophy.ryglcloud.net/?username=dunglas&theme=flat&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
+    <img src="https://raw.githubusercontent.com/dunglas/dunglas/cards/extras/trophy.svg" alt="GitHub trophies" />
   </a>
 </p>
 
@@ -96,8 +95,8 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dunglas&theme=tokyo-night&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dunglas&theme=minimal&hide_border=true&area=true" alt="Activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dunglas/dunglas/cards/extras/activity-dark.svg" />
+    <img src="https://raw.githubusercontent.com/dunglas/dunglas/cards/extras/activity-light.svg" alt="Activity graph" />
   </picture>
 </p>
 
