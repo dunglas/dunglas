@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (3 days ago)
 - [dunglas/DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean API v2 client for Symfony and API Platform (1 week ago)
 
 #### 🌱 My latest projects
@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.1.0-RC1), 1 day ago) - The Symfony PHP framework
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.0-RC1](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.0-RC1), 1 day ago) - Provides a development tool that gives detailed information about the execution of any request
-- [viest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) ([v2.0.1](https://github.com/viest/php-ext-xlswriter/releases/tag/v2.0.1), 3 days ago) - 🚀 PHP Extension for creating and reader XLSX files. 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.1.0-RC1), 2 days ago) - The Symfony PHP framework
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) ([v8.1.0-RC1](https://github.com/symfony/web-profiler-bundle/releases/tag/v8.1.0-RC1), 2 days ago) - Provides a development tool that gives detailed information about the execution of any request
+- [viest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) ([v2.0.1](https://github.com/viest/php-ext-xlswriter/releases/tag/v2.0.1), 4 days ago) - 🚀 PHP Extension for creating and reader XLSX files. 
 
 #### 📜 My recent [blog posts](https://dunglas.fr)
 
