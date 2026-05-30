@@ -45,9 +45,9 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 ## 👷 Currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (4 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -58,7 +58,7 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 ## 📜 Recent [blog posts](https://dunglas.dev)
 
 - [Mercure 0.23.5: Helm chart hardening](https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/) (3 weeks ago)
-- [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (1 month ago)
+- [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (2 months ago)
 - [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (2 months ago)
 - [Merry Christmas! FrankenPHP 1.11: Hot Reload, Structured Logging, and More Speed](https://dunglas.dev/2025/12/merry-christmas-frankenphp-1-11-hot-reload-structured-logging-and-more-speed/) (5 months ago)
 - [The Best of Both Worlds: Go-Powered gRPC for Your PHP and API Platform Apps](https://dunglas.dev/2025/09/the-best-of-both-worlds-go-powered-grpc-for-your-php-and-api-platform-apps/) (8 months ago)
