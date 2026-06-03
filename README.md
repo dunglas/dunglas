@@ -45,8 +45,8 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 ## 👷 Currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (5 days ago)
 - [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (1 week ago)
 
 ## 🌱 Latest personal projects
