@@ -45,9 +45,9 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 ## 👷 Currently working on
 
+- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (5 days ago)
-- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (1 week ago)
+- [symfony/ai-platform](https://github.com/symfony/ai-platform) — PHP library for interacting with AI platform provider. (5 days ago)
 
 ## 🌱 Latest personal projects
 
