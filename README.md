@@ -45,9 +45,9 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 ## 👷 Currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (6 days ago)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) — 🍺🧟 Homebrew tap for FrankenPHP (6 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (1 week ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) — 🍺🧟 Homebrew tap for FrankenPHP (1 week ago)
 
 ## 🌱 Latest personal projects
 
@@ -114,4 +114,4 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 - [kiatng](https://github.com/kiatng) (1 month ago)
 - [jv2222](https://github.com/jv2222) (3 months ago)
-- [SecuMailer](https://github.com/SecuMailer) (4 months ago)
+- [SecuMailer](https://github.com/SecuMailer) (5 months ago)
