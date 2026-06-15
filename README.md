@@ -45,7 +45,7 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 ## 👷 Currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
 - [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (1 week ago)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) — 🍺🧟 Homebrew tap for FrankenPHP (1 week ago)
 
@@ -112,6 +112,6 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 <a href="https://github.com/sponsors/dunglas"><img src="https://img.shields.io/badge/Become%20a%20sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=fff" alt="Become a sponsor" /></a>
 
 
-- [kiatng](https://github.com/kiatng) (1 month ago)
+- [kiatng](https://github.com/kiatng) (2 months ago)
 - [jv2222](https://github.com/jv2222) (4 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (5 months ago)
