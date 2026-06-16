@@ -45,7 +45,7 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 
 ## 👷 Currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 days ago)
 - [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (1 week ago)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) — 🍺🧟 Homebrew tap for FrankenPHP (1 week ago)
 
@@ -61,7 +61,7 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 - [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (2 months ago)
 - [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (3 months ago)
 - [Merry Christmas! FrankenPHP 1.11: Hot Reload, Structured Logging, and More Speed](https://dunglas.dev/2025/12/merry-christmas-frankenphp-1-11-hot-reload-structured-logging-and-more-speed/) (5 months ago)
-- [The Best of Both Worlds: Go-Powered gRPC for Your PHP and API Platform Apps](https://dunglas.dev/2025/09/the-best-of-both-worlds-go-powered-grpc-for-your-php-and-api-platform-apps/) (8 months ago)
+- [The Best of Both Worlds: Go-Powered gRPC for Your PHP and API Platform Apps](https://dunglas.dev/2025/09/the-best-of-both-worlds-go-powered-grpc-for-your-php-and-api-platform-apps/) (9 months ago)
 
 ## 📊 GitHub stats
 
