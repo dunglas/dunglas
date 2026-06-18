@@ -46,8 +46,8 @@ Comfortable across Go, C, PHP, and JavaScript. Daily work spans web servers, rea
 ## 👷 Currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) — 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 week ago)
-- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (1 week ago)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) — 🍺🧟 Homebrew tap for FrankenPHP (1 week ago)
+- [php/frankenphp](https://github.com/php/frankenphp) — 🧟 The modern PHP app server (2 weeks ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp) — 🍺🧟 Homebrew tap for FrankenPHP (2 weeks ago)
 
 ## 🌱 Latest personal projects
 
