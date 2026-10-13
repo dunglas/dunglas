@@ -3,7 +3,7 @@
 I work on open source for the web.
 
 - Creator of [FrankenPHP](https://frankenphp.dev), [Mercure](https://mercure.rocks) and [API Platform](https://api-platform.com)
-- [Caddy](https://caddyserver.com) ![Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=flat-square&label=&logo=github), [PHP](https://www.php.net) ![Stars](https://img.shields.io/github/stars/php/php-src?style=flat-square&label=&logo=github) and [Symfony](https://symfony.com) co-maintainer ![Stars](https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=&logo=github)
+- [Caddy](https://caddyserver.com), [PHP](https://www.php.net) and [Symfony](https://symfony.com) co-maintainer
 - Co-founder of [Tilia.coop](https://tilia.coop) and [Les-Tilleuls.coop](https://les-tilleuls.coop)
 
 I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, API design and developer tooling.
@@ -12,23 +12,23 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 🚀 Featured projects
 
-- **[FrankenPHP](https://github.com/php/frankenphp)**: PHP app server written in Go, built on Caddy ![Stars](https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label=&logo=github)
-- **[Mercure](https://github.com/dunglas/mercure)**: real-time updates over HTTP using server-sent events ![Stars](https://img.shields.io/github/stars/dunglas/mercure?style=flat-square&label=&logo=github)
-- **[API Platform](https://github.com/api-platform/api-platform)**: framework to build REST and GraphQL APIs in PHP ![Stars](https://img.shields.io/github/stars/api-platform/api-platform?style=flat-square&label=&logo=github)
-- **[Vulcain](https://github.com/dunglas/vulcain)**: client-driven REST APIs using preload hints ![Stars](https://img.shields.io/github/stars/dunglas/vulcain?style=flat-square&label=&logo=github)
+- **[FrankenPHP](https://github.com/php/frankenphp)**: PHP app server written in Go, built on Caddy
+- **[Mercure](https://github.com/dunglas/mercure)**: real-time updates over HTTP using server-sent events
+- **[API Platform](https://github.com/api-platform/api-platform)**: framework to build REST and GraphQL APIs in PHP
+- **[Vulcain](https://github.com/dunglas/vulcain)**: client-driven REST APIs using preload hints
 - **[Caddy modules](https://github.com/dunglas?tab=repositories&q=caddy)**: `caddy-cbrotli` and other Caddy extensions used by FrankenPHP
 
 ## 👷 Currently working on
 
-- [laravel/docs](https://github.com/laravel/docs): The Laravel documentation. ![Stars](https://img.shields.io/github/stars/laravel/docs?style=flat-square&label=&logo=github) (today)
-- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. ![Stars](https://img.shields.io/github/stars/onestlatech/masque?style=flat-square&label=&logo=github) (today)
-- [laravel/framework](https://github.com/laravel/framework): Laravel is a web application framework with expressive, elegant syntax. ![Stars](https://img.shields.io/github/stars/laravel/framework?style=flat-square&label=&logo=github) (today)
+- [laravel/docs](https://github.com/laravel/docs): The Laravel documentation. (today)
+- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (today)
+- [laravel/framework](https://github.com/laravel/framework): Laravel is a web application framework with expressive, elegant syntax. (today)
 
 ## 🌱 Latest personal projects
 
-- [dunglas/demo-mercure-keycloak](https://github.com/dunglas/demo-mercure-keycloak): Mercure 1.0 &#43; Keycloak demo: RFC 9396 authorization_details tokens, all in Docker ![Stars](https://img.shields.io/github/stars/dunglas/demo-mercure-keycloak?style=flat-square&label=&logo=github)
-- [dunglas/keycloak-rar](https://github.com/dunglas/keycloak-rar): RFC 9396 Rich Authorization Requests for Keycloak, with a Mercure profile ![Stars](https://img.shields.io/github/stars/dunglas/keycloak-rar?style=flat-square&label=&logo=github)
-- [dunglas/mercure-stream-delegation](https://github.com/dunglas/mercure-stream-delegation): Caddy stream delegation to Mercure hubs ![Stars](https://img.shields.io/github/stars/dunglas/mercure-stream-delegation?style=flat-square&label=&logo=github)
+- [dunglas/demo-mercure-keycloak](https://github.com/dunglas/demo-mercure-keycloak): Mercure 1.0 &#43; Keycloak demo: RFC 9396 authorization_details tokens, all in Docker
+- [dunglas/keycloak-rar](https://github.com/dunglas/keycloak-rar): RFC 9396 Rich Authorization Requests for Keycloak, with a Mercure profile
+- [dunglas/mercure-stream-delegation](https://github.com/dunglas/mercure-stream-delegation): Caddy stream delegation to Mercure hubs
 
 ## 📜 Recent [blog posts](https://dunglas.dev)
 
