@@ -1,6 +1,6 @@
 ## About
 
-Software engineer working on open source for the web.
+I work on open source for the web.
 
 - Creator of [FrankenPHP](https://frankenphp.dev), [Mercure](https://mercure.rocks) and [API Platform](https://api-platform.com)
 - [Caddy](https://caddyserver.com) ![Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=flat-square&label=&logo=github), [PHP](https://www.php.net) ![Stars](https://img.shields.io/github/stars/php/php-src?style=flat-square&label=&logo=github) and [Symfony](https://symfony.com) co-maintainer ![Stars](https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=&logo=github)
