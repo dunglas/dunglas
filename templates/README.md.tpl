@@ -20,12 +20,12 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 {{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}): {{.Repo.Description}} ![Stars](https://img.shields.io/github/stars/{{.Repo.Name}}?style=flat-square&label=&logo=github) ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}}: {{.}}{{end}} ![Stars](https://img.shields.io/github/stars/{{.Repo.Name}}?style=flat-square&label=&logo=github) ({{humanize .OccurredAt}})
 {{- end}}
 
 ## 🌱 Latest personal projects
 {{range recentRepos 3}}
-- [{{.Name}}]({{.URL}}): {{.Description}} ![Stars](https://img.shields.io/github/stars/{{.Name}}?style=flat-square&label=&logo=github)
+- [{{.Name}}]({{.URL}}){{with .Description}}: {{.}}{{end}} ![Stars](https://img.shields.io/github/stars/{{.Name}}?style=flat-square&label=&logo=github)
 {{- end}}
 
 ## 📜 Recent [blog posts](https://dunglas.dev)
