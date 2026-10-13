@@ -2,13 +2,13 @@
 
 Software engineer working on open source for the web.
 
-- Creator of [FrankenPHP](https://frankenphp.dev) ![Stars](https://img.shields.io/github/stars/php/frankenphp?style=flat-square&label=&logo=github), [Mercure](https://mercure.rocks) ![Stars](https://img.shields.io/github/stars/dunglas/mercure?style=flat-square&label=&logo=github) and [API Platform](https://api-platform.com) ![Stars](https://img.shields.io/github/stars/api-platform/api-platform?style=flat-square&label=&logo=github)
+- Creator of [FrankenPHP](https://frankenphp.dev), [Mercure](https://mercure.rocks) and [API Platform](https://api-platform.com)
 - [Caddy](https://caddyserver.com) ![Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=flat-square&label=&logo=github), [PHP](https://www.php.net) ![Stars](https://img.shields.io/github/stars/php/php-src?style=flat-square&label=&logo=github) and [Symfony](https://symfony.com) co-maintainer ![Stars](https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=&logo=github)
 - Co-founder of [Tilia.coop](https://tilia.coop) and [Les-Tilleuls.coop](https://les-tilleuls.coop)
 
 I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, API design and developer tooling.
 
-[Blog](https://dunglas.dev) · [Mastodon](https://mastodon.social/@dunglas) · [Bluesky](https://bsky.app/profile/dunglas.dev) · [X](https://x.com/dunglas) · [LinkedIn](https://www.linkedin.com/in/kevindunglas/) · [Sponsor](https://github.com/sponsors/dunglas)
+[Blog](https://dunglas.dev) · [Mastodon](https://mastodon.social/@dunglas) · [Bluesky](https://bsky.app/profile/dunglas.dev) · [X](https://x.com/dunglas) · [LinkedIn](https://www.linkedin.com/in/kevindunglas/)
 
 ## 🚀 Featured projects
 
