@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [laravel/docs](https://github.com/laravel/docs): The Laravel documentation. (today)
-- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (today)
 - [laravel/framework](https://github.com/laravel/framework): Laravel is a web application framework with expressive, elegant syntax. (today)
+- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (today)
 
 ## 🌱 Latest personal projects
 
