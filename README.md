@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [laravel/docs](https://github.com/laravel/docs): The Laravel documentation. (today)
-- [laravel/framework](https://github.com/laravel/framework): Laravel is a web application framework with expressive, elegant syntax. (today)
-- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (today)
+- [laravel/docs](https://github.com/laravel/docs): The Laravel documentation. (1 day ago)
+- [laravel/framework](https://github.com/laravel/framework): Laravel is a web application framework with expressive, elegant syntax. (1 day ago)
+- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (1 day ago)
 
 ## 🌱 Latest personal projects
 
@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [0x000000000000000000001](https://github.com/0x000000000000000000001) (3 weeks ago)
+- [0x000000000000000000001](https://github.com/0x000000000000000000001) (4 weeks ago)
 - [kiatng](https://github.com/kiatng) (6 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (9 months ago)
