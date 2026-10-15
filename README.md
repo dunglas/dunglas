@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [laravel/octane](https://github.com/laravel/octane): Supercharge your Laravel application&#39;s performance. (today)
-- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io): ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (today)
-- [laravel/docs](https://github.com/laravel/docs): The Laravel documentation. (1 day ago)
+- [laravel/octane](https://github.com/laravel/octane): Supercharge your Laravel application&#39;s performance. (1 day ago)
+- [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io): ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [laravel/docs](https://github.com/laravel/docs): The Laravel documentation. (2 days ago)
 
 ## 🌱 Latest personal projects
 
