@@ -20,8 +20,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (1 day ago)
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io): ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites (1 day ago)
+- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (1 day ago)
 - [laravel/octane](https://github.com/laravel/octane): Supercharge your Laravel application&#39;s performance. (2 days ago)
 
 ## 🌱 Latest personal projects
