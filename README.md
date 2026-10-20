@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell (today)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell (1 day ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (2 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -36,7 +36,7 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 - [Mercure 0.23.5: Helm chart hardening](https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/) (5 months ago)
 - [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (6 months ago)
 - [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (7 months ago)
-- [Merry Christmas! FrankenPHP 1.11: Hot Reload, Structured Logging, and More Speed](https://dunglas.dev/2025/12/merry-christmas-frankenphp-1-11-hot-reload-structured-logging-and-more-speed/) (9 months ago)
+- [Merry Christmas! FrankenPHP 1.11: Hot Reload, Structured Logging, and More Speed](https://dunglas.dev/2025/12/merry-christmas-frankenphp-1-11-hot-reload-structured-logging-and-more-speed/) (10 months ago)
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
