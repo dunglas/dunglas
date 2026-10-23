@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
+- [Tugzrida](https://github.com/Tugzrida) (today)
 - [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (2 days ago)
 - [tihomir-stefanov](https://github.com/tihomir-stefanov) (2 days ago)
-- [raphael-geffroy](https://github.com/raphael-geffroy) (2 days ago)
