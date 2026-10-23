@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker): A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
 
 ## 🌱 Latest personal projects
 
