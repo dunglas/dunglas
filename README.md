@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker): A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (today)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker): A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`. (1 day ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (3 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [Tugzrida](https://github.com/Tugzrida) (today)
-- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (2 days ago)
-- [tihomir-stefanov](https://github.com/tihomir-stefanov) (2 days ago)
+- [Tugzrida](https://github.com/Tugzrida) (1 day ago)
+- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (3 days ago)
+- [tihomir-stefanov](https://github.com/tihomir-stefanov) (3 days ago)
