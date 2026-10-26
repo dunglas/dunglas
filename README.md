@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli): Build standalone portable PHP binaries on Linux, macOS, Windows, with PHP project together, with popular extensions included. (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli): Build standalone portable PHP binaries on Linux, macOS, Windows, with PHP project together, with popular extensions included. (1 day ago)
 
 ## 🌱 Latest personal projects
 
@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [Tugzrida](https://github.com/Tugzrida) (2 days ago)
-- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (4 days ago)
-- [tihomir-stefanov](https://github.com/tihomir-stefanov) (4 days ago)
+- [Tugzrida](https://github.com/Tugzrida) (3 days ago)
+- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (5 days ago)
+- [tihomir-stefanov](https://github.com/tihomir-stefanov) (5 days ago)
