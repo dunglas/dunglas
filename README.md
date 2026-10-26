@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (today)
 - [google/oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software. (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
 
 ## 🌱 Latest personal projects
 
