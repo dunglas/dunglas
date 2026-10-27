@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action): A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (today)
-- [google/oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software. (1 day ago)
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (1 day ago)
 
 ## 🌱 Latest personal projects
 
