@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action): A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (1 day ago)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (2 days ago)
+- [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action): A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (2 days ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (3 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (3 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [Tugzrida](https://github.com/Tugzrida) (5 days ago)
+- [Tugzrida](https://github.com/Tugzrida) (6 days ago)
 - [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (1 week ago)
 - [tihomir-stefanov](https://github.com/tihomir-stefanov) (1 week ago)
