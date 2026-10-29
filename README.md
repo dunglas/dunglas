@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action): A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (2 days ago)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (3 days ago)
 
 ## 🌱 Latest personal projects
 
