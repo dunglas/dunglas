@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (2 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -33,9 +33,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 📜 Recent [blog posts](https://dunglas.dev)
 
 - [Mercure 1.0 alpha is here](https://dunglas.dev/2026/08/mercure-1-0-alpha/) (2 months ago)
-- [Mercure 0.23.5: Helm chart hardening](https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/) (5 months ago)
+- [Mercure 0.23.5: Helm chart hardening](https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/) (6 months ago)
 - [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (7 months ago)
-- [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (7 months ago)
+- [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (8 months ago)
 - [Merry Christmas! FrankenPHP 1.11: Hot Reload, Structured Logging, and More Speed](https://dunglas.dev/2025/12/merry-christmas-frankenphp-1-11-hot-reload-structured-logging-and-more-speed/) (10 months ago)
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
