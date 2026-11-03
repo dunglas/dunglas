@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [php/php-src](https://github.com/php/php-src): The PHP Interpreter (today)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle): The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
+- [php/php-src](https://github.com/php/php-src): The PHP Interpreter (1 day ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle): The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (1 day ago)
 
 ## 🌱 Latest personal projects
 
