@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
+- [symfony/mercure](https://github.com/symfony/mercure): The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
-- [php/php-src](https://github.com/php/php-src): The PHP Interpreter (1 day ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle): The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
 
 ## 🌱 Latest personal projects
 
