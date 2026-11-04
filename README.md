@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
-- [symfony/mercure](https://github.com/symfony/mercure): The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [symfony/mercure](https://github.com/symfony/mercure): The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
 
 ## 🌱 Latest personal projects
 
@@ -41,5 +41,5 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
 - [Tugzrida](https://github.com/Tugzrida) (1 week ago)
-- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (1 week ago)
-- [tihomir-stefanov](https://github.com/tihomir-stefanov) (1 week ago)
+- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (2 weeks ago)
+- [tihomir-stefanov](https://github.com/tihomir-stefanov) (2 weeks ago)
