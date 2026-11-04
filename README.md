@@ -20,8 +20,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
+- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
 - [dunglas/vulcain](https://github.com/dunglas/vulcain): 🔨 Fast and idiomatic client-driven REST APIs. (today)
 
 ## 🌱 Latest personal projects
