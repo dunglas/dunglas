@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [dunglas/vulcain](https://github.com/dunglas/vulcain): 🔨 Fast and idiomatic client-driven REST APIs. (1 day ago)
 
 ## 🌱 Latest personal projects
 
