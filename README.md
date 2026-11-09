@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (3 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (2 days ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (4 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -32,7 +32,7 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 📜 Recent [blog posts](https://dunglas.dev)
 
-- [Mercure 1.0 alpha is here](https://dunglas.dev/2026/08/mercure-1-0-alpha/) (2 months ago)
+- [Mercure 1.0 alpha is here](https://dunglas.dev/2026/08/mercure-1-0-alpha/) (3 months ago)
 - [Mercure 0.23.5: Helm chart hardening](https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/) (6 months ago)
 - [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (7 months ago)
 - [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (8 months ago)
