@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (2 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (2 days ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -41,5 +41,5 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
 - [Tugzrida](https://github.com/Tugzrida) (2 weeks ago)
-- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (2 weeks ago)
-- [tihomir-stefanov](https://github.com/tihomir-stefanov) (2 weeks ago)
+- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (3 weeks ago)
+- [tihomir-stefanov](https://github.com/tihomir-stefanov) (3 weeks ago)
