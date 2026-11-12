@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
+- [pimcore/pimcore](https://github.com/pimcore/pimcore): Core Framework for the Open Core Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce) (today)
+- [pimcore/platform-version](https://github.com/pimcore/platform-version): Collection of specific versions of different Pimcore extensions which work together​ (today)
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (3 days ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 days ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
 
 ## 🌱 Latest personal projects
 
