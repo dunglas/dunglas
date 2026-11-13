@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [pimcore/platform-version](https://github.com/pimcore/platform-version): Collection of specific versions of different Pimcore extensions which work together​ (today)
-- [pimcore/pimcore](https://github.com/pimcore/pimcore): Core Framework for the Open Core Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce) (today)
-- [php/php-src](https://github.com/php/php-src): The PHP Interpreter (2 days ago)
+- [pimcore/platform-version](https://github.com/pimcore/platform-version): Collection of specific versions of different Pimcore extensions which work together​ (1 day ago)
+- [pimcore/pimcore](https://github.com/pimcore/pimcore): Core Framework for the Open Core Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce) (1 day ago)
+- [php/php-src](https://github.com/php/php-src): The PHP Interpreter (3 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [Tugzrida](https://github.com/Tugzrida) (2 weeks ago)
+- [Tugzrida](https://github.com/Tugzrida) (3 weeks ago)
 - [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (3 weeks ago)
 - [tihomir-stefanov](https://github.com/tihomir-stefanov) (3 weeks ago)
