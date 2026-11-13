@@ -20,15 +20,15 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
+- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (today)
 - [pimcore/pimcore](https://github.com/pimcore/pimcore): Core Framework for the Open Core Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce) (1 day ago)
 - [pimcore/platform-version](https://github.com/pimcore/platform-version): Collection of specific versions of different Pimcore extensions which work together​ (1 day ago)
-- [php/php-src](https://github.com/php/php-src): The PHP Interpreter (3 days ago)
 
 ## 🌱 Latest personal projects
 
+- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd
 - [dunglas/demo-mercure-keycloak](https://github.com/dunglas/demo-mercure-keycloak): Mercure 1.0 &#43; Keycloak demo: RFC 9396 authorization_details tokens, all in Docker
 - [dunglas/keycloak-rar](https://github.com/dunglas/keycloak-rar): RFC 9396 Rich Authorization Requests for Keycloak, with a Mercure profile
-- [dunglas/mercure-stream-delegation](https://github.com/dunglas/mercure-stream-delegation): Caddy stream delegation to Mercure hubs
 
 ## 📜 Recent [blog posts](https://dunglas.dev)
 
