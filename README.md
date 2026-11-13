@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (today)
 - [pimcore/studio-backend-bundle](https://github.com/pimcore/studio-backend-bundle): Studio Backend bundle (today)
-- [pimcore/platform-version](https://github.com/pimcore/platform-version): Collection of specific versions of different Pimcore extensions which work together​ (1 day ago)
+- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (today)
+- [redis/go-redis](https://github.com/redis/go-redis): Redis Go client (today)
 
 ## 🌱 Latest personal projects
 
