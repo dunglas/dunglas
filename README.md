@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [redis/go-redis](https://github.com/redis/go-redis): Redis Go client (2 days ago)
-- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (2 days ago)
+- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (today)
 - [pimcore/studio-backend-bundle](https://github.com/pimcore/studio-backend-bundle): Studio Backend bundle (2 days ago)
+- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (2 days ago)
 
 ## 🌱 Latest personal projects
 
