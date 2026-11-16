@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (1 day ago)
-- [pimcore/studio-backend-bundle](https://github.com/pimcore/studio-backend-bundle): Studio Backend bundle (3 days ago)
 - [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (3 days ago)
+- [pimcore/studio-backend-bundle](https://github.com/pimcore/studio-backend-bundle): Studio Backend bundle (3 days ago)
 
 ## 🌱 Latest personal projects
 
