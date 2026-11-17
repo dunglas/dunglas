@@ -22,7 +22,7 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 - [pimcore/skeleton](https://github.com/pimcore/skeleton): The Pimcore Skeleton - The right package to get your Pimcore project started from the ground up! 💪 (1 day ago)
 - [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (2 days ago)
-- [pimcore/studio-backend-bundle](https://github.com/pimcore/studio-backend-bundle): Studio Backend bundle (4 days ago)
+- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (4 days ago)
 
 ## 🌱 Latest personal projects
 
