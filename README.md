@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (today)
-- [pimcore/skeleton](https://github.com/pimcore/skeleton): The Pimcore Skeleton - The right package to get your Pimcore project started from the ground up! 💪 (1 day ago)
-- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (4 days ago)
+- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (1 day ago)
+- [pimcore/skeleton](https://github.com/pimcore/skeleton): The Pimcore Skeleton - The right package to get your Pimcore project started from the ground up! 💪 (2 days ago)
+- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (5 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -41,5 +41,5 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
 - [Tugzrida](https://github.com/Tugzrida) (3 weeks ago)
-- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (3 weeks ago)
-- [tihomir-stefanov](https://github.com/tihomir-stefanov) (3 weeks ago)
+- [roelofjan-elsinga](https://github.com/roelofjan-elsinga) (4 weeks ago)
+- [tihomir-stefanov](https://github.com/tihomir-stefanov) (4 weeks ago)
