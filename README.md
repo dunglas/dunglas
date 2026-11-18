@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [onestlatech/masque](https://github.com/onestlatech/masque): Hide faces in photos and videos of demonstrations, entirely in your browser. Files never leave your device. (1 day ago)
-- [pimcore/skeleton](https://github.com/pimcore/skeleton): The Pimcore Skeleton - The right package to get your Pimcore project started from the ground up! 💪 (2 days ago)
-- [dunglas/caddy-tus](https://github.com/dunglas/caddy-tus): Experimental: resumable uploads (tus, IETF draft) for Caddy and FrankenPHP, powered by tusd (5 days ago)
+- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern): A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (today)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
+- [jfcoz/helm-chart-of-the-death](https://github.com/jfcoz/helm-chart-of-the-death): One chart to rule them all ! (today)
 
 ## 🌱 Latest personal projects
 
