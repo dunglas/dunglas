@@ -22,7 +22,7 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
 - [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (today)
-- [pimcore/skeleton](https://github.com/pimcore/skeleton): The Pimcore Skeleton - The right package to get your Pimcore project started from the ground up! 💪 (1 day ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (today)
 
 ## 🌱 Latest personal projects
 
