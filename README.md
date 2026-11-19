@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (today)
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
-- [jfcoz/helm-chart-of-the-death](https://github.com/jfcoz/helm-chart-of-the-death): One chart to rule them all ! (1 day ago)
+- [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (today)
+- [pimcore/skeleton](https://github.com/pimcore/skeleton): The Pimcore Skeleton - The right package to get your Pimcore project started from the ground up! 💪 (1 day ago)
 
 ## 🌱 Latest personal projects
 
