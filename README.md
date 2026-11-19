@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
+- [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (today)
 - [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern): A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (1 day ago)
-- [jfcoz/helm-chart-of-the-death](https://github.com/jfcoz/helm-chart-of-the-death): One chart to rule them all ! (1 day ago)
 
 ## 🌱 Latest personal projects
 
