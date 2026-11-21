@@ -20,7 +20,7 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
 - [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
 - [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (2 days ago)
 
