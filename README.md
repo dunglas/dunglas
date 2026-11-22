@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (today)
-- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (2 days ago)
-- [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (2 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (1 day ago)
+- [dunglas/homebrew-frankenphp](https://github.com/dunglas/homebrew-frankenphp): 🍺🧟 Homebrew tap for FrankenPHP (3 days ago)
+- [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (3 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [Iandenh](https://github.com/Iandenh) (today)
-- [Tugzrida](https://github.com/Tugzrida) (4 weeks ago)
+- [Iandenh](https://github.com/Iandenh) (1 day ago)
+- [Tugzrida](https://github.com/Tugzrida) (1 month ago)
 - [tihomir-stefanov](https://github.com/tihomir-stefanov) (1 month ago)
