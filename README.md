@@ -22,7 +22,7 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google&#39;s data interchange format (1 day ago)
 - [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (3 days ago)
-- [coopTilleuls/ingress-nginx-images](https://github.com/coopTilleuls/ingress-nginx-images): Multi-arch images of the chainguard-forks/ingress-nginx controller (5 days ago)
+- [kjdev/php-ext-lz4](https://github.com/kjdev/php-ext-lz4): LZ4 Extension for PHP (4 days ago)
 
 ## 🌱 Latest personal projects
 
