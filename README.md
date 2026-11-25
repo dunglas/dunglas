@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google&#39;s data interchange format (1 day ago)
-- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (3 days ago)
-- [kjdev/php-ext-lz4](https://github.com/kjdev/php-ext-lz4): LZ4 Extension for PHP (4 days ago)
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google&#39;s data interchange format (2 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp): 🧟 The modern PHP app server (4 days ago)
+- [kjdev/php-ext-lz4](https://github.com/kjdev/php-ext-lz4): LZ4 Extension for PHP (5 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -40,6 +40,6 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [Iandenh](https://github.com/Iandenh) (3 days ago)
+- [Iandenh](https://github.com/Iandenh) (4 days ago)
 - [Tugzrida](https://github.com/Tugzrida) (1 month ago)
 - [tihomir-stefanov](https://github.com/tihomir-stefanov) (1 month ago)
