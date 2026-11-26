@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [pimcore/studio-backend-bundle](https://github.com/pimcore/studio-backend-bundle): Studio Backend bundle (today)
-- [pimcore/studio-ui-bundle](https://github.com/pimcore/studio-ui-bundle): Studio UI bundle (today)
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google&#39;s data interchange format (2 days ago)
+- [pimcore/studio-backend-bundle](https://github.com/pimcore/studio-backend-bundle): Studio Backend bundle (1 day ago)
+- [pimcore/studio-ui-bundle](https://github.com/pimcore/studio-ui-bundle): Studio UI bundle (1 day ago)
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google&#39;s data interchange format (3 days ago)
 
 ## 🌱 Latest personal projects
 
@@ -34,12 +34,12 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 - [Mercure 1.0 alpha is here](https://dunglas.dev/2026/08/mercure-1-0-alpha/) (3 months ago)
 - [Mercure 0.23.5: Helm chart hardening](https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/) (6 months ago)
-- [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (7 months ago)
+- [Coding at the Speed of Thought: The New Era of Symfony Docker](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/) (8 months ago)
 - [Windows Support for FrankenPHP: It’s Finally Alive!](https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/) (8 months ago)
 - [Merry Christmas! FrankenPHP 1.11: Hot Reload, Structured Logging, and More Speed](https://dunglas.dev/2025/12/merry-christmas-frankenphp-1-11-hot-reload-structured-logging-and-more-speed/) (11 months ago)
 
 ## ❤️ [Sponsors](https://github.com/sponsors/dunglas)
 
-- [Iandenh](https://github.com/Iandenh) (4 days ago)
+- [Iandenh](https://github.com/Iandenh) (5 days ago)
 - [Tugzrida](https://github.com/Tugzrida) (1 month ago)
 - [tihomir-stefanov](https://github.com/tihomir-stefanov) (1 month ago)
