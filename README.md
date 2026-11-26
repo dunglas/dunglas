@@ -20,9 +20,9 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [api-platform/core](https://github.com/api-platform/core): The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [coopTilleuls/opentofu-scaleway-modules](https://github.com/coopTilleuls/opentofu-scaleway-modules) (today)
-- [pimcore/studio-ui-bundle](https://github.com/pimcore/studio-ui-bundle): Studio UI bundle (1 day ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld): [READ ONLY] API Platform JSON-LD component (today)
+- [api-platform/serializer](https://github.com/api-platform/serializer): [READ ONLY] API Platform Serializer component (today)
 
 ## 🌱 Latest personal projects
 
