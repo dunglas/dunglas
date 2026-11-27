@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [api-platform/core](https://github.com/api-platform/core): The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/serializer](https://github.com/api-platform/serializer): [READ ONLY] API Platform Serializer component (1 day ago)
-- [coopTilleuls/opentofu-scaleway-modules](https://github.com/coopTilleuls/opentofu-scaleway-modules) (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel): [READ ONLY] API Platform for Laravel (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony): [READ ONLY] API Platform for Symfony (today)
 
 ## 🌱 Latest personal projects
 
