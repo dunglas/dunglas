@@ -20,8 +20,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 
 ## 👷 Currently working on
 
-- [api-platform/core](https://github.com/api-platform/core): The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [coopTilleuls/opentofu-scaleway-modules](https://github.com/coopTilleuls/opentofu-scaleway-modules) (1 day ago)
+- [symfony/recipes](https://github.com/symfony/recipes): Symfony Recipes Repository (1 day ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld): [READ ONLY] API Platform JSON-LD component (1 day ago)
 
 ## 🌱 Latest personal projects
