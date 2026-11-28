@@ -21,8 +21,8 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [dunglas/mercure](https://github.com/dunglas/mercure): 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick): ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200&#43; formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms. (today)
 - [dunglas/frankenphp-hot-reload](https://github.com/dunglas/frankenphp-hot-reload): Hot reloading for PHP applications using FrankenPHP (today)
-- [dunglas/go-urlpattern](https://github.com/dunglas/go-urlpattern): A spec-compliant implementation of the WHATWG URL Pattern Living Standard written in Go. (today)
 
 ## 🌱 Latest personal projects
 
