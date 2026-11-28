@@ -21,7 +21,7 @@ I write Go, C, PHP and JavaScript, mostly on web servers, real-time protocols, A
 ## 👷 Currently working on
 
 - [dunglas/frankenphp-hot-reload](https://github.com/dunglas/frankenphp-hot-reload): Hot reloading for PHP applications using FrankenPHP (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel): [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony): [READ ONLY] API Platform for Symfony (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core): The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 
 ## 🌱 Latest personal projects
